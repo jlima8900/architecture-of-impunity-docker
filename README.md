@@ -22,7 +22,8 @@ This is an **independent academic research project** with:
 If you choose to host, redistribute, or republish this content:
 - **You assume full legal responsibility** for your publication decisions
 - You must independently verify information before republication
-- The original author(s) bear no responsibility for third-party use
+
+**The original author(s) bear no responsibility for third-party use or for the content presented. For any issues, refer to the original sources.**
 
 **See [LEGAL.md](./LEGAL.md) for complete terms.**
 
