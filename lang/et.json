@@ -1,0 +1,3252 @@
+{
+  "nav": {
+    "logo": "Karistamatuse Arhitektuur",
+    "thesis": "Tees",
+    "cases": "Juhtumid",
+    "loopholes": "Õiguslikud Lüngad",
+    "blocking": "Blokeerimismuster",
+    "euRewards": "EL Preemiad",
+    "solution": "Lahendus",
+    "eliteLaws": "Eliidi Seadused",
+    "euLabor": "EL Töö",
+    "brand": "Karistamatuse Arhitektuur",
+    "odds": "Koefitsiendid",
+    "database": "Andmebaas",
+    "sources": "Allikad",
+    "timeline": "Ajatelg",
+    "stats": "Statistika",
+    "dashboard": "Armatuurlaud",
+    "forum": "Foorum",
+    "donate": "Anneta",
+    "sign": "ALLKIRJASTA",
+    "mediaMachine": "Meedia",
+    "goldenParachute": "Pensionid",
+    "home": "Avaleht",
+    "signPetition": "Allkirjasta petitsioon",
+    "convicted": "Süüdimõistetud",
+    "judicial": "Kohtusüsteem",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"NAD EI OLE MEIST ÜLEMAL\"",
+    "title": "KARISTAMATUSE ARHITEKTUUR",
+    "subtitle": "Kuidas Euroopa Poliitiline Süsteem On Loodud Korrumpeerunute Kaitsmiseks",
+    "subtext": "Poliitikud on avalikud TEENIJAD, mitte avalikud ISANDAD. Nad peaksid elama nagu kodanikud, olema auditeeritud nagu kodanikud ja seisma silmitsi õigusemõistmisega nagu kodanikud.",
+    "stat1": "TI Korruptsiooniindeks 2024",
+    "stat2": "Aastad: Juhtumi Kestus",
+    "stat3": "Kodanikud Usuvad et Valitsus On Korrumpeerunud",
+    "scroll": "Keri Alustamiseks",
+    "declaration": "Kodanikujuhitud uurimine poliitilise korruptsiooni kohta Portugalis",
+    "begin": "Alusta uurimist"
+  },
+  "parts": {
+    "one": "Osa I",
+    "two": "Osa II",
+    "three": "Osa III",
+    "four": "Osa IV",
+    "five": "Osa V",
+    "six": "Osa VI",
+    "seven": "Osa VII",
+    "eight": "Osa VIII",
+    "eleven": "XI osa",
+    "twelve": "XII osa",
+    "nine": "IX osa",
+    "ten": "X osa",
+    "thirteen": "XIII osa"
+  },
+  "signature": {
+    "title": "Allkirjastage Euroopa kodanikualgatus",
+    "subtitle": "Euroopa Kodanikualgatus Poliitilise Vastutuse Eest",
+    "firstName": "Eesnimi",
+    "lastName": "Perekonnanimi",
+    "country": "Riik",
+    "idNumber": "Isikukood",
+    "submit": "Allkirjasta",
+    "verify": "Kinnita",
+    "count": "Allkirjad",
+    "goal": "Eesmärk: 1.000.000",
+    "verified": "Kinnitatud EL Infrastruktuuri Poolt",
+    "eci": {
+      "title": "Euroopa kodanikualgatus",
+      "regulation": "Vastavalt EL määrusele 2019/788",
+      "security": "Krüptograafiliselt kontrollitud ja võltsimiskindel"
+    },
+    "euInfrastructure": "ELi infrastruktuuri integreerimine",
+    "selectCountry": "Valige oma riik",
+    "consent": "Kinnitan, et olen EL-i kodanik ja nõustun, et minu andmeid töödeldakse kooskõlas EL-i andmekaitsemäärustega.",
+    "merkleLabel": "Merkle juur:",
+    "merkleCalculating": "Arvutamine...",
+    "merkleNoSigs": "Allkirju veel pole",
+    "formFooter": "Teie allkiri räsitakse krüptograafiliselt ja lisatakse võltsimiskindlasse ahelasse.",
+    "success": "Allkiri salvestatud!",
+    "invalidFormat": "Kehtetu ID-vorming",
+    "integrityVerified": "Keti terviklikkus kinnitatud",
+    "integrityIssues": "Tuvastatud terviklikkuse probleemid",
+    "eciTitle": "Euroopa kodanikualgatus",
+    "eciReg": "Vastavalt EL määrusele 2019/788",
+    "verification": {
+      "title": "Võltsimiskindel kontrollimine",
+      "intro": "See süsteem kasutab allkirja terviklikkuse tagamiseks tööstusharu standardseid krüptotehnikaid:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "SHA-256 räsimine",
+        "text": "Iga allkiri teisendatakse ainulaadseks 256-bitiseks sõrmejäljeks, kasutades SHA-256 algoritmi – sama standardit, mida kasutavad Bitcoini ja TLS/SSL-sertifikaadid. Iga rikkumine muudab räsi täielikult.",
+        "source": "Standard: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Merkle puu",
+        "text": "Merkle puu (räsipuu) on andmestruktuur, mille leiutas krüptograaf Ralph Merkle 1979. aastal. See loob ühe \"juurräsi\", mis kontrollib KÕIKIDE allkirjade terviklikkust – kui mõnda allkirja muudetakse, muutub juur.",
+        "source": "Kasutab: Bitcoin, Git, IPFS, Certificate Transparency"
+      },
+      "audit": {
+        "title": "Kontrolljälg",
+        "text": "Iga toiming (allkiri, kinnitamine, eksport) logitakse ajatemplitega, järgides kontrolljälje standardeid. See tagab kõigi süsteemi toimingute täieliku läbipaistvuse ja vastutuse.",
+        "source": "Vastavus: GDPR artikkel 30"
+      },
+      "euId": {
+        "title": "EU ID valideerimine",
+        "text": "Igal ELi riigil on kindlad ID-vormingud (Portugal: Cartão de Cidadão, Saksamaa: Personalausweis jne). Süsteem kontrollib ID-numbreid riigipõhiste mustrite alusel vastavalt ELi määrusele 2019/788 Euroopa kodanikualgatuse kohta.",
+        "source": "Raamistik: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "ELi infrastruktuuri integreerimine",
+      "text": "See algatus on loodud integreerimiseks ametlike ELi süsteemidega:",
+      "eciPortal": "Ametlik ECI portaal – lõplikuks esitamiseks",
+      "eidas": "eIDAS – Elektroonilise identifitseerimise standardid",
+      "gdpr": "GDPR-iga ühilduv – andmekaitse tagatud"
+    }
+  },
+  "common": {
+    "source": "Allikas",
+    "readMore": "Loe Rohkem",
+    "evidence": "Tõendid",
+    "convicted": "Süüdimõistetud",
+    "ongoing": "Käimas",
+    "archived": "Arhiveeritud",
+    "keyInsight": "PÕHISELGITUS",
+    "declined": "Uurimine lükati tagasi",
+    "views": "vaated",
+    "likes": "meeldib",
+    "share": "jagada",
+    "close": "Sule"
+  },
+  "mediaMachine": {
+    "part": "XI osa",
+    "title": "Neljas kinnistu vallutatud",
+    "subtitle": "Kuidas Portugali meedia teenib tõe asemel võimu",
+    "intro": "Meedia, mis peaks korruptsiooni paljastama, kuulub samale süsteemile, mida ta peaks uurima.",
+    "ownership": {
+      "title": "Kes juhib uudiseid",
+      "subtitle": "5 rühma kontrollivad seda, mida 10 miljonit inimest näevad ja loevad",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "Endine peaminister (PSD, 1981–1983)",
+        "note": "Endine valitsusjuht juhib suurt televõrku"
+      },
+      "rtp": {
+        "name": "RTP (avalik TV)",
+        "owner": "Portugali riik",
+        "connection": "Parlamendi määratud juhatus",
+        "note": "Valitsus kontrollib ametisse nimetamist ja eelarvet"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "Aktsionäride hulgas on ka riigipangad",
+        "note": "Rahaline sõltuvus riigiasutustest"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Sonae grupp",
+        "connection": "Jaekaubandusimpeerium sõltub valitsuse lepingutest",
+        "note": "Hõlmab eeskirju, mis mõjutavad omaniku kasumit"
+      },
+      "globalMedia": {
+        "connection": "Ostsid 2020. aastal Angola/Macao sidemetega investorid. Kevin Ho taustal on seoseid kasiino- ja ehitussektoriga. Grupp kontrollib 4 suuremat ajalehte + Portugali 2. enimkuulatav raadiojaam.",
+        "name": "Ülemaailmne meediagrupp",
+        "note": "Juhib DN, JN, TSF, O Jogo – suur ajakirjanduse mõju",
+        "owner": "Erainvestorid (Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "Pöörduks",
+      "subtitle": "Poliitikutest saavad kommentaatorid, kommentaatorid kaitsevad poliitikuid",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Markii Mendes",
+        "path": "Endine PSD juht → SIC poliitikakommentaator. Nüüd riiginõukogu liige. Ei tuvasta kunagi eetris huvide konflikte.",
+        "role": "SIC poliitiline kommentaator",
+        "background": "Endine PSD juht (2005–2007)",
+        "scandal": "Valitsusest sõltuvate ettevõtete konsultatsioonitasud 700 000+ €",
+        "coverage": "SIC andis oma kommentaatori skandaalile minimaalse kajastuse",
+        "outcome": "PGR keeldus uurimisest – 19. detsember 2025"
+      }
+    },
+    "techniques": {
+      "title": "\"Juhtivad\" ajakirjandustehnikad",
+      "subtitle": "Kuidas meedia kujundab taju nagu advokaat, juhib tunnistaja",
+      "framing": {
+        "title": "Pealkirja raamimine",
+        "description": "Samad teod, erinevad sõnad poliitilisel joondumisel",
+        "example1": "PS-skandaal: \"Kriminaalskeemid\", \"korruptsioonivõrgustik\"",
+        "example2": "PSD skandaal: vastuolulised lepingud, eeskirjade eiramised"
+      },
+      "timing": {
+        "title": "Ajastuse manipuleerimine",
+        "description": "Halvad uudised liitlastele avaldati reedeti ja pühade ajal",
+        "example": "Detsember 2025: kolm juhtumiarhiivi koondati enne jõule"
+      },
+      "omission": {
+        "title": "Strateegiline tegematajätmine",
+        "description": "See, mida nad ei teata, on sama oluline kui see, mida nad teevad",
+        "example": "18-aastane reformide blokeerimise muster pole kunagi sünteesitud"
+      },
+      "balance": {
+        "title": "Vale tasakaal",
+        "description": "Dokumentaalseid tõendeid vs eitamist käsitletakse võrdselt kehtivatena",
+        "example": "Faktide ja poliitilise spinni käsitlemine samaväärsete seisukohtadena"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Riigi reklaam: The Financial Leash",
+      "total": "6,45 miljonit eurot",
+      "hidden": "3,7 miljonit eurot",
+      "hiddenNote": "saajad EI OLE avalikustatud",
+      "mechanism": "Meedia finantskriisis → Sõltub riigireklaamidest → Pehmendab kriitilist kajastust → Korruptsioon on vähem kontrollitud",
+      "increase": "+1,29 miljonit eurot kasv (2024)"
+    },
+    "precarity": {
+      "title": "Ajakirjanike ebakindlus = enesetsensuur",
+      "noContract": "33,4%",
+      "noContractLabel": "töötada ilma ametlike lepinguteta",
+      "pressure": "23,8%",
+      "pressureLabel": "teatage laudade survest",
+      "belief": "90%",
+      "beliefLabel": "usun, et karjäär muutub ebakindlamaks",
+      "strike": "Märts 2024: esimene ajakirjanike streik enam kui 40 aasta jooksul"
+    },
+    "comparison": {
+      "title": "Portugal vs funktsionaalsed demokraatiad",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "Neljandat valdust haaravad esimene ja teine ​​vald. Karistamatuse arhitektuur hõlmab meediat, mis peaks selle paljastama.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Riigimeedia turuosa",
+      "risk": "KÕRGE",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Dokumenteeritud diferentsiaalkatvus",
+      "case1": {
+        "title": "Montenegro vs Sócrates",
+        "montenegro": "Montenegro (PSD): Spinumviva skandaal, 410 000 €+, samas kui parlamendisaadik – lühike kajastus, piiratud järelmeetmed",
+        "socrates": "Sócrates (PS): ulatuslik, püsiv katvus kuude jooksul",
+        "pattern": "Sama tüüpi (rahaline ebakorrapärasus), väga erineva intensiivsusega"
+      },
+      "case2": {
+        "title": "Marques Mendes (detsember 2025)",
+        "revealed": "Selgus: 700 000 €+ nõustamistasud SIC-i kommentaatorina",
+        "coverage": "SIC leviala: Minimaalne - oma müügipunkti alahinnatud skandaal",
+        "pattern": "Klassikaline omanikuefekt – kaitske oma"
+      },
+      "case3": {
+        "title": "Näo Oculta summutus",
+        "attempt": "Katse: surve piirata levi, viivitada avaldamisega",
+        "result": "Tulemus: lõpuks paljastatud, kuid märkimisväärsete viivitustega",
+        "pattern": "Näitab süsteemset survet ajakirjanikele"
+      }
+    },
+    "framingPatterns": {
+      "title": "Kuidas raamimine parteiti erineb",
+      "aspect": "Aspekt",
+      "psScandal": "PS skandaali katvus",
+      "psdScandal": "PSD skandaali katvus",
+      "language": "Kasutatud keel",
+      "psLanguage": "\"Kriminaalskeemid\", \"Korruptsioonivõrgustik\"",
+      "psdLanguage": "\"Vastuolulised lepingud\", \"Eeskirjade rikkumised\"",
+      "duration": "Katvuse kestus",
+      "psDuration": "Nädalad/kuud, pidev jälgimine",
+      "psdDuration": "Päevad, lühidalt mainimine, järelmeetmete puudumine",
+      "placement": "Pealkirja paigutus",
+      "psPlacement": "Esileht, parimal ajal",
+      "psdPlacement": "Lehtede sees, tipptasemel",
+      "accountability": "Vastutuse raamistik",
+      "psAccountability": "Nimetatud isikud, erakondlik vastutus",
+      "psdAccountability": "\"Mõlemad pooled\", süsteemsed probleemid",
+      "note": "Allikas: akadeemilised uuringud, mis analüüsivad Portugali valimiste kajastamist 2015-2022"
+    },
+    "newsDeserts": {
+      "title": "Uudised Kõrbed: kus korruptsioonist ei teatata",
+      "municipalities": "308 omavalitsusest on uudiskõrbed",
+      "percentage": "Portugali kohta puuduvad kohalikud uudised",
+      "atRisk": "ohustatud omavalitsused (ainult 1 müügikoht)",
+      "impact": "Kus pole ajakirjandust, pole ka vastutust. Kohalik korruptsioon õitseb uudiskõrbete varjus."
+    },
+    "pressFreedom": {
+      "title": "Pressivabadus langeb",
+      "ranking": "Portugal langes meediapluralismi monitooringus <strong class=\"text-good\">7.</strong>kohalt <strong class=\"text-bad\">13.</strong> kohale (2024→2025)",
+      "trust": "• Usaldus uudiste vastu: 54% (2015. aasta 66%lt)",
+      "concentration": "• Meedia kontsentratsiooni risk: 79%",
+      "independence": "• Toimetuse sõltumatus suures ohus",
+      "pattern": "MUSTER:",
+      "explanation": "Meedia omandi koondudes suureneb ajakirjanike ebakindlus ja riiklikust reklaamist saab päästeraha – kriitiline ajakirjandus muutub struktuurselt võimatuks."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "XII osa",
+    "title": "Kuldne langevari",
+    "subtitle": "Korruptsioonis süüdi mõistetud? Hoidke oma pensioni igavesti",
+    "intro": "Portugalis hoiavad miljonite varastamises süüdi mõistetud poliitikud oma maksumaksja rahastatavat pensioni. Pole seadust, mis neid peataks.",
+    "question": "Mis juhtub, kui Portugali poliitik mõistetakse korruptsioonis süüdi?",
+    "answer": "NENDELE KÕIK HOIATUD.",
+    "cases": {
+      "title": "Dokumenteeritud juhtumid",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "José Sócrates",
+        "crime": "34 miljonit eurot korruptsioonisüüdistusi",
+        "sentence": "Prooviperiood kestab 11+ aastat",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "Endine peaminister (2005-2011)",
+        "status": "PROOVISEL",
+        "description": "Süüdistatakse korruptsioonis, rahapesus, dokumendi võltsimises. Peale 10+ aastat saab endiselt pensioni. Juhtum on pooleli alates 2014. aastast."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Endine PS-i aseminister, CGD administraator"
+      },
+      "pinho": {
+        "name": "Manuel Pinho",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Süüdi mõistetud: passiivne korruptsioon, rahapesu (10 aastat)",
+        "note": "Sai EDP-lt altkäemaksu 4,5 miljonit eurot",
+        "houseArrest": "🏠 Kodus teenimine: Vaatamata 10-aastasele karistusele, teenib alates 2021. aastast oma elukohas"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Süüdi mõistetud: maksupettus, rahapesu",
+        "note": "Kannatas karistuse, seejärel VALITI ÜMBER Oeirase linnapeaks"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Täielik kasu pärast ÜHE ametiaega",
+      "pmBenefits": "Auto, juht, personal, turvalisus kogu eluks",
+      "ministerBenefits": "Helde pension sõltumata teenistusajast"
+    },
+    "noLaw": {
+      "title": "Seadus: Pole olemas",
+      "text": "Portugalis EI ole seadust, mis nõuaks pärast kriminaalkorras süüdimõistmist pensioni konfiskeerimist.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Portugali pensioni asendusmäär",
+        "euAverage": "71%",
+        "euAverageLabel": "EL keskmine",
+        "productivity": "73%",
+        "productivityLabel": "Portugali tootlikkus vs EL"
+      },
+      "translation": "Kõige heldemad pensionid + nõrgim vastutus + madalaim tootlikkus = süsteem, mis on loodud ebaõnnestumise premeerimiseks.",
+      "country": "Riik",
+      "rule": "Konfiskeerimise reegel",
+      "applies": "Kehtib"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "ÜLEMAAILISELT MITTEKAHJULIK",
+      "recommendations": "28",
+      "partial": "18 osaliselt rakendatud",
+      "notImplemented": "10 EI rakendatud",
+      "lobbying": "Lobitöö: REGULEERITUD",
+      "assets": "Varadeklaratsioonid: NÕRK JÕUSTAMINE",
+      "verdict": "Euroopa Nõukogu korruptsioonivastane organ on korduvalt märkinud Portugali suutmatust rakendada sisulisi sanktsioone korrumpeerunud ametnike suhtes. Pensionikaitsesüsteem õõnestab heidutusvõimet ja annab märku, et poliitilisel kuritegevusel pole püsivaid tagajärgi."
+    },
+    "referendum": {
+      "title": "Kavandatud rahvahääletuse küsimused",
+      "q7": {
+        "number": "7. küsimus",
+        "text": "Kas korruptsioonikuritegudes süüdi mõistetud poliitikud peaksid automaatselt kaotama oma maksumaksja rahastatava pensioni?"
+      },
+      "q8": {
+        "number": "8. küsimus",
+        "text": "Kas meediaväljaannetelt tuleks nõuda omanike ja suuraktsionäride poliitiliste sidemete avalikustamist?"
+      }
+    },
+    "conclusion": "Karistamatuse arhitektuur ulatub kohtusaalist kaugemale. Isegi harvaesineva veendumuse korral tagab kuldne langevari mugava maandumise. Süsteem ei kaitse poliitikuid ainult õigluse eest – see premeerib neid kogu elu.",
+    "scandal": {
+      "title": "Vastuvõetamatu reaalsus",
+      "description": "Korruptsioonis, pettuses ja võimu kuritarvitamises süüdi mõistetud Portugali poliitikud saavad jätkuvalt maksumaksja rahastatavat pensioni. Automaatset konfiskeerimist EI OLE. Kui tavakodanikud kaotavad väiksemate rikkumiste tõttu töö ja kodu, siis poliitiline klass on loonud süsteemi, kus kuritegevus sõna otseses mõttes maksab."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Prantsusmaal, Hispaanias ja Itaalias on IDENTNE põhiseaduslik kaitse, kuid pensionide konfiskeerimise seadused on edukalt rakendatud. Nende kohtud leidsid, et konfiskeerimine on põhiseaduspärane. Portugali vastupanu on poliitiline valik, mitte õiguslik vajadus.",
+        "title": "Muud EL riigid"
+      },
+      "portugal": {
+        "text": "Konstitutsioonikohus tõlgendab seda nii, et pensionid EI SAA automaatselt ilma jääda. Reformikatsed blokeeriti kaks korda (2012, 2015). Tulemus: süüdimõistetud poliitikud säilitavad täispensionid.",
+        "title": "Portugali tõlgendus"
+      },
+      "quote": "\"Ükski karistus ei tohi kaasa tuua kodaniku-, ametialaste või poliitiliste õiguste kaotamist\"",
+      "source": "— Portugali põhiseaduse artikkel 30",
+      "title": "Põhiseaduslik kilp: CRP artikkel 30"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Põhineb töötasu + tööstaaži aastad. Mõned saavad 80%+ oma lõplikust palgast kogu elu. Kõrgematel positsioonidel võib ületada 20 000 eurot kuus.",
+        "title": "Kuidas seda arvutatakse"
+      },
+      "contrast": "KONTRAST: kuritegudes süüdi mõistetud töötajad kaotavad töö, pensioni ja futuurid. Palju hullemate kuritegude eest süüdi mõistetud poliitikud jätavad oma 10 000–26 000 eurot kuus endale eluks ajaks.",
+      "created": {
+        "text": "Seadusega 4/85 loodi eluaegsed toetused peaministrile, ministritele, parlamendiliikmetele ja kohtunikele. Algselt mõeldud \"avalike teenuste\" premeerimiseks.",
+        "title": "Loodud 1984. aastal"
+      },
+      "description": "Portugalis on ainulaadne \"Subvenção Vitalícia\" (eluaegne toetus) süsteem, mis annab endistele poliitikutele igakuise alalise makse kogu eluks – eraldi ja lisaks tavapensionile. See ei ole sissemaksete kaudu teenitud pension; see on seadusega antud privileeg.",
+      "protected": {
+        "text": "Isegi kui mõistetakse süüdi ametis toimepandud kuritegudes, jätkub toetus. Arestimine nõuab eraldi tsiviilkohtumenetlust ja sageli ebaõnnestub apellatsiooni esitamisel.",
+        "title": "Seaduslikult kaitstud"
+      },
+      "title": "Subvenção Vitalícia süsteem"
+    }
+  },
+  "meta": {
+    "title": "Karistamatuse arhitektuur – Portugali poliitiline kaitsesüsteem",
+    "description": "Kuidas on Portugali poliitiline süsteem loodud korruptantide kaitsmiseks"
+  },
+  "accessibility": {
+    "skipToContent": "Mine põhisisu juurde",
+    "toggleNav": "Navigeerimismenüü sisse- ja väljalülitamine",
+    "changeLang": "Muuda keelt",
+    "mainNav": "Peamine navigeerimine",
+    "infoIcon": "Teave",
+    "closeBanner": "Sule teatebänner"
+  },
+  "legal": {
+    "title": "Õiguslik teade:",
+    "text": "Kõigil nimetatud isikutel on õigus süütuse presumptsioonile, kuni nende süü pole tõestatud. See dokument sisaldab avalikult kättesaadavat teavet ametlikest allikatest, kohtudokumentidest ja mainekast meediast. Analüüs dokumenteerib Euroopa poliitiliste ja õigussüsteemide mustreid."
+  },
+  "thesis": {
+    "title": "Pavlovlik Poliitiline Klass",
+    "intro": "Portugali poliitiline süsteem toimib klassikalistel tingimispõhimõtetel",
+    "cycle": {
+      "title": "Tingimustamise Tsükkel",
+      "formula": "STIIMUL → REAKTSIOON → TASU → KORDA",
+      "entry": {
+        "title": "SISENEMINE",
+        "trigger": "Liitu parteiga, näita lojaalsust",
+        "reward": "→ Koht valimsnimekirjas"
+      },
+      "service": {
+        "title": "TEENISTUS",
+        "trigger": "Hääleta nagu käsutakse, kaitse kolleege",
+        "reward": "→ Privileegid (autod, juhid, personal, kulud)"
+      },
+      "scandal": {
+        "title": "SKANDAAL",
+        "trigger": "Uurimine teatatud",
+        "reward": "→ Puutumatus aktiveeritud, kohtu saladus, viivitused algavad"
+      },
+      "rescue": {
+        "title": "PÄÄSTMINE",
+        "trigger": "Ole vait, ära reeda teisi",
+        "reward": "→ Viimasel hetkel seaduse auk päästab sind"
+      },
+      "promotion": {
+        "title": "EDUTAMINE",
+        "trigger": "Tõestatud lojaalsus kriisi ajal",
+        "reward": "→ EL POSITSIOON (lõplik tasu)"
+      }
+    },
+    "keyInsight": {
+      "title": "«Nad Pole Meist Kõrgemal» — Aga Nad Seadsid Ennast Meist Kõrgemale",
+      "point1": "Poliitikud lõid paralleelühiskonna privileegidega, millele kodanikel pole juurdepääsu",
+      "point2": "Süsteem toodab täpselt seda käitumist, mida ta premeerib: sõnakuulelikke poliitikuid, kes kaitsevad üksteist",
+      "point3": "Seestpoolt reform on võimatu: nagu paluda Pavlovi koertel ühendada kell toidust lahti",
+      "parallel": "Poliitikud lõid paralleelühiskonna privileegidega, millele kodanikel pole juurdepääsu",
+      "rewards": "Süsteem toodab täpselt seda käitumist, mida ta premeerib: sõnakuulelikke poliitikuid, kes kaitsevad üksteist",
+      "reform": "Seestpoolt reform on võimatu: nagu paluda Pavlovi koertel ühendada kell toidust lahti"
+    },
+    "selfReinforcing": {
+      "title": "Ennasttugevdav Tsükkel",
+      "intro": "Süsteem on iseennast säilitav. Iga poliitikute põlvkond õpib eelmiselt:",
+      "observe": {
+        "title": "JÄLGI",
+        "text": "Nooremad poliitikud jälgivad, kuidas vanemad skandaalidest üle elavad"
+      },
+      "learn": {
+        "title": "ÕPI",
+        "text": "Nad õpivad reeglid: lojaalsus = kaitse"
+      },
+      "replicate": {
+        "title": "KORDA",
+        "text": "Kui nende kord tuleb, kaitsevad nad teisi oodates sama"
+      },
+      "teach": {
+        "title": "ÕPETA",
+        "text": "Neist saavad vanemad, keda nooremad jälgivad"
+      },
+      "conclusion": "Poliitikutele ei pea otsesõnu ütlema, et nad kolleege kaitseksid. Nad teevad seda automaatselt, teades et süsteem kaitseb neid vastu. Tingimustamine on põlvkondadeülene.",
+      "howLoop": "Kuidas Tsükkel Töötab:",
+      "whyFails": "Miks Sisemine Reform Alati Ebaõnnestub:",
+      "trapTitle": "Lõks:",
+      "trapText": "Süsteem pole katki — see töötab täpselt nii, nagu see kavandati.",
+      "loopSteps": {
+        "step1": {
+          "title": "Noored poliitikud märgivad:",
+          "text": "Kõrgemad tegelased panevad toime kuritegusid → seisavad silmitsi uurimisega → põgenemisega → saavad ametikõrgendust"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "\"Süsteem kaitseb omasid. Kui ma olen lojaalne, olen ka mina kaitstud.\""
+        },
+        "step3": {
+          "title": "Käitumine kohandatud:",
+          "text": "Nad hääletavad lünkade säilitamise, kolleegide kaitsmise, reformi blokeerimise eest"
+        },
+        "step4": {
+          "title": "Ootused kinnistusid:",
+          "text": "Kui nende endi skandaal tuleb, ootavad ja saavad nad samasugust kaitset"
+        },
+        "step5": {
+          "title": "Järgmine põlvkond jälgib:",
+          "text": "Tsükkel kordub tugevdatud ootustega"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Ebaseaduslik rikastumine on blokeeritud:",
+          "text": "Poliitikud ei hääleta oma pääseluugi eemaldamise poolt"
+        },
+        "lobby": {
+          "title": "Fuajee reguleerimine blokeeritud:",
+          "text": "PSD blokeeris selle KAKS KORDA (2019, 2024) – ohustab premeerimissüsteemi"
+        },
+        "immunity": {
+          "title": "Säilitatud puutumatus:",
+          "text": "Parlament ei hääleta puutumatuse tühistamise poolt – neil võib seda vaja minna"
+        },
+        "prescription": {
+          "title": "Retsept muutmata:",
+          "text": "Pikad viivitused teenivad süsteemi, nii et süsteem säilitab neid"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "Eliidi Kaitse Muster",
+      "intro": "Kõrge profiiliga juhtumite analüüs paljastab järjepideva kolmeetapilise mustri:",
+      "investigate": {
+        "title": "UURIMINE",
+        "text": "Meedia paljastab skandaali → Prokurörid teatavad uurimisest → Avalik nördimus on ohjatud"
+      },
+      "delay": {
+        "title": "VIIVITUS",
+        "text": "Aastad menetluslikku keerukust → Kohtu saladus kutsutakse esile → Tõendid vananevad → Tunnistajate mälestused tuhmuvad"
+      },
+      "archiveOrReward": {
+        "title": "ARHIVEERI VÕI PREMEERI",
+        "text": "Juhtum arhiveeritakse 'tõendite puudumise' tõttu VÕI poliitik edutatakse kõrgemale positsioonile, samal ajal kui ta on uurimise all"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "Rootsi kontrast",
+        "source": "Allikas: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Aspekt",
+        "officialCars": "Ametlikud autod",
+        "mpOffices": "MP kontorid",
+        "immunity": "Immuunsus",
+        "salaryRaises": "Palk Tõuseb",
+        "localCouncillors": "Kohalikud volikogu liikmed",
+        "transparency": "Läbipaistvus",
+        "cpiScore": "TI CPI skoor",
+        "swedenValues": {
+          "cars": "Ainult PM-il on auto (turva). Kõik teised: buss/rong",
+          "offices": "7m² kontorid; Parlamendiliikmed juhivad ajakavasid ise",
+          "immunity": "Mitte ühtegi. Kohtus prooviti nagu iga kodanik",
+          "salary": "Otsuse teeb sõltumatu komisjon",
+          "councillors": "Vabatahtlik, palka pole, töö kodus",
+          "transparency": "Kõik maksudeklaratsioonid on avalikud alates 1766. aastast",
+          "cpi": "85/100 (5 parimat) – STABIILNE"
+        },
+        "portugalValues": {
+          "cars": "PM-il on 11 juhti",
+          "offices": "Täispersonal, sekretärid, suured eelarved",
+          "immunity": "Ilma parlamendi hääletuseta ei saa kinni pidada",
+          "salary": "Poliitikud hääletavad enda hüvitise üle",
+          "councillors": "Tasulised ametikohad koos personaliga",
+          "transparency": "Segredo de justiça varjab juhtumeid aastaid",
+          "cpi": "57/100 (43.) – VÄHENEB"
+        },
+        "quote": "Oleme tavalised kodanikud. Parlamendiliikmetele pole mõtet erilisi privileege anda, sest meie ülesanne on esindada kodanikke ja tunda tegelikkust, milles inimesed elavad.",
+        "quoteCite": "— Per-Arne Håkansson, Rootsi parlamendisaadik",
+        "sourceLabel": "Allikas: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "Šveitsi mudel: otsedemokraatia tegevuses",
+        "intro": "Šveits tõestab, et kodanikud saavad siduvate referendumite kaudu oma poliitikuid vahetult kontrollida. Šveitslased hääletavad ligikaudu 4 korda aastas keskmiselt 15 föderaalküsimuse üle.",
+        "popularInitiative": {
+          "title": "Populaarne algatus",
+          "requirement": "100 000 allkirja",
+          "text": "Põhiseaduse muutmise hääletus – kodanikud saavad teha ettepanekuid põhiseaduse muutmiseks"
+        },
+        "optionalReferendum": {
+          "title": "Valikuline rahvahääletus",
+          "requirement": "50 000 allkirja",
+          "text": "Veto ükskõik milline seadus 100 päeva jooksul pärast vastuvõtmist"
+        },
+        "mandatoryReferendum": {
+          "title": "Kohustuslik rahvahääletus",
+          "requirement": "Automaatne",
+          "text": "KÕIK põhiseaduse muudatused PEAVAD minema rahvahääletusele"
+        },
+        "facts": {
+          "nonProfessional": "Mitteprofessionaalsed poliitikud: parlamendisaadikutel pole täielikku riigipalka – oodatakse tavaliste töökohtade säilitamist",
+          "referendums": "Aastatel 1848–2024 toimus 700+ referendumit",
+          "cpi": "TI CPI paremusjärjestus: globaalselt 3. (jagas Rootsi ja Singapuriga)"
+        },
+        "quote": "Rahva sõna on ülim.",
+        "quoteCite": "— Šveitsi demokraatlik põhimõte",
+        "stats": "Šveitsi põhistatistika:"
+      }
+    },
+    "portugalReality": {
+      "title": "Portugali tegelikkus",
+      "drivers": {
+        "number": "11",
+        "label": "Peaminister António Costa autojuhid",
+        "detail": "Igaüks teenib 2121 eurot kuus"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Kabineti liikmed",
+        "detail": "Keskmine: 2794 € | Õpetajad: 1705 € | Miinimumpalk: 820 €"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "TI CPI 2024 punktide langus",
+        "detail": "Skoor: 57/100 | Koht: 43. koht 180 riigist"
+      }
+    },
+    "citizensKnow": "Kodanikud teavad, et süsteem on rikutud:"
+  },
+  "cases": {
+    "title": "Tõendid: Täielikud toimikud",
+    "intro": "Dokumenteeritud juhtumid, mis näitavad kaitsesüsteemi toimimist",
+    "timelineLabel": "Ajaskaala",
+    "status": {
+      "ongoing": "Kohtuprotsess kestab",
+      "trialOngoing": "Kohtuprotsess kestab",
+      "euCouncilPresident": "EL nõukogu eesistuja",
+      "euPromoted": "EL nõukogu eesistuja",
+      "archived": "Arhiveeritud",
+      "declined": "Uurimine lükati tagasi",
+      "arguido": "Ametlik kahtlusalune (arguido)",
+      "pgrDeclined": "PGR keeldus uurimisest",
+      "formalSuspect": "Ametlik kahtlusalune (arguido)",
+      "convictedServing": "SÜNNITUD – teenindavad",
+      "convictedAppealing": "SÜNNITUD – pealekaebav",
+      "convictedRearrested": "SÜÜDUNUD (2010) – 2022. aastal uuesti vahistatud",
+      "convictedMultiple": "SÜNNITUD MITMINE",
+      "formalSuspectArguido": "AMETLIK KAHTLUSTAV (arguido)",
+      "arrestedJan2024": "VAHISTATUD (jaanuar 2024)",
+      "neverProsecuted": "EI OLE KUNAGI SÜSJASTAJA",
+      "neverDefendant": "Mitte kunagi kostja",
+      "convictedUnpaid": "SÜNNITUD – võlg tasumata",
+      "convictedMultipleJurisdictions": "SÜNNITUD – Portugal ja Brasiilia",
+      "convictedSuspended": "SÜNNITUD – tingimisi karistus",
+      "convictedHouseArrest": "SÜNNITUD – koduarest"
+    },
+    "tableStatus": {
+      "onTrial": "Kohtuprotsessil",
+      "underInvestigation": "Uurimise all",
+      "convicted": "SÜDUNUD",
+      "convictedX2": "SÜNNITUD x2",
+      "arguido": "Arguido",
+      "archived": "Arhiveeritud",
+      "declined": "Keeldutud",
+      "arrested": "VAHETATUD",
+      "neverProsecuted": "Pole kunagi kohtu alla antud",
+      "neverDefendant": "Pole kunagi süüdistatav*",
+      "convictedSuspended": "SÜÜDUNUD (kahtlustatav)"
+    },
+    "charges": {
+      "passiveCorruption": "Passiivne korruptsioon",
+      "moneyLaundering": "Rahapesu",
+      "documentFalsification": "Dokumendi võltsimine",
+      "taxFraud": "Raskendatud maksupettus"
+    },
+    "conditioningLesson": "Konditsioneerimise õppetund",
+    "theFacts": "Faktid",
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Operação Marquês",
+      "party": "PS – Sotsialistlik Partei",
+      "position": "Peaminister (2005-2011)",
+      "timeline": {
+        "arrested": "Arreteeriti Lissaboni lennujaamas",
+        "detained": "Peeti kinni Évora vanglas",
+        "accusation": "Ametlik süüdistus (28 kuritegu)",
+        "trial": "Kohtu alla saadeti 25 kuritegu",
+        "ongoing": "Prooviversioon IKKA pooleli – 11+ AASTAT",
+        "instruction": "Õpetusotsus – 25 kuritegu saadeti kohtu alla",
+        "current": "Prooviversioon IKKA pooleli – 11+ AASTAT"
+      },
+      "charges": {
+        "title": "Süüdistused (kokku 22 kuritegu)",
+        "corruption": "Poliitilise ametikandja passiivne korruptsioon",
+        "laundering": "Rahapesu",
+        "falsification": "Dokumendi võltsimine",
+        "fraud": "Raskendatud maksupettus"
+      },
+      "amounts": {
+        "switzerland": "Šveits (2006–2009)",
+        "total": "Kokku 3 korporatsioonilt",
+        "prescribed": "Tasud ette nähtud"
+      },
+      "keyFacts": {
+        "title": "Peamised faktid ametlikust süüdistusest",
+        "switzerland": "Kogunenud Šveitsis (2006-2009)",
+        "total": "Kokku väidetavalt saadud kolmelt ettevõttelt",
+        "sources": "Altkäemaksu allikad: Grupo LENA (ehitus), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (golfikuurort), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Konditsioneerimise õppetund",
+        "text": "Juhtumid võivad tähtajatult edasi lükata. Isegi endised peaministrid ei näe kümne aasta jooksul mingeid tagajärgi. Iga apellatsioon lähtestab ajakava."
+      },
+      "coAccused": {
+        "apartment": "Pariisi korter",
+        "description": "Sócratese lähedane sõber ja väidetav \"finantseerija\". Ärimees, kes väidetavalt suunas endisele peaministrile miljoneid kinnisvara ostmise, automaksete ja kodu renoveerimise kaudu. Süüdistus 9 rahapesus.",
+        "expenses": "Elamiskulud",
+        "renovations": "Renoveerimine",
+        "sources": "Allikad: DCIAP süüdistus, Portugali ajakirjanduse teated",
+        "title": "Peamised kaassüüdistatavad: Carlos Santos Silva",
+        "vehicles": "Sõidukid"
+      },
+      "prescription": {
+        "title": "⏱️ Aegumiskriis",
+        "text": "Algsest 189 väidetavast kuriteost 167 on menetluslike viivituste tõttu juba ette kirjutatud (aegunud). 11+ aasta pärast jääb aktiivseks vaid 22 laadimist."
+      }
+    },
+    "costa": {
+      "name": "Antonio Costa",
+      "operation": "Operação mõjutaja",
+      "party": "PS – Sotsialistlik Partei",
+      "position": "Peaminister (2015-2023) → EL-i Nõukogu president (2024-)",
+      "timeline": {
+        "raid": "Politsei haarab São Bento paleesse",
+        "resigns": "Costa astub kohe tagasi",
+        "elected": "EL-i juhid VALIVAD Costa presidendiks",
+        "takesOffice": "Asub ametisse EL Nõukogu eesistujana",
+        "ongoing": "VEEL uurimisel",
+        "resignation": "Costa astub kohe tagasi",
+        "euElection": "EL-i juhid VALIVAD Costa Euroopa Ülemkogu eesistujaks",
+        "current": "VEEL uurimise all, IKKA EL-i eesistuja"
+      },
+      "keyFacts": {
+        "title": "Faktid",
+        "cash": "Raamatute ja veinikastidesse peidetud sularaha leiti personaliülema kabinetist",
+        "relates": "Uurimine on seotud liitiumi kaevandamise, rohelise vesiniku, andmekeskuse projektidega Sinesis",
+        "arrests": "Peamised vahistamised: Vítor Escária (staabiülem – vahistatud), Nuno Mascarenhas (Sinesi linnapea – vahistatud), Diogo Lacerda Machado (ärimees – vahistatud)",
+        "galamba": "Kaasvandeseltslased: João Galamba (infrastruktuuriminister – ametlik arguido) – väidetavalt seotud liitiumi/vesiniku projektide mõjuvõimuga kaubitsemisega; jäi valitsusse kuni Costa tagasiastumiseni"
+      },
+      "lesson": {
+        "title": "Konditsioneerimise õppetund",
+        "text": "Maksimaalne lojaalsus = ELi edutamine. Kriminaaluurimise all olemine ei ole takistuseks ELi kõrgeimatele ametikohtadele. Ülim maiuspala kõige lojaalsemale koerale."
+      },
+      "quote": "27. juunil 2024 valisid ELi juhid António Costa Euroopa Ülemkogu eesistujaks. Ta astus ametisse 1. detsembril 2024.",
+      "quoteCite": "— Euroopa Ülemkogu ametlik veebisait"
+    },
+    "montenegro": {
+      "name": "Luís Montenegro",
+      "operation": "Spinumviva afäär",
+      "party": "PSD – Sotsiaaldemokraatlik Erakond",
+      "position": "Peaminister (2024-praegu)",
+      "amounts": {
+        "family": "410 000+ € perefirma tehingutes",
+        "solverde": "Hasartmängufirma konsultatsioon 4500 €/kuus"
+      },
+      "loopholeTitle": "Lünk, mis ta päästis:",
+      "loophole": {
+        "notFormal": "Ametlikult ei süüdistata – nimetati ainult juhuks",
+        "preliminary": "Eeluurimine (averiguação) lõpetati süüdistusteta",
+        "archived": "Juhtum arhiveeritud 17. detsembril 2025"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "SIC poliitiline kommentaator",
+      "party": "PSD – Sotsiaaldemokraatlik Erakond",
+      "position": "Endine PSD juht (2005–2007), riiginõukogu liige",
+      "amounts": {
+        "consultant": "700 000 €+ avaldamata konsultatsioonitasud",
+        "aca": "5000 € kuus firmalt ACA-M (riiklik töövõtja)"
+      },
+      "keyFacts": {
+        "aca": "Sai ACA-M-lt 60 000 eurot aastas, samal ajal kui riigi lepinguid oli rohkem kui 400 miljonit eurot",
+        "irony": "SIC-i kommentaatorina kommenteerib ta korruptsiooni oma finantshuve avaldamata"
+      },
+      "loopholeTitle": "Lünk, mis ta päästis:",
+      "loophole": {
+        "complaint": "Anonüümne kaebus",
+        "pgr": "PGR lükati tagasi \"parco detalhe\" (ebapiisava üksikasja) tõttu",
+        "noInvestigation": "Uurimist pole kunagi algatatud",
+        "destroyed": "Tõendid hävitatakse tõhusalt tegevusetuse tõttu"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Operação Ab Initio",
+      "party": "PSD – Sotsiaaldemokraatlik Erakond",
+      "position": "Madeira piirkonnavalitsuse president",
+      "timeline": {
+        "searches": "Jaanuar 2024: politsei läbiotsimised riigiasutustes",
+        "crimes": "Süüdistatakse 8 kuritegu: passiivne korruptsioon, võimu kuritarvitamine",
+        "censure": "Märts 2024: Umbusaldusavaldus ebaõnnestus",
+        "reelection": "Mai 2024: uurimise ajal ÜMBERVALITUD"
+      },
+      "relatedArrest": "Seotud vahistamine:",
+      "calado": {
+        "text": "Pedro Calado (PSD asepresident) vahistati 2024. aasta jaanuaris korruptsiooni eest"
+      },
+      "lesson": {
+        "text": "Ametliku uurimise all olemine ei ole tagasivalimisel takistuseks. Süsteem kaitseb oma."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado",
+      "charges": "Mitu süüdimõistmist: BES-i kokkuvarisemine, EDP korruptsioon",
+      "note": "Väidab Alzheimeri tõbe, et vältida vanglat. Saab endiselt pankuripensioni."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Ametlikult kahtlustatav operatsioonis Influencer (liitiumi/vesiniku korruptsioon)",
+      "note": "Jäi taristuministriks kuni peaminister Costa tagasiastumiseni"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Arreteeritud korruptsiooni, riigihankelepingute kokkumängu eest",
+      "note": "Madeira asepresident, vahistati 2024. aasta jaanuaris"
+    },
+    "barroso": {
+      "name": "José Manuel Barroso",
+      "charges": "Nimetatud allveelaevade skandaalis. Pole kunagi kohtu alla antud.",
+      "note": "Euroopa Komisjoni president (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "Täiendavad süüdimõistetud/süüdistatavad poliitikud",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3,5 aastat: kvalifitseeritud pettus, varade hajutamine. 900M€+ võlg riigipangale CGD",
+      "note": "Kunstikogu väärtusega €500M+ üle antud sihtasutustele enne arestimist. Riigikohus pikendas karistust 4 aastani (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 aastat (PT) + 25 aastat (BR): pettus (BPN), Rosalina Ribeiro mõrv Brasiilias",
+      "note": "PSD endine parlamendiliige (1987-2008). Ohver oli oma kliendi varanduse pärija. Brasiilia karistus ootab väljaandmist"
+    },
+    "loureiro": {
+      "name": "Valentim Loureiro",
+      "charges": "2 aastat mängukeelu: Apito Dourado jalgpalli korruptsioon. Mängude kokkuleppimine, kohtunike äraostmine",
+      "note": "Gondomari linnapea (1976-2013). Boavista FC president. Pole kunagi vanglas kandnud"
+    }
+  },
+  "eliteLaws": {
+    "title": "Seadused, mis on loodud eliidi kaitsmiseks",
+    "intro": "Kuidas konstitutsioonikohus ja parlament süstemaatiliselt aruandekohustust blokeerisid",
+    "cc": {
+      "title": "Konstitutsioonikohus: karistamatuse valvur",
+      "intro": "Portugali konstitutsioonikohus (Tribunal Constitucional) on KAKS KORDA (2012 ja 2015) tühistanud ebaseadusliku rikastumise seadused, samal ajal kui parlament blokeeris 18 aasta jooksul 22+ seadusandlikku katset. Portugal on AINUS EL-i riik, kus seletamatut rikkust ei saa kriminaliseerida.",
+      "timelineTitle": "18 aastat blokeeritud reformi (2007–2025)"
+    },
+    "ruling2012": {
+      "badge": "LÄBITATUD",
+      "title": "Acórdão 179/2012",
+      "date": "4. aprill 2012",
+      "claimedReason": "Väidetav põhjus:",
+      "claimedText": "Rikkub süütuse presumptsiooni (CRP artikkel 32º)",
+      "reality": "Tegelikkus:",
+      "realityText": "Prantsusmaal, Hispaanias, Itaalias ja enam kui 45 riigis on sarnased seadused, mis läbisid põhiseaduslikkuse järelevalve.",
+      "paradox": "Paradoks:",
+      "paradoxText": "Kohus kaitseb \"süütuse presumptsiooni\" rikkuse selgituste eest, taludes samal ajal 11-aastast kohtueelset viivitust, mis rikub sama õigust."
+    },
+    "ruling2015": {
+      "badge": "LÄBITATUD (ükshäälne)",
+      "title": "Acórdão 377/2015",
+      "date": "27. juulil 2015",
+      "response": "Parlamendi vastus:",
+      "responseText": "2012. aasta probleemide lahendamiseks muudetud seadus – lisatud nõue, et süüdistuse esitamine peab esmalt tõendama jõukuse kasvu.",
+      "tcResponse": "TC vastus:",
+      "tcResponseText": "Tagati samadel põhjustel – üksmeelselt.",
+      "message": "Sõnum:",
+      "messageText": "Ebaseadusliku rikastumise seaduse ühtegi versiooni ei aktsepteerita kunagi."
+    },
+    "euComparison": {
+      "title": "ELi võrdlus: miks ainult Portugal?",
+      "country": "Riik",
+      "law": "Ebaseadusliku rikastumise seadus",
+      "status": "Põhiseaduslik staatus",
+      "approved": "heaks kiidetud",
+      "note": "Kõigil neil riikidel on süütuse presumptsiooni põhiseaduslik kaitse identne. Ainult Portugali TC leiab, et ebaseaduslik rikastumine on põhiseadusega vastuolus."
+    },
+    "bipartisan": {
+      "title": "Kaheparteiline blokeerimismasin",
+      "intro": "18 aastat (2007–2025) on PS ja PSD kordamööda blokeerinud korruptsioonivastaseid reforme – olenemata sellest, kes on võimul."
+    },
+    "subtitle": "Kuidas konstitutsioonikohus ja parlament süstemaatiliselt aruandekohustust blokeerisid",
+    "acordao179": {
+      "title": "Acórdão 179/2012",
+      "date": "4. aprill 2012"
+    },
+    "acordao377": {
+      "title": "Acórdão 377/2015",
+      "date": "27. juulil 2015"
+    },
+    "immunityComparison": {
+      "title": "Parlamendiliikme puutumatus: ELi võrdlus"
+    },
+    "prescription": {
+      "title": "Kasutusajad: EL-i võrdlus"
+    },
+    "prescriptionNote": "Märkus. Portugalil on haigusjuhtude keskmine kestus pikim JA tal on lai puutumatus – halvim kombinatsioon.",
+    "euScorecard": {
+      "title": "ELi korruptsioonivastase võitluse tulemuskaart",
+      "note": "Portugal on järjekindlalt Lääne-Euroopa demokraatiate lõpus."
+    }
+  },
+  "loopholes": {
+    "title": "Õiguslik arhitektuur: kavandatud evakuatsiooniluugid",
+    "subtitle": "Need ei ole vead - need on funktsioonid",
+    "anonymousComplaint": {
+      "title": "Anonüümsed kaebused lükati tagasi",
+      "text": "CPP artikkel 246.º n.º 6 lubab prokuröridel lükata tagasi anonüümsed kaebused \"parco detalhe\" (ebapiisava üksikasja) pärast, isegi kui tõendid on esitatud."
+    },
+    "immunity": {
+      "title": "Parlamendiliikme puutumatus",
+      "text": "CRP artikkel 157.º takistab parlamendiliikmete kinnipidamist ilma parlamendi loata, mida poliitilistele liitlastele kunagi ei anta."
+    },
+    "averiguacao": {
+      "title": "Eeluurimise faas",
+      "subtitle": "Averiguação eelmäng",
+      "text": "Eeluurimisfaas, mis võib kesta aastaid ilma ametlike süüdistusteta, võimaldades poliitikutel väita, et neid \"ei uurita\"."
+    },
+    "segredo": {
+      "title": "Kohtusaladus",
+      "text": "CPP artikkel 86.º n.º 3 lubab \"segredo de justiçal\" varjata uurimisi aastaid – samal ajal kui poliitikud jätkavad ametis ja edutatakse."
+    },
+    "prescription": {
+      "title": "Aegumistähtaeg",
+      "articles": "CP artiklid 118–122",
+      "text": "Keerulisi korruptsioonijuhtumeid saab edasi lükata kuni nende määramiseni (aegumiseni). Keskmiselt kulub juhtum 8-12 aastat; retsept on 10-15 aastat."
+    },
+    "constitutionalCourt": {
+      "title": "Konstitutsioonikohtu veto",
+      "subtitle": "Põhiseaduslik tribunal",
+      "text": "TC on kaotanud ebaseadusliku rikastumise seadused KAKS KORDA (2012, 2015) ja blokeerinud mitu referendumikatset."
+    },
+    "immunityComparison": {
+      "title": "Parlamendiliikme puutumatus: ELi võrdlus",
+      "scope": "Immuunsuse ulatus",
+      "canBlock": "Kas uurimist saab blokeerida?",
+      "note": "Vaatamata sarnastele põhiseaduslikele raamistikele on Portugali puutumatus EL-is KÕIGE LAIEM. Parlamendiliikmeid ei saa kinni pidada ilma parlamendi hääletuseta, mida poliitilistele liitlastele kunagi ei anta."
+    },
+    "prescriptionComparison": {
+      "title": "Kasutusajad: EL-i võrdlus",
+      "period": "Periood",
+      "suspension": "Kas uurimise ajaks peatati?",
+      "avgDuration": "Juhtumi keskmine kestus",
+      "critical": "Kriitiline leid:",
+      "finding": "Operação Marquês: 167 süüdistust 189-st (88% lükati tagasi kui \"liiga hilja\"). Kohtunik tunnistas tõendeid, kuid otsustas, et aeg on möödas.",
+      "stat": "73% Portugali prokuröridest väidab, et aegumisperioodid on ebapiisavad. (Allikas: Transparency International)"
+    },
+    "article246": {
+      "title": "Artikli 246 paradoks",
+      "mechanism": "Mehhanism:",
+      "explanation": "CPP artikkel 246.º n.º 6 kohustab prokuröri ENNE uurimist leidma kuriteo tunnused (tunnused). Aga kuidas määrata näidustusi ilma uurimiseta? Seadus loob täiusliku saagi-22.",
+      "cases": "Juhtumirakendused:",
+      "montenegro": "410 000 € dokumenteeritud maksed → \"ebapiisav\"",
+      "mendes": "700 000 € pangaarved → \"väikesed andmed\"",
+      "verdict": "\"Protseduurilise kaitsevahendina maskeeritud disainifunktsioon.\""
+    },
+    "inconsistency": {
+      "title": "Konstitutsioonikohus: valikuline kohaldamine",
+      "permitted": "✓ Portugalis LUBATUD",
+      "prohibited": "✗ TC poolt KEELATUD",
+      "p1": "• Prokurörid keelduvad uurimisest hoolimata dokumentidest (Montenegro, Mendes)",
+      "p2": "• 11-aastane kohtueelne viivitus (Sócrates)",
+      "p3": "• Parlamendiliikme puutumatust blokeerivad uurimised",
+      "p4": "• Süüdimõistetud ministrite pensionid 26 000 €/kuus",
+      "n1": "• Nõuda ametnikelt dokumenteeritud jõukuse kasvu selgitamist",
+      "n2": "• Seletamatu rikastumise kriminaliseerimine pärast suurenemise tõendamist",
+      "n3": "• Tõenduskoormuse asetamine ametnikele, kellel on ainulaadsed tõendid",
+      "n4": "• Ebaseadusliku rikastumise seadused (tühistatud 2012, 2015)",
+      "note": "Prantsusmaal, Hispaanial ja Itaalial on süütuse presumptsiooni põhiseaduslik kaitse identne, kuid nad järgivad ebaseadusliku rikastumise seadusi. Ainult Portugali TC leiab, et need on põhiseadusevastased."
+    },
+    "intro": "Portugali õigussüsteem sisaldab spetsiifilisi mehhanisme, mis võimaldavad poliitilise klassi karistamatust."
+  },
+  "blocking": {
+    "title": "Blokeerimismuster: 18 aastat tahtlikku ebaõnnestumist",
+    "subtitle": "Iga reformikatse on blokeeritud, nõrgendatud või maha löödud",
+    "timeline": {
+      "title": "Ebaseadusliku rikastamise blokeerimise ajaskaala (2007–2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Lobby reguleerimise blokeerimine"
+    },
+    "symbiosis": {
+      "title": "PS/PSD sümbioos: kaks koera, üks kennel",
+      "psTitle": "PS (Sotsialistlik Partei)",
+      "psdTitle": "PSD (sotsiaaldemokraadid)",
+      "ps": {
+        "noProsecute": "PSD liikmeid kohtu alla ei anna",
+        "loopholes": "Säilitab õiguslüngad, millest on kasu mõlemale poolele",
+        "blocksReforms": "Blokeerib opositsioonis olles korruptsioonivastaseid reforme"
+      },
+      "psd": {
+        "noProsecute": "PS liikmeid kohtu alla ei anna",
+        "loopholes": "Säilitab õiguslüngad, millest on kasu mõlemale poolele",
+        "blocksReforms": "Blokeerib opositsioonis olles korruptsioonivastaseid reforme"
+      }
+    },
+    "quote": {
+      "text": "\"O PCP apresentou projetos de lei para kriminaalizar o enriquecimento ilícito. Foram semper rejeitados pelo PS e pelo PSD.\"",
+      "translation": "\"PCP esitas seaduseelnõud ebaseadusliku rikastumise kriminaliseerimiseks. PS ja PSD lükkasid need alati tagasi.\""
+    },
+    "otherParties": {
+      "title": "Teised parteid: Impotentne opositsioon",
+      "proposedReforms": "Kavandatud reformid (kõik tagasi lükatud):",
+      "reforms": {
+        "pcp1": "PCP projekt 726/X (2009) – Ebaseaduslik rikastamine",
+        "pcp2": "PCP projekt 25/XI (2009) – Ebaseaduslik rikastamine",
+        "chega": "Chega (2021) – Ebaseaduslik rikastumine",
+        "be": "BE – mitu läbipaistvuse ettepanekut"
+      },
+      "chegaVote": {
+        "title": "KÕIK osapooled lükkasid Chega ettepaneku tagasi (2021)",
+        "text": "Kui Chega 2021. aastal ebaseadusliku rikastumise ettepaneku tegi, <strong>kõik erakonnad hääletasid vastu</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> – EI",
+        "psd": "• <span class=\"text-psd\">PSD</span> – EI",
+        "be": "• <span class=\"text-pink-500\">BE</span> – EI (erapooletud \"allika\" põhjustel)",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> – EI (erapooletuks jäi \"allika\" põhjustel)",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> – EI",
+        "note": "Vasakparteid keeldusid paremäärmuslastega hääletamast isegi reformi poolt, mida nad toetavad"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "Paradoks:",
+      "paradoxText": "Erakonnad, kes avalikult toetavad korruptsioonivastast reformi, hääletavad teiste ettepanekul selle vastu."
+    },
+    "intro": "Iga reformikatse on blokeeritud, nõrgendatud või tagasi lükatud",
+    "visual": {
+      "title": "18 aastat blokeerimist",
+      "attempts": "Reformikatsed",
+      "years": "Aastad viivitust",
+      "laws": "Seadused nõrgendatud"
+    }
+  },
+  "euRewards": {
+    "title": "ELi preemiasüsteem: lojaalsed koerad saavad maiustusi",
+    "subtitle": "Uurimine → ELi edendamine",
+    "costaTimeline": {
+      "title": "Costa ajaskaala – ülim konditsioneerimise tõend"
+    },
+    "december": {
+      "title": "Detsembri 2025 Trifecta"
+    },
+    "trifecta": {
+      "title": "Detsembri 2025 Trifecta",
+      "subtitle": "Kolm poliitikut pääsesid ühe kuu jooksul vastutusest:"
+    },
+    "broaderPicture": {
+      "title": "Laiem pilt"
+    },
+    "observation": "Märkus: EL premeerib lojaalsust, mitte ausust.",
+    "intro": "Uurimine → ELi edutamine",
+    "table": {
+      "title": "Portugali poliitikud → ELi seisukohad",
+      "patternNote": "See tabel dokumenteerib mustri, kuidas poliitikud saavad ELi seisukohti vaatamata vaidlustele. Korrelatsioon ei tõesta põhjuslikku seost ega koordineerimist, kuid sagedus nõuab kontrolli."
+    },
+    "revolvingDoor": {
+      "title": "Pöörduks: Brüssel → Erasektor"
+    }
+  },
+  "solution": {
+    "title": "Ainus lahendus: Väline jõud",
+    "subtitle": "Miks on sisereform võimatu – ja mida saavad kodanikud teha",
+    "impossibility": {
+      "title": "Miks sisereform on võimatu?"
+    },
+    "mechanisms": {
+      "title": "Välised mehhanismid"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "1. küsimus"
+      },
+      "q2": {
+        "title": "2. küsimus"
+      },
+      "q3": {
+        "title": "3. küsimus"
+      },
+      "q4": {
+        "title": "4. küsimus"
+      },
+      "q5": {
+        "title": "5. küsimus"
+      }
+    },
+    "whyImpossible": {
+      "title": "Miks sisereform on võimatu?"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Kodanikureferendumi algatus",
+        "subtitle": "vaja allkirju",
+        "text": "Kodanikud võivad teha ettepaneku siduvate rahvahääletuste korraldamiseks mis tahes riikliku tähtsusega küsimuses."
+      },
+      "legislativa": {
+        "title": "Kodanike seadusandlik algatus",
+        "subtitle": "vaja allkirju",
+        "text": "Kodanikud saavad õigusakti ettepanekuid teha otse parlamendile."
+      },
+      "european": {
+        "title": "Euroopa kodanikualgatus",
+        "subtitle": "allkirjad on nõutavad 7+ ELi riigis",
+        "text": "Üleeuroopaline mehhanism Euroopa Komisjonile õigusaktide ettepanekute tegemiseks."
+      }
+    },
+    "damningRecord": {
+      "title": "Damning Record",
+      "text": "Portugali referendumi ajalugu näitab, et süsteem on loodud ebaõnnestuma:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Digitaalne välistamine: eakate vaigistamine",
+      "usageByAge": "Internetikasutus vanuserühma järgi (Portugal, 2024)",
+      "keyStats": "Põhistatistika:"
+    },
+    "proposedQuestions": {
+      "title": "Kavandatud rahvahääletuse küsimused"
+    },
+    "intro": "Miks on sisereform võimatu — ja mida kodanikud saavad teha",
+    "tradeoffs": {
+      "title": "Ausad kompromissid: meie pakutu sisaldab riske",
+      "intro": "Läbipaistvuse vaimus tunnistame, et otsedemokraatia mehhanismidel (nagu Šveitsi tüüpi referendumid) on tõelised väljakutsed:",
+      "challenges": {
+        "title": "Tuntud väljakutsed",
+        "engagement": "• <strong>Hääletajate väsimus:</strong> Šveitsi valimisaktiivsus on keskmiselt 40–50%. Sagedased hääletused võivad kodanikke kurnata.",
+        "complexity": "• <strong>Keerukuse vähendamine:</strong> nüansseeritud eeskirjad vähendatakse tasemele jah/ei. Lihtsustamise riskid.",
+        "populism": "• <strong>Populistlik manipuleerimine:</strong> hästi rahastatud kampaaniad võivad halvasti informeeritud valijaid mõjutada.",
+        "minority": "• <strong>Vähemuste õigused:</strong> enamused võivad hääletada vähemuste vastu (Šveitsi minaretikeeld, 2009).",
+        "corruption": "• <strong>Pole korruptsioonivaba:</strong> Šveits on tarbijahinnaindeksi järgi 7. kohal – hea, kuid mitte täiuslik."
+      },
+      "whyStill": {
+        "title": "Miks me seda ikkagi välja pakume",
+        "accountability": "• <strong>Vastuvõtukohustus on olemas:</strong> ebatäiuslik vastutus > vastutus puudub.",
+        "binding": "• <strong>Siduvad tulemused:</strong> poliitikud ei saa ignoreerida tulemusi nagu petitsioone.",
+        "deterrent": "• <strong>Hoidutav mõju:</strong> teadmine, et valijad võivad alistada, ärgitab reageerima.",
+        "culture": "• <strong>Kultuurimuutus:</strong> regulaarne osalemine suurendab aja jooksul kodanikuaktiivsust.",
+        "track": "• <strong>Tagasirekord:</strong> 700+ Šveitsi referendumit alates 1848. aastast. Süsteem töötab, ebatäiuslikult."
+      },
+      "conclusion": "<strong class=\"text-white\">Meie seisukoht:</strong> me ei väida, et otsedemokraatia on täiuslik. Väidame, et see on parem kui süsteem, kus poliitikud hääletavad ise oma palga, puutumatuse ja vastutuse üle ning otsustavad järjekindlalt end kaitsta. Küsimus ei ole \"Kas otsedemokraatia on täiuslik?\" aga \"Kas see on parem kui see, mis meil on?\" Tõendid viitavad jah."
+    }
+  },
+  "euLabor": {
+    "title": "Sõda töötajate vastu: ELi tööõigused on kaotatud",
+    "subtitle": "Kuidas Euroopa integratsioon nõrgendas töötajate kaitset Portugalis",
+    "germany": {
+      "title": "Saksamaa: Hartz IV reformid",
+      "benefits": "Kasu on vähendatud miinimumini",
+      "duration": "Töötushüvitised on piiratud 12 kuuga",
+      "dependent": "Loodud uus \"töötavate vaeste\" klass"
+    },
+    "france": {
+      "title": "Prantsusmaa: El Khomri ja pensionireform",
+      "elKhomri": "El Khomri seadus (2016): nõrgenenud töökaitse",
+      "pension": "Pensionireform (2023): pensioniiga tõsteti hoolimata massimeeleavaldustest",
+      "yellowVests": "Kollaste vestide liikumine purustati politsei vägivalla tõttu"
+    },
+    "uk": {
+      "title": "Ühendkuningriik: kokkuhoid",
+      "welfare": "Hoolekandesüsteem roogitud \"kasinuse\" alla",
+      "universalCredit": "Universaalne krediit: loodud hüvede keelamiseks",
+      "sanctioned": "Rakendatud 2,5 miljonit sanktsiooni (2012–2018)"
+    },
+    "italy": {
+      "title": "Itaalia: Meloni valitsus",
+      "citizenIncome": "Reddito di Cittadinanza (kodaniku sissetulek) kaotati",
+      "prison": "Liiklust takistava streigi korraldamise eest kuni 6 aastat vangistust",
+      "strikes": "Õigus streigile kriminaliseeritakse üha enam"
+    },
+    "pattern": {
+      "title": "Muster kogu ELis"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "Digitaalne välistamiskiht",
+      "description": "Põlvkond, kes oli tunnistajaks kogu 50-aastasele korruptsioonimustrile, jäetakse süstemaatiliselt välja ainult digitaalse rahvahääletuse allkirjade süsteemist."
+    },
+    "explanation": "Kaasaegsed rahvahääletuse algatused nõuavad digitaalallkirju, välistades tõhusalt vanemad põlvkonnad, kes tõenäoliselt Internetti vähem kasutavad.",
+    "usageSource": "Allikas: Eurostat (2024)",
+    "stats": {
+      "65to74": "65–74-aastastest on digitaalselt välistatud 38,9%.",
+      "75plus": "~70% 75+ aastastest on digitaalselt välistatud",
+      "never": "Paljud pole kunagi internetti kasutanud",
+      "population": "See esindab üle 2 miljoni Portugali kodaniku"
+    },
+    "warning": "Julm iroonia:"
+  },
+  "conclusion": {
+    "notDemocracy": "See ei ole demokraatia korruptsiooniprobleemidega",
+    "byDesign": "See on Disaini järgi",
+    "euComplicit": "EL on kaasosaline",
+    "choice": "Valik",
+    "byDesignText": "Süsteem pole katki. See oli kujundatud nii.",
+    "choiceText1": "Sellele dokumendile on alla kirjutanud",
+    "choiceSignatures": "kodanikele",
+    "choiceText2": "nõudes muutust.",
+    "choiceThatsYou": "See oled SINA.",
+    "euComplicitText": "ELi institutsioonid ületavad uurimise all olevaid ametnikke kõrgetele ametikohtadele.",
+    "notDemocracyText": "Riik, kus kodanikud ei saa korraldada referendumeid, ei ole täielik demokraatia.",
+    "choiceText": "Sellele dokumendile on alla kirjutanud muudatusi nõudvad kodanikud."
+  },
+  "dashboard": {
+    "title": "Portugali Korruptsiooni Töölaud",
+    "intro": "Ametlikud andmed Transparency International, DGPJ, Eurostat ja GRECO allikatest",
+    "kpi": {
+      "cpi": {
+        "label": "TI CPI Skoor 2024",
+        "trend": "-4 võrreldes 2023"
+      },
+      "trust": {
+        "label": "Kodanikud: \"Valitsus on korrumpeerunud\"",
+        "source": "Eurobaromeeter 2024"
+      },
+      "blocked": {
+        "label": "Blokeeritud Seadusandlikud Katsed",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Aastad: Sócratese Juhtum",
+        "trend": "Ikka pooleli"
+      }
+    },
+    "charts": {
+      "cpi": "Korruptsiooni Tajumise Indeks (2012-2024)",
+      "duration": "Keskmine Juhtumi Kestus (Kuud)",
+      "euComparison": "EL Võrdlus: CPI Skoor vs Ebaseadusliku Rikastumise Seadus"
+    },
+    "sources": "Andmeallikad:"
+  },
+  "forum": {
+    "title": "EL Kodanike Foorum",
+    "intro": "Jaga oma vaatenurka poliitilisele vastutusele",
+    "stats": "panused EL kodanikelt",
+    "form": {
+      "name": "Nimi (valikuline)",
+      "namePlaceholder": "Anonüümne",
+      "country": "Riik",
+      "message": "Sinu sõnum",
+      "messagePlaceholder": "Jaga oma mõtteid poliitilise vastutuse kohta EL-is...",
+      "submit": "Postita Kommentaar",
+      "note": "URL-id pole lubatud. Kommentaarid salvestatakse kohapeal ja modereeritakse."
+    },
+    "noComments": "Ole esimene, kes jagab oma vaatenurka poliitilisele vastutusele.",
+    "errors": {
+      "tooShort": "Kommentaar peab olema vähemalt 10 tähemärki",
+      "tooLong": "Kommentaar peab olema alla 1000 tähemärgi",
+      "prohibited": "Kommentaar sisaldab keelatud sisu"
+    },
+    "success": "Kommentaar edukalt lisatud",
+    "time": {
+      "justNow": "Just praegu",
+      "minutesAgo": "m tagasi",
+      "hoursAgo": "t tagasi",
+      "daysAgo": "p tagasi"
+    }
+  },
+  "donate": {
+    "title": "Toeta Erapooletut Uurimistööd",
+    "intro": "Maksimaalselt €2 annetaja kohta täieliku sõltumatuse säilitamiseks",
+    "principles": {
+      "max": {
+        "title": "Maksimaalselt €2",
+        "text": "Suured annetajad puuduvad, mis tähendab mõju puudumist. Kõigil on võrdne hääl."
+      },
+      "allParties": {
+        "title": "Kõik Erakonnad Dokumenteeritud",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — ükski erakond pole kontrollist vabastatud."
+      },
+      "official": {
+        "title": "Ainult Ametlikud Allikad",
+        "text": "Kohtudokumendid, prokuratuuri materjalid, Konstitutsioonikohtu otsused."
+      },
+      "transparency": {
+        "title": "Täielik Läbipaistvus",
+        "text": "Kõik andmed on kontrollitavad, kõik allikad on viidatud."
+      }
+    },
+    "stats": {
+      "raised": "Kokku Kogutud",
+      "donors": "Annetajad"
+    },
+    "whyMax": "Miks maksimaalselt €2?",
+    "whyMaxText": "Suured annetused loovad kohustusi. Mikroannetused tuhandetelt kodanikelt tagavad, et see uurimistöö teenib avalikku huvi, mitte poliitilist ega ärilist päevakorda.",
+    "modal": {
+      "title": "Toeta Erapooletut Uurimistööd",
+      "purpose": "Sinu mikroannetus toetab sõltumatut uurimistööd poliitilise vastutuse kohta kogu EL-is.",
+      "principlesTitle": "Meie Põhimõtted:",
+      "maxDonor": "Maksimaalselt €2/annetaja - Suured annetajad puuduvad, mõju puudub",
+      "allPartiesDoc": "Kõik erakonnad dokumenteeritud - PS, PSD, CDS, PCP, BE, Chega - kõik kaasatud",
+      "officialOnly": "Ainult ametlikud allikad - Kohtudokumendid, prokuratuuri materjalid",
+      "fullTransparency": "Täielik läbipaistvus - Kõik andmed kontrollitavad",
+      "paymentMethods": "Makseviisid tulekul:",
+      "simulateBtn": "Simuleeri Annetust (Demo)",
+      "demoNote": "See on demonstratsioon. Tõeline maksete integratsioon vajab taustasüsteemi seadistamist."
+    },
+    "errors": {
+      "invalidAmount": "Palun sisesta kehtiv summa",
+      "maxAmount": "Maksimaalne annetus on €{{max}} uurimistöö sõltumatuse säilitamiseks"
+    },
+    "success": "Aitäh! €{{amount}} annetus registreeritud."
+  },
+  "footer": {
+    "legalTitle": "Õiguslik Teade",
+    "legalNotice": "Õiguslik Teade",
+    "legalNotice.text": "Kõigil mainitud isikutel on õigus süütuse presumptsioonile. See dokument esitab avalikult kättesaadavat teavet ametlikest allikatest, kohtudokumentidest ja kontrollitud meediaaruannetest, mida uurija peab oluliseks avaliku teadlikkuse ja demokraatliku vastutuse jaoks.",
+    "legalText": "Kõigil selles dokumendis mainitud isikutel on õigus süütuse presumptsioonile kuni süü tõestamiseni kohtus. See dokument esitab avalikult kättesaadavat teavet ametlikest allikatest, kohtudokumentidest ja usaldusväärsetest meediaväljaannetest. Analüüs esindab dokumenteeritud mustreid Portugali õigus- ja poliitilises süsteemis.",
+    "prepared": "Dokument koostatud:",
+    "verified": "Kõik allikad kinnitatud avaldamiskuupäeva seisuga",
+    "legalNoticeText": "Kogu esitatud teave pärineb ametlikest kohtudokumentidest, parlamendi dokumentidest ja mainekast meediast. Mainitud isikuid peetakse süütuks seni, kuni nende süü pole tõestatud."
+  },
+  "countries": {
+    "PT": "Portugal",
+    "ES": "Hispaania",
+    "FR": "Prantsusmaa",
+    "DE": "Saksamaa",
+    "IT": "Itaalia",
+    "NL": "Holland",
+    "BE": "Belgia",
+    "AT": "Austria",
+    "PL": "Poola",
+    "RO": "Rumeenia",
+    "EL": "Kreeka",
+    "CZ": "Tšehhi",
+    "HU": "Ungari",
+    "SE": "Rootsi",
+    "DK": "Taani",
+    "FI": "Soome",
+    "IE": "Iirimaa",
+    "BG": "Bulgaaria",
+    "HR": "Horvaatia",
+    "SK": "Slovakkia",
+    "SI": "Sloveenia",
+    "LT": "Leedu",
+    "LV": "Läti",
+    "EE": "Eesti",
+    "CY": "Küpros",
+    "MT": "Malta",
+    "LU": "Luksemburg",
+    "EU": "ELi kodanik"
+  },
+  "investigative": {
+    "badge": "Uurimisaruanne",
+    "title": "Mida see uurimine paljastab",
+    "intro": "Pärast kohtudokumentide, parlamendi protokollide, konstitutsioonikohtu otsuste, GRECO hinnangute, Transparency Internationali aruannete, Eurobaromeetri uuringute ja 50 aasta pikkuse Portugali meediaarhiivi läbivaatamist ilmneb häiriv muster: Portugali poliitiline süsteem pole katki – see töötab täpselt nii, nagu kavandatud.",
+    "evidenceTitle": "Tõendid näitavad:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Rahvusvahelised leiud:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "See ei ole vandenõuteooria. See on dokumenteeritud fakt. Kõik selles aruandes esitatud väited pärinevad ametlikest dokumentidest, kohtuotsustest või mainekatest rahvusvahelistest organisatsioonidest. Karistamatuse arhitektuur ei ole varjatud – see on avalik, seaduslik ja seda hoiavad teadlikult need, keda see kaitseb.",
+    "evidence": {
+      "banking": "Üle 20 miljardi euro varastati panganduskrahhi tõttu (BPN, BES, CGD)",
+      "casaPia": "Casa Pias väärkoheldud 100+ last, samal ajal kui eliit varjas seda 20 aastat",
+      "pms": "2 peaministrit uuriti, 0 süüdi mõistetud",
+      "reforms": "PS/PSD on alates 1983. aastast blokeerinud 9+ korruptsioonivastast reformi",
+      "referendums": "0 siduvat referendumit 50 demokraatia aasta jooksul",
+      "suspended": "75% korruptsioonijuhtumitest lõpeb tingimisi karistusega"
+    },
+    "findings": {
+      "greco": "GRECO: 15-st korruptsioonivastasest soovitusest on täielikult rakendatud ainult üks",
+      "ti": "Transparency International: Portugal langes 25. kohalt 33. kohale (2012-2024)",
+      "eurobarometer": "Eurobaromeeter: 88% portugallastest usub, et valitsus on korrumpeerunud",
+      "euAverage": "ELi keskmine: 10 aastat keskmine süüdistuse esitamise aeg vs Portugali 11+ aastat",
+      "uncac": "UNCAC: pühendumisest on möödunud 18 aastat, endiselt pole ebaseaduslikku rikastumise seadust",
+      "euRuleOfLaw": "ELi õigusriik 2025: 81 juhtumit, 16 süüdimõistvat otsust 2024. aastal – keskmine süüdistuse esitamise aeg: 6,8 aastat"
+    }
+  },
+  "greco": {
+    "badge": "Euroopa Nõukogu hinnang",
+    "title": "GRECO: rakendatud on 1 15-st soovitusest",
+    "subtitle": "Korruptsioonivastaste riikide rühm",
+    "intro": "Korruptsioonivastaste riikide rühmitus (GRECO) on korduvalt kritiseerinud Portugali edusammude puudumist",
+    "implemented": {
+      "number": "1",
+      "title": "Täielikult rakendatud",
+      "subtitle": "15 soovitusest",
+      "text": "Täielikult on arvesse võetud ainult ühte soovitust erakondade rahastamise läbipaistvuse kohta."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Osaliselt rakendatud",
+      "subtitle": "veel valmimist ootamas",
+      "text": "Sisaldab: MP tegevusjuhiseid, varade deklaratsioone, huvide konfliktide haldamist, lobitöö läbipaistvust."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Pole rakendatud",
+      "subtitle": "ignoreeritud või tagasi lükatud",
+      "text": "Hõlmab: ebaseadusliku rikastumise kriminaliseerimine, rikkumisest teatajate kaitse, ministrite järelemõtlemisperioodid."
+    },
+    "criticismsTitle": "GRECO peamised kriitikad (2023. aasta aruanne):",
+    "criticisms": {
+      "noCode": "Parlamendiliikmetele kohustuslikku käitumisjuhendit pole",
+      "assets": "Varadeklaratsioone ei ole sõltumatult kinnitatud",
+      "lobbyists": "Lobistide register puudub",
+      "coolingOff": "Erasektoriga liituvatel ministritel ei ole järelemõtlemisaega",
+      "whistleblower": "Vilepuhujate kaitse seaduses on endiselt lünki",
+      "conflicts": "Huvide konflikti käsitlevad eeskirjad on halvasti jõustatud",
+      "prosecution": "Süüdistusajad ületavad mõistlikke piire",
+      "immunity": "Poliitilise puutumatuse reeglid on liiga laiad"
+    },
+    "source": "Allikas: GRECO viies hindamisvoor – Portugal",
+    "sourceLabel": "Allikas: GRECO viies hindamisvoor – Portugal",
+    "scorecard": {
+      "title": "10-aastane mittevastavuse ajakava (2015–2025)",
+      "fourthRound": "NELJAS VOOR (2015)",
+      "fifthRound": "VIIES voor (2024)",
+      "focusMPs": "Parlamendiliikmed, kohtunikud, prokurörid",
+      "focusExec": "Valitsus ja õiguskaitse",
+      "implemented": "Implemented",
+      "fullyImplemented": "Täielikult rakendatud",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "ELi keskmine: 59% | Portugal: 33%",
+      "partial": "18 Osaline | 10 Ei rakendata",
+      "ongoing": "Vastavus Pidev"
+    },
+    "menac": {
+      "title": "MENAC: riiklik korruptsioonivastane mehhanism",
+      "staffed": "Staffed",
+      "detail": "27-st lubatud ametikohast on täidetud vaid 12. Kuulutati \"toimivaks\" juunis 2023, kuid GRECO ütleb: \"ei ole täielikult töökorras\""
+    }
+  },
+  "whistleblower": {
+    "title": "Vilepuhujate kaitse: puuduv kilp",
+    "subtitle": "Korruptsiooni paljastajad ootavad kättemaksu, samal ajal kui korrumpeerunud kaitsevad",
+    "ruiPinto": {
+      "title": "Rui Pinto juhtum",
+      "text": "Portugali häkker, kes paljastas \"Football Leaks\" skandaali, paljastades korruptsiooni Euroopa suurimates klubides ja Portugali justiitssüsteemis. Tema lekked aitasid kaasa operatsioonile Lex (korrumpeerunud kohtunikud) ja Luanda Leaks.",
+      "outcomeTitle": "TULEMUS:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: Arreteeritud, Ungarist välja antud",
+      "convicted": "Pinto: mõisteti süüdi häkkimiskuritegudes",
+      "officials": "Korrumpeerunud ametnikud, keda ta paljastas: mõned on kohtu all, enamik tasuta"
+    },
+    "comparison": {
+      "title": "ELi võrdlus: rikkumisest teatajate seadused",
+      "headers": {
+        "country": "Riik",
+        "protection": "Kaitsetase",
+        "status": "Olek"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Tugev",
+          "status": "Anonüümne teatamine + õigusabi"
+        },
+        "ireland": {
+          "protection": "Tugev",
+          "status": "Põhjalik 2014. aasta seadus"
+        },
+        "france": {
+          "protection": "Tugev",
+          "status": "Sapin II seadus (2016)"
+        },
+        "germany": {
+          "protection": "Keskmine",
+          "status": "Rakendati 2023"
+        },
+        "portugal": {
+          "protection": "Nõrk",
+          "status": "GRECO kohta jäävad lüngad"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "Kahe Ruisi lugu",
+      "subtitle": "Kaks meest nimega Rui, kes julgesid tõe paljastada. Mõlemad karistati. Korrumpeerunud? Enamasti tasuta."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "<a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaksi</a> asutaja – WikiLeaksist inspireeritud Portugali platvorm (eestiline 2010), mis paljastab valitsuse dokumente ja turvaauke. Ainus veebisait, mis on loetletud CIA World Factbookis Portugali \"poliitiliste surverühmade\" all.",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Interneti kasutamine keelatud</strong> 8 kuuks",
+      "gagged": "• Vastavalt kohtu <strong>kinnitusmäärusele</strong>",
+      "fired": "• <strong>vallandatud</strong> töökohalt ettevõttes PT Comunicações",
+      "active": "• <span class=\"text-good\">Tugaleaks on endiselt aktiivne ka 2025. aastal</span>",
+      "source": "Allikas: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRi (Euroopa digitaalõigused)</a>"
+    }
+  },
+  "media": {
+    "title": "Konditsioneerimismasin: meedia omandiõigus",
+    "subtitle": "Kellele kuulub Portugali meedia ja miks see oluline on?",
+    "ownershipTitle": "Kontsentreeritud omand",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão – endine peaminister (PSD)",
+      "cofina": "Suuraktsionäride hulka kuuluvad riigi poolt päästetud pangad",
+      "mediaCapital": "Hiljuti müüdud, omanikud vahetuvad sageli",
+      "globalMedia": "Omab erinevate huvidega investoritele",
+      "rtp": "Riigi omanduses, valitsuse määratud juhatus"
+    },
+    "conditioningTitle": "Konditsioneeriv efekt",
+    "conditioningIntro": "Kui meediaomanikel on sidemeid erakondadega või nad sõltuvad riiklikust reklaamist:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "TULEMUS:",
+    "resultText": "Portugali kodanikud teavad, et korruptsioon eksisteerib (88% väidab nii), kuid tunnevad end jõuetuna selle muutmiseks. Meedia kajastab skandaale, kuid seob neid harva süsteemse kaitse arhitektuuriga.",
+    "conditioning": {
+      "selfCensorship": "Enesetsensuur normaliseerub",
+      "underfunded": "Uuriv ajakirjandus on alarahastatud",
+      "forgotten": "Skandaalid kaeti korraks, siis unustati",
+      "bothSides": "\"Mõlemad pooled\" vale samaväärsus korruptsiooni kohta",
+      "personalities": "Keskenduge isiksustele, mitte süsteemsetele probleemidele"
+    }
+  },
+  "eciCritique": {
+    "title": "ECI disainiviga: 12 kuud vastumobiliseerimist",
+    "problem": "Komisjonil on vastamiseks aega 12 kuud – aeg korraldada vastupanu, teha lobitööd rakendamise vastu või lihtsalt viivitada, kuni avalikkuse tähelepanu hajub.",
+    "tacticsTitle": "Institutsioonidele kättesaadavad vastumeetmed:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Ajaloolised ECI tõrked:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "Alternatiiv:",
+    "alternativeText": "Seetõttu pakume välja OTSETE rahvahääletuse mehhanismid, nagu Šveits, mitte petitsioonidel põhinevaid Euroopa kodanikualgatusi, mida võib ignoreerida. Šveitsi referendumid on SIDUVAD – poliitikud ei saa neid lihtsalt ära oodata.",
+    "comparisonTitle": "ECI vs Šveitsi rahvahääletus:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Täielik korruptsiooni andmebaas",
+    "subtitle": "Paljastatud üle 25 suurema skandaali (1980–2025)",
+    "intro": "Iga suurem korruptsioonijuhtum on dokumenteeritud summade, tulemuste ja allikatega",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "Portugali ajaloo suurim pettus. Avastati 700 miljonit eurot+ bilansivälist kahju. Pank natsionaliseeriti.",
+        "sources": "Allikad: RTP, Público, kohtudokumendid"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "EDP-ühendus:",
+        "edpText": "Salgado mõisteti süüdi majandusminister Manuel Pinhole altkäemaksu andmises 4,5 miljoni euroga EDP soodsate otsuste eest.",
+        "sources": "Allikad: Observador, kohtu dokumendid, BdP aruanded",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado – tegevjuht (1991–2014) – mitu katset, tervisega seotud viivitused",
+          "ricciardi": "José Maria Ricciardi – BES Investment – ​​SÜÜDUNUD",
+          "pires": "Amílcar Morais Pires – finantsjuht – SÜÜDUNUD",
+          "cruz": "Machado da Cruz – riskijuht – kohtu all"
+        },
+        "fraudStructure": {
+          "title": "Pettuste struktuur:",
+          "hiddenLosses": "Avameresõidukite kaudu peidetud 4,9 miljardit eurot avaldamata kahju",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPV-d (Luksemburgi shell-firmad)",
+          "mechanisms": "Seotud osapoolte laenud, ringgarantiid, varjatud kohustused, fiktiivsed varad, Angola toimingud (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgadost saab tegevjuht (23-aastane valitsusaeg)",
+          "problems": "2013: siseauditid näitavad probleeme (perekondlik)",
+          "collapse": "2014-08: teatab 3,6 miljardi euro suurusest kahjust, pank peatatud, 4,9 miljardi euro suurune päästepakett",
+          "prosecution": "2015-2025: mitu katset, aeglane areng, tegevjuhti pole kunagi vangistatud"
+        },
+        "monteBlanco": {
+          "name": "Monte Branco kohtuprotsess",
+          "defendants": "18 süüdistatavat, sealhulgas Salgado",
+          "status": "Käimas 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Väidetavalt sai Sócrates Salgadolt 15 000 eurot kuus",
+          "pinho": "Minister Pinho sai Salgadolt 4,9 miljonit eurot (10 aastat süüdi mõistetud)"
+        },
+        "regulatoryFailure": "Portugali keskpank ei näinud hoiatusmärke aastaid. Audiitorid kirjutasid alla petturlikele kontodele."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Riigipank vajab Portugali ajaloo suurimat päästepaketti.",
+        "interferenceTitle": "Poliitiline sekkumine:",
+        "interferenceText": "Parlamentaarse uurimise käigus leiti \"poliitiline sekkumine\" ja \"partisanide ametissenimetamine\", mis hõlmab mitut valitsust.",
+        "sources": "Allikad: RTP, parlamentaarse uurimise aruanne"
+      }
+    },
+    "politicians": {
+      "title": "Peaministrid ja tipppoliitikud",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Korruptsiooni allikad:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Šveitsi kontod: avastati 24 miljonit eurot"
+        },
+        "otherScandalsTitle": "Muud seotud skandaalid:",
+        "other": {
+          "freeport": "Freeport: süüdistused keskkonnast loobumise kohta",
+          "parqueEscolar": "Parque Escolar: kooli renoveerimispettus",
+          "cgd": "CGD: väidetav mõju panga otsustele"
+        },
+        "sources": "Allikad: DCIAP süüdistus, kohtudokumendid",
+        "charges": {
+          "title": "Retsepti skandaal:",
+          "original": "Esitatud 189 süüdistust (31 kuritegu)",
+          "prescribed": "167 tasu ON ETTEPANEK (aegunud)",
+          "remaining": "Kohtu alla antakse vaid 22 süüdistust",
+          "judge": "Kohtunik Ivo Rosa (aprill 2021): leidis, et enamik kuritegusid on aegunud",
+          "ruling": "Kohtunik otsustas, et Sócrates oli \"rikutud\", kuid kuritegu oli \"aegunud\""
+        },
+        "timeline": {
+          "arrested": "21.11.2014: arreteeriti Lissaboni lennujaamas",
+          "prison": "2014-2015: 9 kuud Évora vanglas",
+          "houseArrest": "2015: koduarest, seejärel täielikult vabaduses",
+          "ongoing": "2025: pärast 11+ aastat pole endiselt süüdimõistvat otsust"
+        },
+        "pension": {
+          "title": "Kaitstud süüdistatuna:",
+          "amount": "30 000 eurot aastas \"eluaegne toetus\" (subvenção vitalícia)",
+          "legal": "Pensioni kasutamine õiguskaitse rahastamiseks",
+          "lifestyle": "Hoiab Pariisi korterit, elustiili"
+        },
+        "recovery": "Portugali riigile nõuti tagasi 0 eurot",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Kaitsepositsioon:",
+        "defense": "Sócrates väidab, et 34 miljonit eurot olid laenud sõpradelt, mitte altkäemaksud. Tema kaitse väidab meedia tagakiusamist ja valikulist süüdistust. Prooviperiood jätkus 2025. aasta juulis pärast 11+ aastat viivitust."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "Ülim iroonia:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "Raid (7. november 2023):",
+          "cash": "Personaliülema kabinetist leiti 78 000 € sularaha",
+          "arrests": "Vítor Escária (staabiülem) ja Lacerda Machado (ärimees) vahistati",
+          "resignation": "Costa astus ametist tagasi samal õhtul"
+        },
+        "investigation": {
+          "title": "Operação mõjutaja:",
+          "lithium": "Liitiumi kaevandamise kontsessioonid (Euroopa suurimad varud)",
+          "hydrogen": "Rohelised vesinikuprojektid (mitmemiljardilised investeeringud)",
+          "allegation": "Väidetavad soodsad litsentsiotsused maksete eest"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária – staabiülem – arreteeriti, vabastati",
+          "machado": "Lacerda Machado – ärimeeste vahendaja – arreteeritud",
+          "galamba": "João Galamba – energeetika riigisekretär – vaatluse all"
+        },
+        "euPromotion": {
+          "date": "27. juuni 2024: valiti EL-i nõukogu presidendiks",
+          "start": "1. detsember 2024: Asub ametisse",
+          "status": "Uurimine veel kestab – süüdistusi ei esitatud"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especiais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Costale pole kunagi süüdistust esitatud ja ta ei ole endiselt arguido (ametlik kahtlusalune). Nov 2025: Ülemkohus otsustas, et pealtkuulamised viidi läbi ILMA nõuetekohase loata. Uurimine on pooleli, kuid ametlikke süüdistusi pole."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Allikad: kohtudokumendid",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Pedofiilide eliitvõrgustik, mis kasutab riiklikke lastekodusid. Telesaatejuht, UNESCO suursaadik, Casa Pia kuberner süüdimõistetute hulgas.",
+        "coverupTitle": "Varjamine:",
+        "coverupText": "Esimesed teated ilmusid 1980. aastatel. Politsei katkestas uurimise. Ametnikud hävitasid dokumendid. Täielik kokkupuude alles 2002. aastal.",
+        "sources": "Allikad: France 24, Kohtu dokumendid"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17 süüdistatavat, sealhulgas vanemkohtunikke, süüdistati soodsate kohtuotsuste müümises.",
+        "failureTitle": "Süsteemne rike:",
+        "failureText": "Kohtunikud, kes peaksid jõustama korruptsioonivastaseid seadusi, olid ise korrumpeerunud.",
+        "sources": "Allikad: Observador, kohtu protokollid"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Tancose relvavargus (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "Sõjaväebaasi turvalisuse rikkumine. Relvad varastati, seejärel \"leiti\" etapilise taastamise käigus.",
+        "convicted": "Sõjaväelased mõisteti süüdi",
+        "acquitted": "Kaitseminister Azeredo Lopes mõisteti õigeks",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "Õhuväe ametnikud tõstsid toiduainete hindu üle 10 miljoni euro võrra.",
+        "hiring": "Varem suunati vahendeid ümber shell-firmad",
+        "justified": "Põhjendatud kui \"operatiivne vajadus\""
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "Saksa ettevõte Ferrostaal maksis allveelaevade lepingu eest Portugali ametnikele 6,4 miljonit eurot.",
+        "germans": "Saksa juhid: MÕISTETUD Saksamaal",
+        "portuguese": "Portugali ametnikud: KÕIK VAHENDATUD",
+        "documents": "Peamised dokumendid \"kadusid\" kaitseministeeriumist"
+      },
+      "police": {
+        "2004": "2004: Euro 2004 turvakorruptsioon",
+        "2007": "2007: Leonor Cipriano juhtum – piinamises süüdi mõistetud ohvitserid",
+        "2019": "2019: filmiti jõhker kallaletung mustanahaliste kodanike vastu",
+        "2021": "2021: PSP ohvitserid mõisteti süüdi kallaletungis",
+        "2025": "2025: politsei inimkaubandusring paljastati",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Mitu linnapead kogu Portugalis on korruptsioonis süüdi mõistetud või uurimise all.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Mitme linnapea korruptsioonivõrgustik",
+        "description": "Uurimine paljastas korruptsioonivõrgustiku, mis hõlmas Santo Tirso ja Barcelose linnapead ning IPO Porto direktorit võltsitud riigihankelepingutes ja tagasilöökides.",
+        "santo": "• Santo Tirso linnapea: uuritud",
+        "barcelos": "• Barcelose linnapea: uuritud",
+        "ipo": "• IPO Porto direktor: uuritud",
+        "pattern": "• Muster: erakondadeülene munitsipaalkorruptsioon"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Kaks Espinho linnapead on uurimise all",
+        "description": "Espinho valla praegused ja endised linnapead on uurimise all riigihangete ja omavalitsuse otsustega seotud korruptsioonis.",
+        "current": "• Praegune linnapea: uurimise all",
+        "former": "• Endine linnapea: uurimise all",
+        "pattern": "• Muster: asutustevaheline korruptsioon"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Linnapea + jalgpalli esimees süüdi mõistetud",
+        "description": "Gondomari linnapea ja Boavista FC esimees mõisteti massilises kohtunike korruptsiooniskandaalis süüdi. Kaasatud 171 inimest, 13 süüdi mõistetud. Tingimisi karistus = vanglat pole.",
+        "sentence": "• Karistatud: 3 aastat 2 kuud TINGIMUSLIK",
+        "prison": "• Vanglas viibitud aeg: NULL",
+        "son": "• Poeg võttis üle Boavista FC (4-aastane võistluskeeld)",
+        "pinto": "• Pinto da Costa: sularaha + prostituudid kohtunikele"
+      },
+      "maestro": {
+        "name": "Operação Maestro (2024)",
+        "subtitle": "39 miljoni euro suurune ELi fondide pettus",
+        "description": "Märts 2024: PJ haarab 78 asukohta. Ärimees Manuel Serrão süüdistati 39 miljoni euro ümbersuunamises ELi regionaalarengu fondist. Kaks riigisekretäri uurimise all.",
+        "raids": "• Raide korraldati 78 kohta, 6 peeti kinni",
+        "officials": "• Uuriti 2 riigisekretäri",
+        "companies": "• Varjufirmade võrgustik pettuste eest",
+        "status": "• Olek: uurimine on pooleli"
+      },
+      "overview": {
+        "description": "Kohalik korruptsioon õitseb \"uudistekõrbetes\", kus ükski ajakirjanik ei jälgi munitsipaallepinguid, linnaplaneerimist ja avalikke töid. Levinud skeemid: ülepaisutatud lepingud, tagasilöögid, \"kiirtasud\" kooskõlastuste eest, töökohad poliitilistele liitlastele.",
+        "investigated": "Linnapead uurisid (2010–2025)",
+        "municipalities": "Portugali omavalitsused",
+        "officials": "Kohalikud ametnikud juhtumitega (detsember 2025)",
+        "suspended": "Saa tingimisi karistusi",
+        "title": "Munitsipaalkorruptsiooni ulatus"
+      },
+      "trifecta": {
+        "convicted": "5 linnapead MÕISTETUD",
+        "description": "2024. aasta detsembris mõisteti enneolematult süüdi 5 praegust/endist linnapead Albergaria-a-Velhast, Oliveira de Azeméis'st, Estarrejast ja ümbritsevatest omavalitsustest. Kõik on süüdi mõistetud riigihankelepingutega seotud korruptsioonis, peklemises ja võimu kuritarvitamises. Enamik sai tingimisi karistuse.",
+        "name": "Detsember 2024: Trifecta",
+        "pattern": "Kõik tingimisi karistused",
+        "prison": "0 vanglas",
+        "subtitle": "Ühe nädala jooksul mõisteti süüdi 5 linnapead"
+      }
+    },
+    "football": {
+      "title": "Jalgpalli korruptsioon",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "Pinto da Costa FC Porto on seotud kohtunike altkäemaksuskeemiga.",
+        "costa": "Pinto da Costa: Tehniliste asjaolude tõttu õigeks mõistetud",
+        "points": "Punktid maha võetud, hiljem taastatud",
+        "boavista": "Boavista (rivaalid) langes hoopis alla",
+        "uefa": "UEFA ei võtnud midagi ette"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "Massiline korruptsiooniskandaal, mis hõlmab mängude kokkuleppimist, maksupettusi ja omastamist.",
+        "vieira": "Luís Filipe Vieira: vahistati 2021. aastal, kohtu all",
+        "goncalves": "Paulo Gonçalves: endine õigusdirektor, süüdi mõistetud",
+        "ban": "Vieira sai jalgpallikeelu",
+        "pinto": "Eksponeeris Rui Pinto (Football Leaks)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "Endist PSD parlamendiliidri süüdistatakse Brasiilia kliendi mõrvas Rios.",
+        "bpn": "Pangajuristina seotud BPN-i skandaaliga",
+        "murder": "Ohver: Rosalina Ribeiro, Rio de Janeiros autos maha lastud",
+        "untouchable": "Portugali võimud keeldusid aastaid väljaandmisest"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Kuldse viisa skandaal (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "Kinnisvarahindade tõstmise ja altkäemaksu võtmise eest vahistati 11 ametnikku.",
+        "macedo": "SEFi direktor Paiva Nunes: Arreteeritud",
+        "figueiredo": "Mitu ametnikku mõisteti süüdi",
+        "chinese": "kaasatud Hiina ja Venemaa investorid"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "Osariigi lennufirmade juhid said tohutuid lahkumishüvitisi.",
+        "reis": "Christine Ourmieres-Widener: 500 000 eurot lahkumishüvitist",
+        "santos": "Ramiro Sequeira: vastuoluline väljumispakett",
+        "galamba": "Minister Galamba jälgis kohtumisi",
+        "laptop": "Parlamendiuurimine nõudis dokumente"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "Endeemiline nepotism kogu Portugali poliitikas.",
+        "president": "Marcelo sugulased võtmepositsioonidel",
+        "law": "Puuduvad sisukad onupoismivastased õigusaktid",
+        "hodgepodge": "Perekondlikud sidemed hõlmavad kõiki suuremaid parteisid"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Sócratese ajastu koolide renoveerimisprogramm, mis oli täis pettusi.",
+        "notAudited": "492 miljonit eurot kulutatud ilma korraliku auditita",
+        "investigation": "Uurimine alustati, kuid takerdus",
+        "noConvictions": "Seni pole süüdimõistvaid kohtuotsuseid tehtud"
+      }
+    },
+    "pattern": {
+      "title": "Karistamatuse muster: numbrite järgi",
+      "stats": {
+        "banking": "Panganduskahjud (BPN+BES+CGD+Novo Banco)",
+        "pms": "PM-id uurisid",
+        "socrates": "Aastad: Sócratesi juhtumi kestus",
+        "suspended": "Tingimisi karistusega lõppenud kohtuasjad",
+        "served": "Süüdimõistetutest, kes tegelikult aja ära teenisid",
+        "casaPia": "Casa Pia ohvrid",
+        "judges": "Kohtu all olevad kohtunikud (Op Lex)",
+        "submarine": "Portugali ametnikud mõisteti süüdi (allveelaev)",
+        "novoBanco": "Novo Banco päästekulud (0 süüdimõistvat kohtuotsust)",
+        "chargesDropped": "Sócratese süüdistused langesid (88%)",
+        "blocking": "Reformiettepanekud blokeeritud (2007–2025)",
+        "enrichment": "Võeti vastu ebaseadusliku rikastumise seadused",
+        "admiral": "Operatsioon Admiral recovery (EPPO)",
+        "arrests": "Admiral arreteeritakse 3 päeva pärast",
+        "prosecutors": "Prokurörid seisavad silmitsi ebakindlate lepingutega",
+        "lima": "Duarte Lima mõrvajuhtumi viivitus"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Casa Pia laste väärkohtlemise skandaal",
+        "date": "2002 (kuritarvitamine alates 1980. aastatest)",
+        "amount": "100+ lapsohvrit",
+        "description": "Pedofiilide eliitvõrgustik, mis kasutab riiklikke lastekodusid. Süüdimõistetute hulgas on telesaatejuht Carlos Cruz, diplomaat Jorge Ritto, Casa Pia kuberner Manuel Abrantes.",
+        "outcome": "7 süüdi mõistetud (2010), karistused 5-18 aastat",
+        "source": "Prantsusmaa 24"
+      },
+      "bpn": {
+        "title": "BPN – Banco Português de Negócios",
+        "date": "2008",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "José Oliveira e Costa: 14 aastat (apellatsiooni korras vähendatud)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES – Banco Espírito Santo",
+        "date": "2014. aasta",
+        "amount": "11,8 miljardi euro suurune kahjum",
+        "description": "Portugali suurim erapank kukub kokku. Ricardo Salgado perekonna impeerium laguneb. Riik loob Novo Banco tohutute kuludega.",
+        "outcome": "Salgado: 6→8 aastat (üks juhtum), 6a3m (EDP juhtum). Väidab Alzheimeri tõbe.",
+        "source": "Vaatleja"
+      },
+      "cgd": {
+        "title": "CGD – Caixa Geral de Depósitos",
+        "date": "2016. aasta",
+        "amount": "4,9 miljardi euro suurune päästepakett",
+        "description": "Riigipank vajab Portugali ajaloo suurimat päästepaketti. Parlamentaarne uurimine tuvastab \"poliitilist sekkumist\", \"partisanide ametisse nimetamist\". 7 aastat ignoreeritud pettusteateid.",
+        "outcome": "NULL veendumust",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "8+ miljardit eurot riigi raha",
+        "description": "\"Hea pank\" BES-i kokkuvarisemisest. Müüdud Lone Starile (2017) riigigarantiiga 3,89B €. Aastaks 2021: süstitud 7,9 miljardit eurot. Parlamentaarne uurimine tuvastab \"vastutustundetuse\".",
+        "outcome": "NULL veendumust. Isiklikku vastutust pole.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Saksa allveelaevade altkäemaksud",
+        "date": "2004. aasta",
+        "amount": "6,4 miljonit eurot altkäemaksu",
+        "description": "Ferrostaal maksis Portugali ametnikele 833 miljoni euro suuruse allveelaeva lepingu eest. €1M+ CDS-PP peole. Dokumendid \"kaovad\" kaitseministeeriumist.",
+        "outcome": "Saksa juhid: SÜNNITUD. Kõik portugali keeled: VABASTATUD (2014)",
+        "source": "Korruptsioonijälgija"
+      },
+      "freeport": {
+        "title": "Vabasadam",
+        "date": "2002",
+        "amount": "Avalikustamata",
+        "description": "Keskkonnaminister José Sócrates loobus väidetavalt keskkonnapiirangutest Briti ettevõttele, et ehitada kaubanduskeskus kaitsealusele maale.",
+        "outcome": "2010. aastal kustutatud – \"kedagi pole süüdi\"",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Kuldse viisa skandaal",
+        "date": "2014. aasta",
+        "amount": "40+ miljonit eurot altkäemaksu",
+        "description": "11 ametnikku vahistati kinnisvarahindade tõstmise ja elamislubade eest altkäemaksu võtmise eest. kaasatud Hiina ja Venemaa investorid.",
+        "outcome": "Mõned veendumused, programm jätkub",
+        "source": "Vaatleja"
+      },
+      "tancos": {
+        "title": "Tancose relvavargus",
+        "date": "2017. aasta",
+        "amount": "Sõjaväe relvade vahemälu",
+        "description": "Varastati 1450 padrunit, 150 käsigranaati, 44 tankitõrjegranaati, 264 plastlõhkeainet. Turvakaamerad ei tööta mitu nädalat. Minister Azeredo Lopes astus tagasi.",
+        "outcome": "Kohtuprotsess pooleli, mitu süüdistatavat",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Täielik korruptsiooniandmebaas",
+    "fullIntro": "Iga suurem korruptsioonijuhtum on dokumenteeritud summade, tulemuste ja allikatega",
+    "additional": {
+      "title": "Justiitssüsteemi skandaalid",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Prokurör võttis altkäemaksu 700 000+ €",
+        "description": "Prokurör Orlando Figueira võttis korruptsiooniuurimise lõpetamiseks altkäemaksu Angola asepresidendilt Manuel Vicentelt. Näitab korruptsiooni prokuratuuris endas.",
+        "orlando": "• Orlando Figueira (prokurör): SÜDUNUD",
+        "vicente": "• Manuel Vicente (Angola VP): kaitstud diplomaatilise puutumatusega",
+        "pattern": "• Muster: need, kes süüdistavad korruptsiooni, rikutud"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (Oeirase linnapea)",
+        "subtitle": "\"Korrumpeerunud linnapea, keda nad jumaldavad\"",
+        "description": "Süüdi mõistetud maksupettuses, rahapesus. Karistuseks mõisteti 7 aastat → apellatsiooni korras vähendati 2 aastani. Serveeritud 14 kuud. Valiti tagasi linnapeaks 2017 ja 2021. Ametis siiani.",
+        "conviction": "• 2009: mõisteti 7 aastaks → 2010: vähendati 2 aastani",
+        "prison": "• 2013–2014: teenis 14 kuud Carregueira vanglas",
+        "reelected": "• 2017, 2021: VALITUD TAAS linnapeaks",
+        "new": "• 2022: PPP üleastumise eest esitati uued süüdistused"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "Käibemaksu karussellpettus, mis hõlmab mitut riiki. Portugali ametivõimude asemel esitati vastutusele EPPO. 10 süüdimõistetut, karistused 7-8 aastat. See juhtub siis, kui EL võtab üle süüdistuse.",
+        "lesson": "ÕPPETUND: EPPO töötab. Riiklik süsteem seda ei tee.",
+        "name": "Operatsioon Admiral (2025)",
+        "subtitle": "2,9 miljardit eurot – EL-i suurim pettus kunagi"
+      },
+      "context": {
+        "admiral": "Admirali pettus (üksik juhtum)",
+        "description": "Portugal on alates 1986. aastast saanud ELi struktuurifondidest üle 60 miljardi euro. Siiski on Portugal endiselt üks Lääne-Euroopa vaesemaid riike. Kuhu raha kadus? Audiitorid avastavad järjekindlalt eeskirjade eiramisi, kuid vastutusele võtmine on haruldane.",
+        "eppo": "EPPO Portugali prokurör",
+        "prr": "PRR-i taastamiskava (2021–2026)",
+        "received": "Saadud ELi vahendid (1986–2024)",
+        "title": "60 miljardi euro küsimus"
+      },
+      "patterns": {
+        "invoices": "• Võltsarved olematute teenuste eest",
+        "kickbacks": "• Tagasilöögid heakskiitvatele ametnikele",
+        "monitoring": "• IGCP/IGAC nõrk jälgimine",
+        "prescription": "• Juhtumid määratakse enne kohtuprotsessi",
+        "projects": "• \"Kummitusprojektid\" – heaks kiidetud, kuid mitte kunagi lõpetatud",
+        "shell": "• Vahendite saamiseks loodud shell-firmad",
+        "title": "Korduvad pettusemustrid"
+      },
+      "title": "ELi fondide pettus"
+    },
+    "disclaimer": {
+      "title": "Tähtis juriidiline teade",
+      "presumption": "• Süütuse presumptsioon: kõiki isikuid peetakse süütuks seni, kuni nende süü on lõpliku kohtuotsusega tõestatud. Staatus \"Uurimisel\" või \"arguido\" ei tähenda süüd.",
+      "status": "• Juhtumi olek: igal kirjel on praegune õiguslik staatus (süüdimõistetud, kohtu all, uurimisel, arhiveeritud, õigeks mõistetud). Olekuid värskendatakse juhtumite edenedes.",
+      "sources": "• Allikad: kogu teave pärineb ametlikest kohtudokumentidest, DCIAP teadaannetest, parlamendi uurimistest või mainekast Portugali meediast (RTP, Público, Observador).",
+      "defense": "• Kaitsepositsioonid: süüdistatavad on süüdistusi eitanud või selgitusi andnud. Nende õiguslikud seisukohad on avalikult kättesaadavad."
+    }
+  },
+  "operations": {
+    "title": "Politseioperatsioonide nimekiri",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "José Sócrates (PM)",
+      "status": "Prooviperiood kestab 11+ aastat",
+      "crimes": "22 kuritegu: korruptsioon, rahapesu, kelmus"
+    },
+    "influencer": {
+      "name": "Operação mõjutaja",
+      "target": "António Costa (PM)",
+      "status": "Uurimise all → EL president",
+      "crimes": "Korruptsioon, omastamine"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "target": "Kohtunikud Rangel, Galante, Vaz das Neves",
+      "status": "Prooviperiood algas 2025. aasta oktoobris",
+      "crimes": "17 süüdistatavat, 21+ kuritegu"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "Prokurör Orlando Figueira",
+      "status": "Süüdi mõistetud 6-8 m (2021)",
+      "crimes": "700 000 € altkäemaksu Angola VP-lt"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, Barcelose linnapead",
+      "status": "Prooviperiood kestab 2025",
+      "crimes": "50+ kuritegu, 1,8M € rikkumisi"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 Espinho linnapead (PS + PSD)",
+      "status": "Kohtuprotsess on pooleli",
+      "crimes": "Linnakorruptsioon, kiirtasud"
+    },
+    "babel": {
+      "name": "Paabeli ooper",
+      "target": "Gaia asepresident Patrocínio Azevedo",
+      "status": "Prooviperiood algab 2025. aasta jaanuaris",
+      "crimes": "€40M eelised, €300M kinnisvara"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "Lissaboni koguduse presidendid",
+      "status": "Süüdistus lõpetatud",
+      "crimes": "60 süüdistatavat, 463 kuritegu, 580 000 eurot"
+    },
+    "maestro": {
+      "name": "Operação Maestro",
+      "target": "Manuel Serrão",
+      "status": "Uurimine käib",
+      "crimes": "39 miljoni euro suurune ELi fondide pettus"
+    },
+    "admiral": {
+      "name": "Operatsioon Admiral (EPPO)",
+      "target": "Käibemaksupettuste võrgustik",
+      "status": "10 süüdi mõistetud (mai 2025)",
+      "crimes": "2,9 miljardi euro suurune kahju – suurim ELi pettus läbi aegade"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 aastat korruptsiooni: täielik ajaskaala",
+    "pageSubtitle": "Iga paljastatud skandaal → Iga reform blokeeritud → Paljastub süstemaatiline karistamatuse muster",
+    "legend": {
+      "corruption": "Korruptsioon/skandaal",
+      "blocked": "Reform blokeeritud/nõrk vastus",
+      "conviction": "Süüdimõistmine/reform läbitud"
+    },
+    "summaryTitle": "50 aastat: tulemus",
+    "summary": {
+      "bankingLosses": {
+        "value": "25 miljardit eurot+",
+        "label": "Panganduskahjud (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Reformikatsed blokeeritud"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Siduvad referendumid"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "Peaministrid mõisteti süüdi"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Õigluse ees seisvad poliitikud (alates 2017. aastast)"
+      },
+      "socratesDuration": {
+        "value": "11 aastat",
+        "label": "Sócratese vahistamine→kohtuprotsess"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "Casa Pia ohvrid"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Op Lex süüdistatavad (kohtunikud+)"
+      },
+      "admiralFraud": {
+        "value": "2,9 miljardit eurot",
+        "label": "Käibemaksupettus (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Ministrid vanglas (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "Muster paljastatud",
+    "patternIntro": "Igale suuremale skandaalile järgneb:",
+    "pattern": {
+      "step1": "1. <strong>Pahameel</strong> → meediakajastus, avalik viha",
+      "step2": "2. <strong>Reformi ettepanek</strong> → Opositsioonilt või väikeerakondadelt",
+      "step3": "3. <strong>Blokeeri</strong> → PS või PSD hääletage vastu (neil on 230 kohast 150+)",
+      "step4": "4. <strong>Vilvus</strong> → Juhtum venib aastaid, kuni retsepti saabub",
+      "step5": "5. <strong>Vastumõistmine või tingimisi karistus</strong> → 75% juhtudest",
+      "step6": "6. <strong>Edendamine</strong> → Costa EL Nõukogusse, Barroso EL Komisjoni"
+    },
+    "patternQuote": "\"Vangi lähevad ainult vaesed ja tundmatud.\"",
+    "footerSource": "Kogu teave pärineb ametlikest kohtudokumentidest, Portugali meediast ja rahvusvahelistest organisatsioonidest.",
+    "years": {
+      "y1974": "1974. aastal",
+      "y1980s": "1980. aastad",
+      "y1989": "1989. aasta",
+      "y1997": "1997. aastal",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004. aasta",
+      "y2005_09": "2005-09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010. aasta",
+      "y2012": "2012. aasta",
+      "y2014": "2014. aasta",
+      "y2015": "2015. aasta",
+      "y2016": "2016. aasta",
+      "y2017": "2017. aasta",
+      "y2019": "2019",
+      "y2021": "2021. aasta",
+      "y2022": "2022. aasta",
+      "y2023": "2023. aasta",
+      "y2024": "2024. aasta",
+      "y2025": "2025. aasta"
+    },
+    "badges": {
+      "democracyRestored": "DEMOKRAATIA TAASTATUD",
+      "designFlaw": "DISAINVIGA",
+      "abuseBegins": "ALGAB KURITARVITUS",
+      "reformBlocked": "REFORM BLOKEERITUD",
+      "reformSabotaged": "REFORM SABOTAERITUD",
+      "tcBlocks": "TC PLOKID",
+      "sabotaged": "SABOTAERITUD",
+      "centralizationPreserved": "TSENTRALISEERIMINE SÄILITUD",
+      "scandalErupts": "SKANDAAL PUHAS",
+      "freeportAllegations": "VABASADAMA SÜTTED",
+      "footballCorruption": "JALGPALLI KORRUPTSIOON",
+      "submarineBribery": "ALLVEELAEVADE ALTKASKEANDMINE",
+      "euro2004Stadiums": "EURO 2004 STAADIONID",
+      "corruptionMachine": "KORRUPTSIOONIMASIN",
+      "faceOculta": "NÄO OCULTA",
+      "commitmentMade": "KOHUSTUS TEHTUD",
+      "nonBinding": "MITTESIDUV",
+      "policeCorruption": "POLITSEI KORRUPTSIOON",
+      "bankingCollapse": "PANGADE KOKKUPÕRGE",
+      "cgdFraudIgnored": "CGD PETTUSTE HOIATUSED IGORREERITUD",
+      "murderAllegation": "Mõrvasüüdistus",
+      "rareConvictions": "HARULDASED VÕISTMUSED",
+      "tcBlocksReform": "TC BLOKIDE REFORM",
+      "noEuVote": "EL-I HÄÄLETUS EI OLE",
+      "pmArrested": "PM VAHISTATUD",
+      "goldenVisaScandal": "KULDNE VIISASKANDAAL",
+      "tcBlocksAgain": "TC BLOKIB JÄLLE (ÜKSMEELNE)",
+      "prosecutorCorruption": "PROKURSI KORRUPTSIOONI",
+      "benficaEmails": "BENFICA MEILID",
+      "novoBancoBlackHole": "NOVO BANCO MUST AUK",
+      "militaryScandal": "SÕJALINE SKANDAAL",
+      "bpnConvictions": "BPN-VENDID",
+      "autarquiaCorruption": "AUTARQUIA KORRUPTSIOON",
+      "joeBerado": "JOE BERARDO SKANDAAL",
+      "varaConvicted": "VARA SÜNNITUD",
+      "policeBrutality": "POLITSEI JÕRKUS",
+      "nepotismScandal": "NEPOTISISMI SKANDAAL",
+      "policeMurder": "POLITSEI MÕRV",
+      "weakLawPassed": "NÕRK SEADUS VASTU VÕTTU",
+      "varaReleased": "VARA VABASTAS (COVID)",
+      "allPartiesBlock": "KÕIK OSAPOOLED BLOKEERIVAD",
+      "judgesOnTrial": "KOHTUNIKUD KOHTUALUSEL",
+      "tapScandal": "TAP SKANDAL",
+      "tancosConvictions": "TANCOSED VENDID",
+      "espinhoMayorsArrested": "ESPINHO linnapead vahistati",
+      "lisbonParishCorruption": "LISSABONI KIRIKONNA KORRUPTSIOON",
+      "governmentFalls": "VALITSUS LAKKUB",
+      "tapContinues": "TAP JÄTKUB",
+      "edpConvictions": "EDP ​​SÜNNID",
+      "euFundsFraud": "39 miljoni euro suurune EL-i VAHENDITE PETTUS",
+      "gaiaRealEstateRing": "GAIA KINNISVARASÕRMUS",
+      "defendants65": "65 KAITSJAT",
+      "euReward": "EL AUHIND",
+      "reformBlockedAgain": "REFORM JÄLLE BLOKEERITUD",
+      "euBiggestVatFraud": "EL-I SUURIMAD KÄIBEMAKSUPETTUSED",
+      "judgesFinally": "KOHTUNIKUD LÕPUKS ON KOHTUL",
+      "policeTrafficking": "POLITSEISI KAUBASÕRMUS",
+      "varaReturns": "VARA TAGASI VANGLASSE",
+      "benficaFraudTrial": "BENFICA PETTUSE PROTSESS",
+      "politicians191": "191 POLIITIKU",
+      "decemberTrifecta": "DETSEMBER TRIFECTA",
+      "stillNoLaw": "51 AASTAT HILJEM"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Nelgi revolutsioon",
+        "desc": "48 aastat kestnud Salazari/Caetano diktatuuri lõpp. Algab uus demokraatia ajastu."
+      },
+      "noReferendums": {
+        "title": "1976. aasta põhiseaduses ei korraldatud rahvahääletusi",
+        "desc": "Asutav Assamblee välistab teadlikult otsedemokraatia. Parteid seostavad referendumeid Salazari rahvahääletustega.",
+        "note": "Kaitsesüsteem saab alguse sünnist."
+      },
+      "casaPiaFirstReported": {
+        "title": "Esmalt teatati Casa Pia kuritarvitamisest",
+        "desc": "Ilmuvad esimesed teated laste seksuaalse kuritarvitamise kohta riiklikes lastekodudes. Politsei katkestab uurimise. Ametnikud hävitavad dokumendid.",
+        "note": "Algab varjamine. Kestab 20+ aastat."
+      },
+      "pcpFirstProposal": {
+        "title": "PCP esitab kõigepealt korruptsioonivastased seadused",
+        "desc": "Kommunistlik Partei (PCP) teeb ettepaneku ebaseadusliku rikastamise seadusandluse kohta.",
+        "result": "PS + PSD plokk"
+      },
+      "referendumsPoisonPill": {
+        "title": "Referendumid lisatud – mürgipillidega",
+        "desc": "Põhiseaduse läbivaatamine lisab rahvahääletuse mehhanismi.",
+        "catch": "50% valimisaktiivsuse künnis + Konstitutsioonikohtu veto = loodud ebaõnnestuma",
+        "note": "Järgmised 35 aastat: saavutatud 0 siduvat referendumit."
+      },
+      "amsterdamBlocked": {
+        "title": "Amsterdami lepingu rahvahääletus blokeeritud",
+        "desc": "Konstitutsioonikohus lükkas EL-i lepingu referendumi tagasi – \"eksitav küsimus\"",
+        "note": "Portugal ei hääleta KUNAGI EL-i integratsiooni üle."
+      },
+      "casaPiaExposed": {
+        "title": "Casa Pia väärkohtlemise skandaal avalikustati",
+        "desc": "Ajakirjanik murrab loo: eliitpedofiilide võrgustik, mis kasutab riiklikke lastekodusid. Telesaatejuht, UNESCO suursaadik, Casa Pia kuberner süüdistatavate hulgas.",
+        "note": "100+ last väärkoheldud. Prooviperiood kestab 5+ aastat."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates ja Freeporti ostukeskus",
+        "desc": "Keskkonnaminister José Sócrates loobub väidetavalt keskkonnapiirangutest Briti ettevõttele, et ehitada kaubanduskeskus kaitsealusele maale.",
+        "outcome": "2010. aastal kustutatud – \"keegi pole süüdi\""
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Statistika ja allikad",
+    "pageSubtitle": "Kõik andmed pärinevad ametlikest ja usaldusväärsetest rahvusvahelistest allikatest",
+    "ti": {
+      "title": "Transparency International",
+      "subtitle": "Korruptsioonitajumise indeks (CPI)",
+      "score2024": {
+        "value": "57",
+        "label": "Portugali tarbijahinnaindeksi skoor 2024",
+        "trend": "-4 punkti 2023. aastast"
+      },
+      "rank": {
+        "value": "43",
+        "label": "Ülemaailmne edetabel",
+        "detail": "180 riigist"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Prokurörid ütlevad, et perioodid on ebapiisavad",
+        "source": "TI uuring"
+      },
+      "tableTitle": "ELi tarbijahinnaindeksi võrdlus (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobaromeeter",
+      "subtitle": "Eurobaromeetri erikorruptsioon (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "Portugallased usuvad, et korruptsioon on laialt levinud",
+        "euAvg": "EL-i keskmine: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Uskuge, et riigivalitsuses eksisteerib korruptsioon",
+        "euAvg": "EL-i keskmine: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Oletame, et altkäemaksu võtmine on lihtsaim viis avalike teenuste saamiseks",
+        "euAvg": "EL-i keskmine: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Digitaalne lõhe",
+      "subtitle": "Interneti kasutamine vanuserühma järgi (Portugal, 2024)",
+      "keyInsight": "Põlvkond, kes oli tunnistajaks kogu 50-aastasele korruptsioonimustrile (65+), jäetakse AINULT DIGITAALNE referendumi allkirjade süsteemist süstemaatiliselt välja",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99,1%",
+          "excluded": "0,9%"
+        },
+        "35-44": {
+          "usage": "98,6%",
+          "excluded": "1,4%"
+        },
+        "45-54": {
+          "usage": "94,9%",
+          "excluded": "5,1%"
+        },
+        "55-64": {
+          "usage": "82,5%",
+          "excluded": "17,5%"
+        },
+        "65-74": {
+          "usage": "61,1%",
+          "excluded": "38,9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "~70%"
+        }
+      }
+    },
+    "summaryTitle": "Kokkuvõte: mida andmed näitavad",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "portugallased näevad laialt levinud korruptsiooni",
+        "source": "Eurobaromeeter 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "GRECO soovitused rakendatud",
+        "source": "Euroopa Nõukogu 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "punkti CPI langus ühe aastaga",
+        "source": "Transparency International 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "prokuröridest väidavad, et aegumisperioodid on ebapiisavad",
+        "source": "TI-uuring 2023"
+      }
+    },
+    "footer": "Kogu statistika ametlikest allikatest. Viimati värskendatud: detsember 2025."
+  },
+  "tables": {
+    "headers": {
+      "name": "Nimi",
+      "party": "Partei",
+      "status": "Staatus",
+      "charges": "Tasud/olek",
+      "chargesSentence": "Süüdistused/lause",
+      "chargesStatus": "Tasud/olek",
+      "amount": "Summa",
+      "year": "aasta",
+      "initiative": "Initsiatiiv",
+      "result": "Tulemus",
+      "whoBlocked": "Kes blokeeris",
+      "country": "Riik",
+      "score": "Skoor",
+      "rank": "Aste",
+      "change": "Muuda",
+      "ageGroup": "Vanuserühm",
+      "internetUsage": "Interneti kasutamine",
+      "excluded": "Välistatud",
+      "impact": "Mõju",
+      "aspect": "Aspekt",
+      "sentence": "lause",
+      "allegations": "Süüdistused/süüdimõistmised",
+      "protectionLevel": "Kaitsetase",
+      "sweden": "Rootsi",
+      "portugal": "Portugal",
+      "position": "positsioon",
+      "illicitEnrichment": "Ebaseaduslik rikastamine",
+      "lobbyRegulation": "Lobby määrus",
+      "endImmunity": "Lõpeta puutumatus",
+      "notableActions": "Märkimisväärsed toimingud",
+      "politician": "poliitik",
+      "scandal": "Skandaal",
+      "euReward": "ELi preemia",
+      "date": "Kuupäev",
+      "subject": "Teema",
+      "turnout": "Valimisaktiivsus",
+      "binding": "Köitmine?",
+      "illicitEnrichmentLaw": "Ebaseadusliku rikastumise seadus",
+      "constitutionalStatus": "Põhiseaduslik staatus",
+      "immunityScope": "Immuunsuse ulatus",
+      "parliamentBlocks": "Parlament blokeerib uurimise?",
+      "tiCpi": "TI CPI",
+      "prescription": "Retsept",
+      "avgTime": "Keskm. Aeg",
+      "immunity": "Immuunsus",
+      "role": "Roll",
+      "municipality": "omavalitsus",
+      "controversy": "Vaidlus/kontekst"
+    },
+    "status": {
+      "convicted": "SÜDUNUD",
+      "convictedServing": "SÜNNITUD – teenindavad",
+      "convictedAppealing": "SÜNNITUD – pealekaebav",
+      "onTrial": "Kohtuprotsessil",
+      "underInvestigation": "Uurimise all",
+      "arguido": "Arguido",
+      "arrested": "VAHETATUD",
+      "archived": "Arhiveeritud",
+      "declined": "Uurimine lükati tagasi",
+      "neverProsecuted": "Pole kunagi kohtu alla antud",
+      "acquitted": "VABAKS TUNNITUD",
+      "euPromoted": "EL nõukogu eesistuja"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega",
+      "livre": "Livre",
+      "pan": "PAN",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "Teie koefitsiendid vs. nende koefitsiendid",
+    "subtitle": "Kui õiglus oleks loterii, siis siin on see, mida numbrid meile ütlevad",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Kui olete kodanik:"
+    },
+    "politician": {
+      "title": "Kui olete poliitik:"
+    }
+  },
+  "sources": {
+    "title": "Täielik allikate loend",
+    "subtitle": "Kõik andmed pärinevad ametlikest ja kontrollitud allikatest",
+    "constitutionalCourt": "Konstitutsioonikohus",
+    "prosecutionService": "Prokuratuur",
+    "europeanUnion": "Euroopa Liit",
+    "internationalOrgs": "Rahvusvahelised organisatsioonid",
+    "eurobarometer": "Eurobaromeeter",
+    "portugueseLegislation": "Portugali õigusaktid",
+    "parliamentaryRecords": "Parlamendi registrid",
+    "internationalComparisons": "Rahvusvahelised võrdlused",
+    "mediaSources": "Meedia allikad",
+    "laborHumanRights": "Töö/inimõigused",
+    "cryptographicStandards": "Krüptograafilised standardid",
+    "digitalStatistics": "Digitaalne statistika"
+  },
+  "verdict": {
+    "title": "Otsus",
+    "subtitle": "50 aastat dokumenteeritud tõendeid"
+  },
+  "backToMain": "← Tagasi põhiaruande juurde",
+  "duopoly": {
+    "bothProtect": "Mõlemad pooled kaitsevad üksteist",
+    "coordinatedTheater": "PS ja PSD näiline vastandus on koordineeritud teater. Kui see on oluline – reformi blokeerimine – hääletavad nad koos."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Allikas: Eurobaromeeter 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "Ebaõnnestunud referendumite muster",
+      "text": "Kõik Portugali ajaloos toimunud referendumid ei ole saavutanud osaluskünnist või on olnud mittesiduvad.",
+      "sources": "Allikas: Portugali valimiskomisjon"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Allikas: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "Šveitsi demokraatia põhistatistika:"
+  },
+  "roadmap": {
+    "title": "Uurimine",
+    "subtitle": "Struktureeritud teekond läbi Portugali karistamatuse arhitektuuri",
+    "part1": {
+      "title": "Süsteem",
+      "desc": "Kuidas pavlovlik poliitiline klass oma inimesi kaitseb"
+    },
+    "part2": {
+      "title": "Juhtumid",
+      "desc": "Peaministrid, ministrid ja karistamatust määratlevad juhtumid"
+    },
+    "part3": {
+      "title": "Lüngad",
+      "desc": "Õiguslikud mehhanismid, mis tagavad korruptsiooni karistamatuse"
+    },
+    "part4": {
+      "title": "Blokeerimine",
+      "desc": "Kuidas PS/PSD süstemaatiliselt reforme blokeerib"
+    },
+    "part5": {
+      "title": "EL-i auhinnad",
+      "desc": "Kuhu süüdistatavad poliitikud jõuavad: Brüssel"
+    },
+    "part6": {
+      "title": "Lahendus",
+      "desc": "Mida kodanikud saavad tsükli murdmiseks teha"
+    },
+    "conclusion": "Kodanikueetikast konkreetse tegevuseni—iga osa paljastab veel ühe kihi süsteemist, mis on loodud korrumpeerunuid kaitsma."
+  },
+  "journalism": {
+    "badge": "Miks see uurimine eksisteerib",
+    "title": "Unistus, mis ei suutnud süsteemi ellu jääda",
+    "subtitle": "Portugali ajakirjandus süsteemse tabamise all",
+    "intro": "Iga ajakirjanik alustab samast unistusest: näita inimestele tõtt, dokumenteeri olulist, muuda maailma. Portugalis põrkub see unistus süsteemiga, mille eesmärk on täpselt seda vältida.",
+    "medicine": {
+      "title": "Meditsiin",
+      "oath": "Esiteks, ära tee kahju."
+    },
+    "journalismEthics": {
+      "title": "Ajakirjandus",
+      "oath": "Esiteks, ära eksita."
+    },
+    "doctors": {
+      "title": "Arstid",
+      "diagnose": "Diagnoosivad tõendite, mitte uskumuste põhjal",
+      "wellbeing": "Seavad patsiendi heaolu ideoloogia või kasumi ette",
+      "bound": "On seotud eetikaga isegi surve all",
+      "lose": "Kaotavad legitiimsuse, kui nad teadlikult kahju põhjustavad"
+    },
+    "journalists": {
+      "title": "Ajakirjanikud",
+      "report": "Raporteerivad kontrollitavate faktide, mitte agendade põhjal",
+      "rightToKnow": "Seavad avalikkuse õiguse teada poliitilisest kuuluvusest ettepoole",
+      "bound": "On eetiliselt seotud isegi omanike, riikide või publiku surve all",
+      "lose": "Kaotavad legitiimsuse, kui nad teadlikult reaalsust moonutavad"
+    },
+    "broken": {
+      "title": "Kui vanne on murtud",
+      "doctorMalpractice": "Arst, kes praktiseerib ideoloogiat meditsiini asemel, paneb toime väärravi",
+      "journalistMalpractice": "Ajakirjanik, kes praktiseerib ideoloogiat tõe asemel, paneb toime kodanikualase väärravi",
+      "consequences": "Tagajärjed on ühiskondlikud:",
+      "consequence1": "Polariseerumine",
+      "consequence2": "Desinformatsioon",
+      "consequence3": "Usalduse erosioon",
+      "consequence4": "Demokraatlik lagunemine"
+    },
+    "distinction": {
+      "title": "Selge eristus",
+      "text": "Ajakirjanikud, nagu arstid, on inimesed ja neil on isiklikud väärtused. Eetikat rikutakse mitte väärtuste omamisega, vaid nende väärtuste lubamisega asendada kontrollimist, tõendeid ja vastutust."
+    },
+    "quote": "Arst, kes patsiendile valetab, on süüdi väärrravis. Ajakirjanik, kes avalikkusele valetab, on süüdi kodanikualases väärrravis."
+  },
+  "convicted": {
+    "badge": "Süsteemi tulemus",
+    "title": "Süüdi mõistetud, kuid kaitstud",
+    "subtitle": "Need ei ole süüdistused. Need on veendumused. Kuid süsteem tagab, et nad säilitavad oma pensionid, naasevad ametisse või pääsevad tagajärgedest täielikult.",
+    "status": {
+      "convicted": "SÜDUNUD",
+      "reelected": "SÜNNITUD → ÜMBERVALITUD",
+      "murder": "Süüdistatakse mõrvas",
+      "unpaid": "980 M € TASUTA",
+      "zeroPrison": "8B € KAOTATUD, NULL VANGLA",
+      "eppoSuccess": "EPPO EDU"
+    },
+    "labels": {
+      "operation": "Toimimine:",
+      "crime": "Kuritegevus:",
+      "sentence": "Lause:",
+      "served": "Teenindusaeg:",
+      "amount": "Summa:",
+      "currentStatus": "Praegune:",
+      "victim": "Ohver:",
+      "date": "Kuupäev:",
+      "trialStart": "Prooviperioodi algus:",
+      "borrowed": "Laenatud:",
+      "repaid": "Tasutud:",
+      "artCollection": "Kunstikogu:",
+      "publicCost": "Avalik kulu:",
+      "resolution": "Resolutsioon:",
+      "convictions": "Süüdimõistmine:"
+    },
+    "pensionBattle": "Pensionilahing:",
+    "suedProsecutor": "Kaebas prokuröri kohtusse:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "PS riigisekretär, minister, CGD juhatus",
+      "crime": "Kauplemise mõjutamine (3 loendit)",
+      "pension": "8 551 €/kuu pension arestitud KOLM korda, tagastatud apellatsiooni korras KAKS KORDA. Muster: arestimine → apellatsioon → tagastatud → kordamine."
+    },
+    "pinho": {
+      "name": "Manuel Pinho",
+      "position": "PS majandusminister (2005-2009)",
+      "crime": "Passiivne korruptsioon, maksupettused, rahapesu",
+      "sued": "8 551 €/kuu pension arestitud 3x, tagastatud 2x. Kaebatud prokurör ja kohtunik Carlos Alexandre pensionide arestimise pärast.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "PSD Oeirase linnapea (1985-2009, 2017-praegu)",
+      "crime": "Maksupettused, rahapesu, võimu kuritarvitamine",
+      "current": "VEEL LINNApea (2025)",
+      "quoteTitle": "Avalik hüüdnimi:",
+      "quote": "\"Korrumpeerunud linnapea, keda portugallased jumaldavad\" — TAGASI VALITUD 2017. ja 2021. aastal. Uued süüdistused esitati 2022. aastal.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "PSD parlamendisaadik, jurist",
+      "crime": "Mõrv Brasiilias",
+      "victim": "Rosalina Ribeiro (klient)",
+      "shieldTitle": "Kilp:",
+      "shield": "Portugali ja Brasiilia vahel väljaandmislepingut ei ole. Jäi Portugalis \"puutumatuks\" 16 aastat, enne kui kohtuprotsess lõpuks algas.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Ärimees, kunstikoguja",
+      "repaid": "Nulli lähedal",
+      "quoteTitle": "Parlamendile:",
+      "quote": "\"Unustasin\" — kui küsiti 980 miljoni euro suuruse võla kohta. Ähvardas parlamendiliikmeid ütluste andmise ajal. Ei mingeid tagajärgi."
+    },
+    "novoBanco": {
+      "name": "Novo Banco skandaal",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "NULL",
+      "outcomeTitle": "Parlamentaarne uurimine:",
+      "outcome": "Leiti \"poliitiline vastutustundetus\" — aga kriminaalvastutust pole. Erakasum, avalik kahju. Muster jätkub.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especiais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "Üksiku tähe pakkumine (2017):",
+        "salePrice": "Lone Star maksis: 1 miljard eurot",
+        "guarantee": "Riigi garantii: kahju 3,89 miljardit eurot",
+        "result": "Riik kannab kogu riski, ostja saab kõik tagurpidi"
+      },
+      "injections": {
+        "title": "Süstitud riigi raha:",
+        "y2014": "2014: 4,9 miljardit eurot (kriisilahendusfond)",
+        "y2018": "2018: 792 miljonit eurot (tingimuslik kapital)",
+        "y2019": "2019: 1,15 miljardit eurot (tingimuslik kapital)",
+        "y2020": "2020: 1,04 miljardit eurot (tingimuslik kapital)",
+        "y2021": "2021: 598 miljonit eurot (tingimuslik kapital)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa – Portugali Panga juht – järelevalve teostaja müük",
+        "centeno": "Mário Centeno – rahandusminister – kinnitatud garantiid"
+      },
+      "inquiryQuote": "\"Müügitingimused olid ostjale erakordselt soodsad, Portugali riik võttis ebaproportsionaalselt suure riski.\" — 2021. aasta parlamentaarne uurimine",
+      "whyNoAccountability": {
+        "title": "Miks süüdistust ei esitata:",
+        "discretion": "Müügitingimused, mis on liigitatud poliitikaotsusteks",
+        "noEnrichment": "Otsustajad isiklikult kasu ei toonud",
+        "immunity": "Regulaatoritel on institutsionaalne kaitse",
+        "bipartisan": "PS ja PSD on mõlemad kaasosalised – ei esita üksteist süüdistust"
+      },
+      "sale2025": {
+        "title": "2025. aasta värskendus: Lone Star Exit",
+        "text": "Oktoober 2025: Prantsuse pank BPCE omandab 8 miljardi euro eest Novo Banco. Lone Star väljub pärast 8,5 miljardi euro suurust riigisüsti tohutu kasumiga. Null süüdimõistmist kokkuvarisemise eest. Null kahjumi tagasinõudmist."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Novo Banco müüs 8 miljardi euro eest Prantsuse pangale BPCE (oktoober 2025). Lone Star väljub kasumiga pärast 3,89 miljardi euro suuruse riigigarantii saamist. Maksumaksjad ei saanud kunagi tagasi 10,4 miljardit eurot riiklikest vahenditest. Müügitulu läheb kriisilahendusfondi, mitte riigikassasse."
+    },
+    "admiral": {
+      "name": "Operatsioon Admiral",
+      "subtitle": "EL-i suurim pettusejuhtum kunagi",
+      "damage": "Kogu kahju",
+      "convicted": "Süüdi mõistetud (mai 2025)",
+      "prosecutor": "ELi prokurör",
+      "type": "Karussellpettus",
+      "lesson": "Õppetund: kui ELi prokurör käsitleb juhtumeid riiklike süsteemide asemel, sünnivad süüdimõistvad otsused."
+    },
+    "pattern": {
+      "title": "Muster on selge",
+      "pension": "Pensionid kaitstud",
+      "delay": "Mõrv kohtu ette",
+      "lost": "Kadunud, null vanglat",
+      "reelected": "Pärast süüdimõistmist",
+      "conclusion": "Süüdimõistmine ei tähenda tagajärgi. Süsteem kaitseb oma – enne, proovimise ajal ja pärast proovimist."
+    }
+  },
+  "judicial": {
+    "badge": "Süsteemi tõrge",
+    "title": "Kohtukorruptsioon: mädanenud tuum",
+    "subtitle": "Kui kohtunikud müüvad otsuseid ja prokurörid võtavad altkäemaksu, kukub kogu korruptsioonivastane süsteem kokku. Need juhtumid selgitavad, miks poliitilised süüdistused ebaõnnestuvad.",
+    "status": {
+      "judgesCorrupt": "KORRUPTID KOHTUNIKUD",
+      "prosecutorBribed": "PROKURÖRI ALTÄKSENE",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Peamised arvud:",
+      "defendants": "Kostjaid kokku:",
+      "exposed": "Säritanud:",
+      "timeline": "Ajaskaala:",
+      "amount": "Altkäemaksu summa:",
+      "outcome": "Tulemus:",
+      "year": "Aasta:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "CSM-i distsiplinaarotsus:",
+      "defensePosition": "Kaitsepositsioon:",
+      "convicted": "Convicted:",
+      "coconspirator": "Juhtum üle antud:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Apellatsioon kinnitatud:",
+      "tcReject": "TC apellatsioon lükati tagasi:"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "subtitle": "Kohtunikud müüvad otsuseid",
+      "rangel": "Apellatsioonikohtu kohtunik",
+      "galante": "Kohtunik (Rangeli naine)",
+      "neves": "Kohtu president",
+      "chargesTitle": "Tasud:",
+      "charges": "Kohtuotsuste müük, altkäemaksu võtmine, mõjuvõimuga kaubitsemine, korruptsioon. Kohtunikud, kes pidid korrumpeerunud poliitikuid süüdi mõistma, olid ise korrumpeerunud.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db861d103e",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Prooviperiood on pooleli (2025)",
+      "exposedBy": "Jalgpallilekked / Rui Pinto",
+      "allegations": "Soodsate otsuste müük, kohtuasjade tulemuste fikseerimine, mõjuvõimuga kaubitsemine, õigusemõistmise takistamine, kooskõlastatud kohtuvõrgustik",
+      "significance": "Vilepuhuja (Rui Pinto) vastu esitati süüdistus, samas kui korrumpeerunud kohtunike kohtuprotsess lükkus 7 aastat edasi. Süsteem kaitseb ennast.",
+      "otherDefendants": "Korruptsioonivõrgustikus osalenud juristid, ärimehed ja kohtuametnikud",
+      "vieira": "Endine Benfica president",
+      "csm": "Conselho Superior da Magistratura (CSM) arvas Rui Rangeli 2020. aastal kohtusüsteemist välja selle juhtumiga seotud distsiplinaarrikkumiste tõttu.",
+      "defense": "Kõik süüdistatavad eitavad süüdistusi. Rangel on teatanud, et süüdistused on alusetud ja poliitiliselt motiveeritud."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Prokurör maksis kohtuasjade lõpetamise eest",
+      "figueira": "Portugali prokurör",
+      "vicente": "Angola asepresident",
+      "convicted": "Prokurör MÕISTETUD",
+      "significanceTitle": "Tähtsus:",
+      "significance": "Prokurörile maksti rohkem kui 700 000 eurot Angola eliidi vastu suunatud uurimise lõpetamise eest. Kui prokuröre saab osta, siis milline on korruptsioonijuhtumite võimalus?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Näitab, et Angolast pärit naftaraha korrumpeerib Portugali justiitssüsteemi",
+      "outcome": "Prokurör mõisteti süüdi, kuid juhtum paljastas süsteemse haavatavuse välismaise korruptsiooni suhtes",
+      "defense": "Figueira eitas süüdistusi kogu protsessi vältel ja kaebas konstitutsioonikohtusse, mis lükkas tema kaebuse 2022. aasta detsembris tagasi."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Kes valvab tunnimehi? Kui kohtunikud müüvad otsuseid ja prokurörid võtavad altkäemaksu, kukub kogu vastutuse süsteem kokku.",
+    "stat": {
+      "defendants": "Kostjad Lexis",
+      "bribe": "Prokuröri altkäemaks",
+      "delay": "Süüdistus kohtu alla (Lex)"
+    },
+    "disclaimer": "Kogu allolev teave pärineb ametlikest kohtudokumentidest, DCIAP-i süüdistustest, CSM-i distsiplinaarotsustest ja kontrollitud uudisteallikatest. Käimasolevas menetluses olevad süüdistatavad säilitavad süütuse presumptsiooni kuni lõpliku süüdimõistmiseni.",
+    "impact": {
+      "title": "Miks need juhtumid on korruptsioonivastases võitluses olulised?",
+      "fizzTitle": "Operação Fizzi mõju:",
+      "fizz1": "• DCIAP-i prokurör (üksus, mis uurib kõrgetasemelist korruptsiooni) oli ise korrumpeerunud",
+      "fizz2": "• Altkäemaksu tõttu arhiveeriti Angola eliidi vastu suunatud kohtuasjad",
+      "fizz3": "• Altkäemaksu andja Manuel Vicente üle kohut ei mõistetud – tema juhtum viidi üle Angolasse",
+      "lexTitle": "Operação Lex Mõju:",
+      "lex1": "• Kui see on tõestatud, müüsid apellatsioonikohtu kohtunikud otsuseid",
+      "lex2": "• Kohus, kes vaatab läbi esimese astme korruptsioonisüüdistusi, oleks ise ohus",
+      "lex3": "• Süüdistuse esitamisest (2018) kuni kohtuprotsessi alguseni (2025) kulus kohtuasja üle 7 aastat."
+    },
+    "sources": {
+      "title": "Ametlikud allikad:"
+    }
+  },
+  "methodology": {
+    "badge": "Sõltumatu uurimustöö",
+    "title": "Uurimismetoodika",
+    "sources": {
+      "title": "Uuritud allikad",
+      "tc": "• Konstitutsioonikohtu otsused (Acórdãos)",
+      "dciap": "• DCIAP (Public Prokuratuur) ametlikud süüdistused",
+      "parliament": "• Parlamentaarsed uurimisaruanded (CGD, BES, Novo Banco)",
+      "greco": "• GRECO 4. ja 5. hindamisvooru aruanded",
+      "tdc": "• Tribunal de Contas (kontrollikoda) pangandusaruanded",
+      "eu": "• Euroopa Komisjoni õigusriigi aruanded (2024, 2025)",
+      "eurobarometer": "• Eurobaromeetri korruptsiooniuuringud (2023, 2025)",
+      "ti": "• Transparency International CPI (2012–2024)",
+      "media": "• Suuremad Portugali meediad: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Kaasamise kriteeriumid",
+      "judicial": "• Ametlik kohtumenetlus (süüdimõistmine, süüdistus, ametlik uurimine)",
+      "parliamentary": "• parlamentaarsed uurimised koos avaldatud aruannetega",
+      "international": "• Rahvusvahelised järelevalveorganite hinnangud",
+      "financial": "• Kontrollikoja dokumenteeritud rahalised kahjud"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Kontrollimata väited ilma ametliku menetluseta",
+      "speculation": "• Spekulatsioonid või arvamused, mida ei toeta dokumendid",
+      "anonymous": "• Anonüümsed allikad ilma kinnituseta"
+    },
+    "disclaimer": "Kõik nimetatud isikud säilitavad oma süütuse presumptsiooni. Staatus \"Uurimisel\" või \"arguido\" võib kaasa tuua õigeksmõistva otsuse. Juhtumi olekud on selgelt märgistatud. See uurimine kasutab ainult avalikult kättesaadavaid, ametlikult dokumenteeritud allikaid.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Välised allikad kinnitatud",
+      "official": "56%",
+      "officialLabel": "Ametlikest allikatest",
+      "years": "50",
+      "yearsLabel": "Dokumenteeritud aastad (1974–2025)",
+      "cases": "40+",
+      "casesLabel": "Ristviitatud juhtumid"
+    },
+    "limitations": {
+      "title": "Uurimise piirangud",
+      "estimates": "• Mõned finantsnäitajad on hinnangulised ametlikest allikatest (Tribunal de Contas, INE)",
+      "media": "• Meedia teated võivad sisaldada ebatäpsusi; eelistame ametlikke dokumente",
+      "appeals": "• Kohtuasja tulemused võivad edasikaebamisel muutuda; olekud kajastavad viimast kontrollitud teavet",
+      "ongoing": "• Käimasolevate uurimiste tulemuseks võib olla õigeksmõistmine või arhiveerimine",
+      "incomplete": "• See uurimus võis jätta tähelepanuta asjakohased juhtumid või andmed; kõik väljajätmised on tahtmatud",
+      "corrections": "<strong class=\"text-warning\">Ootame parandusi:</strong> kui avastate vigu, puuduvaid juhtumeid või aegunud teavet, esitage parandused usaldusväärsetest ametlikest allikatest. Oleme pühendunud täpsusele ja värskendame andmeid vastavalt."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "Mida nad ütlevad vs mida dokumendid näitavad",
+      "claimsTitle": "Mida poliitikud väidavad",
+      "claim1": "• \"Ma olen süütu, see on poliitiline tagakiusamine\"",
+      "claim2": "• \"Raha oli sõprade laenud\"",
+      "claim3": "• \"Portugalis kehtivad tugevad korruptsioonivastased seadused\"",
+      "claim4": "• \"Õigussüsteem töötab\"",
+      "claim5": "• \"Rakendasime kõik ELi soovitused\"",
+      "factsTitle": "Mida näitavad ametlikud dokumendid",
+      "fact1": "• DCIAP-i süüdistused koos 56 000+ leheküljelise tõendiga",
+      "fact2": "• Pangakirjed näitavad 34 miljonit eurot seletamatuid ülekandeid",
+      "fact3": "• TC tühistas ebaseadusliku rikastumise seadused KAKS KORDA",
+      "fact4": "• 74,7% korruptsioonisüüdistustest = tingimisi karistused",
+      "fact5": "• GRECO: 0/28 soovitust on täielikult rakendatud",
+      "note": "See uurimine tugineb ametlikele dokumentidele, mitte väidetele. Iga statistika viitab selle allikale."
+    },
+    "why": {
+      "title": "Miks see projekt eksisteerib",
+      "description": "Kogu siin esitatud teave pärineb avalikult kättesaadavatest ametlikest allikatest: kohtuotsused, parlamentaarsed uurimised, ELi aruanded ja valitsuse statistika. Sellele teabele juurdepääs nõuab aga navigeerimist keerulistes bürokraatlikes labürintides – mis on hajutatud kümnetele institutsioonide veebisaitidele, maetud PDF-dokumentidesse, sageli tehnilises juriidilises keeles ja millele on harva ristviiteid lisatud. Enamikul kodanikel napib aega, teadmisi või kannatlikkust, et seda killustatud pilti kokku panna.",
+      "purpose": "See projekt lihtsustab juurdepääsu juba olemasolevatele andmetele. Me ei loo uut teavet – koondame, kontrollime ja esitame ametlikke kirjeid sujuvas, juurdepääsetavas vormingus koos täielike allikalinkidega. Iga nõuet saab jälgida selle algdokumendini."
+    },
+    "editorial": {
+      "title": "Toimetuse läbipaistvus",
+      "description": "See on <strong class=\"text-white\">uuriv propageeriv ajakirjandus</strong>, mitte neutraalne aruandlus. Meil on selge perspektiiv: Portugali poliitiline süsteem sisaldab struktuurseid jooni, mis kaitsevad võimsaid vastutuse eest. See vaatenurk kujundab seda, kuidas me teavet esitame.",
+      "commitment": "Siiski oleme pühendunud faktide täpsusele. Iga väide on pärit. Me eristame dokumenteeritud fakte ja oma mustrite tõlgendamist. Tunnistame alternatiivseid selgitusi. Lugejad peaksid hindama meie tõendeid ja tegema oma järeldused.",
+      "invitation": "Tervitame lahkarvamusi. Kui arvate, et meie tõlgendus on vale, võtke ühendust otse allikatega. Dokumendid on avalikud."
+    },
+    "evidenceTypes": {
+      "title": "Kuidas me tõendeid klassifitseerime",
+      "intro": "Selle uurimise käigus eristame kolme tüüpi väiteid:",
+      "fact": "Otse kohtuotsustest, ametlikest aruannetest, valitsuse statistikast. Kontrollitav lingitud allikate kaudu.",
+      "pattern": "Mitmed dokumenteeritud juhtumid viitavad korrelatsioonile. Ei tõenda põhjuslikku seost ega koordineerimist.",
+      "analysis": "Meie andmete tõlgendus. Mõistlikud inimesed võivad nende järeldustega mitte nõustuda."
+    },
+    "counterArguments": {
+      "title": "Alternatiivsed selgitused, mida me tunnustame",
+      "intro": "Intellektuaalse aususe huvides on siin mõnede dokumenteeritud mustrite jaoks õigustatud alternatiivsed selgitused.",
+      "delays": {
+        "title": "Miks korruptsioonijuhtumid kestavad 11+ aastat?",
+        "legit1": "• Kohtusüsteem on tõsiselt alarahastatud ja personalipuuduses",
+        "legit2": "• Keerulised finantskuriteod nõuavad põhjalikku uurimist",
+        "legit3": "• Kaitsel on seaduslik õigus tõendeid vaidlustada",
+        "legit4": "• Põhiseaduslik kaitse eksisteerib mõjuval põhjusel",
+        "response": "Isegi kui viivitused on tahtmatud, on selle <em>mõju</em> karistamatu. Teised ELi riigid menetlevad samalaadseid kuritegusid kiiremini. Portugali keskmine on 6,8 aastat vs EL-i norm 3-4 aastat. Kavatsus loeb vähem kui tulemus."
+      },
+      "euJobs": {
+        "title": "Kas ELi ametisse nimetamine on tõesti \"tasu\"?",
+        "legit1": "• Poliitikutel on kogemus, mis annab neile kvalifikatsiooni",
+        "legit2": "• ELi ametikohad on konkurentsivõimelised ja teenetepõhised",
+        "legit3": "• Korrelatsioon ≠ põhjuslik seos või vandenõu",
+        "legit4": "• Paljud kvalifitseeritud poliitikud ei saa kunagi ELi tööd",
+        "response": "Me ei väida vandenõu. Me täheldame mustrit, kus uurimised blokeerivad harva edutamist. Olenemata sellest, kas see peegeldab \"tasu\" või ükskõiksust vastutuse suhtes, puudutab tulemus meid võrdselt."
+      },
+      "bothParties": {
+        "title": "Miks dokumenteerida mõlema suurema osapoole juhtumeid?",
+        "crit1": "• \"See on vale võrdväärsus\"",
+        "crit2": "• \"Üks osapool võib olla korrumpeerunud kui teine\"",
+        "crit3": "• \"Ka väikeerakondades on korruptsiooni\"",
+        "response": "Dokumenteerime juhtumid proportsionaalselt tõenditega. PS-l ja PSD-l on vahelduv võimsus 50 aastat; mõlemal on dokumenteeritud juhtumid. Me ei väida samaväärsust – näitame, et süsteem kaitseb <em>kes on võimul</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "Miks see uurimine eksisteerib",
+    "subtitle": "Unistus, mis ei suutnud süsteemi ellu jääda",
+    "journalism": {
+      "title": "Portugali ajakirjandus süsteemse tabamise all",
+      "intro": "Iga ajakirjanik alustab samast unistusest: näita inimestele tõtt, dokumenteeri olulist, muuda maailma. Portugalis põrkub see unistus süsteemiga, mille eesmärk on täpselt seda vältida."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "ajakirjanikest teenivad vähem kui 1000 eurot kuus",
+      "groups": "4",
+      "groupsLabel": "meediarühmad kontrollivad eraringhäälingut",
+      "lusa": "95.9%",
+      "lusaLabel": "riiklikust uudisteagentuurist (Lusa), mis on nüüd riigi omandis",
+      "independence": "53%",
+      "independenceLabel": "toimetuse sõltumatuse risk (25%)"
+    },
+    "kills": {
+      "title": "Mis tapab unenäo",
+      "poverty": "15% teenib alla miinimumpalga või üldse mitte midagi",
+      "ownership": "Endine peaminister Pinto Balsemão kuulus Impresale (SIC, Expresso)",
+      "slapp": "319 SLAPP-i juhtumit ajakirjanike vastu Euroopas (2024)",
+      "violence": "Chega partei juhtidele esitati süüdistus ajakirjanike ähvardamises (november 2024)",
+      "result": "Professionaalsete ajakirjanike arv on alates 2009. aastast vähenenud 23%.",
+      "strike": "40+ meediaorganisatsiooni alustas ajaloolist streiki"
+    },
+    "pressure": {
+      "title": "Süsteemne rõhk",
+      "directors": "ajakirjanikud teatavad direktorite survest",
+      "superiors": "teatage toimetuse ülemuste survest",
+      "ranking": "Portugal langes ELi meedia pluralismiga"
+    },
+    "notCriticism": {
+      "title": "See ei ole ajakirjanike kriitika",
+      "quote": "\"Ebakindlusel on tohutu mõju ajakirjanike iseseisvusele... Sellel halvenemisel on tagajärjed poliitilisele sõltumatusele ja meedia toimetamisotsustele.\"",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Miks on vaja sõltumatuid uuringuid?",
+      "intro": "See uurimine kasutab ainult avalikult kättesaadavaid ametlikke allikaid – samu dokumente, millele iga uudistetoimetus pääses juurde. Erinevus:",
+      "noAdvertisers": "Ükski reklaamija ei ähvarda tulu äravõtmisega",
+      "noOwners": "Pole poliitiliste sidemetega omanikke, keda kaitsta",
+      "noEditors": "Pole toimetajaid, kes pehmendaksid keelt võimsate huvide huvides",
+      "noPrecarity": "Ei mingit ebakindlat tööd, mis nõuab vaikust",
+      "stance": "See uurimine seisab Portugali ajakirjanike kõrval, mitte nende vastu."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Põhiseaduslik kaitse",
+    "title": "Pensionikaitse: arestitud, tagastatud, arestitud uuesti",
+    "intro": "Põhiseaduse artikkel 30 välistab õiguste automaatse kaotuse süüdimõistmisel. Süüdimõistetud poliitikud hoiavad oma pensioni lõputute pöördumiste kaudu.",
+    "vara": {
+      "conviction": "Karistatud: mõjuvõimuga kauplemise eest 5 aastat",
+      "status": "3x arestitud, 2x tagastatud"
+    },
+    "pinho": {
+      "conviction": "Süüdi mõistetud: 10 aastat + 4,9 miljonit eurot trahvi",
+      "status": "10-aastane karistus kantud KODUS"
+    },
+    "socrates": {
+      "status": "Prooviperiood kestab (11+ aastat)",
+      "prescribed": "167 189 laadimisest",
+      "expired": "juba välja kirjutatud (88%)",
+      "never": "Never seized",
+      "confirmed": "Kinnitatud toetuse saamine (SIC 2022)"
+    },
+    "conclusion": "Põhiseaduse artikkel 30 + apellatsioonisüsteem = lõpmatu pensionikaitse",
+    "conclusionDetail": "Automaatne konfiskeerimine puudub. Iga arestimine nõuab kohtulikku määrust. Iga korraldust saab edasi kaevata. Iga pöördumine võtab aastaid. Kostjale jääb menetluse ajal pension."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Arhiiviotsused: \"Parco Detalhe\" (ebapiisav detail)",
+    "intro": "CPP artikkel 246º n.º 6 lubab prokuröridel keelduda uurimisest „ebapiisavate üksikasjade” alusel – isegi dokumenteeritud tõendite korral.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "Immuunsus tõstetud:",
+    "montenegro": {
+      "desc": "Riigihankelepingud perefirmaga (Spinumviva) samas MP",
+      "outcome": "Jääb PM minimaalse meediakajastusega"
+    },
+    "mendes": {
+      "desc": "Konsultatsioonitasud sh. 360K € veevärgilt ACA",
+      "irony": "Iroonia: ta nõudis Montenegrolt \"kõike selgitamist\""
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 süüdistatavat, 463 kuritegu",
+      "outcome": "60 teist on tasutud, kõrge profiiliga tegelasi arhiveeritud"
+    },
+    "pattern": {
+      "title": "Muster: CPP artikkel 246º nr 6",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Kuidas saab ilma uurimiseta \"näidustusi\" tuvastada? Standard nõuab enne uurimist tõendeid, mis koguksid tõendeid.",
+      "effect": "Mõju: prokuratuuri veto poliitiliselt tundlikel juhtudel"
+    }
+  }
+}

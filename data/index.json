@@ -1,0 +1,229 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-23",
+  "countries": [
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "cpiScore": 57,
+      "cpiRank": 42,
+      "status": "complete",
+      "dataFile": "countries/PT.json"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "cpiScore": 54,
+      "cpiRank": 52,
+      "status": "complete",
+      "dataFile": "countries/IT.json"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "cpiScore": 60,
+      "cpiRank": 36,
+      "status": "pending",
+      "dataFile": "countries/ES.json"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "cpiScore": 71,
+      "cpiRank": 26,
+      "status": "pending",
+      "dataFile": "countries/FR.json"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "cpiScore": 78,
+      "cpiRank": 10,
+      "status": "pending",
+      "dataFile": "countries/DE.json"
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "cpiScore": 46,
+      "cpiRank": 65,
+      "status": "pending",
+      "dataFile": "countries/RO.json"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "cpiScore": 42,
+      "cpiRank": 76,
+      "status": "pending",
+      "dataFile": "countries/HU.json"
+    },
+    {
+      "code": "EL",
+      "name": "Greece",
+      "cpiScore": 49,
+      "cpiRank": 58,
+      "status": "pending",
+      "dataFile": "countries/EL.json"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "cpiScore": 55,
+      "cpiRank": 47,
+      "status": "pending",
+      "dataFile": "countries/PL.json"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "cpiScore": 73,
+      "cpiRank": 19,
+      "status": "pending",
+      "dataFile": "countries/BE.json"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "cpiScore": 79,
+      "cpiRank": 8,
+      "status": "pending",
+      "dataFile": "countries/NL.json"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "cpiScore": 67,
+      "cpiRank": 30,
+      "status": "pending",
+      "dataFile": "countries/AT.json"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "cpiScore": 82,
+      "cpiRank": 6,
+      "status": "pending",
+      "dataFile": "countries/SE.json"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "cpiScore": 90,
+      "cpiRank": 1,
+      "status": "pending",
+      "dataFile": "countries/DK.json"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "cpiScore": 87,
+      "cpiRank": 2,
+      "status": "pending",
+      "dataFile": "countries/FI.json"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "cpiScore": 77,
+      "cpiRank": 11,
+      "status": "pending",
+      "dataFile": "countries/IE.json"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "cpiScore": 45,
+      "cpiRank": 67,
+      "status": "pending",
+      "dataFile": "countries/BG.json"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "cpiScore": 47,
+      "cpiRank": 63,
+      "status": "pending",
+      "dataFile": "countries/HR.json"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "cpiScore": 56,
+      "cpiRank": 44,
+      "status": "pending",
+      "dataFile": "countries/SI.json"
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "cpiScore": 57,
+      "cpiRank": 42,
+      "status": "pending",
+      "dataFile": "countries/CZ.json"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "cpiScore": 54,
+      "cpiRank": 52,
+      "status": "pending",
+      "dataFile": "countries/SK.json"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "cpiScore": 62,
+      "cpiRank": 34,
+      "status": "pending",
+      "dataFile": "countries/LT.json"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "cpiScore": 60,
+      "cpiRank": 36,
+      "status": "pending",
+      "dataFile": "countries/LV.json"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "cpiScore": 76,
+      "cpiRank": 12,
+      "status": "pending",
+      "dataFile": "countries/EE.json"
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "cpiScore": 51,
+      "cpiRank": 55,
+      "status": "pending",
+      "dataFile": "countries/MT.json"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "cpiScore": 52,
+      "cpiRank": 53,
+      "status": "pending",
+      "dataFile": "countries/CY.json"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "cpiScore": 78,
+      "cpiRank": 10,
+      "status": "pending",
+      "dataFile": "countries/LU.json"
+    }
+  ],
+  "statistics": {
+    "totalCountries": 27,
+    "completedDatasets": 2,
+    "averageCPI": 62.7,
+    "lowestCPI": { "country": "HU", "score": 42 },
+    "highestCPI": { "country": "DK", "score": 90 }
+  }
+}

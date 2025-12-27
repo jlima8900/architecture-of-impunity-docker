@@ -1,0 +1,3252 @@
+{
+  "nav": {
+    "logo": "Nesodāmības Arhitektūra",
+    "thesis": "Tēze",
+    "cases": "Lietas",
+    "loopholes": "Juridiskās Nepilnības",
+    "blocking": "Bloķēšanas Modelis",
+    "euRewards": "ES Apbalvojumi",
+    "solution": "Risinājums",
+    "eliteLaws": "Elites Likumi",
+    "euLabor": "ES Darbs",
+    "brand": "Nesodāmības Arhitektūra",
+    "odds": "Likmes",
+    "database": "Datubāze",
+    "sources": "Avoti",
+    "timeline": "Laika skala",
+    "stats": "Statistika",
+    "dashboard": "Informācijas panelis",
+    "forum": "Forums",
+    "donate": "Ziedot",
+    "sign": "PARAKSTĪT",
+    "mediaMachine": "Mediji",
+    "goldenParachute": "Pensijas",
+    "home": "Sākums",
+    "signPetition": "Parakstīt petīciju",
+    "convicted": "Notiesātie",
+    "judicial": "Tiesu",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"VIŅI NAV VIRS MUMS\"",
+    "title": "NESODĀMĪBAS ARHITEKTŪRA",
+    "subtitle": "Kā Eiropas Politiskā Sistēma Ir Veidota lai Aizsargātu Korumpētos",
+    "subtext": "Politiķi ir publiski KALPI, nevis publiski KUNGI. Viņiem jādzīvo kā pilsoņiem, jābūt auditētiem kā pilsoņiem un jāsastopas ar tiesu kā pilsoņiem.",
+    "stat1": "TI Korupcijas Indekss 2024",
+    "stat2": "Gadi: Lietas Ilgums",
+    "stat3": "Pilsoņi Tic ka Valdība Ir Korumpēta",
+    "scroll": "Ritiniet lai Sāktu",
+    "declaration": "Pilsoņu vadīta izmeklēšana par politisko korupciju Portugālē",
+    "begin": "Sākt izmeklēšanu"
+  },
+  "parts": {
+    "one": "I Daļa",
+    "two": "II Daļa",
+    "three": "III Daļa",
+    "four": "IV Daļa",
+    "five": "V Daļa",
+    "six": "VI Daļa",
+    "seven": "VII Daļa",
+    "eight": "VIII Daļa",
+    "eleven": "XI daļa",
+    "twelve": "XII daļa",
+    "nine": "IX daļa",
+    "ten": "X daļa",
+    "thirteen": "XIII Daļa"
+  },
+  "signature": {
+    "title": "Parakstiet Eiropas pilsoņu iniciatīvu",
+    "subtitle": "Eiropas Pilsoņu Iniciatīva par Politisko Atbildību",
+    "firstName": "Vārds",
+    "lastName": "Uzvārds",
+    "country": "Valsts",
+    "idNumber": "Personas Kods",
+    "submit": "Parakstīt",
+    "verify": "Verificēt",
+    "count": "Paraksti",
+    "goal": "Mērķis: 1.000.000",
+    "verified": "Verificēts ar ES Infrastruktūru",
+    "eci": {
+      "title": "Eiropas pilsoņu iniciatīva",
+      "regulation": "Ievērojot ES Regulu 2019/788",
+      "security": "Kriptogrāfiski pārbaudīts un drošs pret viltojumiem"
+    },
+    "euInfrastructure": "ES infrastruktūras integrācija",
+    "selectCountry": "Izvēlieties savu valsti",
+    "consent": "Es apstiprinu, ka esmu ES pilsonis un piekrītu, ka mani dati tiek apstrādāti saskaņā ar ES datu aizsardzības noteikumiem.",
+    "merkleLabel": "Merkles sakne:",
+    "merkleCalculating": "Notiek aprēķināšana...",
+    "merkleNoSigs": "Vēl nav parakstu",
+    "formFooter": "Jūsu paraksts tiks kriptogrāfiski sajaukts un pievienots pret viltojumiem drošai ķēdei.",
+    "success": "Paraksts ierakstīts!",
+    "invalidFormat": "Nederīgs ID formāts",
+    "integrityVerified": "Ķēdes integritāte ir pārbaudīta",
+    "integrityIssues": "Konstatētas integritātes problēmas",
+    "eciTitle": "Eiropas pilsoņu iniciatīva",
+    "eciReg": "Ievērojot ES Regulu 2019/788",
+    "verification": {
+      "title": "Verifikācija pret viltojumiem",
+      "intro": "Šī sistēma izmanto nozares standarta kriptogrāfijas metodes, lai nodrošinātu paraksta integritāti:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "SHA-256 jaukšana",
+        "text": "Katrs paraksts tiek pārveidots par unikālu 256 bitu pirkstu nospiedumu, izmantojot SHA-256 algoritmu — to pašu standartu, ko izmanto Bitcoin un TLS/SSL sertifikātos. Jebkura manipulācija pilnībā maina jaucējkodu.",
+        "source": "Standarts: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Merkles koks",
+        "text": "Merkles koks (jaucējkoks) ir datu struktūra, ko 1979. gadā izgudroja kriptogrāfs Ralfs Merkle. Tā izveido vienu \"saknes jaucējkodu\", kas pārbauda VISU parakstu integritāti — ja kāds paraksts tiek mainīts, sakne tiek mainīta.",
+        "source": "Izmanto: Bitcoin, Git, IPFS, Certificate Transparency"
+      },
+      "audit": {
+        "title": "Revīzijas izsekojamība",
+        "text": "Katra darbība (paraksts, pārbaude, eksportēšana) tiek reģistrēta ar laika zīmogiem, ievērojot audita izsekojamības standartus. Tas nodrošina pilnīgu caurspīdīgumu un atbildību par visām sistēmas darbībām.",
+        "source": "Atbilstība: GDPR 30. pants"
+      },
+      "euId": {
+        "title": "ES ID apstiprināšana",
+        "text": "Katrai ES valstij ir noteikti ID formāti (Portugāle: Cartão de Cidadão, Vācija: Personalausweis utt.). Sistēma apstiprina identifikācijas numurus atbilstoši valstij raksturīgiem modeļiem saskaņā ar ES regulu 2019/788 par Eiropas pilsoņu iniciatīvu.",
+        "source": "Ietvars: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "ES infrastruktūras integrācija",
+      "text": "Šī iniciatīva ir paredzēta, lai integrētos ar oficiālajām ES sistēmām:",
+      "eciPortal": "Oficiālais ECI portāls — galīgajai iesniegšanai",
+      "eidas": "eIDAS - Elektroniskās identifikācijas standarti",
+      "gdpr": "Atbilstība GDPR — datu aizsardzība garantēta"
+    }
+  },
+  "common": {
+    "source": "Avots",
+    "readMore": "Lasīt Vairāk",
+    "evidence": "Pierādījumi",
+    "convicted": "Notiesāts",
+    "ongoing": "Notiek",
+    "archived": "Arhivēts",
+    "keyInsight": "GALVENAIS IESKATS",
+    "declined": "Izmeklēšana noraidīta",
+    "views": "skatījumi",
+    "likes": "patīk",
+    "share": "dalīties",
+    "close": "Aizvērt"
+  },
+  "mediaMachine": {
+    "part": "XI daļa",
+    "title": "Noķerts ceturtais īpašums",
+    "subtitle": "Kā Portugāles mediji kalpo varai, nevis patiesībai",
+    "intro": "Plašsaziņas līdzekļi, kuriem vajadzētu atklāt korupciju, pieder tai pašai sistēmai, kas tiem būtu jāizmeklē.",
+    "ownership": {
+      "title": "Kas kontrolē ziņas",
+      "subtitle": "5 grupas kontrolē to, ko redz un lasa 10 miljoni cilvēku",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Fransisko Pinto Balsemao",
+        "connection": "Bijušais premjerministrs (PSD, 1981-1983)",
+        "note": "Bijušais valdības vadītājs kontrolē lielu televīzijas tīklu"
+      },
+      "rtp": {
+        "name": "RTP (sabiedriskā TV)",
+        "owner": "Portugāles valsts",
+        "connection": "Parlamenta iecelta valde",
+        "note": "Valdība kontrolē iecelšanu amatā un budžetu"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "Akcionāru vidū ir valsts apmaksātas bankas",
+        "note": "Finansiālā atkarība no valsts institūcijām"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Grupa Sonae",
+        "connection": "Mazumtirdzniecības impērija ir atkarīga no valdības līgumiem",
+        "note": "Ietver noteikumus, kas ietekmē īpašnieka peļņu"
+      },
+      "globalMedia": {
+        "connection": "2020. gadā to iegādājās investori ar Angolas/Makao savienojumiem. Kevina Ho pagātnē ir saites uz kazino un būvniecības nozarēm. Grupa kontrolē 4 lielākos laikrakstus un Portugāles 2. klausītāko radio staciju.",
+        "name": "Globālā mediju grupa",
+        "note": "Kontrolē DN, JN, TSF, O Jogo - liela preses ietekme",
+        "owner": "Privātie investori (Kevins Ho + Marko Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "Virpuļdurvis",
+      "subtitle": "Politiķi kļūst par komentētājiem, komentētāji aizsargā politiķus",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Markess Mendess",
+        "path": "Bijušais PSD vadītājs → SIC politiskais komentētājs. Tagad Valsts padomes loceklis. Nekad nenosaka interešu konfliktus ēterā.",
+        "role": "SIC politiskais komentētājs",
+        "background": "Bijušais PSD vadītājs (2005-2007)",
+        "scandal": "700 000 €+ konsultāciju maksa no valsts atkarīgiem uzņēmumiem",
+        "coverage": "SIC sava komentētāja skandālam sniedza minimālu atspoguļojumu",
+        "outcome": "PGR noraidīja izmeklēšanu — 2025. gada 19. decembris"
+      }
+    },
+    "techniques": {
+      "title": "\"Vadošās\" žurnālistikas metodes",
+      "subtitle": "Tas, kā mediji veido uztveri kā advokāts, vada liecinieku",
+      "framing": {
+        "title": "Virsraksta ierāmēšana",
+        "description": "Tādas pašas darbības, dažādi vārdi, kas balstīti uz politisko noskaņojumu",
+        "example1": "PS skandāls: \"Noziedzīgas shēmas\", \"korupcijas tīkls\"",
+        "example2": "PSD skandāls: \"pretrunīgi līgumi\", \"pārkāpumi\""
+      },
+      "timing": {
+        "title": "Laika manipulācijas",
+        "description": "Sliktas ziņas sabiedrotajiem izlaistas piektdienās un brīvdienās",
+        "example": "2025. gada decembris: pirms Ziemassvētkiem tika apkopoti trīs lietu arhīvi"
+      },
+      "omission": {
+        "title": "Stratēģiskā izlaidība",
+        "description": "Tas, ko viņi neziņo, ir tikpat svarīgi kā tas, ko viņi dara",
+        "example": "18 gadu reformu bloķēšanas modelis nekad nav sintezēts"
+      },
+      "balance": {
+        "title": "Viltus līdzsvars",
+        "description": "Dokumentāri pierādījumi pret noliegumu tiek uzskatīti par vienlīdz derīgiem",
+        "example": "Faktu un politisko vērienu traktēšana kā līdzvērtīgas pozīcijas"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Valsts reklāma: The Financial Leash",
+      "total": "6,45 miljoni eiro",
+      "hidden": "3,7 miljoni eiro",
+      "hiddenNote": "saņēmēji NAV publiski izpausti",
+      "mechanism": "Plašsaziņas līdzekļi finanšu krīzē → Atkarīgi no valsts reklāmām → Mīkstina kritisko atspoguļojumu → Korupcija ir mazāk pārbaudīta",
+      "increase": "+ 1,29 miljoni eiro pieaugums (2024. gadā)"
+    },
+    "precarity": {
+      "title": "Žurnālistu nedrošība = pašcenzūra",
+      "noContract": "33,4%",
+      "noContractLabel": "strādāt bez formāliem līgumiem",
+      "pressure": "23,8%",
+      "pressureLabel": "ziņo par spiedienu no dēļiem",
+      "belief": "90%",
+      "beliefLabel": "uzskatu, ka karjera kļūst arvien nestabilāka",
+      "strike": "2024. gada marts: pirmais žurnālistu streiks vairāk nekā 40 gadu laikā"
+    },
+    "comparison": {
+      "title": "Portugāle pret funkcionālajām demokrātijām",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "Ceturto īpašumu ieņem pirmais un otrais īpašums. Nesodāmības arhitektūra ietver plašsaziņas līdzekļus, kuriem tas būtu jāatmasko.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Valsts mediju tirgus daļa",
+      "risk": "AUGSTS",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Dokumentēts diferenciālais pārklājums",
+      "case1": {
+        "title": "Melnkalne pret Sokratu",
+        "montenegro": "Melnkalne (PSD): Spinumviva skandāls, vairāk nekā 410 000 eiro, savukārt MP — īss atspoguļojums, ierobežots turpinājums",
+        "socrates": "Sócrates (PS): plašs, ilgstošs pārklājums mēnešiem ilgi",
+        "pattern": "Tāda paša veida (finanšu pārkāpums), ļoti atšķirīga intensitāte"
+      },
+      "case2": {
+        "title": "Markss Mendess (2025. gada decembris)",
+        "revealed": "Atklāts: €700 000+ konsultāciju maksa, kamēr SIC komentētājs",
+        "coverage": "SIC pārklājums: Minimāls - pašu noieta mazināts skandāls",
+        "pattern": "Klasisks īpašumtiesību efekts - aizsargājiet savu"
+      },
+      "case3": {
+        "title": "Sejas Oculta apspiešana",
+        "attempt": "Mēģinājums: spiediens ierobežot pārklājumu, aizkavēt publicēšanu",
+        "result": "Rezultāts: galu galā atklāts, bet ar ievērojamu kavēšanos",
+        "pattern": "Parāda sistēmisku spiedienu uz žurnālistiem"
+      }
+    },
+    "framingPatterns": {
+      "title": "Kā ietvars atšķiras atkarībā no partijas",
+      "aspect": "Aspekts",
+      "psScandal": "PS skandālu atspoguļojums",
+      "psdScandal": "PSD skandāla segums",
+      "language": "Lietotā valoda",
+      "psLanguage": "\"Kriminālās shēmas\", \"Korupcijas tīkls\"",
+      "psdLanguage": "\"Pretrunīgi līgumi\", \"Pārkāpumi\"",
+      "duration": "Pārklājuma ilgums",
+      "psDuration": "Nedēļas/mēneši, ilgstoša uzraudzība",
+      "psdDuration": "Dienas, īss pieminējums, bez sekošanas",
+      "placement": "Virsraksta izvietojums",
+      "psPlacement": "Sākumlapa, galvenais laiks",
+      "psdPlacement": "Lapu iekšpuse, ārpus noslodzes",
+      "accountability": "Atbildības ietvars",
+      "psAccountability": "Nosauktas personas, partijas atbildība",
+      "psdAccountability": "\"Abas puses\", sistēmiskas problēmas",
+      "note": "Avots: akadēmiskie pētījumi, kuros analizēts Portugāles vēlēšanu atspoguļojums 2015.–2022."
+    },
+    "newsDeserts": {
+      "title": "Ziņas Tuksneši: kur par korupciju netiek ziņots",
+      "municipalities": "no 308 pašvaldībām ir ziņu tuksneši",
+      "percentage": "Portugālē trūkst vietējo ziņu pārklājuma",
+      "atRisk": "riskam pakļautās pašvaldības (tikai 1 tirdzniecības vieta)",
+      "impact": "Kur nav žurnālistikas, nav arī atbildības. Vietējā korupcija plaukst ziņu tuksnešu ēnās."
+    },
+    "pressFreedom": {
+      "title": "Preses brīvība samazinās",
+      "ranking": "Portugāle mediju plurālisma monitoringā (2024.→2025.) no<strong class=\"text-good\">7</strong>vietas atkāpās uz <strong class=\"text-bad\">13.</strong>vietu.",
+      "trust": "• Uzticēšanās ziņām: 54% (samazinājums no 66% 2015. gadā)",
+      "concentration": "• Plašsaziņas līdzekļu koncentrācijas risks: 79%",
+      "independence": "• Redakcionālās neatkarības risks ir augsts",
+      "pattern": "PARAUGS:",
+      "explanation": "Plašsaziņas līdzekļu īpašumtiesībām koncentrējoties, palielinās žurnālistu nedrošība, un valsts reklāma kļūst par glābšanas līdzekli — kritiskā žurnālistika kļūst strukturāli neiespējama."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "XII daļa",
+    "title": "Zelta izpletnis",
+    "subtitle": "Notiesāts par korupciju? Saglabājiet savu pensiju uz visiem laikiem",
+    "intro": "Portugālē politiķi, kas notiesāti par miljonu zagšanu, patur savas nodokļu maksātāju finansētās pensijas. Nav likuma, kas tos apturētu.",
+    "question": "Kas notiek, ja Portugāles politiķi notiesā par korupciju?",
+    "answer": "VIŅI SAGLABĀ VISU.",
+    "cases": {
+      "title": "Dokumentētas lietas",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "Hosē Sokratess",
+        "crime": "34 miljoni eiro korupcijas apsūdzības",
+        "sentence": "Izmēģinājums turpinās 11+ gadus",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "Bijušais premjerministrs (2005-2011)",
+        "status": "TIESĀ",
+        "description": "Apsūdzēta korupcijā, naudas atmazgāšanā, dokumentu viltošanā. Pēc 10+ gadiem joprojām saņem pensiju. Lieta tiek izskatīta kopš 2014. gada."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Bijušais PS ministra vietnieks, CGD administrators"
+      },
+      "pinho": {
+        "name": "Manuels Pinju",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Notiesāts: pasīvā korupcija, naudas atmazgāšana (10 gadi)",
+        "note": "Saņēma 4,5 miljonus eiro kukuļos no EDP",
+        "houseArrest": "🏠 Kalpošana mājās: neskatoties uz 10 gadu cietumsodu, no 2021. gada izcieš savā dzīvesvietā"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Notiesāts: nodokļu krāpšana, naudas atmazgāšana",
+        "note": "Izcieta sodu, pēc tam ATKĀRTOTI IEVĒLĒTA par Oeiras mēru"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Pilnas priekšrocības jau pēc VIENA termiņa",
+      "pmBenefits": "Auto, šoferis, personāls, drošība uz mūžu",
+      "ministerBenefits": "Dāsna pensija neatkarīgi no nostrādātā laika"
+    },
+    "noLaw": {
+      "title": "Likums: tāda nav",
+      "text": "Portugālē NAV likuma, kas prasītu pensijas atņemšanu pēc notiesāšanas krimināllietā.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Portugāles pensiju aizstāšanas likme",
+        "euAverage": "71%",
+        "euAverageLabel": "ES vidējais rādītājs",
+        "productivity": "73%",
+        "productivityLabel": "Portugāles produktivitāte pret ES"
+      },
+      "translation": "Visdāsnākās pensijas + vājākā atbildība + zemākā produktivitāte = sistēma, kas paredzēta neveiksmju atalgošanai.",
+      "country": "Valsts",
+      "rule": "Konfiskācijas noteikums",
+      "applies": "Attiecas uz"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "GLOBĀLI NEAPMIERINĀTI",
+      "recommendations": "28",
+      "partial": "18 daļēji īstenoti",
+      "notImplemented": "10 NAV īstenots",
+      "lobbying": "Lobēšana: NEREGULĒTA",
+      "assets": "Aktīvu deklarācijas: VĀJS IZPILDE",
+      "verdict": "Eiropas Padomes pretkorupcijas iestāde vairākkārt ir norādījusi uz Portugāles nespēju īstenot jēgpilnas sankcijas pret korumpētām amatpersonām. Pensiju aizsardzības sistēma grauj atturēšanu un signalizē, ka politiskajam noziegumam nav paliekošu seku."
+    },
+    "referendum": {
+      "title": "Ierosinātie referenduma jautājumi",
+      "q7": {
+        "number": "7. jautājums",
+        "text": "Vai par korupcijas noziegumiem notiesātajiem politiķiem automātiski jāzaudē nodokļu maksātāju apmaksātās pensijas?"
+      },
+      "q8": {
+        "number": "8. jautājums",
+        "text": "Vai medijiem būtu jāpieprasa atklāt īpašnieku un lielāko akcionāru politiskās attiecības?"
+      }
+    },
+    "conclusion": "Nesodāmības arhitektūra sniedzas ārpus tiesas zāles. Pat tad, kad notiek retā pārliecība, zelta izpletnis nodrošina ērtu nosēšanos. Sistēma ne tikai aizsargā politiķus no taisnīguma — tā viņus atalgo uz mūžu.",
+    "scandal": {
+      "title": "Nepieņemamā realitāte",
+      "description": "Par korupciju, krāpšanu un varas ļaunprātīgu izmantošanu notiesātie Portugāles politiķi turpina saņemt nodokļu maksātāju finansētas pensijas. NAV automātiskas konfiskācijas. Kamēr parastie pilsoņi zaudē darbu un mājas par nelieliem pārkāpumiem, politiskā šķira ir izveidojusi sistēmu, kurā noziedzība burtiski atmaksājas."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Francijā, Spānijā un Itālijā ir IDENTISKĀS konstitucionālās aizsardzības, tomēr veiksmīgi ieviesti pensiju konfiskācijas likumi. Viņu tiesas atzina konfiskāciju par konstitucionālu. Portugāles pretestība ir politiska izvēle, nevis juridiska nepieciešamība.",
+        "title": "Citas ES valstis"
+      },
+      "portugal": {
+        "text": "Satversmes tiesa to interpretē tādējādi, ka pensijas NEVAR tikt automātiski konfiscētas. Reformu mēģinājumi bloķēti divas reizes (2012, 2015). Rezultāts: notiesātajiem politiķiem paliek pilnas pensijas.",
+        "title": "Portugāles interpretācija"
+      },
+      "quote": "\"Neviens sods nedrīkst pēc vajadzības izraisīt jebkādu civilo, profesionālo vai politisko tiesību zaudēšanu.\"",
+      "source": "— Portugāles konstitūcijas 30. pants",
+      "title": "Konstitucionālais vairogs: CRP 30. pants"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Pamatojoties uz atalgojumu + nostrādātie gadi. Daži saņem 80%+ no pēdējās algas uz mūžu. Augstākās pozīcijas var pārsniegt 20 000 eiro mēnesī.",
+        "title": "Kā tas tiek aprēķināts"
+      },
+      "contrast": "KONTRASTS: pastāvīgie darbinieki, kas notiesāti par noziegumiem, zaudē darbu, pensiju un nākotnes līgumus. Politiķi, kas notiesāti par daudz smagākiem noziegumiem, patur savus 10 000–26 000 eiro mēnesī uz mūžu.",
+      "created": {
+        "text": "Likums 4/85 noteica mūža subsīdijas premjerministram, ministriem, deputātiem un tiesnešiem. Sākotnēji paredzēts, lai apbalvotu \"sabiedrisko pakalpojumu\".",
+        "title": "Izveidota 1984. gadā"
+      },
+      "description": "Portugālē ir unikāla \"Subvenção Vitalícia\" (mūža subsīdiju) sistēma, kas piešķir bijušajiem politiķiem pastāvīgu ikmēneša maksājumu uz mūžu — atsevišķi no regulāras pensijas un papildus tai. Tā nav pensija, kas nopelnīta ar iemaksām; tā ir likuma piešķirta privilēģija.",
+      "protected": {
+        "text": "Pat ja tiek notiesāts par noziegumiem, kas izdarīti amatā, subsīdija turpinās. Apķīlāšanai ir nepieciešama atsevišķa civiltiesas prasība, un tā bieži neizdodas apelācijas kārtībā.",
+        "title": "Juridiski aizsargāts"
+      },
+      "title": "Subvenção Vitalícia sistēma"
+    }
+  },
+  "meta": {
+    "title": "Nesodāmības arhitektūra — Portugāles politiskās aizsardzības sistēma",
+    "description": "Kā Portugāles politiskā sistēma ir izveidota, lai aizsargātu korumpētos"
+  },
+  "accessibility": {
+    "skipToContent": "Pāriet uz galveno saturu",
+    "toggleNav": "Pārslēgt navigācijas izvēlni",
+    "changeLang": "Mainīt valodu",
+    "mainNav": "Galvenā navigācija",
+    "infoIcon": "Informācija",
+    "closeBanner": "Aizvērt paziņojuma reklāmkarogu"
+  },
+  "legal": {
+    "title": "Juridisks paziņojums:",
+    "text": "Visām minētajām personām ir tiesības uz nevainīguma prezumpciju, kamēr viņu vaina nav pierādīta. Šajā dokumentā ir sniegta publiski pieejama informācija no oficiāliem avotiem, tiesas dokumentiem un cienījamiem plašsaziņas līdzekļiem. Analīze dokumentē Eiropas politisko un tiesību sistēmu modeļus."
+  },
+  "thesis": {
+    "title": "Pavlova Politiskā Šķira",
+    "intro": "Portugāles politiskā sistēma darbojas pēc klasiskās kondicionēšanas principiem",
+    "cycle": {
+      "title": "Kondicionēšanas Cikls",
+      "formula": "STIMULS → REAKCIJA → ATLĪDZĪBA → ATKĀRTOT",
+      "entry": {
+        "title": "IESTĀŠANĀS",
+        "trigger": "Pievienojies partijai, parādi lojalitāti",
+        "reward": "→ Vieta vēlēšanu sarakstā"
+      },
+      "service": {
+        "title": "DIENESTS",
+        "trigger": "Balso kā teikts, aizsargā kolēģus",
+        "reward": "→ Mordomias (automašīnas, šoferi, personāls, izdevumi)"
+      },
+      "scandal": {
+        "title": "SKANDĀLS",
+        "trigger": "Paziņota izmeklēšana",
+        "reward": "→ Aktivizēta imunitāte, segredo de justiça, sākas kavējumi"
+      },
+      "rescue": {
+        "title": "GLĀBŠANA",
+        "trigger": "Klusē, neatklāj citus",
+        "reward": "→ Pēdējā brīža juridiskā nepilnība tevi izglābj"
+      },
+      "promotion": {
+        "title": "PAAUGSTINĀJUMS",
+        "trigger": "Pierādīta lojalitāte krīzes laikā",
+        "reward": "→ ES AMATS (galvenā balva)"
+      }
+    },
+    "keyInsight": {
+      "title": "\"Viņi Nav Virs Mums\" — Bet Viņi Sevi Pacēla Virs Mums",
+      "point1": "Politiķi izveidoja paralēlu sabiedrību ar privilēģijām, kurām pilsoņi nevar piekļūt",
+      "point2": "Sistēma rada tieši to uzvedību, ko tā atalgo: padevīgus politiķus, kas aizsargā viens otru",
+      "point3": "Reforma no iekšienes ir neiespējama: kā lūgt Pavlova suņiem atvienot zvanu no ēdiena",
+      "parallel": "Politiķi izveidoja paralēlu sabiedrību ar privilēģijām, kurām pilsoņi nevar piekļūt",
+      "rewards": "Sistēma rada tieši to uzvedību, ko tā atalgo: padevīgus politiķus, kas aizsargā viens otru",
+      "reform": "Reforma no iekšienes ir neiespējama: kā lūgt Pavlova suņiem atvienot zvanu no ēdiena"
+    },
+    "selfReinforcing": {
+      "title": "Pašpastiprinošā Cilpa",
+      "intro": "Sistēma ir pašuzturošā. Katra politiķu paaudze mācās no iepriekšējās:",
+      "observe": {
+        "title": "VĒROT",
+        "text": "Jaunākie politiķi vēro, kā vecākie pārdzīvo skandālus"
+      },
+      "learn": {
+        "title": "MĀCĪTIES",
+        "text": "Viņi apgūst noteikumus: lojalitāte = aizsardzība"
+      },
+      "replicate": {
+        "title": "ATKĀRTOT",
+        "text": "Kad pienāk viņu kārta, viņi aizsargā citus, gaidot to pašu"
+      },
+      "teach": {
+        "title": "MĀCĪT",
+        "text": "Viņi kļūst par vecākajiem, kurus vēro jaunākie"
+      },
+      "conclusion": "Politiķiem nav jāsaka tieši aizsargāt kolēģus. Viņi to dara automātiski, zinot, ka sistēma viņus aizsargās pretī. Kondicionēšana ir paaudžu.",
+      "howLoop": "Kā Cilpa Darbojas:",
+      "whyFails": "Kāpēc Iekšējā Reforma Vienmēr Neizdodas:",
+      "trapTitle": "Slazds:",
+      "trapText": "Sistēma nav salūzusi—tā darbojas tieši tā, kā projektēta.",
+      "loopSteps": {
+        "step1": {
+          "title": "Jaunie politiķi atzīmē:",
+          "text": "Vecākas personas izdara noziegumus → saskaras ar izmeklēšanu → bēg → tiek paaugstināts"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "\"Sistēma aizsargā savējos. Ja es būšu lojāls, arī es būšu aizsargāts.\""
+        },
+        "step3": {
+          "title": "Uzvedība pielāgota:",
+          "text": "Viņi balso, lai saglabātu nepilnības, aizsargātu kolēģus, bloķētu reformu"
+        },
+        "step4": {
+          "title": "Cerības nostiprinājušās:",
+          "text": "Kad nāk viņu pašu skandāls, viņi sagaida un saņem tādu pašu aizsardzību"
+        },
+        "step5": {
+          "title": "Nākamā paaudze ievēro:",
+          "text": "Cikls atkārtojas ar pastiprinātām cerībām"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Bloķēta nelikumīga bagātināšana:",
+          "text": "Politiķi nebalsos, lai noņemtu savu evakuācijas lūku"
+        },
+        "lobby": {
+          "title": "Bloķēts vestibila regulējums:",
+          "text": "PSD to bloķēja DIVREIZ (2019, 2024) - apdraud atlīdzības sistēmu"
+        },
+        "immunity": {
+          "title": "Imunitāte tiek uzturēta:",
+          "text": "Parlaments nebalsos par imunitātes atcelšanu — viņiem tas varētu būt vajadzīgs"
+        },
+        "prescription": {
+          "title": "Recepte nemainīga:",
+          "text": "Ilgas aizkaves kalpo sistēmai, tāpēc sistēma tos uztur"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "Elites Aizsardzības Modelis",
+      "intro": "Augsta profila lietu analīze atklāj konsekventu trīs soļu modeli:",
+      "investigate": {
+        "title": "IZMEKLĒT",
+        "text": "Mediji atklāj skandālu → Prokurori paziņo izmeklēšanu → Sabiedrības sašutums tiek ierobežots"
+      },
+      "delay": {
+        "title": "KAVĒT",
+        "text": "Gadi procesuālas sarežģītības → Segredo de justiça piemērots → Pierādījumi noveco → Liecinieku atmiņas izbalē"
+      },
+      "archiveOrReward": {
+        "title": "ARHIVĒT VAI ATALGOT",
+        "text": "Lieta arhivēta 'pierādījumu trūkuma' dēļ VAI politiķis paaugstināts augstākā amatā, kamēr ir izmeklēšanā"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "Zviedru kontrasts",
+        "source": "Avots: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Aspekts",
+        "officialCars": "Oficiālās automašīnas",
+        "mpOffices": "MP biroji",
+        "immunity": "Imunitāte",
+        "salaryRaises": "Paaugstina algu",
+        "localCouncillors": "Vietējie padomnieki",
+        "transparency": "Caurspīdīgums",
+        "cpiScore": "TI CPI rezultāts",
+        "swedenValues": {
+          "cars": "Tikai PM ir auto (apsardze). Visi pārējie: autobuss/vilciens",
+          "offices": "7m² biroji; Deputāti paši pārvalda grafikus",
+          "immunity": "Nav. Tiesā tiesāts kā jebkurš pilsonis",
+          "salary": "Lēmumu pieņem neatkarīga komisija",
+          "councillors": "Brīvprātīgais, bez algas, darbs no mājām",
+          "transparency": "Visas nodokļu deklarācijas ir publiski pieejamas kopš 1766. gada",
+          "cpi": "85/100 (Top 5) - STABILS"
+        },
+        "portugalValues": {
+          "cars": "PM ir 11 vadītāji",
+          "offices": "Pilns personāls, sekretāri, lieli budžeti",
+          "immunity": "Nevar aizturēt bez Parlamenta balsojuma",
+          "salary": "Politiķi balso paši par kompensāciju",
+          "councillors": "Apmaksātas vietas ar personālu",
+          "transparency": "Segredo de justiça gadiem ilgi slēpj lietas",
+          "cpi": "57/100 (43.) - SAMAZINĀS"
+        },
+        "quote": "Mēs esam vienkārši pilsoņi. Nav jēgas piešķirt parlamentāriešiem īpašas privilēģijas, jo mūsu uzdevums ir pārstāvēt pilsoņus un zināt realitāti, kurā cilvēki dzīvo.",
+        "quoteCite": "— Pērs Ārne Hokansons, Zviedrijas deputāts",
+        "sourceLabel": "Avots: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "Šveices modelis: tiešā demokrātija darbībā",
+        "intro": "Šveice pierāda, ka pilsoņi var tieši kontrolēt savus politiķus, izmantojot saistošus referendumus. Šveicieši balso aptuveni 4 reizes gadā par vidēji 15 federālajiem jautājumiem.",
+        "popularInitiative": {
+          "title": "Populāra iniciatīva",
+          "requirement": "100 000 parakstu",
+          "text": "Balsojums par Konstitūcijas grozījumiem – pilsoņi var ierosināt izmaiņas konstitūcijā"
+        },
+        "optionalReferendum": {
+          "title": "Fakultatīvs referendums",
+          "requirement": "50 000 parakstu",
+          "text": "Veto jebkuru likumu 100 dienu laikā pēc pieņemšanas"
+        },
+        "mandatoryReferendum": {
+          "title": "Obligāts referendums",
+          "requirement": "Automātiski",
+          "text": "VISĀM konstitucionālajām izmaiņām OBLIGĀTI jānotiek tautas balsojumā"
+        },
+        "facts": {
+          "nonProfessional": "Neprofesionāli politiķi: deputātiem nav pilnas valsts algas — paredzēts saglabāt regulāras darba vietas",
+          "referendums": "No 1848. līdz 2024. gadam: notika 700+ referendumi",
+          "cpi": "TI CPI rangs: 3. vieta pasaulē (vienādoti ar Zviedriju un Singapūru)"
+        },
+        "quote": "Tautas vārds ir augstākais.",
+        "quoteCite": "— Šveices demokrātijas princips",
+        "stats": "Galvenā Šveices statistika:"
+      }
+    },
+    "portugalReality": {
+      "title": "Portugāles realitāte",
+      "drivers": {
+        "number": "11",
+        "label": "Vadītāji premjerministram António Costa",
+        "detail": "Katrs nopelna 2121 eiro mēnesī"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Ministru kabineta locekļi",
+        "detail": "Vidēji: €2794 | Skolotāji: 1705 € | Minimālā alga: 820 eiro"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Punktu kritums TI CPI 2024",
+        "detail": "Rezultāts: 57/100 | Vieta: 43. vieta no 180 valstīm"
+      }
+    },
+    "citizensKnow": "Iedzīvotāji zina, ka sistēma ir bojāta:"
+  },
+  "cases": {
+    "title": "Pierādījumi: Pilnas lietas",
+    "intro": "Dokumentēti gadījumi, kas parāda aizsardzības sistēmu darbībā",
+    "timelineLabel": "Laika skala",
+    "status": {
+      "ongoing": "Izmēģinājums notiek",
+      "trialOngoing": "Izmēģinājums notiek",
+      "euCouncilPresident": "ES Padomes priekšsēdētājs",
+      "euPromoted": "ES Padomes priekšsēdētājs",
+      "archived": "Arhivēts",
+      "declined": "Izmeklēšana noraidīta",
+      "arguido": "Oficiāls aizdomās turamais (arguido)",
+      "pgrDeclined": "PGR noraidīja izmeklēšanu",
+      "formalSuspect": "Oficiāls aizdomās turamais (arguido)",
+      "convictedServing": "NOSODĪTS - kalpo",
+      "convictedAppealing": "NOSODĪTĀS — Apelācija",
+      "convictedRearrested": "NOTEIKTS (2010) — atkārtoti arestēts 2022. gadā",
+      "convictedMultiple": "NOSODĪTĀS VAIRĀKAS",
+      "formalSuspectArguido": "FORMĀLĀ AIZDODAS (Arguido)",
+      "arrestedJan2024": "ARESTĒTS (2024. gada janvāris)",
+      "neverProsecuted": "NEKAD NAV IESNIEGTA ATBILDĪBA",
+      "neverDefendant": "Nekad nav atbildētājs",
+      "convictedUnpaid": "NOSODĪTS — Parāds nenomaksāts",
+      "convictedMultipleJurisdictions": "NOSODĪTS — Portugāle un Brazīlija",
+      "convictedSuspended": "NOTEIKTS — nosacīts sods",
+      "convictedHouseArrest": "NOTEIKTS - mājas arests"
+    },
+    "tableStatus": {
+      "onTrial": "Tiesā",
+      "underInvestigation": "Notiek izmeklēšana",
+      "convicted": "NOTEIKTS",
+      "convictedX2": "NOSODĪTS x2",
+      "arguido": "Arguido",
+      "archived": "Arhivēts",
+      "declined": "Noraidīts",
+      "arrested": "ARESTĒTS",
+      "neverProsecuted": "Nekad nav saukts pie atbildības",
+      "neverDefendant": "Nekad nav apsūdzētais*",
+      "convictedSuspended": "NOSODĪTĀS (aizdomas)"
+    },
+    "charges": {
+      "passiveCorruption": "Pasīvā korupcija",
+      "moneyLaundering": "Naudas atmazgāšana",
+      "documentFalsification": "Dokumentu viltošana",
+      "taxFraud": "Nodokļu krāpšana vainu pastiprinošos apstākļos"
+    },
+    "conditioningLesson": "Kondicionēšanas nodarbība",
+    "theFacts": "Fakti",
+    "socrates": {
+      "name": "Hosē Sokratess",
+      "operation": "Operação Marquês",
+      "party": "PS - Sociālistiskā partija",
+      "position": "Ministru prezidents (2005-2011)",
+      "timeline": {
+        "arrested": "Arestēts Lisabonas lidostā",
+        "detained": "Aizturēts Evoras cietumā",
+        "accusation": "Oficiāla apsūdzība (28 noziegumi)",
+        "trial": "Tiesā nodoti 25 noziegumi",
+        "ongoing": "Izmēģinājums JOPROJĀM turpinās — 11+ GADI",
+        "instruction": "Pamācošs lēmums - tiesai nosūtīti 25 noziegumi",
+        "current": "Izmēģinājums JOPROJĀM turpinās — 11+ GADI"
+      },
+      "charges": {
+        "title": "Apsūdzības (kopā 22 noziegumi)",
+        "corruption": "Politiskā amata ieņēmēja pasīvā korupcija",
+        "laundering": "Naudas atmazgāšana",
+        "falsification": "Dokumentu viltošana",
+        "fraud": "Nodokļu krāpšana vainu pastiprinošos apstākļos"
+      },
+      "amounts": {
+        "switzerland": "Šveice (2006-2009)",
+        "total": "Kopā no 3 korporācijām",
+        "prescribed": "Noteiktas maksas"
+      },
+      "keyFacts": {
+        "title": "Galvenie fakti no oficiālās apsūdzības",
+        "switzerland": "Uzkrāts Šveicē (2006-2009)",
+        "total": "Kopā it kā saņemts no trim korporācijām",
+        "sources": "Kukuļu avoti: Grupo LENA (celtniecība), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (golfa kūrorts), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Kondicionēšanas nodarbība",
+        "text": "Lietas var aizkavēt uz nenoteiktu laiku. Pat bijušajiem premjerministriem desmit gadus nav nekādu seku. Katra apelācija atiestata laika grafikus."
+      },
+      "coAccused": {
+        "apartment": "Parīzes dzīvoklis",
+        "description": "Sókrāta tuvs draugs un iespējamais \"finansētājs\". Uzņēmējs, kurš, iespējams, nodeva miljonus bijušajam premjerministram, iegādājoties īpašumu, maksājot par automašīnu un veicot mājas remontu. Apsūdzēts 9 naudas atmazgāšanā.",
+        "expenses": "Dzīves izdevumi",
+        "renovations": "Renovācijas",
+        "sources": "Avoti: DCIAP apsūdzība, Portugāles preses ziņojumi",
+        "title": "Galvenais līdzapsūdzētais: Karloss Santoss Silva",
+        "vehicles": "Transportlīdzekļi"
+      },
+      "prescription": {
+        "title": "⏱️ Noilguma krīze",
+        "text": "No sākotnējiem 189 iespējamiem noziegumiem 167 jau ir izrakstīti (beigušies) procesuālās kavēšanās dēļ. Tikai 22 uzlādes paliek aktīvas pēc 11+ gadiem."
+      }
+    },
+    "costa": {
+      "name": "Antonio Kosta",
+      "operation": "Operação Ietekmētājs",
+      "party": "PS - Sociālistiskā partija",
+      "position": "Premjerministrs (2015-2023) → ES Padomes prezidents (2024-)",
+      "timeline": {
+        "raid": "Policijas reids Sanbento pilī",
+        "resigns": "Kosta nekavējoties atkāpjas",
+        "elected": "ES līderi IEVĒL Kostu par prezidentu",
+        "takesOffice": "Stājas ES Padomes priekšsēdētāja amatā",
+        "ongoing": "JOPROJĀM notiek izmeklēšana",
+        "resignation": "Kosta nekavējoties atkāpjas",
+        "euElection": "ES līderi IEVĒL Kostu par Eiropadomes priekšsēdētāju",
+        "current": "JOPROJĀM notiek izmeklēšana, JOPROJĀM prezidēja ES"
+      },
+      "keyFacts": {
+        "title": "Fakti",
+        "cash": "Personāla priekšnieka biroja grāmatās un vīna kastēs paslēpta nauda atrasta",
+        "relates": "Izmeklēšana attiecas uz: litija ieguvi, zaļo ūdeņradi, datu centru projektiem Sinesā",
+        "arrests": "Galvenie aresti: Vitors Eskārija (štāba priekšnieks - arestēts), Nuno Mascarenhas (Sines mērs - arestēts), Diogo Lacerda Machado (uzņēmējs - arestēts)",
+        "galamba": "Sazvērnieki: João Galamba (infrastruktūras ministrs — formāls arguido) — iespējams, iesaistīts tirgošanā ar ietekmi litija/ūdeņraža projektos; palika valdībā līdz Kosta atkāpšanās brīdim"
+      },
+      "lesson": {
+        "title": "Kondicionēšanas nodarbība",
+        "text": "Maksimālā lojalitāte = ES veicināšana. Kriminālizmeklēšanas process nav šķērslis ES augstākajiem amatiem. Lielisks kārums uzticīgākajam sunim."
+      },
+      "quote": "2024. gada 27. jūnijā ES vadītāji ievēlēja Antonio Kostu par Eiropadomes priekšsēdētāju. Viņš stājās amatā 2024. gada 1. decembrī.",
+      "quoteCite": "— Eiropadomes oficiālā tīmekļa vietne"
+    },
+    "montenegro": {
+      "name": "Luiss Melnkalne",
+      "operation": "Spinumviva afēra",
+      "party": "PSD - Sociāldemokrātiskā partija",
+      "position": "Premjerministrs (no 2024. gada līdz šim brīdim)",
+      "amounts": {
+        "family": "€410 000+ ģimenes biznesa darījumos",
+        "solverde": "4500 €/mēnesī konsultācijas azartspēļu kompānijai"
+      },
+      "loopholeTitle": "Nepilnība, kas viņu izglāba:",
+      "loophole": {
+        "notFormal": "Nav formāli apsūdzēts — tikai nosaukts gadījumā",
+        "preliminary": "Iepriekšēja izmeklēšana (averiguação) tika slēgta bez apsūdzībām",
+        "archived": "Lieta arhivēta 2025. gada 17. decembrī"
+      }
+    },
+    "mendes": {
+      "name": "Luiss Markess Mendess",
+      "role": "SIC politiskais komentētājs",
+      "party": "PSD - Sociāldemokrātiskā partija",
+      "position": "Bijušais PSD vadītājs (2005-2007), Valsts padomes loceklis",
+      "amounts": {
+        "consultant": "700 000 €+ neizpaužamās konsultāciju maksas",
+        "aca": "5000 €/mēnesī no ACA-M (valsts darbuzņēmējs)"
+      },
+      "keyFacts": {
+        "aca": "Saņēma 60 000 eiro gadā no ACA-M, savukārt valsts līgumos tai bija vairāk nekā 400 miljoni eiro",
+        "irony": "Kā SIC komentētājs viņš komentē korupciju, neatklājot savas finansiālās intereses"
+      },
+      "loopholeTitle": "Nepilnība, kas viņu izglāba:",
+      "loophole": {
+        "complaint": "Iesniegta anonīma sūdzība",
+        "pgr": "PGR noraidīts par \"parco detalhe\" (nepietiekama informācija)",
+        "noInvestigation": "Nekad nav sākta izmeklēšana",
+        "destroyed": "Pierādījumus efektīvi iznīcina bezdarbība"
+      }
+    },
+    "albuquerque": {
+      "name": "Migels Albukerke",
+      "operation": "Operação Ab Initio",
+      "party": "PSD - Sociāldemokrātiskā partija",
+      "position": "Madeiras reģionālās valdības prezidents",
+      "timeline": {
+        "searches": "2024. gada janvāris: policijas kratīšanas valsts iestādēs",
+        "crimes": "Apgalvoti 8 noziegumi: pasīvā korupcija, varas ļaunprātīga izmantošana",
+        "censure": "2024. gada marts: ierosinājums izteikt neuzticību neizdodas",
+        "reelection": "2024. gada maijs: ATKĀRTOTI IEVĒLĒTS, kamēr notiek izmeklēšana"
+      },
+      "relatedArrest": "Saistīts arests:",
+      "calado": {
+        "text": "Pedro Kalado (PSD viceprezidents) aizturēts 2024. gada janvārī par korupciju"
+      },
+      "lesson": {
+        "text": "Formāla izmeklēšana nav šķērslis pārvēlēšanai. Sistēma aizsargā savējos."
+      }
+    },
+    "salgado": {
+      "name": "Rikardo Salgado",
+      "charges": "Vairākas sodāmības: BES sabrukums, EDP korupcija",
+      "note": "Apgalvo Alcheimera slimību, lai izvairītos no cietuma. Joprojām saņem baņķiera pensiju."
+    },
+    "galamba": {
+      "name": "Žoau Galamba",
+      "charges": "Formāli aizdomās turamais operācijā Influencer (litija/ūdeņraža korupcija)",
+      "note": "Palika infrastruktūras ministra amatā līdz premjerministra Kostas atkāpšanās brīdim"
+    },
+    "calado": {
+      "name": "Pedro Kalado",
+      "charges": "Aizturēts par korupciju, slepenu vienošanos valsts līgumos",
+      "note": "Madeiras viceprezidents, arestēts 2024. gada janvārī"
+    },
+    "barroso": {
+      "name": "Hosē Manuels Barrozu",
+      "charges": "Nosaukts zemūdens skandālā. Nekad nav saukts pie atbildības.",
+      "note": "ES Komisijas prezidents (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "Papildu notiesātie/apsūdzētie politiķi",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3,5 gadi: kvalificēta krāpšana, līdzekļu izkliedēšana. 900 miljonu eiro+ parāds valsts bankai CGD",
+      "note": "Mākslas kolekcija, kuras vērtība ir 500 miljoni eiro+, pirms konfiskācijas nodota fondiem. Augstākā tiesa pagarināja sodu līdz 4 gadiem (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 gadi (PT) + 25 gadi (BR): krāpšana (BPN), Rozalīnas Ribeiro slepkavība Brazīlijā",
+      "note": "Bijušais PSD deputāts (1987-2008). Upuris bija sava klienta laimes mantiniece. Brazīlijas sods gaida izdošanu"
+    },
+    "loureiro": {
+      "name": "Valentims Lureiro",
+      "charges": "2 gadi diskvalifikācija: Apito Dourado futbola korupcija. Spēļu sarunāšana, tiesnešu uzpirkšana",
+      "note": "Gondomāras mērs (1976-2013). Boavista FC prezidents. Nekad nav izcietis cietumsodu"
+    }
+  },
+  "eliteLaws": {
+    "title": "Likumi, kas izstrādāti, lai aizsargātu eliti",
+    "intro": "Kā Satversmes tiesa un parlaments sistemātiski bloķēja atbildību",
+    "cc": {
+      "title": "Satversmes tiesa: nesodāmības sargs",
+      "intro": "Portugāles Konstitucionālā tiesa (Tribunal Constitucional) ir atcēlusi nelikumīgas bagātināšanas likumus DIVREIZ (2012. un 2015. gadā), savukārt parlaments 18 gadu laikā ir bloķējis 22+ likumdošanas mēģinājumus. Portugāle joprojām ir VIENĪGĀ ES valsts, kurā par neizskaidrojamu bagātību nevar noteikt kriminālatbildību.",
+      "timelineTitle": "18 gadi bloķētās reformas (2007–2025)"
+    },
+    "ruling2012": {
+      "badge": "NOTRAUKTA",
+      "title": "Acórdão 179/2012",
+      "date": "2012. gada 4. aprīlis",
+      "claimedReason": "Pieprasītais iemesls:",
+      "claimedText": "Pārkāpj nevainīguma prezumpciju (CRP 32. pants)",
+      "reality": "Realitāte:",
+      "realityText": "Francijā, Spānijā, Itālijā un vairāk nekā 45 valstīs ir līdzīgi likumi, kas ir izturējuši konstitucionālo pārbaudi.",
+      "paradox": "Paradokss:",
+      "paradoxText": "Tiesa aizsargā \"nevainīguma prezumpciju\" saistībā ar paskaidrojumiem par bagātību, vienlaikus pieļaujot 11 gadus ilgu pirmstiesas kavēšanos, kas pārkāpj tās pašas tiesības."
+    },
+    "ruling2015": {
+      "badge": "STRICK DOWN (vienprātīgi)",
+      "title": "Acórdão 377/2015",
+      "date": "2015. gada 27. jūlijs",
+      "response": "Parlamenta atbilde:",
+      "responseText": "Pārskatīts likums, lai risinātu 2012. gada bažas — pievienota prasība, ka kriminālvajāšanai vispirms ir jāpierāda bagātības pieaugums.",
+      "tcResponse": "TC atbilde:",
+      "tcResponseText": "Atkal notriekts uz identisku iemeslu dēļ — vienbalsīgi.",
+      "message": "Ziņa:",
+      "messageText": "Nekad netiks pieņemta neviena nelikumīgas iedzīvošanās likuma versija."
+    },
+    "euComparison": {
+      "title": "ES salīdzinājums: kāpēc tikai Portugāle?",
+      "country": "Valsts",
+      "law": "Likums par nelikumīgu bagātināšanu",
+      "status": "Konstitucionālais statuss",
+      "approved": "apstiprināts",
+      "note": "Visās šajās valstīs ir identiska konstitucionālā aizsardzība nevainīguma prezumpcijai. Tikai Portugāles TC uzskata, ka nelikumīga bagātināšana ir \"antikonstitucionāla\"."
+    },
+    "bipartisan": {
+      "title": "Divpartiju bloķēšanas mašīna",
+      "intro": "18 gadus (2007-2025) PS un PSD ir pārmaiņus bloķējuši pretkorupcijas reformas neatkarīgi no tā, kurš ir pie varas."
+    },
+    "subtitle": "Kā Satversmes tiesa un parlaments sistemātiski bloķēja atbildību",
+    "acordao179": {
+      "title": "Acórdão 179/2012",
+      "date": "2012. gada 4. aprīlis"
+    },
+    "acordao377": {
+      "title": "Acórdão 377/2015",
+      "date": "2015. gada 27. jūlijs"
+    },
+    "immunityComparison": {
+      "title": "Parlamentārā imunitāte: ES salīdzinājums"
+    },
+    "prescription": {
+      "title": "Noilguma periodi: ES salīdzinājums"
+    },
+    "prescriptionNote": "Piezīme. Portugālei ir visilgākais vidējais gadījuma ilgums UN tā saglabā plašu imunitāti — vissliktākā kombinācija.",
+    "euScorecard": {
+      "title": "ES pretkorupcijas rādītāju karte",
+      "note": "Portugāle pastāvīgi atrodas Rietumeiropas demokrātisko valstu lejasgalā."
+    }
+  },
+  "loopholes": {
+    "title": "Juridiskā arhitektūra: izstrādātas evakuācijas lūkas",
+    "subtitle": "Tās nav kļūdas — tās ir funkcijas",
+    "anonymousComplaint": {
+      "title": "Anonīmās sūdzības noraidītas",
+      "text": "CPP 246.º n.º 6. pants ļauj prokuroriem noraidīt anonīmas sūdzības par \"parco detalhe\" (nepietiekami detalizēti), pat ja ir sniegti pierādījumi."
+    },
+    "immunity": {
+      "title": "Parlamenta imunitāte",
+      "text": "CRP 157.º pants neļauj aizturēt deputātus bez parlamenta atļaujas, kas nekad netiek piešķirts politiskajiem sabiedrotajiem."
+    },
+    "averiguacao": {
+      "title": "Pirmsizmeklēšanas fāze",
+      "subtitle": "Averiguação provizoriskais pasākums",
+      "text": "Pirmsizmeklēšanas posms, kas var ilgt vairākus gadus bez oficiālām apsūdzībām, ļaujot politiķiem apgalvot, ka viņi \"netiek izmeklēti\"."
+    },
+    "segredo": {
+      "title": "Tiesu noslēpums",
+      "text": "CPP 86.º n.º 3. pants ļauj \"segredo de justiça\" gadiem ilgi slēpt izmeklēšanu, kamēr politiķi turpina savu amatu un tiek paaugstināti."
+    },
+    "prescription": {
+      "title": "Noilgums",
+      "articles": "KP 118.-122.pants",
+      "text": "Sarežģītas korupcijas lietas var aizkavēt līdz to izrakstīšanai (beigšanās). Vidējais gadījums ilgst 8-12 gadus; recepte ir 10-15 gadi."
+    },
+    "constitutionalCourt": {
+      "title": "Satversmes tiesa Veto",
+      "subtitle": "Konstitucionālais tribunāls",
+      "text": "TC ir atcēlusi nelikumīgas bagātināšanas likumus DIVREIZ (2012, 2015) un bloķējusi vairākus referenduma mēģinājumus."
+    },
+    "immunityComparison": {
+      "title": "Parlamentārā imunitāte: ES salīdzinājums",
+      "scope": "Imunitātes darbības joma",
+      "canBlock": "Vai izmeklēšanu var bloķēt?",
+      "note": "Portugāles imunitāte ir PLĀŠĀKĀ ES, neskatoties uz līdzīgiem konstitucionālajiem noteikumiem. Deputātus nevar aizturēt bez parlamenta balsojuma, kas nekad netiek piešķirts politiskajiem sabiedrotajiem."
+    },
+    "prescriptionComparison": {
+      "title": "Noilguma periodi: ES salīdzinājums",
+      "period": "Periods",
+      "suspension": "Izmeklēšanas laikā apturēta?",
+      "avgDuration": "Vidējais lietas ilgums",
+      "critical": "Kritiskais atklājums:",
+      "finding": "Operação Marquês: noteiktas 167 no 189 apsūdzībām (88% noraidīti kā \"par vēlu\"). Tiesnesis atzina pierādījumus, bet nolēma, ka \"laiks ir beidzies\".",
+      "stat": "73% Portugāles prokuroru apgalvo, ka noilguma periodi ir nepietiekami. (Avots: Transparency International)"
+    },
+    "article246": {
+      "title": "246. panta paradokss",
+      "mechanism": "Mehānisms:",
+      "explanation": "CPP 246.º n.º 6. pants nosaka, ka prokuroriem PIRMS izmeklēšanas ir jāatrod nozieguma \"indícios\" (norādes). Bet kā noteikt indikācijas bez izmeklēšanas? Likums rada perfektu nozveju-22.",
+      "cases": "Lietas pieteikumi:",
+      "montenegro": "€410 000 dokumentēti maksājumi → \"nepietiekami\"",
+      "mendes": "700 000 € bankas ieraksti → \"neliela informācija\"",
+      "verdict": "\"Dizaina iezīme, kas tiek maskēta kā procesuālā garantija.\""
+    },
+    "inconsistency": {
+      "title": "Satversmes tiesa: selektīvs pieteikums",
+      "permitted": "✓ ATĻAUTA Portugālē",
+      "prohibited": "✗ AIZLIEGTS TC",
+      "p1": "• Prokurori noraida izmeklēšanu, neskatoties uz dokumentiem (Melnkalne, Mendesa)",
+      "p2": "• 11 gadu pirmstiesas kavēšanās (Sócrates)",
+      "p3": "• parlamentārās imunitātes bloķēšanas izmeklēšana",
+      "p4": "• Notiesātajiem ministriem pensijas €26K/mēn",
+      "n1": "• Pieprasīt amatpersonām paskaidrot dokumentētu bagātības pieaugumu",
+      "n2": "• Neizskaidrojamas iedzīvošanās kriminalizācija pēc pieauguma pierādīšanas",
+      "n3": "• Pierādījumu sloga uzlikšana amatpersonām, kurām ir unikāli pierādījumi",
+      "n4": "• Likumi par nelikumīgu bagātināšanu (atcelti 2012. gadā, 2015. gadā)",
+      "note": "Francijā, Spānijā un Itālijā ir identiska konstitucionālā aizsardzība nevainīguma prezumpcijai, taču tās uztur likumus par nelikumīgu iedzīvošanos. Tikai Portugāles TC tos uzskata par \"antikonstitucionāliem\"."
+    },
+    "intro": "Portugāles tiesību sistēma ietver īpašus mehānismus, kas nodrošina politiskās šķiras nesodāmību."
+  },
+  "blocking": {
+    "title": "Bloķēšanas modelis: 18 gadi tīšas neveiksmes",
+    "subtitle": "Katrs reformas mēģinājums ir bloķēts, novājināts vai iznīcināts",
+    "timeline": {
+      "title": "Nelikumīgas bagātināšanas bloķēšanas laika skala (2007–2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Lobiju regulējuma bloķēšana"
+    },
+    "symbiosis": {
+      "title": "PS/PSD simbioze: divi suņi, viena audzētava",
+      "psTitle": "PS (Sociālistu partija)",
+      "psdTitle": "PSD (sociāldemokrāti)",
+      "ps": {
+        "noProsecute": "Nesauc pie atbildības PSD biedrus",
+        "loopholes": "Saglabā tiesību aktu nepilnības, kas dod labumu abām pusēm",
+        "blocksReforms": "Bloķē pretkorupcijas reformas, atrodoties opozīcijā"
+      },
+      "psd": {
+        "noProsecute": "Nesauc pie atbildības PS biedrus",
+        "loopholes": "Saglabā tiesību aktu nepilnības, kas dod labumu abām pusēm",
+        "blocksReforms": "Bloķē pretkorupcijas reformas, atrodoties opozīcijā"
+      }
+    },
+    "quote": {
+      "text": "\"O PCP apresentou projetos de lei para kriminālizar o enriquecimento ilícito. Foram semper rejeitados pelo PS e pelo PSD.\"",
+      "translation": "\"PCP iesniedza likumprojektus, lai nelikumīgu iedzīvošanos atzītu par krimināli sodāmu. PS un PSD tos vienmēr noraidīja.\""
+    },
+    "otherParties": {
+      "title": "Citas partijas: Impotentā opozīcija",
+      "proposedReforms": "Ierosinātās reformas (visas noraidītas):",
+      "reforms": {
+        "pcp1": "PCP projekts 726/X (2009) — nelikumīga bagātināšana",
+        "pcp2": "PCP projekts 25/XI (2009) — Nelikumīga bagātināšana",
+        "chega": "Chega (2021) — nelikumīga bagātināšana",
+        "be": "BE — vairāki pārredzamības priekšlikumi"
+      },
+      "chegaVote": {
+        "title": "VISAS puses noraidīja Chega priekšlikumu (2021)",
+        "text": "Kad Čega 2021. gadā ierosināja nelikumīgu iedzīvošanos, <strong>ikviena partija balsoja pret</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> — NĒ",
+        "psd": "• <span class=\"text-psd\">PSD</span> — NĒ",
+        "be": "• <span class=\"text-pink-500\">BE</span> — NĒ (atturas \"avota\" dēļ)",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> — NĒ (atturas \"avota\" dēļ)",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> — NĒ",
+        "note": "Kreisās partijas atteicās balsot ar galēji labējiem, pat par reformu, ko tās atbalsta"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "Paradokss:",
+      "paradoxText": "Partijas, kas publiski atbalsta pretkorupcijas reformu, balso pret to, kad to ierosina citi."
+    },
+    "intro": "Katrs reformas mēģinājums ir bloķēts, vājināts vai noraidīts",
+    "visual": {
+      "title": "18 gadi bloķēšanas",
+      "attempts": "Reformu mēģinājumi",
+      "years": "Gadi kavēšanās",
+      "laws": "Likumi vājināti"
+    }
+  },
+  "euRewards": {
+    "title": "ES atlīdzības sistēma: lojāli suņi saņem gardumus",
+    "subtitle": "Izmeklēšana → ES veicināšana",
+    "costaTimeline": {
+      "title": "Kosta laika skala — galīgais kondicionēšanas pierādījums"
+    },
+    "december": {
+      "title": "2025. gada decembra Trifecta"
+    },
+    "trifecta": {
+      "title": "2025. gada decembra Trifecta",
+      "subtitle": "Trīs politiķi viena mēneša laikā izvairījās no atbildības:"
+    },
+    "broaderPicture": {
+      "title": "Plašāka bilde"
+    },
+    "observation": "Novērojums: ES apbalvo lojalitāti, nevis integritāti.",
+    "intro": "Izmeklēšana → ES paaugstināšana",
+    "table": {
+      "title": "Portugāles politiķi → ES nostājas",
+      "patternNote": "Šajā tabulā ir aprakstīts politiķu modelis, kas, neskatoties uz strīdiem, saņem ES amatus. Korelācija nepierāda cēloņsakarību vai koordināciju, taču biežums prasa rūpīgu pārbaudi."
+    },
+    "revolvingDoor": {
+      "title": "Virpuļdurvis: Brisele → Privātais sektors"
+    }
+  },
+  "solution": {
+    "title": "Vienīgais risinājums: Ārējais spēks",
+    "subtitle": "Kāpēc iekšējā reforma nav iespējama — un ko pilsoņi var darīt",
+    "impossibility": {
+      "title": "Kāpēc iekšējā reforma nav iespējama"
+    },
+    "mechanisms": {
+      "title": "Ārējie mehānismi"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "1. jautājums"
+      },
+      "q2": {
+        "title": "2. jautājums"
+      },
+      "q3": {
+        "title": "3. jautājums"
+      },
+      "q4": {
+        "title": "4. jautājums"
+      },
+      "q5": {
+        "title": "5. jautājums"
+      }
+    },
+    "whyImpossible": {
+      "title": "Kāpēc iekšējā reforma nav iespējama"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Pilsoņu referenduma iniciatīva",
+        "subtitle": "nepieciešami paraksti",
+        "text": "Pilsoņi var ierosināt saistošus referendumus par jebkuru valstiski svarīgu jautājumu."
+      },
+      "legislativa": {
+        "title": "Pilsoņu likumdošanas iniciatīva",
+        "subtitle": "nepieciešami paraksti",
+        "text": "Pilsoņi var ierosināt tiesību aktus tieši parlamentam."
+      },
+      "european": {
+        "title": "Eiropas pilsoņu iniciatīva",
+        "subtitle": "paraksti nepieciešami 7+ ES valstīs",
+        "text": "ES mēroga mehānisms tiesību aktu ierosināšanai Eiropas Komisijai."
+      }
+    },
+    "damningRecord": {
+      "title": "Sasodāmais ieraksts",
+      "text": "Portugāles referendumu vēsture liecina, ka sistēma ir izstrādāta tā, lai tā neizdosies:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Digitālā izslēgšana: vecāka gadagājuma cilvēku apklusināšana",
+      "usageByAge": "Interneta lietojums pēc vecuma grupas (Portugāle, 2024)",
+      "keyStats": "Galvenā statistika:"
+    },
+    "proposedQuestions": {
+      "title": "Ierosinātie referenduma jautājumi"
+    },
+    "intro": "Kāpēc iekšējā reforma nav iespējama — un ko pilsoņi var darīt",
+    "tradeoffs": {
+      "title": "Godīgi kompromisi: mūsu piedāvātajam ir risks",
+      "intro": "Pārredzamības garā mēs atzīstam, ka tiešās demokrātijas mehānismiem (piemēram, Šveices referendumiem) ir reālas problēmas:",
+      "challenges": {
+        "title": "Zināmie izaicinājumi",
+        "engagement": "• <strong>Vēlētāju nogurums:</strong> Šveices vēlētāju aktivitāte ir vidēji 40–50%. Bieža balsošana var nogurdināt pilsoņus.",
+        "complexity": "• <strong>Sarežģītības samazināšana:</strong> niansētā politika tiek samazināta līdz jā/nē. Vienkāršošanas riski.",
+        "populism": "• <strong>Populistiskas manipulācijas:</strong> labi finansētas kampaņas var ietekmēt vāji informētus vēlētājus.",
+        "minority": "• <strong>Minoritāšu tiesības:</strong> vairākums var balsot pret minoritātēm (Šveices minaretu aizliegums, 2009).",
+        "corruption": "• <strong>Nav bez korupcijas:</strong> Šveice ieņem 7. vietu pēc PCI — labi, bet ne ideāli."
+      },
+      "whyStill": {
+        "title": "Kāpēc mēs to joprojām piedāvājam",
+        "accountability": "• <strong>Atbildība pastāv:</strong> nepilnīga atbildība > nulle atbildība.",
+        "binding": "• <strong>Saistoši rezultāti:</strong> politiķi nevar ignorēt rezultātus tāpat kā lūgumrakstus.",
+        "deterrent": "• <strong>Atturoša iedarbība:</strong> zinot, ka vēlētāji var ignorēt, tiek stimulēta atsaucība.",
+        "culture": "• <strong>Kultūras maiņa:</strong> regulāra līdzdalība laika gaitā palielina pilsonisko iesaisti.",
+        "track": "• <strong>Iepriekšējie ieraksti:</strong> kopš 1848. gada vairāk nekā 700 referendumu Šveices. Sistēma darbojas nevainojami."
+      },
+      "conclusion": "<strong class=\"text-white\">Mūsu nostāja:</strong> mēs neapgalvojam, ka tiešā demokrātija ir ideāla. Mēs apgalvojam, ka tā ir labāka par sistēmu, kurā politiķi balso paši par savām algām, imunitāti un atbildību un konsekventi izvēlas sevi aizsargāt. Jautājums nav \"Vai tiešā demokrātija ir ideāla?\" bet \"Vai tas ir labāks par to, kas mums ir?\" Pierādījumi liecina, ka jā."
+    }
+  },
+  "euLabor": {
+    "title": "Karš pret strādniekiem: ES darba tiesību likvidēšana",
+    "subtitle": "Kā Eiropas integrācija vājināja darba ņēmēju aizsardzību Portugālē",
+    "germany": {
+      "title": "Vācija: Harca IV reformas",
+      "benefits": "Ieguvumi ir samazināti līdz minimālam līmenim",
+      "duration": "Bezdarbnieka pabalsti ir ierobežoti līdz 12 mēnešiem",
+      "dependent": "Izveidota jauna \"strādājošo nabagu\" klase"
+    },
+    "france": {
+      "title": "Francija: El Khomri un pensiju reforma",
+      "elKhomri": "El Khomri likums (2016): Vājināta darba aizsardzība",
+      "pension": "Pensiju reforma (2023): palielināts pensionēšanās vecums, neskatoties uz masu protestiem",
+      "yellowVests": "Dzelteno vestu kustību apspieda policijas vardarbība"
+    },
+    "uk": {
+      "title": "Apvienotā Karaliste: taupība",
+      "welfare": "Labklājības sistēma izķidāta saskaņā ar \"taupības pasākumiem\"",
+      "universalCredit": "Universāls kredīts: paredzēts, lai liegtu priekšrocības",
+      "sanctioned": "Piemēroti 2,5 miljoni sankciju (2012-2018)"
+    },
+    "italy": {
+      "title": "Itālija: Meloni valdība",
+      "citizenIncome": "Reddito di Cittadinanza (pilsoņu ienākumi) tika atcelts",
+      "prison": "Līdz 6 gadiem cietumā par streiku organizēšanu, kas bloķē satiksmi",
+      "strikes": "Tiesības streikot arvien vairāk tiek kriminalizētas"
+    },
+    "pattern": {
+      "title": "Modelis visā ES"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "Digitālās izslēgšanas slānis",
+      "description": "Paaudze, kas bija lieciniece visam 50 gadu korupcijas modelim, tiek sistemātiski izslēgta no referenduma parakstu sistēmas, kas paredzēta tikai digitālajā formātā."
+    },
+    "explanation": "Mūsdienu referendumu iniciatīvām ir nepieciešami ciparparaksti, faktiski izslēdzot vecākās paaudzes, kuras mazāk izmanto internetu.",
+    "usageSource": "Avots: Eurostat (2024)",
+    "stats": {
+      "65to74": "38,9% 65-74 gadus vecu cilvēku ir digitāli izslēgti",
+      "75plus": "~70% no 75+ gadiem ir digitāli izslēgti",
+      "never": "Daudzi nekad nav izmantojuši internetu",
+      "population": "Tas pārstāv vairāk nekā 2 miljonus Portugāles pilsoņu"
+    },
+    "warning": "Nežēlīgā ironija:"
+  },
+  "conclusion": {
+    "notDemocracy": "Tā nav demokrātija ar korupcijas problēmām",
+    "byDesign": "Tas ir pēc dizaina",
+    "euComplicit": "ES ir līdzvainīga",
+    "choice": "Izvēle",
+    "byDesignText": "Sistēma nav salauzta. Tas tika izstrādāts šādā veidā.",
+    "choiceText1": "Šo dokumentu ir parakstījis",
+    "choiceSignatures": "pilsoņiem",
+    "choiceText2": "prasīgas pārmaiņas.",
+    "choiceThatsYou": "Tas esi TU.",
+    "euComplicitText": "ES institūcijas augstākajos amatos paaugstina amatpersonas, par kurām notiek izmeklēšana.",
+    "notDemocracyText": "Valsts, kurā pilsoņi nevar rīkot referendumus, nav pilnīga demokrātija.",
+    "choiceText": "Šo dokumentu ir parakstījuši iedzīvotāji, pieprasot izmaiņas."
+  },
+  "dashboard": {
+    "title": "Portugāles Korupcijas Panelis",
+    "intro": "Oficiāli dati no Transparency International, DGPJ, Eurostat un GRECO",
+    "kpi": {
+      "cpi": {
+        "label": "TI CPI Rezultāts 2024",
+        "trend": "-4 no 2023"
+      },
+      "trust": {
+        "label": "Pilsoņi: \"Valdība ir korumpēta\"",
+        "source": "Eirobarometrs 2024"
+      },
+      "blocked": {
+        "label": "Bloķēti Likumdošanas Mēģinājumi",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Gadi: Sócrates Lieta",
+        "trend": "Joprojām turpinās"
+      }
+    },
+    "charts": {
+      "cpi": "Korupcijas Uztveres Indekss (2012-2024)",
+      "duration": "Vidējais Lietas Ilgums (Mēneši)",
+      "euComparison": "ES Salīdzinājums: CPI Rezultāts pret Nelikumīgas Iedzīvošanās Likumu"
+    },
+    "sources": "Datu Avoti:"
+  },
+  "forum": {
+    "title": "ES Pilsoņu Forums",
+    "intro": "Dalies ar savu skatījumu uz politisko atbildību",
+    "stats": "ieguldījumi no ES pilsoņiem",
+    "form": {
+      "name": "Vārds (neobligāts)",
+      "namePlaceholder": "Anonīms",
+      "country": "Valsts",
+      "message": "Jūsu ziņojums",
+      "messagePlaceholder": "Dalies ar savām domām par politisko atbildību ES...",
+      "submit": "Publicēt Komentāru",
+      "note": "URL nav atļauti. Komentāri tiek glabāti lokāli un moderēti."
+    },
+    "noComments": "Esi pirmais, kas dalās ar savu skatījumu uz politisko atbildību.",
+    "errors": {
+      "tooShort": "Komentāram jābūt vismaz 10 rakstzīmēm",
+      "tooLong": "Komentāram jābūt mazāk par 1000 rakstzīmēm",
+      "prohibited": "Komentārs satur aizliegtu saturu"
+    },
+    "success": "Komentārs veiksmīgi pievienots",
+    "time": {
+      "justNow": "Tikko",
+      "minutesAgo": "m atpakaļ",
+      "hoursAgo": "h atpakaļ",
+      "daysAgo": "d atpakaļ"
+    }
+  },
+  "donate": {
+    "title": "Atbalsti Objektīvu Pētniecību",
+    "intro": "Maksimāli €2 no ziedotāja, lai saglabātu pilnīgu neatkarību",
+    "principles": {
+      "max": {
+        "title": "Maksimāli €2",
+        "text": "Nav lielu ziedotāju nozīmē nav ietekmes. Visiem ir vienāda balss."
+      },
+      "allParties": {
+        "title": "Visas Partijas Dokumentētas",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — neviena partija nav atbrīvota no pārbaudes."
+      },
+      "official": {
+        "title": "Tikai Oficiāli Avoti",
+        "text": "Tiesas dokumenti, prokuratūras materiāli, Konstitucionālās tiesas lēmumi."
+      },
+      "transparency": {
+        "title": "Pilnīga Caurredzamība",
+        "text": "Visi dati ir pārbaudāmi, visi avoti ir citēti."
+      }
+    },
+    "stats": {
+      "raised": "Kopā Savākts",
+      "donors": "Ziedotāji"
+    },
+    "whyMax": "Kāpēc maksimāli €2?",
+    "whyMaxText": "Lieli ziedojumi rada saistības. Mikroziedojumi no tūkstošiem pilsoņu nodrošina, ka šī pētniecība kalpo sabiedrības interesēm, nevis kādai politiskai vai uzņēmējdarbības programmai.",
+    "modal": {
+      "title": "Atbalsti Objektīvu Pētniecību",
+      "purpose": "Jūsu mikroziedojums atbalsta neatkarīgu pētniecību par politisko atbildību visā ES.",
+      "principlesTitle": "Mūsu Principi:",
+      "maxDonor": "Maksimāli €2/ziedotājs - Nav lielu ziedotāju, nav ietekmes",
+      "allPartiesDoc": "Visas partijas dokumentētas - PS, PSD, CDS, PCP, BE, Chega - visas iekļautas",
+      "officialOnly": "Tikai oficiāli avoti - Tiesas dokumenti, prokuratūras materiāli",
+      "fullTransparency": "Pilnīga caurredzamība - Visi dati pārbaudāmi",
+      "paymentMethods": "Maksājumu metodes drīzumā:",
+      "simulateBtn": "Simulēt Ziedojumu (Demo)",
+      "demoNote": "Šī ir demonstrācija. Īstai maksājumu integrācijai nepieciešama aizmugures sistēmas iestatīšana."
+    },
+    "errors": {
+      "invalidAmount": "Lūdzu, ievadiet derīgu summu",
+      "maxAmount": "Maksimālais ziedojums ir €{{max}}, lai saglabātu pētniecības neatkarību"
+    },
+    "success": "Paldies! €{{amount}} ziedojums reģistrēts."
+  },
+  "footer": {
+    "legalTitle": "Juridisks Paziņojums",
+    "legalNotice": "Juridisks Paziņojums",
+    "legalNotice.text": "Visām minētajām personām ir tiesības uz nevainīguma prezumpciju. Šis dokuments sniedz publiski pieejamu informāciju no oficiāliem avotiem, tiesas dokumentiem un verificētiem mediju ziņojumiem, ko pētnieks uzskata par būtisku sabiedrības informētībai un demokrātiskai atbildībai.",
+    "legalText": "Visām šajā dokumentā minētajām personām ir tiesības uz nevainīguma prezumpciju, kamēr to vaina nav pierādīta tiesā. Šis dokuments sniedz publiski pieejamu informāciju no oficiāliem avotiem, tiesas dokumentiem un cienījamiem mediju izdevumiem. Analīze atspoguļo dokumentētus modeļus Portugāles tiesiskajā un politiskajā sistēmā.",
+    "prepared": "Dokuments sagatavots:",
+    "verified": "Visi avoti verificēti publikācijas datumā",
+    "legalNoticeText": "Visa sniegtā informācija ir iegūta no oficiālajiem tiesas dokumentiem, parlamenta ierakstiem un cienījamiem plašsaziņas līdzekļiem. Minētās personas tiek uzskatītas par nevainīgām, kamēr viņu vaina nav pierādīta."
+  },
+  "countries": {
+    "PT": "Portugāle",
+    "ES": "Spānija",
+    "FR": "Francija",
+    "DE": "Vācija",
+    "IT": "Itālija",
+    "NL": "Nīderlande",
+    "BE": "Beļģija",
+    "AT": "Austrija",
+    "PL": "Polija",
+    "RO": "Rumānija",
+    "EL": "Grieķija",
+    "CZ": "Čehija",
+    "HU": "Ungārija",
+    "SE": "Zviedrija",
+    "DK": "Dānija",
+    "FI": "Somija",
+    "IE": "Īrija",
+    "BG": "Bulgārija",
+    "HR": "Horvātija",
+    "SK": "Slovākija",
+    "SI": "Slovēnija",
+    "LT": "Lietuva",
+    "LV": "Latvija",
+    "EE": "Igaunija",
+    "CY": "Kipra",
+    "MT": "Malta",
+    "LU": "Luksemburga",
+    "EU": "ES pilsonis"
+  },
+  "investigative": {
+    "badge": "Izmeklēšanas ziņojums",
+    "title": "Ko atklāj šī izmeklēšana",
+    "intro": "Pārskatot tiesas dokumentus, parlamenta dokumentus, Konstitucionālās tiesas nolēmumus, GRECO vērtējumus, Transparency International ziņojumus, Eirobarometra aptaujas un Portugāles plašsaziņas līdzekļu arhīvus 50 gadus, atklājas satraucošs modelis: Portugāles politiskā sistēma nav salauzta — tā darbojas tieši tā, kā paredzēts.",
+    "evidenceTitle": "Pierādījumi liecina:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Starptautiskie atklājumi:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "Tā nav sazvērestības teorija. Tas ir dokumentēts fakts. Visas šajā pārskatā ietvertās prasības ir iegūtas no oficiāliem dokumentiem, tiesas nolēmumiem vai cienījamu starptautisku organizāciju. Nesodāmības arhitektūra nav slēpta — tā ir publiska, likumīga un to apzināti uztur tie, kurus tā aizsargā.",
+    "evidence": {
+      "banking": "Vairāk nekā 20 miljardi eiro nozagti banku kraha dēļ (BPN, BES, CGD)",
+      "casaPia": "Vairāk nekā 100 bērnu vardarbībā tika izmantoti Casa Pia, kamēr elite to slēpa 20 gadus",
+      "pms": "Izmeklēti 2 premjerministri, 0 notiesāti",
+      "reforms": "9+ pretkorupcijas reformas, ko PS/PSD bloķēja kopš 1983. gada",
+      "referendums": "0 saistošu referendumu 50 demokrātijas gados",
+      "suspended": "75% korupcijas gadījumu beidzas ar nosacītu sodu"
+    },
+    "findings": {
+      "greco": "GRECO: pilnībā īstenots tikai 1 no 15 pretkorupcijas ieteikumiem",
+      "ti": "Transparency International: Portugāle no 25. vietas nokrita uz 33. vietu (2012-2024)",
+      "eurobarometer": "Eirobarometrs: 88% portugāļu uzskata, ka valdība ir korumpēta",
+      "euAverage": "ES vidējais: 10 gadu vidējais kriminālvajāšanas laiks, salīdzinot ar Portugāles 11+ gadiem",
+      "uncac": "UNCAC: 18 gadi kopš saistības, joprojām nav nelikumīgas bagātināšanas likuma",
+      "euRuleOfLaw": "ES tiesiskums 2025. gadā: 81 lieta, 16 notiesājoši spriedumi 2024. gadā — vidējais kriminālvajāšanas laiks: 6,8 gadi"
+    }
+  },
+  "greco": {
+    "badge": "Eiropas Padomes novērtējums",
+    "title": "GRECO: ieviests 1 no 15 ieteikumiem",
+    "subtitle": "Valstu grupa pret korupciju",
+    "intro": "Pretkorupcijas valstu grupa (GRECO) vairākkārt kritizējusi Portugāles progresa trūkumu",
+    "implemented": {
+      "number": "1",
+      "title": "Pilnībā ieviests",
+      "subtitle": "no 15 ieteikumiem",
+      "text": "Pilnībā ir ievērots tikai viens ieteikums par politisko partiju finansēšanas caurskatāmību."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Daļēji īstenots",
+      "subtitle": "joprojām gaida pabeigšanu",
+      "text": "Ietver: MP rīcības kodeksus, aktīvu deklarācijas, interešu konfliktu pārvaldību, lobēšanas caurskatāmību."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Nav ieviests",
+      "subtitle": "ignorēts vai noraidīts",
+      "text": "Ietver: kriminālatbildību par nelikumīgu iedzīvošanos, trauksmes cēlēju aizsardzību, ministru pārtraukšanas periodus."
+    },
+    "criticismsTitle": "Galvenās GRECO kritikas (2023. gada ziņojums):",
+    "criticisms": {
+      "noCode": "Nav obligātā deputātu uzvedības kodeksa",
+      "assets": "Aktīvu deklarācijas nav neatkarīgi pārbaudītas",
+      "lobbyists": "Nav lobistu reģistra",
+      "coolingOff": "Ministriem, kas pievienojas privātajam sektoram, nav atteikšanās perioda",
+      "whistleblower": "Trauksmes cēlēju aizsardzības likumā joprojām ir nepilnības",
+      "conflicts": "Interešu konfliktu noteikumi ir slikti īstenoti",
+      "prosecution": "Kriminālprocesa laiks pārsniedz saprātīgas robežas",
+      "immunity": "Politiskās imunitātes noteikumi ir pārāk plaši"
+    },
+    "source": "Avots: GRECO piektā novērtēšanas kārta – Portugāle",
+    "sourceLabel": "Avots: GRECO piektā novērtēšanas kārta – Portugāle",
+    "scorecard": {
+      "title": "10 gadu neatbilstības laika grafiks (2015–2025)",
+      "fourthRound": "CETURTĀ KĀRTA (2015)",
+      "fifthRound": "PIEKTĀ KĀRTA (2024)",
+      "focusMPs": "Saeimas deputāti, tiesneši, prokurori",
+      "focusExec": "Valdība un tiesībaizsardzība",
+      "implemented": "Implemented",
+      "fullyImplemented": "Pilnībā ieviests",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "ES vidēji: 59% | Portugāle: 33%",
+      "partial": "18 Daļēja | 10 Nav ieviests",
+      "ongoing": "Atbilstība Notiek"
+    },
+    "menac": {
+      "title": "MENAC: Nacionālais pretkorupcijas mehānisms",
+      "staffed": "Staffed",
+      "detail": "Aizpildītas tikai 12 no 27 apstiprinātajām vietām. Pasludināts par \"ekspluatējošu\" 2023. gada jūnijā, bet GRECO saka: \"nav pilnībā darbotiesspējīgs\""
+    }
+  },
+  "whistleblower": {
+    "title": "Trauksmes cēlēju aizsardzība: trūkstošais vairogs",
+    "subtitle": "Tie, kas atklāj korupciju, saskaras ar atriebību, savukārt korumpētie sedz aizsardzību",
+    "ruiPinto": {
+      "title": "Rui Pinto lieta",
+      "text": "Portugāļu hakeris, kurš atklāja \"Football Leaks\" skandālu, atklājot korupciju Eiropas lielākajos klubos un Portugāles tieslietu sistēmā. Viņa nopludināšana veicināja operāciju Lex (korumpēti tiesneši) un Luanda Leaks.",
+      "outcomeTitle": "REZULTĀTS:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: arestēts, izdots no Ungārijas",
+      "convicted": "Pinto: notiesāts par hakeru noziegumiem",
+      "officials": "Korumpētās amatpersonas, kuras viņš atklāja: daži tiek tiesāti, lielākā daļa ir bez maksas"
+    },
+    "comparison": {
+      "title": "ES salīdzinājums: trauksmes cēlēju likumi",
+      "headers": {
+        "country": "Valsts",
+        "protection": "Aizsardzības līmenis",
+        "status": "Statuss"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Spēcīgs",
+          "status": "Anonīma ziņošana + juridiskā palīdzība"
+        },
+        "ireland": {
+          "protection": "Spēcīgs",
+          "status": "Visaptverošs 2014. gada likums"
+        },
+        "france": {
+          "protection": "Spēcīgs",
+          "status": "Sapin II likums (2016)"
+        },
+        "germany": {
+          "protection": "Vidēja",
+          "status": "Īstenots 2023"
+        },
+        "portugal": {
+          "protection": "Vāja",
+          "status": "GRECO paliek nepilnības"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "Stāsts par diviem Ruisiem",
+      "subtitle": "Divi vīrieši vārdā Rui, kuri uzdrošinājās atklāt patiesību. Abi sodīti. Korumpētie? Pārsvarā bezmaksas."
+    },
+    "ruiCruz": {
+      "title": "Rui Kruss (\"Tugaleaks\")",
+      "text": "<a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a> dibinātājs — WikiLeaks iedvesmota portugāļu platforma (2010. gada aprēķins), kas atklāj valdības dokumentus un drošības ievainojamības. Vienīgā vietne, kas iekļauta CIP pasaules faktu grāmatā Portugāles \"politiskā spiediena grupās\".",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Aizliegts izmantot internetu</strong> 8 mēnešus",
+      "gagged": "• Atbilstoši tiesas <strong>piespiedu rīkojumam</strong>",
+      "fired": "• <strong>Atlaists</strong> no darba uzņēmumā PT Comunicações",
+      "active": "• <span class=\"text-good\">2025. gadā joprojām darbojas Tugaleaks</span>",
+      "source": "Avots: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRI (Eiropas digitālās tiesības)</a>"
+    }
+  },
+  "media": {
+    "title": "Kondicionēšanas iekārta: mediju īpašumtiesības",
+    "subtitle": "Kam pieder Portugāles mediji, un kāpēc tas ir svarīgi?",
+    "ownershipTitle": "Koncentrētas īpašumtiesības",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão — bijušais premjerministrs (PSD)",
+      "cofina": "Galvenie akcionāri ir bankas, kuras glābj valsts",
+      "mediaCapital": "Nesen pārdots, īpašumtiesības bieži mainās",
+      "globalMedia": "Pieder investoriem ar dažādām interesēm",
+      "rtp": "Valstij pieder, valde ieceļ valdība"
+    },
+    "conditioningTitle": "Kondicionēšanas efekts",
+    "conditioningIntro": "Ja plašsaziņas līdzekļu īpašnieki ir saistīti ar politiskajām partijām vai ir atkarīgi no valsts reklāmas:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "REZULTĀTS:",
+    "resultText": "Portugāles pilsoņi zina, ka korupcija pastāv (tā apgalvo 88%), taču jūtas bezspēcīgi to mainīt. Plašsaziņas līdzekļi atspoguļo skandālus, bet reti savieno tos ar sistēmiskās aizsardzības arhitektūru.",
+    "conditioning": {
+      "selfCensorship": "Pašcenzūra normalizējas",
+      "underfunded": "Pētnieciskā žurnālistika nepietiekami finansēta",
+      "forgotten": "Skandāli īsi aptverti, pēc tam aizmirsti",
+      "bothSides": "\"Abu pušu\" viltus līdzvērtība korupcijā",
+      "personalities": "Koncentrējieties uz personībām, nevis sistēmiskām problēmām"
+    }
+  },
+  "eciCritique": {
+    "title": "ECI dizaina kļūda: 12 mēneši pretmobilizācijas",
+    "problem": "Komisijai ir 12 mēneši, lai atbildētu — laiks organizēt pretestību, lobēt pret īstenošanu vai vienkārši kavēties, līdz sabiedrības uzmanība izzūd.",
+    "tacticsTitle": "Iestādēm pieejamie pretpasākumi:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Vēsturiskas ECI kļūmes:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "Alternatīva:",
+    "alternativeText": "Tāpēc mēs piedāvājam TIEŠUS referendumu mehānismus, piemēram, Šveici, nevis uz lūgumrakstiem balstītas ECI, kuras var ignorēt. Šveices referendumi ir SAISTĪGI — politiķi nevar tos vienkārši gaidīt.",
+    "comparisonTitle": "ECI pret Šveices referendumu:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Pilna korupcijas datubāze",
+    "subtitle": "Atklāti vairāk nekā 25 nozīmīgi skandāli (1980-2025)",
+    "intro": "Katra lielākā korupcijas lieta ir dokumentēta ar summām, rezultātiem un avotiem",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "Lielākā krāpniecība Portugāles vēsturē. Atklāti ārpusbilances zaudējumi €700 miljoni+. Banka nacionalizēta.",
+        "sources": "Avoti: RTP, Público, Tiesas dokumenti"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "EDP ​​savienojums:",
+        "edpText": "Salgado notiesāts par ekonomikas ministra Manuela Pinju piekukuļošanu ar 4,5 miljoniem eiro par labvēlīgiem EDP lēmumiem.",
+        "sources": "Avoti: Observador, Tiesas dokumenti, BdP ziņojumi",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Rikardo Salgado — izpilddirektors (1991-2014) — vairāki izmēģinājumi, veselības aizture",
+          "ricciardi": "Hosē Marija Rikjardi — BES Investments — NOTEIKTS",
+          "pires": "Amílcar Morais Pires — finanšu direktors — NOTEIKTS",
+          "cruz": "Mačado da Kruss — riska direktors — tiesā"
+        },
+        "fraudStructure": {
+          "title": "Krāpšanas struktūra:",
+          "hiddenLosses": "4,9 miljardu eiro neatklāti zaudējumi, kas slēpti caur ārzonas transportlīdzekļiem",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPV (Luksemburgas čaulas uzņēmumi)",
+          "mechanisms": "Saistīto pušu aizdevumi, cirkulārās garantijas, slēptās saistības, fiktīvi aktīvi, Angolas operācijas (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgado kļūst par izpilddirektoru (23 gadus valdīšanas laikā)",
+          "problems": "2013. gads: iekšējie auditi atklāj problēmas (apzinās ģimene)",
+          "collapse": "2014.–2018. gads: ziņo par zaudējumiem 3,6 miljardu eiro apmērā, bankas darbības apturēšana, 4,9 biljardu eiro glābšana",
+          "prosecution": "2015-2025: Vairāki izmēģinājumi, lēns progress, izpilddirektors nekad nav ieslodzīts"
+        },
+        "monteBlanco": {
+          "name": "Montebranko tiesas process",
+          "defendants": "18 apsūdzētie, tostarp Salgado",
+          "status": "Notiek 2024.-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Sócrates esot saņēmis 15 000 eiro mēnesī no Salgado",
+          "pinho": "Ministrs Pinho saņēma 4,9 miljonus eiro no Salgado (notiesāts uz 10 gadiem)"
+        },
+        "regulatoryFailure": "Portugāles Banka gadiem ilgi palaida garām brīdinājuma zīmes. Revidenti parakstījās uz krāpnieciskiem kontiem."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Valstij piederošajai bankai nepieciešama lielākā glābšanas palīdzība Portugāles vēsturē.",
+        "interferenceTitle": "Politiskā iejaukšanās:",
+        "interferenceText": "Parlamentārā izmeklēšana atklāj \"politisko iejaukšanos\" un \"partizānu iecelšanu\", kas aptver vairākas valdības.",
+        "sources": "Avoti: RTP, Parlamentārās izmeklēšanas ziņojums"
+      }
+    },
+    "politicians": {
+      "title": "Premjerministri un augstākie politiķi",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Korupcijas avoti:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Šveices konti: atklāti 24 miljoni eiro"
+        },
+        "otherScandalsTitle": "Citi saistīti skandāli:",
+        "other": {
+          "freeport": "Brīvosta: apsūdzības par atteikšanos no vides aizsardzības",
+          "parqueEscolar": "Parque Escolar: krāpšana skolu renovācijas jomā",
+          "cgd": "CGD: iespējamā ietekme uz bankas lēmumiem"
+        },
+        "sources": "Avoti: DCIAP apsūdzība, tiesas dokumenti",
+        "charges": {
+          "title": "Recepšu skandāls:",
+          "original": "Iesniegtas 189 apsūdzības (31 noziegums)",
+          "prescribed": "167 maksas PAREDZĒTAS (beidzies)",
+          "remaining": "Tikai 22 apsūdzības tiek izskatītas tiesā",
+          "judge": "Tiesnesis Ivo Rosa (2021. gada aprīlis): nolēma, ka lielākā daļa noziegumu ir “beigušies”",
+          "ruling": "Tiesnesis nolēma, ka Sókrāts ir \"sabojāts\", bet noziegums bija \"beigusies\""
+        },
+        "timeline": {
+          "arrested": "2014-11-21: arestēts Lisabonas lidostā",
+          "prison": "2014-2015: 9 mēneši Evoras cietumā",
+          "houseArrest": "2015: mājas arests, pēc tam pilnībā brīvs",
+          "ongoing": "2025: Joprojām nav notiesāšanas pēc 11+ gadiem"
+        },
+        "pension": {
+          "title": "Aizsargāts apsūdzības laikā:",
+          "amount": "30 000 eiro gadā “mūža subsīdija” (subvenção vitalícia)",
+          "legal": "Pensijas izmantošana tiesiskās aizsardzības finansēšanai",
+          "lifestyle": "Uztur Parīzes dzīvokli, dzīvesveidu"
+        },
+        "recovery": "Portugāles valstij atgūti 0 eiro",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Aizsardzības pozīcija:",
+        "defense": "Sócrates apgalvo, ka 34 miljoni eiro bija aizdevumi no draugiem, nevis kukuļi. Viņa aizstāvība apgalvo, ka ir vajāti plašsaziņas līdzekļi un selektīva apsūdzība. Izmēģinājuma versija tika atsākta 2025. gada jūlijā pēc vairāk nekā 11 gadu kavēšanās."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "Galīgā ironija:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "Raids (2023. gada 7. novembris):",
+          "cash": "78 000 eiro skaidrā naudā atrasti štāba priekšnieka kabinetā",
+          "arrests": "Vitors Eskārija (štāba priekšnieks) un Laserda Mačado (uzņēmēja) arestēti",
+          "resignation": "Kosta atkāpās no amata tajā pašā vakarā"
+        },
+        "investigation": {
+          "title": "Operação ietekmētājs:",
+          "lithium": "Litija ieguves koncesijas (Eiropas lielākās rezerves)",
+          "hydrogen": "Zaļā ūdeņraža projekti (vairāku miljardu investīcijas)",
+          "allegation": "Iespējami labvēlīgi lēmumi par licencēšanu apmaiņā pret maksājumiem"
+        },
+        "keyFigures": {
+          "escaria": "Vitors Eskārija – štāba priekšnieks – arestēts, atbrīvots",
+          "machado": "Lacerda Machado - uzņēmēja starpnieks - arestēts",
+          "galamba": "João Galamba — enerģētikas valsts sekretārs — tiek pārbaudīts"
+        },
+        "euPromotion": {
+          "date": "2024. gada 27. jūnijs: ievēlēts par ES Padomes priekšsēdētāju",
+          "start": "2024. gada 1. decembris: stājas amatā",
+          "status": "Izmeklēšana joprojām turpinās – apsūdzības nav izvirzītas"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especiais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Kostam nekad nav izvirzīta apsūdzība, un viņš joprojām nav “arguido” (oficiāli aizdomās turamais). 2025. gada novembris: Augstākā tiesa nolēma, ka sarunu noklausīšanās tika veikta BEZ atbilstošas ​​atļaujas. Izmeklēšana turpinās, bet oficiālu apsūdzību nav."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Avoti: Tiesas dokumenti",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Elitārais pedofilu tīkls, izmantojot valsts bērnu namus. TV vadītājs, UNESCO vēstnieks, Casa Pia gubernators starp notiesātajiem.",
+        "coverupTitle": "Piesegums:",
+        "coverupText": "Pirmie ziņojumi parādījās pagājušā gadsimta astoņdesmitajos gados. Policija pārtrauca izmeklēšanu. Amatpersonas iznīcināja dokumentus. Pilna ekspozīcija tikai 2002. gadā.",
+        "sources": "Avoti: France 24, Tiesas dokumenti"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17 apsūdzētie, tostarp augstākie tiesneši, apsūdzēti labvēlīgu nolēmumu pārdošanu.",
+        "failureTitle": "Sistēmiska neveiksme:",
+        "failureText": "Tiesneši, kuriem būtu jāīsteno pretkorupcijas likumi, paši bija korumpēti.",
+        "sources": "Avoti: Observador, Tiesas ieraksti"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Tancos ieroču zādzība (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "Militārās bāzes drošības pārkāpums. Ieroči nozagti, pēc tam \"atrasti\" inscenētā atgūšanā.",
+        "convicted": "Militārpersonas notiesātas",
+        "acquitted": "Aizsardzības ministrs Azeredo Lopess tika attaisnots",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "Gaisa spēku amatpersonas palielināja pārtikas cenas par vairāk nekā 10 miljoniem eiro.",
+        "hiring": "Shell uzņēmumi izmantoja līdzekļu novirzīšanu",
+        "justified": "Pamatots kā \"darbības nepieciešamība\""
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "Vācijas uzņēmums Ferrostaal samaksāja 6,4 miljonus eiro Portugāles amatpersonām par zemūdenes līgumu.",
+        "germans": "Vācu vadītāji: NOSODĪTI Vācijā",
+        "portuguese": "Portugāles amatpersonas: VISI ATTIECINĀTI",
+        "documents": "Galvenie dokumenti \"pazuda\" no Aizsardzības ministrijas"
+      },
+      "police": {
+        "2004": "2004: Euro 2004 drošības korupcija",
+        "2007": "2007. gads: Leonora Cipriano lieta — amatpersonas, kuras notiesātas par spīdzināšanu",
+        "2019": "2019: filmēts brutāls uzbrukums melnādainajiem pilsoņiem",
+        "2021": "2021. gads: PSP darbinieki notiesāti par uzbrukumu",
+        "2025": "2025. gads: atklāts policijas tirdzniecības gredzens",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Vairāki mēri visā Portugālē ir notiesāti vai tiek izmeklēti par korupciju.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Vairāku mēru korupcijas tīkls",
+        "description": "Izmeklēšanā tika atklāts korupcijas tīkls, kurā bija iesaistīti Santo Tirso un Barselos mēri, kā arī IPO Porto direktors viltotos valsts līgumos un kompensācijās.",
+        "santo": "• Santo Tirso mērs: izmeklēts",
+        "barcelos": "• Barselos mērs: Izmeklēts",
+        "ipo": "• IPO Porto direktors: Izmeklēts",
+        "pattern": "• Pattern: starppartiju pašvaldību korupcija"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Tiek izmeklēti divi Espinjo mēri",
+        "description": "Espinho pašvaldības pašreizējie un bijušie mēri tiek izmeklēti par korupciju saistībā ar publiskajiem līgumiem un pašvaldības lēmumiem.",
+        "current": "• Pašreizējais mērs: notiek izmeklēšana",
+        "former": "• Bijušais mērs: notiek izmeklēšana",
+        "pattern": "• Pattern: starppārvalžu korupcija"
+      },
+      "valentim": {
+        "name": "Valentims Lureiro (Apito Dourado)",
+        "subtitle": "Mērs + Futbola priekšsēdētājs Notiesāts",
+        "description": "Gondomāras mērs un Boavista FC priekšsēdētājs notiesāti masveida tiesnešu korupcijas skandālā. Iesaistīts 171 cilvēks, 13 notiesāti. Nosacīts sods = nav cietuma.",
+        "sentence": "• Notiesāts: 3 gadi 2 mēneši ATSTĀDĪT",
+        "prison": "• Ieslodzījuma laiks: NULLE",
+        "son": "• Dēls pārņēma Boavista FC (4 gadu diskvalifikācija)",
+        "pinto": "• Pinto da Costa: skaidra nauda + prostitūtas tiesnešiem"
+      },
+      "maestro": {
+        "name": "Operação Maestro (2024)",
+        "subtitle": "39 miljonu eiro krāpšana ar ES fondiem",
+        "description": "2024. gada marts: PJ veic reidus 78 vietās. Uzņēmējs Manuels Serrao apsūdzēts 39 miljonu eiro novirzīšanā no ES reģionālās attīstības fonda. Divi valsts sekretāri, par kuriem notiek izmeklēšana.",
+        "raids": "• 78 vietās veikts reids, 6 aizturēti",
+        "officials": "• Izmeklēti 2 valsts sekretāri",
+        "companies": "• Čaula uzņēmumu tīkls krāpšanai",
+        "status": "• Statuss: notiek izmeklēšana"
+      },
+      "overview": {
+        "description": "Vietējā korupcija zeļ \"ziņu tuksnešos\", kur neviens žurnālists neuzrauga pašvaldību līgumus, pilsētplānošanu un sabiedriskos darbus. Izplatītas shēmas: uzpūsti līgumi, otkati, \"steidzamie maksājumi\" par apstiprinājumiem, darba vietas politiskajiem sabiedrotajiem.",
+        "investigated": "Izmeklētie mēri (2010-2025)",
+        "municipalities": "Portugāles pašvaldības",
+        "officials": "Vietējās amatpersonas ar lietām (2025. gada decembris)",
+        "suspended": "Saņemt nosacītu sodu",
+        "title": "Pašvaldību korupcijas mērogs"
+      },
+      "trifecta": {
+        "convicted": "5 mēri NOTEIKTI",
+        "description": "2024. gada decembrī bezprecedenta pārliecību notiesāja 5 pašreizējie/bijušie mēri no Albergaria-a-Velha, Oliveira de Azeméis, Estarreja un apkārtējām pašvaldībām. Visi notiesāti par korupciju, krāpšanos un varas ļaunprātīgu izmantošanu saistībā ar publiskajiem līgumiem. Lielākā daļa saņēma nosacītu sodu.",
+        "name": "2024. gada decembris: Trifecta",
+        "pattern": "Visi nosacīti sodi",
+        "prison": "0 cietumā",
+        "subtitle": "Vienā nedēļā notiesāti 5 mēri"
+      }
+    },
+    "football": {
+      "title": "Futbola korupcija",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "Pinto da Kosta komanda FC Porto ir iesaistīta tiesnešu kukuļošanas shēmā.",
+        "costa": "Pinto da Kosta: attaisnots tehniskās dabas dēļ",
+        "points": "Punkti atņemti, vēlāk atjaunoti",
+        "boavista": "Tā vietā Boavista (sāncenši) izkrita",
+        "uefa": "UEFA nerīkojās"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "Plašs korupcijas skandāls, kas saistīts ar sarunām par sarunām, nodokļu krāpšanu un piesavināšanos.",
+        "vieira": "Luiss Filipe Vieira: arestēts 2021. gadā, tiesā",
+        "goncalves": "Paulo Gonçalves: bijušais juridiskais direktors, notiesāts",
+        "ban": "Vieira tika aizliegts spēlēt futbolu",
+        "pinto": "Atmasko Rui Pinto (Football Leaks)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "Bijušais PSD parlamenta vadītājs apsūdzēts Brazīlijas klienta slepkavībā Rio.",
+        "bpn": "Saistīts ar BPN skandālu kā bankas jurists",
+        "murder": "Upuris: Rosalina Ribeiro, nošauta automašīnā Riodežaneiro",
+        "untouchable": "Portugāles varas iestādes gadiem ilgi atteicās izdot"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Zelta vīzu skandāls (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "Par nekustamā īpašuma cenu palielināšanu un kukuļņemšanu aizturētas 11 amatpersonas.",
+        "macedo": "SEF direktore Paiva Nunes: arestēts",
+        "figueiredo": "Vairākas amatpersonas notiesātas",
+        "chinese": "iesaistīti Ķīnas un Krievijas investori"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "Valsts aviokompāniju vadītāji saņēma milzīgas atlaišanas pabalstus.",
+        "reis": "Christine Ourmieres-Widener: EUR 500 000 atlaišanas pabalstu",
+        "santos": "Ramiro Sequeira: strīdīgs izejas pakete",
+        "galamba": "Ministrs Galamba pārraudzīja tikšanās",
+        "laptop": "Parlamentārā izmeklēšana prasīja dokumentus"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "Endēmisks nepotisms visā Portugāles politikā.",
+        "president": "Marselo radinieki galvenajos amatos",
+        "law": "Nav jēgpilnu antinepotisma tiesību aktu",
+        "hodgepodge": "Ģimenes sakari aptver visas lielākās partijas"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Skolu renovācijas programma Sócrates laikmetā bija izplatīta ar krāpšanu.",
+        "notAudited": "492 miljoni eiro iztērēti bez atbilstošas ​​revīzijas",
+        "investigation": "Izmeklēšana tika sākta, bet apstājusies",
+        "noConvictions": "Līdz šim sodāmības nav"
+      }
+    },
+    "pattern": {
+      "title": "Nesodāmības modelis: pēc skaitļiem",
+      "stats": {
+        "banking": "Banku zaudējumi (BPN+BES+CGD+Novo Banco)",
+        "pms": "PM izmeklēja",
+        "socrates": "Gadi: Sócrates lietas ilgums",
+        "suspended": "Lietas, kas beidzas ar nosacītu sodu",
+        "served": "Par notiesātajiem, kuri faktiski izcieta laiku",
+        "casaPia": "Casa Pia upuri",
+        "judges": "Tiesneši tiesā (Op Lex)",
+        "submarine": "Portugāles amatpersonas notiesātas (zemūdene)",
+        "novoBanco": "Novo Banco glābšanas izmaksas (0 notiesāšanas)",
+        "chargesDropped": "Sócrates apsūdzības samazinātas (88%)",
+        "blocking": "Reformu priekšlikumi ir bloķēti (2007–2025)",
+        "enrichment": "Pieņemti nelikumīgas bagātināšanas likumi",
+        "admiral": "Operācija Admiral Recovery (EPPO)",
+        "arrests": "Admirālis arestēts pēc 3 dienām",
+        "prosecutors": "Prokurori, kas saskaras ar nestabiliem līgumiem",
+        "lima": "Duarte Limas slepkavības lietas aizkavēšanās"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Casa Pia bērnu ļaunprātīgas izmantošanas skandāls",
+        "date": "2002. gads (ļaunprātīga izmantošana kopš 1980. gadiem)",
+        "amount": "Vairāk nekā 100 bērnu upuri",
+        "description": "Elitārais pedofilu tīkls, izmantojot valsts bērnu namus. TV raidījumu vadītājs Karloss Krūzs, diplomāts Horhe Rito, Casa Pia gubernators Manuels Abrantess starp notiesātajiem.",
+        "outcome": "7 notiesātie (2010), sods no 5 līdz 18 gadiem",
+        "source": "Francija 24"
+      },
+      "bpn": {
+        "title": "BPN — Banco Português de Negócios",
+        "date": "2008. gads",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "Hosē Oliveira un Kosta: 14 gadi (samazināts pēc apelācijas)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES — Banco Espírito Santo",
+        "date": "2014. gads",
+        "amount": "11,8 miljardu eiro zaudējumi",
+        "description": "Portugālē sabrūk lielākā privātā banka. Rikardo Salgado ģimenes impērija sabrūk. Valsts izveido Novo Banco par milzīgām izmaksām.",
+        "outcome": "Salgado: 6→8 gadi (viens gadījums), 6y3m (EDP lieta). Apgalvo par Alcheimera slimību.",
+        "source": "Novērotājs"
+      },
+      "cgd": {
+        "title": "CGD — Caixa Geral de Depósitos",
+        "date": "2016. gads",
+        "amount": "4,9 miljardu eiro glābšana",
+        "description": "Valstij piederošajai bankai nepieciešama lielākā glābšanas palīdzība Portugāles vēsturē. Parlamentārā izmeklēšana atklāj \"politisko iejaukšanos\", \"partizānu iecelšanu\". 7 gadus ignorēti brīdinājumi par krāpšanu.",
+        "outcome": "NULLE pārliecības",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "8+ miljardi eiro valsts naudas",
+        "description": "\"Laba banka\" no BES sabrukuma. Pārdots Lone Star (2017) ar €3.89B valsts garantiju. Līdz 2021. gadam: ievadīti 7,9 miljardi eiro. Parlamentārā izmeklēšana atklāj \"bezatbildību\".",
+        "outcome": "NULLE pārliecības. Nav personiskas atbildības.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Vācu zemūdeņu kukuļi",
+        "date": "2004. gads",
+        "amount": "6,4 miljonus eiro kukuļos",
+        "description": "Ferrostaal samaksāja Portugāles amatpersonām par zemūdenes līgumu 833 miljonu eiro apmērā. €1 miljons+ līdz CDS-PP partijai. Dokumenti “pazūd” no Aizsardzības ministrijas.",
+        "outcome": "Vācijas vadītāji: NOTEIKTI. Visas portugāļu valodas: ATBRĪVOTS (2014)",
+        "source": "Korupcijas izsekotājs"
+      },
+      "freeport": {
+        "title": "Brīvosta",
+        "date": "2002. gads",
+        "amount": "Neatklāts",
+        "description": "Vides ministrs Hosē Sokratess esot atteicies no vides ierobežojumiem Lielbritānijas uzņēmumam būvēt tirdzniecības centru uz aizsargājamās zemes.",
+        "outcome": "Notīrīts 2010. gadā — \"neviens nav vainīgs\"",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Zelta vīzu skandāls",
+        "date": "2014. gads",
+        "amount": "40+ miljoni eiro kukuļos",
+        "description": "Par nekustamā īpašuma cenu palielināšanu, kukuļņemšanu par uzturēšanās atļaujām aizturētas 11 amatpersonas. iesaistīti Ķīnas un Krievijas investori.",
+        "outcome": "Dažas pārliecības, programma turpinās",
+        "source": "Novērotājs"
+      },
+      "tancos": {
+        "title": "Tancos ieroču zādzība",
+        "date": "2017. gads",
+        "amount": "Militāro ieroču kešatmiņa",
+        "description": "Nozagtas 1450 patronas, 150 rokas granātas, 44 prettanku granātas, 264 plastmasas sprāgstvielas. Drošības kameras “nedarbojas” nedēļām ilgi. Ministrs Azeredo Lopess atkāpjas no amata.",
+        "outcome": "Notiek tiesas process, vairāki apsūdzētie",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Pilnīga korupcijas datu bāze",
+    "fullIntro": "Katra lielākā korupcijas lieta ir dokumentēta ar summām, rezultātiem un avotiem",
+    "additional": {
+      "title": "Tieslietu sistēmas skandāli",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Prokurors kukuļos paņēma €700 000+",
+        "description": "Prokurors Orlando Figeira pieņēma kukuļus no Angolas viceprezidenta Manuela Visentes, lai izbeigtu korupcijas izmeklēšanu. Pierāda korupciju pašā prokuratūrā.",
+        "orlando": "• Orlando Figeira (prokurors): NOTEIKTS",
+        "vicente": "• Manuels Visente (Angolas viceprezidents): aizsargāts ar diplomātisku imunitāti",
+        "pattern": "• Pattern: Tie, kas apsūdz korupciju, korumpēti"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (Oeiras mērs)",
+        "subtitle": "\"Korumpētais mērs, kuru viņi dievina\"",
+        "description": "Notiesāts par krāpšanu nodokļu jomā, naudas atmazgāšanu. Notiesāts uz 7 gadiem → apelācijas kārtībā samazināts līdz 2 gadiem. Kalpojis 14 mēnešus. Atkārtoti ievēlēts par mēru 2017. gadā un 2021. gadā. Vēl šodien.",
+        "conviction": "• 2009. gads: notiesāts uz 7 gadiem → 2010. gads: samazināts līdz 2 gadiem",
+        "prison": "• 2013.–2014. gads: 14 mēnešus izcieta Keregeiras cietumā",
+        "reelected": "• 2017, 2021: ATKĀRTOTI IEVĒLĒTS par mēru",
+        "new": "• 2022. gads: jaunas apsūdzības par PPP pārkāpumiem"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "PVN karuseļveida krāpšana, kas aptver vairākas valstis. Portugāles iestāžu vietā ierosināta EPPO. 10 notiesātie, sods uz 7-8 gadiem. Tas notiek, kad ES pārņem kriminālvajāšanu.",
+        "lesson": "MĀCĪBA: EPPO darbojas. Valsts sistēma to nedara.",
+        "name": "Operācija Admiral (2025)",
+        "subtitle": "2,9 miljardi eiro — visu laiku lielākā ES krāpšana"
+      },
+      "context": {
+        "admiral": "Admiral krāpšana (viens gadījums)",
+        "description": "Portugāle kopš 1986. gada no ES struktūrfondiem ir saņēmusi vairāk nekā 60 miljardus eiro. Tomēr Portugāle joprojām ir viena no nabadzīgākajām valstīm Rietumeiropā. Kur palika nauda? Revidenti pastāvīgi konstatē pārkāpumus, taču kriminālvajāšana notiek reti.",
+        "eppo": "EPPO Portugāles prokurors",
+        "prr": "PRR atveseļošanas plāns (2021–2026)",
+        "received": "Saņemtie ES līdzekļi (1986-2024)",
+        "title": "60 miljardu eiro jautājums"
+      },
+      "patterns": {
+        "invoices": "• Viltus rēķini par neesošiem pakalpojumiem",
+        "kickbacks": "• Atmaksa ierēdņu apstiprināšanai",
+        "monitoring": "• Vāja IGCP/IGAC uzraudzība",
+        "prescription": "• Lietas izrakstītas pirms tiesas",
+        "projects": "• \"Spoku projekti\" - apstiprināti, bet nekad nav pabeigti",
+        "shell": "• Shell kompānijas, kas izveidotas, lai saņemtu līdzekļus",
+        "title": "Atkārtoti krāpšanas modeļi"
+      },
+      "title": "ES fondu krāpšana"
+    },
+    "disclaimer": {
+      "title": "Svarīgs juridisks paziņojums",
+      "presumption": "• Nevainīguma prezumpcija: visas personas tiek uzskatītas par nevainīgām, līdz viņu vaina nav pierādīta ar galīgo tiesas spriedumu. Statuss “Notiek izmeklēšana” vai “arguido” nenozīmē vainu.",
+      "status": "• Lietas statuss: katrs ieraksts ir apzīmēts ar pašreizējo juridisko statusu (notiesāts, atrodas tiesā, notiek izmeklēšana, arhivēts, attaisnots). Statusi tiek atjaunināti, lietas virzoties uz priekšu.",
+      "sources": "• Avoti: visa informācija nāk no oficiāliem tiesas dokumentiem, DCIAP paziņojumiem, parlamentārās izmeklēšanas vai cienījamiem Portugāles plašsaziņas līdzekļiem (RTP, Público, Observador).",
+      "defense": "• Aizstāvības pozīcijas: apsūdzētie ir noraidījuši apgalvojumus vai snieguši paskaidrojumus. Viņu juridiskās pozīcijas ir norādītas, ja tās ir publiski pieejamas."
+    }
+  },
+  "operations": {
+    "title": "Policijas operāciju saraksts",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "Hosē Sokratess (PM)",
+      "status": "Izmēģinājums turpinās 11+ gadus",
+      "crimes": "22 noziegumi: korupcija, legalizēšana, krāpšana"
+    },
+    "influencer": {
+      "name": "Operação Ietekmētājs",
+      "target": "Antonio Kosta (PM)",
+      "status": "Notiek izmeklēšana → ES prezidents",
+      "crimes": "Korupcija, piesavināšanās"
+    },
+    "lex": {
+      "name": "Operas Lekss",
+      "target": "Tiesneši Rangels, Galante, Vaz das Neves",
+      "status": "Izmēģinājuma periods sākās 2025. gada oktobrī",
+      "crimes": "17 apsūdzētie, 21+ noziegumi"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "Prokurors Orlando Figeira",
+      "status": "Notiesāts 6 g. 8 m (2021)",
+      "crimes": "€700 000 kukulis no Angolas VP"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, Barselos mēri",
+      "status": "Izmēģinājums turpinās 2025. gadā",
+      "crimes": "50+ noziegumi, 1,8 miljonu eiro pārkāpumi"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 Espinho mēri (PS + PSD)",
+      "status": "Izmēģinājums turpinās",
+      "crimes": "Pilsētu korupcija, steidzamas nodevas"
+    },
+    "babel": {
+      "name": "Bābeles opera",
+      "target": "Gaia VP Patrocínio Azevedo",
+      "status": "Izmēģinājuma periods sākas 2025. gada janvārī",
+      "crimes": "€40M priekšrocības, €300M nekustamais īpašums"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "Lisabonas draudžu priekšsēdētāji",
+      "status": "Apsūdzība pabeigta",
+      "crimes": "60 apsūdzētie, 463 noziegumi, 580 000 eiro"
+    },
+    "maestro": {
+      "name": "Operação Maestro",
+      "target": "Manuels Serrao",
+      "status": "Izmeklēšana notiek",
+      "crimes": "39 miljonu eiro ES fondu krāpšana"
+    },
+    "admiral": {
+      "name": "Operācija Admiral (EPPO)",
+      "target": "PVN krāpšanas tīkls",
+      "status": "10 notiesāti (2025. gada maijs)",
+      "crimes": "Zaudējumi 2,9 miljardu eiro apmērā — visu laiku lielākā ES krāpšana"
+    }
+  },
+  "timeline": {
+    "pageTitle": "Korupcijas 50 gadi: pilnīga laika skala",
+    "pageSubtitle": "Katrs atklātais skandāls → Katra reforma bloķēta → Atklāts sistemātiskais nesodāmības modelis",
+    "legend": {
+      "corruption": "Korupcija/skandāls",
+      "blocked": "Reforma bloķēta/vāja reakcija",
+      "conviction": "Pārliecība/reforma pieņemta"
+    },
+    "summaryTitle": "50 gadi: rezultāts",
+    "summary": {
+      "bankingLosses": {
+        "value": "€ 25 B+",
+        "label": "Banku zaudējumi (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Reformu mēģinājumi bloķēti"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Saistoši referendumi"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "PM notiesāti"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Politiķi, kas saskaras ar taisnīgumu (kopš 2017. gada)"
+      },
+      "socratesDuration": {
+        "value": "11 gadi",
+        "label": "Sókrāta arests→tiesa"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "Casa Pia upuri"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Op Lex apsūdzētie (tiesneši+)"
+      },
+      "admiralFraud": {
+        "value": "2,9 miljardi eiro",
+        "label": "PVN krāpšana (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Ministri cietumā (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "Atklāts modelis",
+    "patternIntro": "Katram lielam skandālam seko:",
+    "pattern": {
+      "step1": "1. <strong>Sašutums</strong> → Plašsaziņas līdzekļu atspoguļojums, sabiedrības dusmas",
+      "step2": "2. <strong>Reformu priekšlikums</strong> → No opozīcijas vai mazajām partijām",
+      "step3": "3. <strong>Bloķēt</strong> → PS vai PSD balsot pret (viņiem ir 150+ no 230 vietām)",
+      "step4": "4. <strong>Aizkavēšanās</strong> → Lieta velkas gadiem līdz receptes izrakstīšanai",
+      "step5": "5. <strong>Attaisnošs vai nosacīts sods</strong> → 75% gadījumu",
+      "step6": "6. <strong>Paaugstināšana</strong> → Kosta ES Padomē, Barrozu ES Komisijā"
+    },
+    "patternQuote": "\"Cietumā nonāk tikai nabagi un nezināmie.\"",
+    "footerSource": "Visa informācija iegūta no oficiālajiem tiesas dokumentiem, Portugāles plašsaziņas līdzekļiem un starptautiskām organizācijām.",
+    "years": {
+      "y1974": "1974. gads",
+      "y1980s": "1980. gadi",
+      "y1989": "1989. gads",
+      "y1997": "1997. gads",
+      "y1998": "1998. gads",
+      "y2002": "2002. gads",
+      "y2004": "2004. gads",
+      "y2005_09": "2005-09",
+      "y2007": "2007. gads",
+      "y2008": "2008. gads",
+      "y2009": "2009. gads",
+      "y2010": "2010. gads",
+      "y2012": "2012. gads",
+      "y2014": "2014. gads",
+      "y2015": "2015. gads",
+      "y2016": "2016. gads",
+      "y2017": "2017. gads",
+      "y2019": "2019. gads",
+      "y2021": "2021. gads",
+      "y2022": "2022. gads",
+      "y2023": "2023. gads",
+      "y2024": "2024. gads",
+      "y2025": "2025. gads"
+    },
+    "badges": {
+      "democracyRestored": "DEMOKRĀTIJA ATJAUNOTA",
+      "designFlaw": "DIZAINA TRŪKUMS",
+      "abuseBegins": "SĀKAS ĻAUNPRĀTĪBA",
+      "reformBlocked": "REFORMA BLOĶĒTA",
+      "reformSabotaged": "REFORMA SABOTOTA",
+      "tcBlocks": "TC BLOKI",
+      "sabotaged": "SABOTĒTS",
+      "centralizationPreserved": "SAGLABĀTA CENTRALIZĀCIJA",
+      "scandalErupts": "SKANDĀLS IZPLAUŠAS",
+      "freeportAllegations": "BRĪVOSTA APsūdzības",
+      "footballCorruption": "FUTBOLA KORUPCIJA",
+      "submarineBribery": "Zemūdenes KUKUĻU DĒŠANA",
+      "euro2004Stadiums": "EURO 2004 STADIONI",
+      "corruptionMachine": "KORUPCIJAS MAŠĪNA",
+      "faceOculta": "SEJAS OCULTA",
+      "commitmentMade": "PIEŅEMTIES SAISTĪBAS",
+      "nonBinding": "NESAISTĪGS",
+      "policeCorruption": "POLICIJAS KORUPCIJA",
+      "bankingCollapse": "BANKU SATRAUKŠANA",
+      "cgdFraudIgnored": "CGD KRĀPŠANAS BRĪDINĀJUMI Ignorēti",
+      "murderAllegation": "APsūdzība par slepkavību",
+      "rareConvictions": "RETA PĀRLIECĪBA",
+      "tcBlocksReform": "TC BLOKU REFORMA",
+      "noEuVote": "NAV ES BALSOJUMA",
+      "pmArrested": "PM ARESTĒTS",
+      "goldenVisaScandal": "ZELTA VĪZU SKANDĀLS",
+      "tcBlocksAgain": "TC ATKAL BLOKĒ (VIENPALĪGS)",
+      "prosecutorCorruption": "PROKURORA KORUPCIJA",
+      "benficaEmails": "BENFICA E-PASTI",
+      "novoBancoBlackHole": "NOVO BANCO BLACK HOLE",
+      "militaryScandal": "MILITĀRAIS SKANDĀLS",
+      "bpnConvictions": "BPN PĀRLIECĪBAS",
+      "autarquiaCorruption": "AUTARQUIA KORUPCIJA",
+      "joeBerado": "DŽO BERARDO SKANDĀLS",
+      "varaConvicted": "VARA NOTEIKTA",
+      "policeBrutality": "POLICIJAS BRUTALITĀTE",
+      "nepotismScandal": "NEPOTISMA SKANDĀLS",
+      "policeMurder": "POLICIJAS Slepkavība",
+      "weakLawPassed": "PIEŅEMTS VĀJS LIKUMS",
+      "varaReleased": "VARA ATBRĪVOTA (COVID)",
+      "allPartiesBlock": "VISAS PARTIJAS BLOĶĒT",
+      "judgesOnTrial": "TIESAS TIESNEŠI",
+      "tapScandal": "PIEKRIEN SKANDĀLS",
+      "tancosConvictions": "TANCOS PĀRLIECĪBAS",
+      "espinhoMayorsArrested": "ESPINHO mēri arestēti",
+      "lisbonParishCorruption": "LISABONAS DRAUDZE KORUPCIJA",
+      "governmentFalls": "VALDĪBA KRĪT",
+      "tapContinues": "TAP TURPINĀS",
+      "edpConvictions": "EDP ​​PĀRLIECINĀJUMI",
+      "euFundsFraud": "KRĀPŠANA AR ES LĪDZEKĻU 39 miljoniem eiro",
+      "gaiaRealEstateRing": "GAIA NEKUSTAMO ĪPAŠUMU GREDZENS",
+      "defendants65": "65 ATBILSTĪTĀJI",
+      "euReward": "ES ATALGOJUMS",
+      "reformBlockedAgain": "REFORMA ATKAL BLOĶĒTA",
+      "euBiggestVatFraud": "ES LIELĀKĀS PRASĪBAS PAR KRĀPŠANĀS PVN jomā",
+      "judgesFinally": "TIESNEŠI BEIDZOT TIESĀ",
+      "policeTrafficking": "POLICIJAS TIRDZNIECĪBAS GREDZS",
+      "varaReturns": "VARA ATGRIEZAS CIETUMĀ",
+      "benficaFraudTrial": "BENFICA KRĀPŠANAS TIESA",
+      "politicians191": "191 POLITIĶIS",
+      "decemberTrifecta": "DECEMBRA TRIFECTA",
+      "stillNoLaw": "PĒC 51 GADU"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Neļķu revolūcija",
+        "desc": "48 gadus ilgās Salazara/Kaetano diktatūras beigas. Sākas jauns demokrātijas laikmets."
+      },
+      "noReferendums": {
+        "title": "1976. gada konstitūcijā nav referendumu",
+        "desc": "Satversmes sapulce apzināti izslēdz tiešo demokrātiju. Partijas saista referendumus ar Salazara plebiscītiem.",
+        "note": "Aizsardzības sistēma sākas dzimšanas brīdī."
+      },
+      "casaPiaFirstReported": {
+        "title": "Pirmo reizi ziņots par Casa Pia Abuse",
+        "desc": "Parādās pirmie ziņojumi par bērnu seksuālu izmantošanu valsts bērnu namos. Policija pārtrauc izmeklēšanu. Ierēdņi iznīcina dokumentus.",
+        "note": "Sākas piesegšana. Derēs 20+ gadus."
+      },
+      "pcpFirstProposal": {
+        "title": "PCP vispirms ierosina pretkorupcijas likumus",
+        "desc": "Komunistiskā partija (PCP) ierosina likumu par nelikumīgu bagātināšanu.",
+        "result": "PS + PSD bloks"
+      },
+      "referendumsPoisonPill": {
+        "title": "Referendumi pievienoti – ar indes tabletēm",
+        "desc": "Konstitucionālā pārskatīšana pievieno referenduma mehānismu.",
+        "catch": "50% līdzdalības slieksnis + Satversmes tiesas veto = paredzēts neveiksmei",
+        "note": "Nākamie 35 gadi: sasniegti 0 saistoši referendumi."
+      },
+      "amsterdamBlocked": {
+        "title": "Amsterdamas līguma referendums ir bloķēts",
+        "desc": "Konstitucionālā tiesa noraida referendumu par ES līgumu — \"maldinošs jautājums\"",
+        "note": "Portugāle NEKAD nebalsos par integrāciju ES."
+      },
+      "casaPiaExposed": {
+        "title": "Atklāts Casa Pia ļaunprātīgas izmantošanas skandāls",
+        "desc": "Žurnālists pārtrauc stāstu: elitārais pedofilu tīkls, izmantojot valsts bērnu namus. TV vadītājs, UNESCO vēstnieks, Casa Pia gubernators starp apsūdzētajiem.",
+        "note": "Vardarbīgi izmantoti 100+ bērni. Izmēģinājuma periods ilgs 5+ gadus."
+      },
+      "socratesFreeport": {
+        "title": "Sokrates un Freeport Mall",
+        "desc": "Vides ministrs Hosē Sokratess, iespējams, atsakās no vides ierobežojumiem Lielbritānijas uzņēmumam būvēt tirdzniecības centru uz aizsargājamās zemes.",
+        "outcome": "Notīrīts 2010. gadā — \"nav vainīgs\""
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Statistika un avoti",
+    "pageSubtitle": "Visi dati no oficiāliem un cienījamiem starptautiskiem avotiem",
+    "ti": {
+      "title": "Transparency International",
+      "subtitle": "Korupcijas uztveres indekss (CPI)",
+      "score2024": {
+        "value": "57",
+        "label": "Portugāles PCI rādītājs 2024. gadā",
+        "trend": "-4 punkti no 2023. gada"
+      },
+      "rank": {
+        "value": "43",
+        "label": "Globālais reitings",
+        "detail": "no 180 valstīm"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Prokurori saka, ka periodi ir nepietiekami",
+        "source": "TI aptauja"
+      },
+      "tableTitle": "ES PCI salīdzinājums (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eirobarometrs",
+      "subtitle": "Īpašais Eirobarometrs par korupciju (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "Portugāļi uzskata, ka korupcija ir plaši izplatīta",
+        "euAvg": "ES vidējais: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Ticiet, ka valsts pārvaldē pastāv korupcija",
+        "euAvg": "ES vidējais: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Pieņemsim, ka kukuļošana ir vienkāršākais veids, kā iegūt sabiedriskos pakalpojumus",
+        "euAvg": "ES vidējais: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Digitālā plaisa",
+      "subtitle": "Interneta lietojums vecuma grupās (Portugāle, 2024)",
+      "keyInsight": "Paaudze, kas piedzīvoja visu 50 gadu korupcijas modeli (65+), tiek sistemātiski izslēgta no referenduma parakstu sistēmas TIKAI DIGITĀLĀ.",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99,1%",
+          "excluded": "0,9%"
+        },
+        "35-44": {
+          "usage": "98,6%",
+          "excluded": "1,4%"
+        },
+        "45-54": {
+          "usage": "94,9%",
+          "excluded": "5,1%"
+        },
+        "55-64": {
+          "usage": "82,5%",
+          "excluded": "17,5%"
+        },
+        "65-74": {
+          "usage": "61,1%",
+          "excluded": "38,9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "~70%"
+        }
+      }
+    },
+    "summaryTitle": "Kopsavilkums: ko rāda dati",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "portugāļu redz plaši izplatītu korupciju",
+        "source": "Eirobarometrs 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "GRECO ieteikumi īstenoti",
+        "source": "Eiropas Padome 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "punkta PCI kritums viena gada laikā",
+        "source": "Transparency International 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "prokuroru uzskata, ka noilguma termiņi ir nepietiekami",
+        "source": "TI aptauja 2023. gadā"
+      }
+    },
+    "footer": "Visa statistika no oficiāliem avotiem. Pēdējo reizi atjaunināts: 2025. gada decembrī."
+  },
+  "tables": {
+    "headers": {
+      "name": "Vārds",
+      "party": "Partija",
+      "status": "Statuss",
+      "charges": "Maksas/statuss",
+      "chargesSentence": "Apsūdzības/sods",
+      "chargesStatus": "Maksas/statuss",
+      "amount": "Summa",
+      "year": "gads",
+      "initiative": "Iniciatīva",
+      "result": "Rezultāts",
+      "whoBlocked": "Kurš bloķēja",
+      "country": "Valsts",
+      "score": "Rezultāts",
+      "rank": "Rangs",
+      "change": "Mainīt",
+      "ageGroup": "Vecuma grupa",
+      "internetUsage": "Interneta lietošana",
+      "excluded": "Izslēgts",
+      "impact": "Ietekme",
+      "aspect": "Aspekts",
+      "sentence": "Teikums",
+      "allegations": "Apsūdzības/pārliecības",
+      "protectionLevel": "Aizsardzības līmenis",
+      "sweden": "Zviedrija",
+      "portugal": "Portugāle",
+      "position": "Pozīcija",
+      "illicitEnrichment": "Nelikumīga bagātināšana",
+      "lobbyRegulation": "Lobiju regulējums",
+      "endImmunity": "Beigt imunitāti",
+      "notableActions": "Ievērojamas darbības",
+      "politician": "Politiķis",
+      "scandal": "Skandāls",
+      "euReward": "ES atlīdzība",
+      "date": "Datums",
+      "subject": "Priekšmets",
+      "turnout": "Vēlētāju aktivitāte",
+      "binding": "Saistošs?",
+      "illicitEnrichmentLaw": "Likums par nelikumīgu bagātināšanu",
+      "constitutionalStatus": "Konstitucionālais statuss",
+      "immunityScope": "Imunitātes darbības joma",
+      "parliamentBlocks": "Parlaments bloķē izmeklēšanu?",
+      "tiCpi": "TI PCI",
+      "prescription": "Recepte",
+      "avgTime": "Vid. Laiks",
+      "immunity": "Imunitāte",
+      "role": "Loma",
+      "municipality": "Pašvaldība",
+      "controversy": "Strīdi/konteksts"
+    },
+    "status": {
+      "convicted": "NOTEIKTS",
+      "convictedServing": "NOSODĪTS - kalpo",
+      "convictedAppealing": "NOSODĪTĀS — Apelācija",
+      "onTrial": "Tiesā",
+      "underInvestigation": "Notiek izmeklēšana",
+      "arguido": "Arguido",
+      "arrested": "ARESTĒTS",
+      "archived": "Arhivēts",
+      "declined": "Izmeklēšana noraidīta",
+      "neverProsecuted": "Nekad nav saukts pie atbildības",
+      "acquitted": "ATBRĪVOTS",
+      "euPromoted": "ES Padomes priekšsēdētājs"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Čega",
+      "livre": "Livre",
+      "pan": "PAN",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "Jūsu izredzes pret viņu izredzēm",
+    "subtitle": "Ja taisnīgums būtu loterija, lūk, ko mums parāda skaitļi",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Ja esat pilsonis:"
+    },
+    "politician": {
+      "title": "Ja esat politiķis:"
+    }
+  },
+  "sources": {
+    "title": "Pilns avotu saraksts",
+    "subtitle": "Visi dati no oficiāliem un pārbaudītiem avotiem",
+    "constitutionalCourt": "Satversmes tiesa",
+    "prosecutionService": "Prokuratūra",
+    "europeanUnion": "Eiropas Savienība",
+    "internationalOrgs": "Starptautiskās organizācijas",
+    "eurobarometer": "Eirobarometrs",
+    "portugueseLegislation": "Portugāles tiesību akti",
+    "parliamentaryRecords": "Parlamenta ieraksti",
+    "internationalComparisons": "Starptautiskie salīdzinājumi",
+    "mediaSources": "Multivides avoti",
+    "laborHumanRights": "Darba/cilvēktiesības",
+    "cryptographicStandards": "Kriptogrāfijas standarti",
+    "digitalStatistics": "Digitālā statistika"
+  },
+  "verdict": {
+    "title": "Spriedums",
+    "subtitle": "50 gadu dokumentēti pierādījumi"
+  },
+  "backToMain": "← Atpakaļ uz galveno ziņojumu",
+  "duopoly": {
+    "bothProtect": "Abas puses aizsargā viena otru",
+    "coordinatedTheater": "Šķietamā pretestība starp PS un PSD ir koordinēts teātris. Kad tas ir svarīgi — reformas bloķēšana — viņi balso kopā."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Avots: Eirobarometrs 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "Neizdevušos referendumu modelis",
+      "text": "Katrs referendums Portugāles vēsturē vai nu nav sasniedzis vēlēšanu slieksni, vai arī nav bijis saistošs.",
+      "sources": "Avots: Portugāles vēlēšanu komisija"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Avots: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "Galvenā Šveices demokrātijas statistika:"
+  },
+  "roadmap": {
+    "title": "Izmeklēšana",
+    "subtitle": "Strukturēts ceļojums cauri Portugāles nesodāmības arhitektūrai",
+    "part1": {
+      "title": "Sistēma",
+      "desc": "Kā pavloviešu politiskā šķira aizsargā savējos"
+    },
+    "part2": {
+      "title": "Lietas",
+      "desc": "Premjerministri, ministri un lietas, kas definē nesodāmību"
+    },
+    "part3": {
+      "title": "Nepilnības",
+      "desc": "Juridiski mehānismi, kas nodrošina korupcijas nesodāmību"
+    },
+    "part4": {
+      "title": "Bloķēšana",
+      "desc": "Kā PS/PSD sistemātiski bloķē reformas"
+    },
+    "part5": {
+      "title": "ES balvas",
+      "desc": "Kur nonāk apsūdzētie politiķi: Briselē"
+    },
+    "part6": {
+      "title": "Risinājums",
+      "desc": "Ko pilsoņi var darīt, lai pārtrauktu ciklu"
+    },
+    "conclusion": "No pilsoniskās ētikas līdz konkrētai rīcībai—katra daļa atklāj vēl vienu slāni sistēmai, kas radīta korumpēto aizsardzībai."
+  },
+  "journalism": {
+    "badge": "Kāpēc šī izmeklēšana pastāv",
+    "title": "Sapnis, kas nevarēja izdzīvot sistēmu",
+    "subtitle": "Portugāles žurnālistika sistēmiskā uztveršanā",
+    "intro": "Katrs žurnālists sāk ar vienu un to pašu sapni: parādiet cilvēkiem patiesību, dokumentējiet to, kas ir svarīgi, mainiet pasauli. Portugālē šis sapnis saduras ar sistēmu, kas paredzēta, lai tieši to novērstu.",
+    "medicine": {
+      "title": "Medicīna",
+      "oath": "Vispirms, nekaitēt."
+    },
+    "journalismEthics": {
+      "title": "Žurnālistika",
+      "oath": "Vispirms, nemaldināt."
+    },
+    "doctors": {
+      "title": "Ārsti",
+      "diagnose": "Diagnosticē, balstoties uz pierādījumiem, ne ticību",
+      "wellbeing": "Liek pacienta labklājību augstāk par ideoloģiju vai peļņu",
+      "bound": "Ir saistīti ar ētiku pat zem spiediena",
+      "lose": "Zaudē leģitimitāti, kad apzināti nodara kaitējumu"
+    },
+    "journalists": {
+      "title": "Žurnālisti",
+      "report": "Ziņo, balstoties uz pārbaudāmiem faktiem, ne darba kārtībām",
+      "rightToKnow": "Liek sabiedrības tiesības zināt augstāk par politisko piederību",
+      "bound": "Ir ētiski saistīti pat zem īpašnieku, valstu vai auditorijas spiediena",
+      "lose": "Zaudē leģitimitāti, kad apzināti sagrozījš realitāti"
+    },
+    "broken": {
+      "title": "Kad zvērests tiek lauzts",
+      "doctorMalpractice": "Ārsts, kas praktizē ideoloģiju medicīnas vietā, pieļauj ārsta kļūdu",
+      "journalistMalpractice": "Žurnālists, kas praktizē ideoloģiju patiesības vietā, pieļauj pilsonisko ārsta kļūdu",
+      "consequences": "Sekas ir sabiedriskas:",
+      "consequence1": "Polarizācija",
+      "consequence2": "Dezinformācija",
+      "consequence3": "Uzticības erozija",
+      "consequence4": "Demokrātisks pagrimums"
+    },
+    "distinction": {
+      "title": "Skaidra atšķirība",
+      "text": "Žurnālisti, tāpat kā ārsti, ir cilvēki un viņiem ir personīgās vērtības. Ētika tiek pārkāpta nevis ar vērtību esamību, bet ļaujot šīm vērtībām aizstāt pārbaudi, pierādījumus un atbildību."
+    },
+    "quote": "Ārsts, kas melo pacientam, ir vainīgs ārsta kļūdā. Žurnālists, kas melo sabiedrībai, ir vainīgs pilsoniskā ārsta kļūdā."
+  },
+  "convicted": {
+    "badge": "Sistēmas rezultāts",
+    "title": "Notiesāts, bet aizsargāts",
+    "subtitle": "Tās nav apsūdzības. Tās ir pārliecības. Tomēr sistēma nodrošina, ka viņi saglabā savas pensijas, atgriežas amatā vai pilnībā izvairās no sekām.",
+    "status": {
+      "convicted": "NOTEIKTS",
+      "reelected": "NOTEIKTS → ATKĀRTOTI IEVĒLĒTS",
+      "murder": "APSTĀDĪTA SLEPKAVĪBĀ",
+      "unpaid": "980 miljoni eiro NEAPMAKSĀTI",
+      "zeroPrison": "8 B EUR PAZAUDĒTS, NULL CIETUMS",
+      "eppoSuccess": "EPPO PANĀKUMI"
+    },
+    "labels": {
+      "operation": "Darbība:",
+      "crime": "Noziegums:",
+      "sentence": "Teikums:",
+      "served": "Pasniegšanas laiks:",
+      "amount": "Summa:",
+      "currentStatus": "Pašreizējais:",
+      "victim": "Upuris:",
+      "date": "Datums:",
+      "trialStart": "Izmēģinājuma sākums:",
+      "borrowed": "Aizņēmies:",
+      "repaid": "Atmaksāts:",
+      "artCollection": "Mākslas kolekcija:",
+      "publicCost": "Valsts izmaksas:",
+      "resolution": "Izšķirtspēja:",
+      "convictions": "Pārliecības:"
+    },
+    "pensionBattle": "Pensiju cīņa:",
+    "suedProsecutor": "Iesūdzēja prokuroru:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "PS valsts sekretārs, ministrs, CGD valde",
+      "crime": "Ietekmes tirdzniecība (3 skaitījumi)",
+      "pension": "8 551 €/mēnesī pensija arestēta TRĪS reizes, atgriezta apelācijas kārtībā DIVREIZ. Raksts: konfiskācija → apelācija → atgriezta → atkārtot."
+    },
+    "pinho": {
+      "name": "Manuels Pinju",
+      "position": "PS ekonomikas ministrs (2005-2009)",
+      "crime": "Pasīvā korupcija, nodokļu krāpšana, naudas atmazgāšana",
+      "sued": "26 000 €/mēn pensija arestēta 3x, atgriezta 2x. SUED prokurors un tiesnesis Karloss Aleksandrs par pensiju arestu.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "PSD Oeiras mērs (1985-2009, 2017-pašlaik)",
+      "crime": "Nodokļu krāpšana, naudas atmazgāšana, varas ļaunprātīga izmantošana",
+      "current": "STILL MAYOR (2025)",
+      "quoteTitle": "Publisks segvārds:",
+      "quote": "\"Korumpētais mērs, kuru dievina portugāļi\" — ATKĀRTOTI IEVĒLĒTS 2017. un 2021. gadā. Jaunas apsūdzības izvirzītas 2022. gadā.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "PSD deputāts, jurists",
+      "crime": "Slepkavība Brazīlijā",
+      "victim": "Rosalina Ribeiro (kliente)",
+      "shieldTitle": "Vairogs:",
+      "shield": "Nav izdošanas līguma starp Portugāli un Brazīliju. Portugālē palika \"neaizskarams\" 16 gadus, līdz beidzot sākās tiesa.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Džo Berardo",
+      "position": "Uzņēmējs, mākslas kolekcionārs",
+      "repaid": "Tuvu nullei",
+      "quoteTitle": "Parlamentam:",
+      "quote": "\"Es aizmirsu\" — uz jautājumu par 980 miljonu eiro parādu. Apdraudēja deputātus liecības laikā. Nekādas sekas."
+    },
+    "novoBanco": {
+      "name": "Novo Banco skandāls",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "NULLE",
+      "outcomeTitle": "Parlamentārā izmeklēšana:",
+      "outcome": "Konstatēta \"politiskā bezatbildība\" — bet nav kriminālatbildības. Privātā peļņa, valsts zaudējumi. Raksts turpinās.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especiais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "Vientuļās zvaigznes piedāvājums (2017):",
+        "salePrice": "Lone Star samaksāja: 1 miljardu eiro",
+        "guarantee": "Valsts garantēta: 3,89 miljardu eiro zaudējumi",
+        "result": "Valsts uzņemas visu risku, pircējs saņem visu"
+      },
+      "injections": {
+        "title": "Iepludināta valsts nauda:",
+        "y2014": "2014. gads: 4,9 miljardi eiro (noregulējuma fonds)",
+        "y2018": "2018. gads: 792 miljoni eiro (iespējamais kapitāls)",
+        "y2019": "2019. gads: 1,15 miljardi eiro (iespējamais kapitāls)",
+        "y2020": "2020. gads: 1,04 miljardi eiro (iespējamais kapitāls)",
+        "y2021": "2021. gads: 598 miljoni eiro (iespējamais kapitāls)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Karloss Kosta - Portugāles Bankas vadītājs - Pārdošana",
+        "centeno": "Mário Centeno — finanšu ministrs — apstiprinātas garantijas"
+      },
+      "inquiryQuote": "\"Pārdošanas nosacījumi bija ārkārtīgi labvēlīgi pircējam, Portugāles valstij uzņemoties nesamērīgu risku.\" — Parlamentārā izmeklēšana 2021",
+      "whyNoAccountability": {
+        "title": "Kāpēc nav kriminālvajāšanas:",
+        "discretion": "Pārdošanas noteikumi, kas klasificēti kā “politiskie lēmumi”",
+        "noEnrichment": "Lēmumu pieņēmēji personīgi negāja labumu",
+        "immunity": "Regulatoriem ir institucionāla aizsardzība",
+        "bipartisan": "Gan PS, gan PSD ir līdzvainīgi – viens otru nesūdzēs"
+      },
+      "sale2025": {
+        "title": "2025. gada atjauninājums: Lone Star Exit",
+        "text": "2025. gada oktobris: Francijas banka BPCE iegādājas Novo Banco par 8 miljardiem eiro. Lone Star iziet ar milzīgu peļņu pēc 8,5 miljardu eiro valsts ieguldījumiem. Nulle sodu par sabrukumu. Nulle zaudējumu atgūšana."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Novo Banco tika pārdots Francijas bankai BPCE par 8 miljardiem eiro (2025. gada oktobrī). Lone Star iziet ar peļņu pēc 3,89 miljardu eiro valsts garantiju saņemšanas. Nodokļu maksātāji nekad nav atguvuši 10,4 miljardus eiro valsts līdzekļos. Pārdošanas ieņēmumi tiek novirzīti noregulējuma fondam, nevis Valsts kasei."
+    },
+    "admiral": {
+      "name": "Operācija Admiral",
+      "subtitle": "Visu laiku lielākā ES krāpšanas lieta",
+      "damage": "Kopējais kaitējums",
+      "convicted": "Notiesāts (2025. gada maijs)",
+      "prosecutor": "ES prokurors",
+      "type": "Karuseļa krāpšana",
+      "lesson": "Mācība: kad ES prokurors izskata lietas, nevis valsts sistēmas, tiek pieņemti notiesājoši spriedumi."
+    },
+    "pattern": {
+      "title": "Raksts ir skaidrs",
+      "pension": "Pensijas aizsargātas",
+      "delay": "Slepkavība līdz tiesai",
+      "lost": "Pazudis, nulle cietuma",
+      "reelected": "Pēc notiesāšanas",
+      "conclusion": "Pārliecība nenozīmē sekas. Sistēma aizsargā savu — pirms izmēģinājuma, tā laikā un pēc izmēģinājuma."
+    }
+  },
+  "judicial": {
+    "badge": "Sistēmas kļūme",
+    "title": "Tiesu korupcija: sapuvušais kodols",
+    "subtitle": "Kad tiesneši pārdod lēmumus un prokurori ņem kukuļus, visa pretkorupcijas sistēma sabrūk. Šie gadījumi izskaidro, kāpēc politiskā apsūdzība neizdodas.",
+    "status": {
+      "judgesCorrupt": "TIESNEŠI KORUPTIE",
+      "prosecutorBribed": "PROKURORS UZKUKUMS",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Galvenie skaitļi:",
+      "defendants": "Kopējais atbildētāju skaits:",
+      "exposed": "Eksponēja:",
+      "timeline": "Laika skala:",
+      "amount": "Kukuļa summa:",
+      "outcome": "Rezultāts:",
+      "year": "Gads:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "CSM disciplinārais lēmums:",
+      "defensePosition": "Aizsardzības pozīcija:",
+      "convicted": "Convicted:",
+      "coconspirator": "Lieta pārsūtīta:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Apelācija apstiprināta:",
+      "tcReject": "TC apelācija noraidīta:"
+    },
+    "lex": {
+      "name": "Operas Lekss",
+      "subtitle": "Tiesnešu lēmumi par pārdošanu",
+      "rangel": "Apelācijas tiesas tiesnesis",
+      "galante": "Tiesnesis (Rangela sieva)",
+      "neves": "Tiesas priekšsēdētājs",
+      "chargesTitle": "Maksas:",
+      "charges": "Tiesu lēmumu pārdošana, kukuļošana, tirgošanās ar ietekmi, korupcija. Tiesneši, kuriem vajadzēja notiesāt korumpētus politiķus, paši bija korumpēti.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db41d103e",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Izmēģinājums turpinās (2025)",
+      "exposedBy": "Futbola noplūdes / Rui Pinto",
+      "allegations": "Labvēlīgu nolēmumu pārdošana, lietas iznākumu fiksēšana, tirgošanās ar ietekmi, tiesiskuma kavēšana, saskaņots tiesu tīkls",
+      "significance": "Trauksmes cēlējs (Rui Pinto) tika saukts pie atbildības, savukārt korumpēto tiesnešu tiesa tika atlikta uz 7 gadiem. Sistēma aizsargā sevi.",
+      "otherDefendants": "Juristi, uzņēmēji un tiesu amatpersonas, kas piedalījās korupcijas tīklā",
+      "vieira": "Bijušais Benfica prezidents",
+      "csm": "2020. gadā Conselho Superior da Magistratura (CSM) Rui Rangelu izslēdza no tiesu varas par disciplinārpārkāpumiem saistībā ar šo lietu.",
+      "defense": "Visi apsūdzētie apsūdzības noliedz. Rangels ir paziņojis, ka apsūdzības ir nepamatotas un politiski motivētas."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Prokurors maksāja par lietu izbeigšanu",
+      "figueira": "Portugāles prokurors",
+      "vicente": "Angolas viceprezidents",
+      "convicted": "Prokurors NOTEIKTS",
+      "significanceTitle": "Nozīme:",
+      "significance": "Prokuroram tika samaksāts vairāk nekā 700 000 EUR, lai viņš izbeigtu izmeklēšanu pret Angolas eliti. Ja prokurorus var nopirkt, kāda iespēja ir korupcijas lietām?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figeira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Demonstrē naftas naudu no Angolas, kas sabojā Portugāles tiesu sistēmu",
+      "outcome": "Prokurors notiesāts, taču lieta atklāja sistēmisku neaizsargātību pret ārvalstu korupciju",
+      "defense": "Figeira visā prāvas laikā apsūdzības noraidīja un iesniedza apelāciju Konstitucionālajā tiesā, kas viņa apelāciju noraidīja 2022. gada decembrī."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Kurš skatās sargus? Kad tiesneši pārdod lēmumus un prokurori ņem kukuļus, visa atbildības sistēma sabrūk.",
+    "stat": {
+      "defendants": "Apsūdzētie Lex",
+      "bribe": "Prokurora kukulis",
+      "delay": "Apsūdzība tiesā (Lex)"
+    },
+    "disclaimer": "Visa tālāk sniegtā informācija ir iegūta no oficiālajiem tiesas ierakstiem, DCIAP apsūdzībām, CSM disciplinārajiem lēmumiem un pārbaudītiem ziņu avotiem. Apsūdzētie notiekošajās tiesvedībās saglabā nevainīguma prezumpciju līdz galīgai notiesāšanai.",
+    "impact": {
+      "title": "Kāpēc šīs lietas ir svarīgas korupcijas apkarošanai?",
+      "fizzTitle": "Operação Fizz ietekme:",
+      "fizz1": "• Prokurors no DCIAP — nodaļas, kas izmeklē augsta līmeņa korupciju — pats bija korumpēts.",
+      "fizz2": "• Kukuļa dēļ tika arhivētas lietas pret Angolas eliti",
+      "fizz3": "• Manuels Visente, kukuļdevējs, nekad netika tiesāts — viņa lieta tika nodota Angolai",
+      "lexTitle": "Operação Lex ietekme:",
+      "lex1": "• Ja tas ir pierādīts, apelācijas tiesas līmeņa tiesneši pārdeva lēmumus",
+      "lex2": "• Tiesa, kas izskata pirmās instances sodāmības par korupciju, tiktu apdraudēta",
+      "lex3": "• Lieta pagāja 7+ gadi no apsūdzības (2018. gadā) līdz tiesas procesa sākumam (2025. gadā)."
+    },
+    "sources": {
+      "title": "Oficiālie avoti:"
+    }
+  },
+  "methodology": {
+    "badge": "Neatkarīgs pētījums",
+    "title": "Pētījuma metodoloģija",
+    "sources": {
+      "title": "Pārbaudītie avoti",
+      "tc": "• Konstitucionālās tiesas lēmumi (Acórdãos)",
+      "dciap": "• DCIAP (Prokuratūras) oficiālas apsūdzības",
+      "parliament": "• Parlamentārās izmeklēšanas ziņojumi (CGD, BES, Novo Banco)",
+      "greco": "• GRECO 4. un 5. vērtēšanas kārtas ziņojumi",
+      "tdc": "• Tribunal de Contas (Revīzijas palāta) banku ziņojumi",
+      "eu": "• ES Komisijas ziņojumi par tiesiskumu (2024, 2025)",
+      "eurobarometer": "• Eirobarometra korupcijas aptaujas (2023, 2025)",
+      "ti": "• Transparency International CPI (2012–2024)",
+      "media": "• Lielākie Portugāles mediji: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Iekļaušanas kritēriji",
+      "judicial": "• Oficiāla tiesvedība (nosodāmība, apsūdzība, formāla izmeklēšana)",
+      "parliamentary": "• Parlamentārās izmeklēšanas ar publicētiem ziņojumiem",
+      "international": "• Starptautiskie uzraudzības iestāžu novērtējumi",
+      "financial": "• Revīzijas palātas dokumentētie finansiālie zaudējumi"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Nepārbaudīti apgalvojumi bez oficiālas procedūras",
+      "speculation": "• Spekulācijas vai viedoklis, kas nav pamatots ar dokumentiem",
+      "anonymous": "• Anonīmi avoti bez apstiprinājuma"
+    },
+    "disclaimer": "Visas minētās personas saglabā savu nevainīguma prezumpciju. Ja statuss “Notiek izmeklēšana” vai “arguido”, var tikt attaisnots. Gadījumu statusi ir skaidri marķēti. Šajā izmeklēšanā izmantoti tikai publiski pieejami, oficiāli dokumentēti avoti.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Ārējie avoti pārbaudīti",
+      "official": "56%",
+      "officialLabel": "No oficiālajiem avotiem",
+      "years": "50",
+      "yearsLabel": "Dokumentētie gadi (1974-2025)",
+      "cases": "40+",
+      "casesLabel": "Citas lietas"
+    },
+    "limitations": {
+      "title": "Pētījumu ierobežojumi",
+      "estimates": "• Daži finanšu skaitļi ir aprēķini no oficiāliem avotiem (Tribunal de Contas, INE)",
+      "media": "• Mediju ziņojumos var būt neprecizitātes; mēs piešķiram prioritāti oficiālajiem dokumentiem",
+      "appeals": "• Lietas rezultāti var mainīties apelācijas laikā; statusi atspoguļo jaunāko pārbaudīto informāciju",
+      "ongoing": "• Notiekoša izmeklēšana var beigties ar attaisnošanu vai arhivēšanu",
+      "incomplete": "• Šajā pētījumā, iespējams, ir izlaisti attiecīgi gadījumi vai dati; jebkuri izlaidumi ir netīši",
+      "corrections": "<strong class=\"text-warning\">Mēs atzinīgi vērtējam labojumus:</strong> ja konstatējat kļūdas, trūkstošus gadījumus vai novecojušu informāciju, lūdzu, iesniedziet labojumus, izmantojot uzticamus oficiālus avotus. Mēs esam apņēmušies ievērot precizitāti un attiecīgi atjaunināsim datus."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "Ko viņi saka pret to, ko parāda dokumenti",
+      "claimsTitle": "Ko apgalvo politiķi",
+      "claim1": "• \"Es esmu nevainīgs, tā ir politiska vajāšana\"",
+      "claim2": "• \"Nauda bija aizdevumi no draugiem\"",
+      "claim3": "• \"Portugālē ir stingri pretkorupcijas likumi\"",
+      "claim4": "• \"Tiesu sistēma darbojas\"",
+      "claim5": "• \"Mēs īstenojām visus ES ieteikumus\"",
+      "factsTitle": "Ko liecina oficiālie dokumenti",
+      "fact1": "• DCIAP apsūdzības ar 56 000+ lappušu pierādījumiem",
+      "fact2": "• Bankas ieraksti, kas parāda 34 miljonus eiro neizskaidrojamu pārskaitījumu",
+      "fact3": "• TC DIVREIZ atcēla nelikumīgas bagātināšanas likumus",
+      "fact4": "• 74,7% notiesāšanas par korupciju = nosacīti sodi",
+      "fact5": "• GRECO: pilnībā īstenoti 0/28 ieteikumi",
+      "note": "Šī izmeklēšana balstās uz oficiāliem dokumentiem, nevis pretenzijām. Katra statistika ir saistīta ar tās avotu."
+    },
+    "why": {
+      "title": "Kāpēc šis projekts pastāv",
+      "description": "Visa šeit sniegtā informācija nāk no publiski pieejamiem oficiālajiem avotiem: tiesu lēmumiem, parlamentārām izmeklēšanām, ES ziņojumiem un valdības statistikas. Tomēr, lai piekļūtu šai informācijai, ir jāpārvietojas sarežģītos birokrātiskos labirintos — tie ir izkaisīti desmitiem iestāžu vietņu, ir aprakti PDF dokumentos, bieži vien tehniskā juridiskajā valodā, un uz tiem reti ir atsauces. Lielākajai daļai pilsoņu trūkst laika, zināšanu vai pacietības, lai apkopotu šo sadrumstaloto attēlu.",
+      "purpose": "Šis projekts vienkāršo piekļuvi jau esošajiem datiem. Mēs neveidojam jaunu informāciju — mēs apkopojam, pārbaudām un iesniedzam oficiālos ierakstus racionalizētā, pieejamā formātā ar pilnām avota saitēm. Katru prasību var izsekot līdz tās oriģinālajam dokumentam."
+    },
+    "editorial": {
+      "title": "Redakcijas caurskatāmība",
+      "description": "Tā ir<strong class=\"text-white\">pētnieciska aizstāvības žurnālistika</strong>, nevis neitrāla ziņošana. Mums ir skaidra perspektīva: Portugāles politiskajā sistēmā ir strukturālas iezīmes, kas aizsargā varenos no atbildības. Šī perspektīva nosaka to, kā mēs sniedzam informāciju.",
+      "commitment": "Tomēr mēs esam apņēmušies ievērot faktu precizitāti. Katra prasība ir iegūta. Mēs nošķiram dokumentētus faktus un mūsu modeļu interpretāciju. Mēs atzīstam alternatīvus skaidrojumus. Lasītājiem vajadzētu novērtēt mūsu pierādījumus un izdarīt savus secinājumus.",
+      "invitation": "Mēs atzinīgi vērtējam domstarpības. Ja uzskatāt, ka mūsu interpretācija ir nepareiza, sazinieties tieši ar avotiem. Dokumenti ir publiski."
+    },
+    "evidenceTypes": {
+      "title": "Kā mēs klasificējam pierādījumus",
+      "intro": "Šīs izmeklēšanas laikā mēs nošķiram trīs veidu prasības:",
+      "fact": "Tieši no tiesu spriedumiem, oficiālajiem ziņojumiem, valdības statistikas. Pārbaudāms, izmantojot saistītos avotus.",
+      "pattern": "Vairāki dokumentēti gadījumi liecina par korelāciju. Nepierāda cēloņsakarību vai koordināciju.",
+      "analysis": "Mūsu datu interpretācija. Saprātīgi cilvēki var nepiekrist šiem secinājumiem."
+    },
+    "counterArguments": {
+      "title": "Alternatīvi skaidrojumi, kurus mēs atzīstam",
+      "intro": "Intelektuālā godīguma labad šeit ir sniegti likumīgi alternatīvi skaidrojumi dažiem mūsu dokumentētajiem modeļiem.",
+      "delays": {
+        "title": "Kāpēc korupcijas lietas ilgst 11+ gadus?",
+        "legit1": "• Tiesu sistēmai ir ļoti nepietiekams finansējums un darbinieku trūkums",
+        "legit2": "• Sarežģīti finanšu noziegumi prasa plašu izmeklēšanu",
+        "legit3": "• Aizstāvībai ir likumīgas tiesības apstrīdēt pierādījumus",
+        "legit4": "• Konstitucionālā aizsardzība pastāv pamatota iemesla dēļ",
+        "response": "Pat ja kavēšanās ir netīša, <em>efekts</em> ir nesodāms. Citas ES valstis par līdzīgiem noziegumiem ierosina ātrāk. Portugāles vidējais rādītājs ir 6,8 gadi pret ES normu 3-4 gadi. Nodomam ir mazāka nozīme nekā rezultātam."
+      },
+      "euJobs": {
+        "title": "Vai ES iecelšana amatā patiešām ir \"balva\"?",
+        "legit1": "• Politiķiem ir pieredze, kas viņus kvalificē",
+        "legit2": "• ES pozīcijas ir konkurētspējīgas un balstītas uz nopelniem",
+        "legit3": "• Korelācija ≠ cēloņsakarība vai sazvērestība",
+        "legit4": "• Daudzi kvalificēti politiķi nekad neiegūst darbu ES",
+        "response": "Mēs nepretendējam uz sazvērestību. Mēs novērojam modeli, kurā izmeklēšana reti bloķē reklāmas. Neatkarīgi no tā, vai tas atspoguļo \"atlīdzību\" vai vienaldzību pret atbildību, rezultāts mūs skar vienlīdz."
+      },
+      "bothParties": {
+        "title": "Kāpēc dokumentēt lietas no abām lielākajām partijām?",
+        "crit1": "• \"Šī ir nepatiesa ekvivalence\"",
+        "crit2": "• \"Viena puse var būt korumpētāka par otru\"",
+        "crit3": "• \"Arī mazajām partijām ir korupcija\"",
+        "response": "Mēs dokumentējam lietas proporcionāli pierādījumiem. PS un PSD ir mainījusies jauda 50 gadus; abiem ir dokumentēti gadījumi. Mēs nepretendējam uz līdzvērtību — mēs parādām, ka sistēma aizsargā <em>ikvienu, kurš ir pie varas</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "Kāpēc šī izmeklēšana pastāv",
+    "subtitle": "Sapnis, kas nevarēja izdzīvot sistēmu",
+    "journalism": {
+      "title": "Portugāles žurnālistika sistēmiskā uztveršanā",
+      "intro": "Katrs žurnālists sāk ar vienu un to pašu sapni: parādiet cilvēkiem patiesību, dokumentējiet to, kas ir svarīgi, mainiet pasauli. Portugālē šis sapnis saduras ar sistēmu, kas paredzēta, lai tieši to novērstu."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "žurnālistu pelna mazāk par 1000 eiro mēnesī",
+      "groups": "4",
+      "groupsLabel": "mediju grupas kontrolē privāto apraidi",
+      "lusa": "95.9%",
+      "lusaLabel": "valsts ziņu aģentūra (Lusa), kas tagad pieder valstij",
+      "independence": "53%",
+      "independenceLabel": "redakcionālās neatkarības risks (no 25%)"
+    },
+    "kills": {
+      "title": "Kas nogalina sapni",
+      "poverty": "15% pelna zem minimālās algas vai vispār neko",
+      "ownership": "Bijušajam premjerministram Pinto Balsemão piederēja Impresa (SIC, Expresso)",
+      "slapp": "319 SLAPP lietas pret žurnālistiem Eiropā (2024)",
+      "violence": "Čegas partijas vadītāji apsūdzēti žurnālistu draudēšanā (2024. gada novembris)",
+      "result": "Profesionālo žurnālistu skaits kopš 2009. gada ir samazinājies par 23%.",
+      "strike": "Vairāk nekā 40 mediju organizācijas pieteica vēsturisku streiku"
+    },
+    "pressure": {
+      "title": "Sistēmiskais spiediens",
+      "directors": "žurnālistu ziņo par direktoru spiedienu",
+      "superiors": "ziņojiet par redakcijas priekšnieku spiedienu",
+      "ranking": "Portugāle ES mediju plurālismā kritās"
+    },
+    "notCriticism": {
+      "title": "Tā nav žurnālistu kritika",
+      "quote": "\"Nedrošībai ir milzīga ietekme uz žurnālistu neatkarību... Šī pasliktināšanās ietekmē politisko neatkarību, mediju redakcionālos lēmumus.\"",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Kāpēc ir nepieciešama neatkarīga izpēte",
+      "intro": "Šajā izmeklēšanā tiek izmantoti tikai publiski pieejami oficiāli avoti — tie paši dokumenti, kuriem varēja piekļūt jebkura ziņu telpa. Atšķirība:",
+      "noAdvertisers": "Nav reklāmdevēju, kas draudētu ar ieņēmumu atņemšanu",
+      "noOwners": "Nav īpašnieku ar politiskiem sakariem, ko aizsargāt",
+      "noEditors": "Nav redaktoru, kas mīkstinātu valodu spēcīgu interešu dēļ",
+      "noPrecarity": "Nav nestabilas nodarbinātības, kas prasa klusumu",
+      "stance": "Šī izmeklēšana stāv līdzās Portugāles žurnālistiem, nevis pret viņiem."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Konstitucionālā aizsardzība",
+    "title": "Pensiju aizsardzība: arestēts, atgriezts, konfiscēts vēlreiz",
+    "intro": "Satversmes 30. pants novērš automātisku tiesību zaudēšanu pēc notiesāšanas. Notiesātie politiķi saglabā pensijas ar nebeidzamām apelācijām.",
+    "vara": {
+      "conviction": "Notiesāts: 5 gadi par tirgošanos ar ietekmi",
+      "status": "3x konfiscēts, 2x atdots"
+    },
+    "pinho": {
+      "conviction": "Notiesāts: 10 gadi + 4,9 miljonu eiro naudas sods",
+      "status": "10 gadu sods izciests MĀJĀS"
+    },
+    "socrates": {
+      "status": "Notiek izmēģinājuma periods (11+ gadi)",
+      "prescribed": "167 no 189 maksas",
+      "expired": "Jau izrakstīts (88%)",
+      "never": "Never seized",
+      "confirmed": "Apstiprināta subsīdijas saņemšana (SIC 2022)"
+    },
+    "conclusion": "Konstitucionālais 30. pants + Apelācijas sistēma = Bezgalīga pensiju aizsardzība",
+    "conclusionDetail": "Nav automātiskas konfiskācijas. Katrai konfiskācijai ir nepieciešams tiesas rīkojums. Katru rīkojumu var pārsūdzēt. Katra apelācija prasa gadus. Procesa laikā atbildētājs saglabā pensiju."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Arhīva lēmumi: \"Parco Detalhe\" (nepietiekama informācija)",
+    "intro": "CPP 246º n.º 6 pants ļauj prokuroriem atteikties no izmeklēšanas, pamatojoties uz \"nepietiekamu informāciju\" — pat ja ir dokumentēti pierādījumi.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "Imunitāte atcelta:",
+    "montenegro": {
+      "desc": "Publiskie līgumi ģimenes uzņēmumam (Spinumviva), kamēr MP",
+      "outcome": "Paliek PM ar minimālu atspoguļojumu medijos"
+    },
+    "mendes": {
+      "desc": "Maksa par konsultācijām t.sk. €360K no ūdensapgādes uzņēmuma ACA",
+      "irony": "Ironija: viņš pieprasīja Melnkalnei \"visu noskaidrot\""
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 apsūdzētie, 463 noziegumi",
+      "outcome": "60 citi ir apsūdzēti, augsta līmeņa personas arhivētas"
+    },
+    "pattern": {
+      "title": "Paraugs: CPP 246º n.º 6 pants",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Kā bez izmeklēšanas var noteikt \"norādes\"? Standarts pieprasa pierādījumus pirms izmeklēšanas, kas vāktu pierādījumus.",
+      "effect": "Sekas: prokuratūras veto pār politiski jutīgām lietām"
+    }
+  }
+}

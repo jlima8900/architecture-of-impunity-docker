@@ -1,0 +1,3252 @@
+{
+  "nav": {
+    "logo": "Straffrihedens Arkitektur",
+    "thesis": "Tesen",
+    "cases": "Sagsmapper",
+    "loopholes": "Juridiske Smuthuller",
+    "blocking": "Blokeringsmønster",
+    "euRewards": "EU-Belønninger",
+    "solution": "Løsning",
+    "eliteLaws": "Elitens Love",
+    "euLabor": "EU-Arbejde",
+    "brand": "Straffrihedens Arkitektur",
+    "odds": "Odds",
+    "database": "Database",
+    "sources": "Kilder",
+    "timeline": "Tidslinje",
+    "stats": "Statistik",
+    "dashboard": "Dashboard",
+    "forum": "Forum",
+    "donate": "Doner",
+    "sign": "UNDERSKRIV",
+    "mediaMachine": "Medier",
+    "goldenParachute": "Pensioner",
+    "home": "Hjem",
+    "signPetition": "Underskriv petition",
+    "convicted": "Dømte",
+    "judicial": "Retsvæsen",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"DE STÅR IKKE OVER OS\"",
+    "title": "STRAFFRIHEDENS ARKITEKTUR",
+    "subtitle": "Hvordan det Europæiske Politiske System Er Designet til at Beskytte de Korrupte",
+    "subtext": "Politikere er offentlige TJENERE, ikke offentlige HERRER. De bør leve som borgere, revideres som borgere og stå til ansvar som borgere.",
+    "stat1": "TI Korruptionsindeks 2024",
+    "stat2": "År: Sagens Varighed",
+    "stat3": "Borgere Tror Regeringen Er Korrupt",
+    "scroll": "Rul for at Begynde",
+    "declaration": "En borgerledet undersøgelse af politisk korruption i Portugal",
+    "begin": "Begynd undersøgelse"
+  },
+  "parts": {
+    "one": "Del I",
+    "two": "Del II",
+    "three": "Del III",
+    "four": "Del IV",
+    "five": "Del V",
+    "six": "Del VI",
+    "seven": "Del VII",
+    "eight": "Del VIII",
+    "eleven": "Del XI",
+    "twelve": "Del XII",
+    "nine": "Del IX",
+    "ten": "Del X",
+    "thirteen": "Del XIII"
+  },
+  "signature": {
+    "title": "Underskriv det europæiske borgerinitiativ",
+    "subtitle": "Europæisk Borgerinitiativ for Politisk Ansvarlighed",
+    "firstName": "Fornavn",
+    "lastName": "Efternavn",
+    "country": "Land",
+    "idNumber": "ID-nummer",
+    "submit": "Underskriv",
+    "verify": "Verificer",
+    "count": "Underskrifter",
+    "goal": "Mål: 1.000.000",
+    "verified": "Verificeret af EU-Infrastruktur",
+    "eci": {
+      "title": "europæisk borgerinitiativ",
+      "regulation": "Efter EU-forordning 2019/788",
+      "security": "Kryptografisk verificeret og manipulationssikker"
+    },
+    "euInfrastructure": "EU-infrastrukturintegration",
+    "selectCountry": "Vælg dit land",
+    "consent": "Jeg bekræfter, at jeg er EU-borger og giver samtykke til, at mine data behandles i overensstemmelse med EU's databeskyttelsesforordninger.",
+    "merkleLabel": "Merkle Root:",
+    "merkleCalculating": "Beregner...",
+    "merkleNoSigs": "Ingen underskrifter endnu",
+    "formFooter": "Din signatur bliver kryptografisk hashed og tilføjet til en manipulationssikker kæde.",
+    "success": "Signatur optaget!",
+    "invalidFormat": "Ugyldigt ID-format for",
+    "integrityVerified": "Kædeintegritet verificeret",
+    "integrityIssues": "Integritetsproblemer opdaget",
+    "eciTitle": "europæisk borgerinitiativ",
+    "eciReg": "Efter EU-forordning 2019/788",
+    "verification": {
+      "title": "Indgrebssikker verifikation",
+      "intro": "Dette system bruger industristandard kryptografiske teknikker til at sikre signaturintegritet:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "SHA-256 Hashing",
+        "text": "Hver signatur konverteres til et unikt 256-bit fingeraftryk ved hjælp af SHA-256-algoritmen - den samme standard, der bruges af Bitcoin og TLS/SSL-certifikater. Enhver manipulation ændrer hashen fuldstændigt.",
+        "source": "Standard: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Merkle træ",
+        "text": "Et Merkle-træ (hash-træ) er en datastruktur opfundet af kryptografen Ralph Merkle i 1979. Det skaber en enkelt \"rodhash\", der verificerer integriteten af ​​ALLE signaturer - hvis en signatur ændres, ændres roden.",
+        "source": "Brugt af: Bitcoin, Git, IPFS, Certificate Transparency"
+      },
+      "audit": {
+        "title": "Revisionsspor",
+        "text": "Hver handling (signatur, verifikation, eksport) logges med tidsstempler efter revisionssporstandarder. Dette giver fuldstændig gennemsigtighed og ansvarlighed for alle systemoperationer.",
+        "source": "Overholdelse: GDPR artikel 30"
+      },
+      "euId": {
+        "title": "EU ID-validering",
+        "text": "Hvert EU-land har specifikke ID-formater (Portugal: Cartão de Cidadão, Tyskland: Personalausweis osv.). Systemet validerer ID-numre mod landespecifikke mønstre i henhold til EU-forordning 2019/788 om det europæiske borgerinitiativ.",
+        "source": "Ramme: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "EU-infrastrukturintegration",
+      "text": "Dette initiativ er designet til at integrere med officielle EU-systemer:",
+      "eciPortal": "Officiel ECI-portal - Til endelig indsendelse",
+      "eidas": "eIDAS - Elektroniske identifikationsstandarder",
+      "gdpr": "GDPR-kompatibel - Databeskyttelse garanteret"
+    }
+  },
+  "common": {
+    "source": "Kilde",
+    "readMore": "Læs Mere",
+    "evidence": "Beviser",
+    "convicted": "Dømt",
+    "ongoing": "Igangværende",
+    "archived": "Arkiveret",
+    "keyInsight": "NØGLEINDSIGT",
+    "declined": "Undersøgelse afvist",
+    "views": "visninger",
+    "likes": "kan lide",
+    "share": "dele",
+    "close": "Tæt"
+  },
+  "mediaMachine": {
+    "part": "Del XI",
+    "title": "Fjerde Stand tilfangetaget",
+    "subtitle": "Hvordan portugisiske medier tjener magt i stedet for sandhed",
+    "intro": "Medierne, der skulle afsløre korruption, ejes af det samme system, som det burde undersøge.",
+    "ownership": {
+      "title": "Hvem kontrollerer nyhederne",
+      "subtitle": "5 grupper kontrollerer, hvad 10 millioner mennesker ser og læser",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "Tidligere premierminister (PSD, 1981-83)",
+        "note": "En tidligere regeringschef kontrollerer et stort tv-netværk"
+      },
+      "rtp": {
+        "name": "RTP (offentligt tv)",
+        "owner": "portugisisk stat",
+        "connection": "Bestyrelsen udpeget af Folketinget",
+        "note": "Regeringen kontrollerer udnævnelser og budget"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "Aktionærer omfatter statsstøttede banker",
+        "note": "Økonomisk afhængighed af statslige institutioner"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Sonae Gruppen",
+        "connection": "Detailimperium afhængig af offentlige kontrakter",
+        "note": "Dækker regler, der påvirker ejerens fortjeneste"
+      },
+      "globalMedia": {
+        "connection": "Opkøbt 2020 af investorer med angolanske/Macau-forbindelser. Kevin Ho's baggrund inkluderer links til kasino- og byggesektoren. Gruppen kontrollerer 4 store aviser + Portugals 2. mest lyttede radiostation.",
+        "name": "Global Media Group",
+        "note": "Styrer DN, JN, TSF, O Jogo - stor pressepåvirkning",
+        "owner": "Private investorer (Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "Svingdøren",
+      "subtitle": "Politikere bliver kommentatorer, kommentatorer beskytter politikere",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Marques Mendes",
+        "path": "Tidligere PSD-leder → SIC politisk kommentator. Nu medlem af statsrådet. Identificerer aldrig interessekonflikter i luften.",
+        "role": "SIC politisk kommentator",
+        "background": "Tidligere PSD-leder (2005-2007)",
+        "scandal": "€700.000+ i konsulenthonorarer fra regeringsafhængige virksomheder",
+        "coverage": "SIC gav minimal dækning til sin egen kommentators skandale",
+        "outcome": "PGR afviste undersøgelse - 19. december 2025"
+      }
+    },
+    "techniques": {
+      "title": "\"Førende\" journalistiske teknikker",
+      "subtitle": "Hvordan medier former opfattelse som en advokat leder et vidne",
+      "framing": {
+        "title": "Overskriftsindramning",
+        "description": "Samme handlinger, forskellige ord baseret på politisk tilpasning",
+        "example1": "PS-skandale: 'Kriminelle ordninger', 'korruptionsnetværk'",
+        "example2": "PSD-skandale: 'Kontroversielle kontrakter', 'uregelmæssigheder'"
+      },
+      "timing": {
+        "title": "Timing manipulation",
+        "description": "Dårlige nyheder for allierede udgivet på fredage og helligdage",
+        "example": "December 2025: Tre sagsarkiver samlet før jul"
+      },
+      "omission": {
+        "title": "Strategisk udeladelse",
+        "description": "Det, de ikke rapporterer, er lige så vigtigt, som det, de gør",
+        "example": "18-års reformblokeringsmønster blev aldrig syntetiseret"
+      },
+      "balance": {
+        "title": "Falsk balance",
+        "description": "Dokumenter vs. benægtelse behandles som lige gyldige",
+        "example": "At behandle fakta og politisk spin som ækvivalente holdninger"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Statsannoncering: Den finansielle snor",
+      "total": "€6,45 mio",
+      "hidden": "€3,7 mio",
+      "hiddenNote": "modtagere IKKE offentliggøres",
+      "mechanism": "Medier i finanskrise → Afhænger af statslige annoncer → Blødgør kritisk dækning → Korruption mindre gransket",
+      "increase": "+ €1,29 mio. stigning (2024)"
+    },
+    "precarity": {
+      "title": "Journalistprecarity = Selvcensur",
+      "noContract": "33,4 %",
+      "noContractLabel": "arbejde uden formelle kontrakter",
+      "pressure": "23,8 %",
+      "pressureLabel": "indberette pres fra bestyrelser",
+      "belief": "90 %",
+      "beliefLabel": "tror på, at karriere bliver mere usikker",
+      "strike": "Marts 2024: Første journaliststrejke i 40+ år"
+    },
+    "comparison": {
+      "title": "Portugal vs. funktionelle demokratier",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "Den fjerde ejendom erobres af den første og anden ejendom. Straffrihedens arkitektur omfatter medierne, der burde afsløre den.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33 %",
+      "stateLabel": "Statens mediemarkedsandel",
+      "risk": "HØJ",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Dokumenteret differentiel dækning",
+      "case1": {
+        "title": "Montenegro mod Sócrates",
+        "montenegro": "Montenegro (PSD): Spinumviva-skandale, €410K+ mens MP - Kort dækning, begrænset opfølgning",
+        "socrates": "Sócrates (PS): Omfattende, vedvarende dækning i måneder",
+        "pattern": "Samme type (økonomisk uregelmæssighed), vidt forskellig intensitet"
+      },
+      "case2": {
+        "title": "Marques Mendes (dec. 2025)",
+        "revealed": "Afsløret: €700.000+ i konsulenthonorarer mens SIC kommentator",
+        "coverage": "SIC-dækning: Minimal - egen outlet nedtonet skandale",
+        "pattern": "Klassisk ejerskabseffekt - beskyt din egen"
+      },
+      "case3": {
+        "title": "Face Oculta Suppression",
+        "attempt": "Forsøg: Pres for at begrænse dækningen, forsinke offentliggørelse",
+        "result": "Resultat: Til sidst afsløret, men med betydelige forsinkelser",
+        "pattern": "Viser systemisk pres på journalister"
+      }
+    },
+    "framingPatterns": {
+      "title": "Hvordan indramning adskiller sig fra part til",
+      "aspect": "Aspekt",
+      "psScandal": "PS-skandaledækning",
+      "psdScandal": "PSD-skandaledækning",
+      "language": "Anvendt sprog",
+      "psLanguage": "\"Kriminelle ordninger\", \"Korruptionsnetværk\"",
+      "psdLanguage": "\"Kontroversielle kontrakter\", \"Uregelmæssigheder\"",
+      "duration": "Dækningsvarighed",
+      "psDuration": "Uger/måneder, vedvarende opfølgning",
+      "psdDuration": "Dage, kort omtale, ingen opfølgning",
+      "placement": "Overskriftsplacering",
+      "psPlacement": "Forside, bedste sendetid",
+      "psdPlacement": "Indvendige sider, off-peak",
+      "accountability": "Ansvarlighedsramme",
+      "psAccountability": "Navngivne personer, partiansvar",
+      "psdAccountability": "\"Begge sider\", systemiske problemer",
+      "note": "Kilde: Akademiske undersøgelser, der analyserer portugisisk valgdækning 2015-2022"
+    },
+    "newsDeserts": {
+      "title": "News Deserts: Where Corruption Goes Unrapported",
+      "municipalities": "af 308 kommuner er nyheds-ørkener",
+      "percentage": "i Portugal mangler lokal nyhedsdækning",
+      "atRisk": "udsatte kommuner (kun 1 udsalgssted)",
+      "impact": "Hvor der ikke er journalistik, er der ingen ansvarlighed. Lokal korruption blomstrer i skyggerne af nyhedsørkener."
+    },
+    "pressFreedom": {
+      "title": "Pressefriheden falder",
+      "ranking": "Portugal faldt fra <strong class=\"text-good\">7.</strong> til <strong class=\"text-bad\">13.</strong> plads i Media Pluralism Monitor (2024→2025)",
+      "trust": "• Tillid til nyheder: 54 % (ned fra 66 % i 2015)",
+      "concentration": "• Mediekoncentrationsrisiko: 79 %",
+      "independence": "• Redaktionel uafhængighed i høj risiko",
+      "pattern": "MØNSTERET:",
+      "explanation": "Efterhånden som medieejerskabet koncentreres, øges journalistisk usikkerhed, og statsreklamer bliver livline-finansiering – kritisk journalistik bliver strukturelt umulig."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "Del XII",
+    "title": "Den gyldne faldskærm",
+    "subtitle": "dømt for korruption? Behold din pension for altid",
+    "intro": "I Portugal beholder politikere, der er dømt for at stjæle millioner, deres skatteyderfinansierede pensioner. Der er ingen lov til at stoppe dem.",
+    "question": "Hvad sker der, når en portugisisk politiker bliver dømt for korruption?",
+    "answer": "DE BEHOLDER ALT.",
+    "cases": {
+      "title": "Dokumenterede sager",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "José Sócrates",
+        "crime": "34 mio. EUR korruptionsanklager",
+        "sentence": "Prøve i gang 11+ år",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "Tidligere premierminister (2005-2011)",
+        "status": "PÅ PRØVE",
+        "description": "Sigtet for korruption, hvidvaskning af penge, dokumentfalsk. Efter 10+ år, modtager du stadig pension. Sag i gang siden 2014."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Tidligere PS-viceminister, CGD-administrator"
+      },
+      "pinho": {
+        "name": "Manuel Pinho",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Dømt: passiv korruption, hvidvaskning af penge (10 år)",
+        "note": "Modtog 4,5 millioner euro i bestikkelse fra EDP",
+        "houseArrest": "🏠 Afsoning i hjemmet: Trods 10 års fængsel, afsoner i egen bopæl siden 2021"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Dømt: skattesvig, hvidvaskning af penge",
+        "note": "Afsonet dom, derefter GENVALGT som borgmester i Oeiras"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Fuld udbytte efter kun EN periode",
+      "pmBenefits": "Bil, chauffør, personale, sikkerhed for livet",
+      "ministerBenefits": "Generøs pension uanset afsoningstid"
+    },
+    "noLaw": {
+      "title": "Loven: Der er ingen",
+      "text": "Portugal har INGEN lov, der kræver pensionsfortabelse efter straffedom.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95 %",
+        "pensionRateLabel": "Portugals pensionserstatningsgrad",
+        "euAverage": "71 %",
+        "euAverageLabel": "EU-gennemsnittet",
+        "productivity": "73 %",
+        "productivityLabel": "Portugals produktivitet vs. EU"
+      },
+      "translation": "Mest generøse pensioner + svageste ansvarlighed + laveste produktivitet = system designet til at belønne fiasko.",
+      "country": "Land",
+      "rule": "Fortabelsesreglen",
+      "applies": "Gælder for"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "GLOBALT UTILFREDSSTILLENDE",
+      "recommendations": "28",
+      "partial": "18 delvist gennemført",
+      "notImplemented": "10 IKKE implementeret",
+      "lobbying": "Lobbyisme: UREGULERET",
+      "assets": "Aktiverklæringer: Svag håndhævelse",
+      "verdict": "Europarådets anti-korruptionsorgan har gentagne gange bemærket Portugals manglende gennemførelse af meningsfulde sanktioner mod korrupte embedsmænd. Pensionssikringssystemet undergraver afskrækkelse og signalerer, at politisk kriminalitet ikke har nogen varige konsekvenser."
+    },
+    "referendum": {
+      "title": "Foreslåede folkeafstemningsspørgsmål",
+      "q7": {
+        "number": "Spørgsmål 7",
+        "text": "Bør politikere, der er dømt for korruptionsforbrydelser, automatisk miste deres skatteyderfinansierede pensioner?"
+      },
+      "q8": {
+        "number": "Spørgsmål 8",
+        "text": "Bør medierne pålægges at afsløre politiske forbindelser mellem ejere og storaktionærer?"
+      }
+    },
+    "conclusion": "Straffrihedens arkitektur strækker sig ud over retssalen. Selv når den sjældne overbevisning indtræffer, sikrer den gyldne faldskærm en behagelig landing. Systemet beskytter ikke bare politikere mod retfærdighed – det belønner dem for livet.",
+    "scandal": {
+      "title": "Den uacceptable virkelighed",
+      "description": "Portugisiske politikere, der er dømt for korruption, bedrageri og magtmisbrug, modtager fortsat skatteyderfinansierede pensioner. Der er INGEN automatisk fortabelse. Mens almindelige borgere mister job og hjem for mindre lovovertrædelser, har den politiske klasse designet et system, hvor kriminalitet bogstaveligt talt betaler sig."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Frankrig, Spanien, Italien har IDENTISK forfatningsmæssig beskyttelse, men har med succes implementeret love om pensionsfortabelse. Deres domstole fandt fortabelse forfatningsmæssigt. Portugals modstand er politisk valg, ikke juridisk nødvendighed.",
+        "title": "Andre EU-lande"
+      },
+      "portugal": {
+        "text": "Forfatningsdomstolen fortolker dette således, at pensioner IKKE KAN automatisk fortabes. Reformforsøg blokeret to gange (2012, 2015). Resultat: dømte politikere beholder fuld pension.",
+        "title": "Portugals fortolkning"
+      },
+      "quote": "\"Ingen sætning må medføre tab af nogen borgerlige, professionelle eller politiske rettigheder efter behov\"",
+      "source": "— Artikel 30, den portugisiske forfatning",
+      "title": "Det forfatningsmæssige skjold: artikel 30 i CRP"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Baseret på løn + anciennitet. Nogle modtager 80 %+ af deres slutløn for livet. Kan overstige €20.000/måned for topstillinger.",
+        "title": "Hvordan det beregnes"
+      },
+      "contrast": "KONTRAST: Regelmæssige arbejdere, der er dømt for forbrydelser, mister deres job, pensioner og fremtid. Politikere, der er dømt for langt værre forbrydelser, beholder deres 8.500-26.000 €/måned for livet.",
+      "created": {
+        "text": "Lov 4/85 skabte livstidstilskud til premierminister, ministre, parlamentsmedlemmer og dommere. Oprindeligt designet til at belønne \"public service\".",
+        "title": "Oprettet i 1984"
+      },
+      "description": "Portugal har et unikt \"Subvenção Vitalícia\"-system (livsvarigt tilskud), der giver tidligere politikere en permanent månedlig betaling for livet – adskilt fra og ud over enhver almindelig pension. Dette er ikke en pension optjent gennem bidrag; det er et privilegium givet ved lov.",
+      "protected": {
+        "text": "Selv om man bliver dømt for forbrydelser begået i embedet, fortsætter tilskuddet. Beslaglæggelse kræver særskilt civil retssag - og mislykkes ofte ved appel.",
+        "title": "Lovligt beskyttet"
+      },
+      "title": "Subvenção Vitalícia-systemet"
+    }
+  },
+  "meta": {
+    "title": "Straffrihedens arkitektur - Portugals politiske beskyttelsessystem",
+    "description": "Hvordan Portugals politiske system er designet til at beskytte de korrupte"
+  },
+  "accessibility": {
+    "skipToContent": "Spring til hovedindhold",
+    "toggleNav": "Skift navigationsmenu",
+    "changeLang": "Skift sprog",
+    "mainNav": "Hovednavigation",
+    "infoIcon": "Information",
+    "closeBanner": "Luk meddelelsesbanner"
+  },
+  "legal": {
+    "title": "Juridisk meddelelse:",
+    "text": "Alle nævnte personer har ret til uskyldsformodning, indtil det modsatte er bevist. Dette dokument præsenterer offentligt tilgængelig information fra officielle kilder, retsdokumenter og velrenommerede medier. Analysen dokumenterer mønstre i europæiske politiske og juridiske systemer."
+  },
+  "thesis": {
+    "title": "Den Pavlovske Politiske Klasse",
+    "intro": "Det portugisiske politiske system opererer efter klassiske konditioneringsprincipper",
+    "cycle": {
+      "title": "Betingningscyklussen",
+      "formula": "STIMULUS → RESPONS → BELØNNING → GENTAG",
+      "entry": {
+        "title": "INDGANG",
+        "trigger": "Meld dig ind i partiet, vis loyalitet",
+        "reward": "→ Plads på valglisten"
+      },
+      "service": {
+        "title": "TJENESTE",
+        "trigger": "Stem som du får besked på, beskyt kolleger",
+        "reward": "→ Privilegier (biler, chauffører, personale, udgifter)"
+      },
+      "scandal": {
+        "title": "SKANDALE",
+        "trigger": "Efterforskning annonceret",
+        "reward": "→ Immunitet aktiveret, retshemmelighed, forsinkelser begynder"
+      },
+      "rescue": {
+        "title": "REDNING",
+        "trigger": "Hold dig tavs, afslør ikke andre",
+        "reward": "→ Juridisk smuthul redder dig i sidste øjeblik"
+      },
+      "promotion": {
+        "title": "FORFREMMELSE",
+        "trigger": "Bevist loyalitet gennem krise",
+        "reward": "→ EU-POSITION (den ultimative belønning)"
+      }
+    },
+    "keyInsight": {
+      "title": "«De Står Ikke Over Os» — Men De Placerede Sig Over Os",
+      "point1": "Politikere skabte et parallelsamfund med privilegier som borgere ikke kan få adgang til",
+      "point2": "Systemet producerer præcis den adfærd det belønner: føjelige politikere der beskytter hinanden",
+      "point3": "Reform indefra er umulig: det er som at bede Pavlovs hunde om at afkoble klokken fra maden",
+      "parallel": "Politikere skabte et parallelsamfund med privilegier som borgere ikke kan få adgang til",
+      "rewards": "Systemet producerer præcis den adfærd det belønner: føjelige politikere der beskytter hinanden",
+      "reform": "Reform indefra er umulig: det er som at bede Pavlovs hunde om at afkoble klokken fra maden"
+    },
+    "selfReinforcing": {
+      "title": "Den Selvforstærkende Cyklus",
+      "intro": "Systemet er selvoprettholdende. Hver generation af politikere lærer af den forrige:",
+      "observe": {
+        "title": "OBSERVERE",
+        "text": "Yngre politikere ser ældre overleve skandaler"
+      },
+      "learn": {
+        "title": "LÆRE",
+        "text": "De lærer reglerne: loyalitet = beskyttelse"
+      },
+      "replicate": {
+        "title": "KOPIERE",
+        "text": "Når deres tur kommer, beskytter de andre og forventer det samme"
+      },
+      "teach": {
+        "title": "UNDERVISE",
+        "text": "De bliver de ældre som yngre observerer"
+      },
+      "conclusion": "Politikere behøver ikke udtrykkeligt at blive bedt om at beskytte kolleger. De gør det automatisk, velvidende at systemet beskytter dem til gengæld. Betingningen er generationsoverskridende.",
+      "howLoop": "Hvordan Cyklussen Virker:",
+      "whyFails": "Hvorfor Intern Reform Altid Mislykkes:",
+      "trapTitle": "Fælden:",
+      "trapText": "Systemet er ikke ødelagt — det fungerer præcis som det blev designet.",
+      "loopSteps": {
+        "step1": {
+          "title": "Unge politikere bemærker:",
+          "text": "Seniorpersoner begår forbrydelser → bliver efterforsket → flugt → bliver forfremmet"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "\"Systemet beskytter sine egne. Hvis jeg er loyal, bliver jeg også beskyttet.\""
+        },
+        "step3": {
+          "title": "Adfærd justeret:",
+          "text": "De stemmer for at opretholde smuthuller, beskytte kolleger, blokere for reformer"
+        },
+        "step4": {
+          "title": "Forventning størknet:",
+          "text": "Når deres egen skandale kommer, forventer og modtager de den samme beskyttelse"
+        },
+        "step5": {
+          "title": "Næste generation bemærker:",
+          "text": "Cyklussen gentages med forstærkede forventninger"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Ulovlig berigelse blokeret:",
+          "text": "Politikere vil ikke stemme for at fjerne deres egen flugtluge"
+        },
+        "lobby": {
+          "title": "Lobbyregulering blokeret:",
+          "text": "PSD blokerede det TO GANGE (2019, 2024) - truer belønningssystemet"
+        },
+        "immunity": {
+          "title": "Opretholdt immunitet:",
+          "text": "Parlamentet vil ikke stemme for at ophæve immuniteten - de kan få brug for det"
+        },
+        "prescription": {
+          "title": "Recept uændret:",
+          "text": "Lange forsinkelser tjener systemet, så systemet vedligeholder dem"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "Elitebeskyttelsesmønstret",
+      "intro": "Analyse af højprofilerede sager afslører et konsekvent tre-trins mønster:",
+      "investigate": {
+        "title": "EFTERFORSKE",
+        "text": "Medier afslører skandale → Anklagere annoncerer efterforskning → Offentlig forargelse dæmpes"
+      },
+      "delay": {
+        "title": "FORSINKELSE",
+        "text": "År med procedurel kompleksitet → Retshemmelighed påberåbes → Beviser ældes → Vidners hukommelse falmer"
+      },
+      "archiveOrReward": {
+        "title": "ARKIVERE ELLER BELØNNE",
+        "text": "Sagen arkiveres for 'mangel på beviser' ELLER politiker forfremmes til højere position mens under efterforskning"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "Den svenske kontrast",
+        "source": "Kilde: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Aspekt",
+        "officialCars": "Officielle biler",
+        "mpOffices": "MP kontorer",
+        "immunity": "Immunitet",
+        "salaryRaises": "Lønstigninger",
+        "localCouncillors": "Lokalrådsmedlemmer",
+        "transparency": "Gennemsigtighed",
+        "cpiScore": "TI CPI-score",
+        "swedenValues": {
+          "cars": "Kun PM har bil (sikkerhed). Alle andre: bus/tog",
+          "offices": "7m² kontorer; Parlamentsmedlemmer styrer egne tidsplaner",
+          "immunity": "Ingen. Forsagt i retten som enhver borger",
+          "salary": "Uafhængigt udvalg beslutter",
+          "councillors": "Frivillig, ingen løn, arbejde hjemmefra",
+          "transparency": "Alle selvangivelser er offentlige siden 1766",
+          "cpi": "85/100 (Top 5) - STABIL"
+        },
+        "portugalValues": {
+          "cars": "PM har 11 chauffører",
+          "offices": "Fuldt personale, sekretærer, store budgetter",
+          "immunity": "Kan ikke tilbageholdes uden parlamentets afstemning",
+          "salary": "Politikere stemmer om egen kompensation",
+          "councillors": "Betalte stillinger med personale",
+          "transparency": "Segredo de justiça gemmer sager i årevis",
+          "cpi": "57/100 (43.) - FALDENDE"
+        },
+        "quote": "Vi er almindelige borgere. Der er ingen mening i at give parlamentarikere særlige privilegier, da vores opgave er at repræsentere borgerne og kende den virkelighed, folk lever i.",
+        "quoteCite": "— Per-Arne Håkansson, svensk parlamentsmedlem",
+        "sourceLabel": "Kilde: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "Den schweiziske model: Direkte demokrati i aktion",
+        "intro": "Schweiz beviser, at borgere direkte kan kontrollere deres politikere gennem bindende folkeafstemninger. Schweizerne stemmer cirka 4 gange om året på et gennemsnit af 15 føderale spørgsmål.",
+        "popularInitiative": {
+          "title": "Populært initiativ",
+          "requirement": "100.000 underskrifter",
+          "text": "Grundlovsændringsafstemning - borgere kan foreslå ændringer af grundloven"
+        },
+        "optionalReferendum": {
+          "title": "Valgfri folkeafstemning",
+          "requirement": "50.000 underskrifter",
+          "text": "Veto enhver lov inden for 100 dage efter vedtagelsen"
+        },
+        "mandatoryReferendum": {
+          "title": "Obligatorisk folkeafstemning",
+          "requirement": "Automatisk",
+          "text": "ALLE forfatningsændringer SKAL gå til folkeafstemning"
+        },
+        "facts": {
+          "nonProfessional": "Ikke-professionelle politikere: Folketingsmedlemmer har ingen fuld statsløn - forventes at opretholde almindelige job",
+          "referendums": "Mellem 1848-2025: 700+ folkeafstemninger afholdt",
+          "cpi": "TI CPI-rangering: 3. globalt (bundet med Sverige og Singapore)"
+        },
+        "quote": "Folkets ord er det højeste.",
+        "quoteCite": "— Schweizisk demokratisk princip",
+        "stats": "Vigtige schweiziske statistikker:"
+      }
+    },
+    "portugalReality": {
+      "title": "Portugals virkelighed",
+      "drivers": {
+        "number": "11",
+        "label": "Drivere til PM António Costa",
+        "detail": "Hver tjener 2.121 €/måned"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "kabinetsmedlemmer",
+        "detail": "Gns.: 2.794 € | Lærere: €1.705 | Minimumsløn: €820"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Pointfald i TI CPI 2024",
+        "detail": "Score: 57/100 | Placering: 43. af 180 lande"
+      }
+    },
+    "citizensKnow": "Borgere ved, at systemet er korrupt:"
+  },
+  "cases": {
+    "title": "Beviserne: Komplette sagsakter",
+    "intro": "Dokumenterede sager, der viser beskyttelsessystemet i aktion",
+    "timelineLabel": "Tidslinje",
+    "status": {
+      "ongoing": "Prøve igangværende",
+      "trialOngoing": "Prøve igangværende",
+      "euCouncilPresident": "formand for EU-rådet",
+      "euPromoted": "formand for EU-rådet",
+      "archived": "Arkiveret",
+      "declined": "Undersøgelse afvist",
+      "arguido": "Formel mistænkt (arguido)",
+      "pgrDeclined": "PGR afviste undersøgelse",
+      "formalSuspect": "Formel mistænkt (arguido)",
+      "convictedServing": "DØMT - Servering",
+      "convictedAppealing": "DØMT - Appellerer",
+      "convictedRearrested": "CONVICTED (2010) - Genanholdt 2022",
+      "convictedMultiple": "DØMT FLERE",
+      "formalSuspectArguido": "FORMEL MISTISK (arguido)",
+      "arrestedJan2024": "ARRESTERET (januar 2024)",
+      "neverProsecuted": "ALDRIG FORFØLGET",
+      "neverDefendant": "Aldrig en tiltalt",
+      "convictedUnpaid": "DØMT - Gæld ubetalt",
+      "convictedMultipleJurisdictions": "DØMT - Portugal & Brasilien",
+      "convictedSuspended": "DØMT - Betinget dom",
+      "convictedHouseArrest": "DØMT - Husarrest"
+    },
+    "tableStatus": {
+      "onTrial": "På Retssag",
+      "underInvestigation": "Under undersøgelse",
+      "convicted": "DØMT",
+      "convictedX2": "DØMT x2",
+      "arguido": "Arguido",
+      "archived": "Arkiveret",
+      "declined": "Afvist",
+      "arrested": "ARRESTERET",
+      "neverProsecuted": "Aldrig retsforfulgt",
+      "neverDefendant": "Aldrig tiltalt*",
+      "convictedSuspended": "DØMT (mistænkt)"
+    },
+    "charges": {
+      "passiveCorruption": "Passiv korruption",
+      "moneyLaundering": "Hvidvaskning af penge",
+      "documentFalsification": "Dokumentforfalskning",
+      "taxFraud": "Groft skattesvig"
+    },
+    "conditioningLesson": "Konditioneringslektion",
+    "theFacts": "Fakta",
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Operação Marquês",
+      "party": "PS - Socialistisk Parti",
+      "position": "Premierminister (2005-2011)",
+      "timeline": {
+        "arrested": "Anholdt i Lissabon lufthavn",
+        "detained": "Fængslet i Évora fængsel",
+        "accusation": "Formel anklage (28 forbrydelser)",
+        "trial": "25 forbrydelser sendt til retten",
+        "ongoing": "Prøve er STADIG i gang - 11+ ÅR",
+        "instruction": "Instruktionsbeslutning - 25 forbrydelser sendt til dom",
+        "current": "Prøve er stadig i gang - 11+ ÅR"
+      },
+      "charges": {
+        "title": "Anklager (i alt 22 forbrydelser)",
+        "corruption": "Passiv korruption af politisk embedsindehaver",
+        "laundering": "Hvidvaskning af penge",
+        "falsification": "Dokumentforfalskning",
+        "fraud": "Groft skattesvig"
+      },
+      "amounts": {
+        "switzerland": "Schweiz (2006-2009)",
+        "total": "I alt fra 3 selskaber",
+        "prescribed": "Afgifter foreskrevet"
+      },
+      "keyFacts": {
+        "title": "Nøglefakta fra officiel anklage",
+        "switzerland": "Akkumuleret i Schweiz (2006-2009)",
+        "total": "Samlet angiveligt modtaget fra tre selskaber",
+        "sources": "Kilder til bestikkelse: Grupo LENA (byggeri), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (golfresort), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Konditioneringslektion",
+        "text": "Sager kan forsinkes på ubestemt tid. Selv tidligere premierminister har ingen konsekvenser i et årti. Hver appel nulstiller tidslinjer."
+      },
+      "coAccused": {
+        "apartment": "Paris lejlighed",
+        "description": "Sócrates' nære ven og påståede \"finansmand\". Forretningsmand, der angiveligt overførte millioner til tidligere premierminister gennem ejendomskøb, bilbetalinger og renovering af hjemmet. Sigtet for 9 tilfælde af hvidvask.",
+        "expenses": "Leveudgifter",
+        "renovations": "Renoveringer",
+        "sources": "Kilder: DCIAP-anklage, rapporterer portugisisk presse",
+        "title": "Nøglemedanklagede: Carlos Santos Silva",
+        "vehicles": "Køretøjer"
+      },
+      "prescription": {
+        "title": "⏱️ Forældelseskrise",
+        "text": "Af de oprindelige 189 påståede forbrydelser er 167 allerede blevet ordineret (udløbet) på grund af proceduremæssige forsinkelser. Kun 22 afgifter forbliver aktive efter 11+ år."
+      }
+    },
+    "costa": {
+      "name": "Antonio Costa",
+      "operation": "Operação Influencer",
+      "party": "PS - Socialistisk Parti",
+      "position": "Premierminister (2015-2023) → formand for EU-rådet (2024-)",
+      "timeline": {
+        "raid": "Politi razzier São Bento Palace",
+        "resigns": "Costa siger op med det samme",
+        "elected": "EU-ledere VÆLGER Costa som præsident",
+        "takesOffice": "Tiltræder som formand for EU-rådet",
+        "ongoing": "STADIG under undersøgelse",
+        "resignation": "Costa siger op med det samme",
+        "euElection": "EU-ledere VÆLGER Costa som formand for Det Europæiske Råd",
+        "current": "STADIG under undersøgelse, formand for EU"
+      },
+      "keyFacts": {
+        "title": "Fakta",
+        "cash": "Kontanter fundet gemt i bøger og vinkasser på stabschefens kontor",
+        "relates": "Undersøgelsen vedrører: Lithiumminedrift, grøn brint, datacenterprojekter i Sines",
+        "arrests": "Nøgleanholdelser: Vítor Escária (stabschef - anholdt), Nuno Mascarenhas (borgmester i Sines - anholdt), Diogo Lacerda Machado (forretningsmand - anholdt)",
+        "galamba": "Medsammensvorne ved navn: João Galamba (Infrastrukturminister - formel arguido) — angiveligt involveret i påvirkningshandel til lithium/brint-projekter; forblev i regeringen indtil Costas afgang"
+      },
+      "lesson": {
+        "title": "Konditioneringslektion",
+        "text": "Maksimal loyalitet = EU-promovering. At være under kriminel efterforskning er ingen hindring for de højeste EU-stillinger. Den ultimative godbid til den mest loyale hund."
+      },
+      "quote": "Den 27. juni 2024 valgte EU's ledere António Costa som formand for Det Europæiske Råd. Han tiltrådte den 1. december 2024.",
+      "quoteCite": "— Det Europæiske Råds officielle websted"
+    },
+    "montenegro": {
+      "name": "Luís Montenegro",
+      "operation": "Spinumviva-affæren",
+      "party": "PSD - Det Socialdemokratiske Parti",
+      "position": "Premierminister (2024-nu)",
+      "amounts": {
+        "family": "€410.000+ i familievirksomhed",
+        "solverde": "4.500 €/måned rådgivning for spillevirksomhed"
+      },
+      "loopholeTitle": "Smuthulet, der reddede ham:",
+      "loophole": {
+        "notFormal": "Ikke formelt anklaget - kun navngivet i sagen",
+        "preliminary": "Forundersøgelse (averiguação) afsluttet uden sigtelser",
+        "archived": "Sagen arkiveret den 17. december 2025"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "SIC politisk kommentator",
+      "party": "PSD - Det Socialdemokratiske Parti",
+      "position": "Tidligere PSD-leder (2005-2007), medlem af statsrådet",
+      "amounts": {
+        "consultant": "€700.000+ i ikke-oplyste konsulenthonorarer",
+        "aca": "5.000 €/måned fra ACA-M (statskontrakt)"
+      },
+      "keyFacts": {
+        "aca": "Modtog €60.000/år fra ACA-M, mens det havde €400M+ i statskontrakter",
+        "irony": "Som SIC-kommentator kommenterer han korruption uden at afsløre sine egne økonomiske interesser"
+      },
+      "loopholeTitle": "Smuthulet, der reddede ham:",
+      "loophole": {
+        "complaint": "Anonym klage indgivet",
+        "pgr": "PGR afvist for \"parco detalhe\" (utilstrækkelige detaljer)",
+        "noInvestigation": "Der er aldrig åbnet nogen efterforskning",
+        "destroyed": "Beviser er effektivt ødelagt af manglende handling"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Operação Ab Initio",
+      "party": "PSD - Det Socialdemokratiske Parti",
+      "position": "Præsident for Madeiras regionale regering",
+      "timeline": {
+        "searches": "Januar 2024: Politiets ransagninger på regeringskontorer",
+        "crimes": "8 påståede forbrydelser: passiv korruption, magtmisbrug",
+        "censure": "Marts 2024: Forslag om mistillidsvotum mislykkes",
+        "reelection": "Maj 2024: GENVALGT under undersøgelse"
+      },
+      "relatedArrest": "Relateret arrestation:",
+      "calado": {
+        "text": "Pedro Calado (vicepræsident, PSD) arresteret januar 2024 for korruption"
+      },
+      "lesson": {
+        "text": "At være under formel undersøgelse er ingen hindring for genvalg. Systemet beskytter sine egne."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado",
+      "charges": "Flere domme: BES-kollaps, EDP-korruption",
+      "note": "Påstår Alzheimers for at undgå fængsel. Modtager stadig bankpension."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Formel mistænkt i Operação Influencer (lithium/brint korruption)",
+      "note": "Forblev infrastrukturminister indtil premierminister Costas afgang"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Anholdt for korruption, samordning i offentlige kontrakter",
+      "note": "Vicepræsident for Madeira, arresteret januar 2024"
+    },
+    "barroso": {
+      "name": "José Manuel Barroso",
+      "charges": "Opkaldt i ubådsskandale. Aldrig retsforfulgt.",
+      "note": "EU-Kommissionens formand (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "Yderligere dømte/anklagede politikere",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3,5 år: Kvalificeret svindel, bortskaffelse af aktiver. €900M+ gæld til statsbanken CGD",
+      "note": "Kunstsamling til en værdi af €500M+ overført til fonde før beslaglæggelse. Højesteret forlængede straffen til 4 år (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 år (PT) + 25 år (BR): Bedrageri (BPN), mord på Rosalina Ribeiro i Brasilien",
+      "note": "Tidligere MP for PSD (1987-2008). Offeret var arving til sin klients formue. Brasiliansk dom i afventning af udlevering"
+    },
+    "loureiro": {
+      "name": "Valentin Loureiro",
+      "charges": "2 år suspenderet: Apito Dourado fodboldkorruption. Matchfixing, bestikkelse af dommere",
+      "note": "Borgmester i Gondomar (1976-2013). Boavista FC præsident. Har aldrig afsonet fængsel"
+    }
+  },
+  "eliteLaws": {
+    "title": "Love designet til at beskytte eliten",
+    "intro": "Hvordan forfatningsdomstolen og parlamentet systematisk blokerede for ansvarlighed",
+    "cc": {
+      "title": "Forfatningsdomstolen: Straffrihedens vogter",
+      "intro": "Den portugisiske forfatningsdomstol (Tribunal Constitucional) har afskaffet ulovlig berigelse TO GANGE (2012 og 2015), mens parlamentet blokerede 22+ lovgivningsforsøg over 18 år. Portugal er fortsat det ENESTE EU-land, hvor uforklarlig rigdom ikke kan kriminaliseres.",
+      "timelineTitle": "18 år med blokeret reform (2007-2025)"
+    },
+    "ruling2012": {
+      "badge": "SLAGDE NED",
+      "title": "Acórdão 179/2012",
+      "date": "4. april 2012",
+      "claimedReason": "Påstået årsag:",
+      "claimedText": "Krænker uskyldsformodningen (Art. 32º CRP)",
+      "reality": "Virkelighed:",
+      "realityText": "Frankrig, Spanien, Italien og 45+ lande har lignende love, der har vedtaget forfatningsrevision.",
+      "paradox": "Paradokset:",
+      "paradoxText": "Domstolen beskytter \"uskyldsformodning\" for formueforklaringer, mens den tolererer 11 års forsinkelser forud for retssagen, der krænker samme ret."
+    },
+    "ruling2015": {
+      "badge": "SLAGET NED (enstemmigt)",
+      "title": "Acórdão 377/2015",
+      "date": "27. juli 2015",
+      "response": "Parlamentets svar:",
+      "responseText": "Revideret lov for at imødekomme bekymringer fra 2012 – tilføjet krav om, at retsforfølgning først skal bevise, at velstanden stiger.",
+      "tcResponse": "TC's svar:",
+      "tcResponseText": "Slået ned igen på samme grund - enstemmigt.",
+      "message": "Besked:",
+      "messageText": "Ingen version af ulovlig berigelse vil nogensinde blive accepteret."
+    },
+    "euComparison": {
+      "title": "EU-sammenligning: Hvorfor kun Portugal?",
+      "country": "Land",
+      "law": "Lov om ulovlig berigelse",
+      "status": "Forfatningsmæssig status",
+      "approved": "godkendt",
+      "note": "Alle disse lande har identiske forfatningsmæssige beskyttelser for uskyldsformodning. Kun Portugals TC finder ulovlig berigelse \"forfatningsstridig\"."
+    },
+    "bipartisan": {
+      "title": "Den todelte blokeringsmaskine",
+      "intro": "I 18 år (2007-2025) har PS og PSD på skift blokeret anti-korruptionsreformer – uanset hvem der sidder på magten."
+    },
+    "subtitle": "Hvordan forfatningsdomstolen og parlamentet systematisk blokerede for ansvarlighed",
+    "acordao179": {
+      "title": "Acórdão 179/2012",
+      "date": "4. april 2012"
+    },
+    "acordao377": {
+      "title": "Acórdão 377/2015",
+      "date": "27. juli 2015"
+    },
+    "immunityComparison": {
+      "title": "Parlamentarisk immunitet: EU-sammenligning"
+    },
+    "prescription": {
+      "title": "Receptperioder: EU-sammenligning"
+    },
+    "prescriptionNote": "Bemærk: Portugal har den længste gennemsnitlige sagsvarighed OG bevarer bred immunitet - den værste kombination.",
+    "euScorecard": {
+      "title": "EU Anti-korruption Scorecard",
+      "note": "Portugal ligger konsekvent i bunden af ​​de vesteuropæiske demokratier."
+    }
+  },
+  "loopholes": {
+    "title": "Den juridiske arkitektur: Designede flugtluger",
+    "subtitle": "Disse er ikke fejl - de er funktioner",
+    "anonymousComplaint": {
+      "title": "Anonyme klager afvist",
+      "text": "Artikel 246.º n.º 6 CPP giver anklagere mulighed for at afvise anonyme klager for \"parco detalhe\" (utilstrækkelige detaljer), selv når beviser er fremlagt."
+    },
+    "immunity": {
+      "title": "Parlamentarisk immunitet",
+      "text": "Artikel 157.º CRP forhindrer tilbageholdelse af parlamentsmedlemmer uden Parlamentets tilladelse - hvilket aldrig gives til politiske allierede."
+    },
+    "averiguacao": {
+      "title": "Forundersøgelsesfase",
+      "subtitle": "Averiguação foreløbig",
+      "text": "En forundersøgelsesfase, der kan vare i årevis uden formelle anklager, hvilket gør det muligt for politikere at hævde, at de \"ikke er under undersøgelse.\""
+    },
+    "segredo": {
+      "title": "Retshemmelighed",
+      "text": "Artikel 86.º n.º 3 CPP tillader \"segredo de justiça\" at skjule undersøgelser i årevis – mens politikere fortsætter i embedet og bliver forfremmet."
+    },
+    "prescription": {
+      "title": "Forældelsesregler",
+      "articles": "Artikel 118-122 CP",
+      "text": "Komplekse korruptionssager kan udskydes, indtil de ordinerer (udløber). Den gennemsnitlige sag tager 8-12 år; recept er 10-15 år."
+    },
+    "constitutionalCourt": {
+      "title": "Veto for forfatningsdomstolen",
+      "subtitle": "Forfatningsdomstolen",
+      "text": "TC har slået ulovlige berigelseslove ned TO GANGE (2012, 2015) og blokeret flere folkeafstemningsforsøg."
+    },
+    "immunityComparison": {
+      "title": "Parlamentarisk immunitet: EU-sammenligning",
+      "scope": "Immunitetsomfang",
+      "canBlock": "Kan blokere efterforskning?",
+      "note": "Portugals immunitet er den BREDSTE i EU på trods af lignende forfatningsmæssige rammer. Parlamentsmedlemmer kan ikke tilbageholdes uden afstemning i Parlamentet - hvilket aldrig gives til politiske allierede."
+    },
+    "prescriptionComparison": {
+      "title": "Receptperioder: EU-sammenligning",
+      "period": "Periode",
+      "suspension": "Suspenderet under efterforskning?",
+      "avgDuration": "Gns. sagsvarighed",
+      "critical": "Kritisk konstatering:",
+      "finding": "Operação Marquês: 167 af 189 anklager foreskrevet (88 % afvist som \"for sent\"). Dommeren anerkendte beviser, men afgjorde \"tiden udløbet.\"",
+      "stat": "73 % af de portugisiske anklagere siger, at receptperioderne er utilstrækkelige. (Kilde: Transparency International)"
+    },
+    "article246": {
+      "title": "Paradokset i artikel 246º",
+      "mechanism": "Mekanismen:",
+      "explanation": "Artikel 246.º n.º 6 CPP kræver, at anklagere finder \"indícios\" (indikationer) på kriminalitet, FØR de efterforsker. Men hvordan etablerer indikationer uden at undersøge? Loven skaber en perfekt catch-22.",
+      "cases": "Sagsansøgninger:",
+      "montenegro": "€410.000 dokumenterede betalinger → \"utilstrækkelige\"",
+      "mendes": "€700.000 bankoptegnelser → \"små detaljer\"",
+      "verdict": "\"Et designelement, der er maskeret som en proceduremæssig beskyttelse.\""
+    },
+    "inconsistency": {
+      "title": "Forfatningsdomstol: Selektiv anvendelse",
+      "permitted": "✓ TILLADET i Portugal",
+      "prohibited": "✗ FORBUDT af TC",
+      "p1": "• Anklagere afviser efterforskning trods dokumenter (Montenegro, Mendes)",
+      "p2": "• 11-års forsinkelser forud for retssagen (Sócrates)",
+      "p3": "• Parlamentarisk immunitet blokerer for undersøgelser",
+      "p4": "• 26.000 €/måned pensioner for dømte ministre",
+      "n1": "• Krav til embedsmænd om at forklare dokumenterede velstandsstigninger",
+      "n2": "• Kriminalisering af uforklarlig berigelse efter påvist stigning",
+      "n3": "• Pålæggelse af bevisbyrde på embedsmænd, som entydigt besidder beviser",
+      "n4": "• Lovgivning om ulovlig berigelse (nedlagt 2012, 2015)",
+      "note": "Frankrig, Spanien og Italien har identiske forfatningsmæssige beskyttelser for formodning om uskyld - men opretholdt ulovlig berigelse. Kun Portugals TC finder dem \"forfatningsstridige\"."
+    },
+    "intro": "Portugals retssystem indeholder specifikke mekanismer, der muliggør straffrihed for den politiske klasse."
+  },
+  "blocking": {
+    "title": "Blokeringsmønsteret: 18 års forsætlig fiasko",
+    "subtitle": "Ethvert forsøg på at reformere er blevet blokeret, svækket eller slået ned",
+    "timeline": {
+      "title": "Tidslinje for blokering af ulovlig berigelse (2007-2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Lobbyregulering Blokering"
+    },
+    "symbiosis": {
+      "title": "PS/PSD-symbiosen: To hunde, en kennel",
+      "psTitle": "PS (Socialistpartiet)",
+      "psdTitle": "PSD (Socialdemokrater)",
+      "ps": {
+        "noProsecute": "Forfølger ikke PSD-medlemmer",
+        "loopholes": "Vedligeholder juridiske smuthuller, der gavner begge parter",
+        "blocksReforms": "Blokerer anti-korruptionsreformer, når de er i opposition"
+      },
+      "psd": {
+        "noProsecute": "Forfølger ikke PS-medlemmer",
+        "loopholes": "Vedligeholder juridiske smuthuller, der gavner begge parter",
+        "blocksReforms": "Blokerer anti-korruptionsreformer, når de er i opposition"
+      }
+    },
+    "quote": {
+      "text": "\"O PCP præsenterer projekter om kriminalitet eller enriquecimento ilícito. Foram semper rejeitados på PS og PSD.\"",
+      "translation": "\"PCP fremlagde lovforslag for at kriminalisere ulovlig berigelse. De blev altid afvist af PS og PSD.\""
+    },
+    "otherParties": {
+      "title": "Andre partier: Den impotente opposition",
+      "proposedReforms": "Foreslåede reformer (alle afvist):",
+      "reforms": {
+        "pcp1": "PCP Project 726/X (2009) - Ulovlig berigelse",
+        "pcp2": "PCP Project 25/XI (2009) - Ulovlig berigelse",
+        "chega": "Chega (2021) - Ulovlig berigelse",
+        "be": "BE - Flere gennemsigtighedsforslag"
+      },
+      "chegaVote": {
+        "title": "Chega-forslag afvist af ALLE partier (2021)",
+        "text": "Da Chega foreslog ulovlig berigelse i 2021, stemte <strong>hvert parti imod</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> — NEJ",
+        "psd": "• <span class=\"text-psd\">PSD</span> — NEJ",
+        "be": "• <span class=\"text-pink-500\">BE</span> — NEJ (undlod at stemme på grund af \"kilde\"-grunde)",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> — NEJ (undlod at stemme på grund af \"kilde\"-grunde)",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> — NR",
+        "note": "Venstrepartier nægtede at stemme med det yderste højre, selv for en reform, de støtter"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "Paradokset:",
+      "paradoxText": "Partier, der offentligt støtter anti-korruptionsreformen, stemmer imod, når de foreslås af andre."
+    },
+    "intro": "Hvert reformforsøg er blevet blokeret, svækket eller afvist",
+    "visual": {
+      "title": "18 års blokering",
+      "attempts": "Reformforsøg",
+      "years": "År med forsinkelse",
+      "laws": "Love svækket"
+    }
+  },
+  "euRewards": {
+    "title": "EU's belønningssystem: Loyale hunde får godbidder",
+    "subtitle": "Undersøgelse → EU-fremme",
+    "costaTimeline": {
+      "title": "Costa-tidslinjen - Ultimativt konditioneringsbevis"
+    },
+    "december": {
+      "title": "December 2025 Trifecta"
+    },
+    "trifecta": {
+      "title": "December 2025 Trifecta",
+      "subtitle": "Tre politikere slap for ansvar på en enkelt måned:"
+    },
+    "broaderPicture": {
+      "title": "Det bredere billede"
+    },
+    "observation": "Observation: EU belønner loyalitet, ikke integritet.",
+    "intro": "Undersøgelse → EU-forfremmelse",
+    "table": {
+      "title": "Portugisiske politikere → EU-holdninger",
+      "patternNote": "Denne tabel dokumenterer et mønster af politikere, der modtager EU-positioner på trods af kontroverser. Korrelation beviser ikke årsagssammenhæng eller koordination - men frekvensen berettiger til undersøgelse."
+    },
+    "revolvingDoor": {
+      "title": "Svingdøren: Bruxelles → Privat sektor"
+    }
+  },
+  "solution": {
+    "title": "Den eneste løsning: Ekstern kraft",
+    "subtitle": "Hvorfor interne reformer er umulige - og hvad borgerne kan gøre",
+    "impossibility": {
+      "title": "Hvorfor intern reform er umulig"
+    },
+    "mechanisms": {
+      "title": "De ydre mekanismer"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "Spørgsmål 1"
+      },
+      "q2": {
+        "title": "Spørgsmål 2"
+      },
+      "q3": {
+        "title": "Spørgsmål 3"
+      },
+      "q4": {
+        "title": "Spørgsmål 4"
+      },
+      "q5": {
+        "title": "Spørgsmål 5"
+      }
+    },
+    "whyImpossible": {
+      "title": "Hvorfor intern reform er umulig"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Initiativ til borgerafstemning",
+        "subtitle": "underskrifter påkrævet",
+        "text": "Borgere kan foreslå bindende folkeafstemninger om ethvert spørgsmål af national betydning."
+      },
+      "legislativa": {
+        "title": "Borgerlovgivningsinitiativ",
+        "subtitle": "underskrifter påkrævet",
+        "text": "Borgerne kan foreslå lovgivning direkte til Folketinget."
+      },
+      "european": {
+        "title": "Det europæiske borgerinitiativ",
+        "subtitle": "underskrifter påkrævet på tværs af 7+ EU-lande",
+        "text": "EU-dækkende mekanisme til at foreslå lovgivning til Europa-Kommissionen."
+      }
+    },
+    "damningRecord": {
+      "title": "Den forbandende rekord",
+      "text": "Portugals folkeafstemningshistorie viser, at systemet er designet til at mislykkes:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Digital udelukkelse: Silencing the Elderly",
+      "usageByAge": "Internetbrug efter aldersgruppe (Portugal, 2024)",
+      "keyStats": "Nøglestatistikker:"
+    },
+    "proposedQuestions": {
+      "title": "Foreslåede folkeafstemningsspørgsmål"
+    },
+    "intro": "Hvorfor intern reform er umulig — og hvad borgere kan gøre",
+    "tradeoffs": {
+      "title": "Ærlige afvejninger: Det, vi foreslår, har risici",
+      "intro": "I en ånd af gennemsigtighed anerkender vi, at direkte demokratimekanismer (som folkeafstemninger i schweizisk stil) har reelle udfordringer:",
+      "challenges": {
+        "title": "Kendte udfordringer",
+        "engagement": "• <strong>Vælgertræthed:</strong> Den schweiziske valgdeltagelse ligger i gennemsnit på 40-50 %. Hyppige afstemninger kan udmatte borgerne.",
+        "complexity": "• <strong>Reduktion af kompleksitet:</strong> Nuanceret politik reduceres til ja/nej. Forenklingsrisici.",
+        "populism": "• <strong>Populistisk manipulation:</strong> Velfinansierede kampagner kan påvirke dårligt informerede vælgere.",
+        "minority": "• <strong>Minoritetsrettigheder:</strong> Flertal kan stemme imod minoriteter (schweizisk minaretforbud, 2009).",
+        "corruption": "• <strong>Ikke korruptionsfri:</strong> Schweiz ligger på en 7. plads på CPI – godt, men ikke perfekt."
+      },
+      "whyStill": {
+        "title": "Hvorfor vi stadig foreslår det",
+        "accountability": "• <strong>Der er ansvarlighed:</strong> Ufuldkommen ansvarlighed > nul ansvarlighed.",
+        "binding": "• <strong>Bindende resultater:</strong> Politikere kan ikke ignorere resultater, ligesom de ignorerer andragender.",
+        "deterrent": "• <strong>Afskrækkende effekt:</strong> At vide, at vælgere kan tilsidesætte, skaber incitament til lydhørhed.",
+        "culture": "• <strong>Kulturskift:</strong> Regelmæssig deltagelse bygger borgerligt engagement over tid.",
+        "track": "• <strong>Langrekord:</strong> 700+ schweiziske folkeafstemninger siden 1848. Systemet fungerer ufuldkomment."
+      },
+      "conclusion": "<strong class=\"text-white\">Vores holdning:</strong> Vi påstår ikke, at direkte demokrati er perfekt. Vi hævder, at det er bedre end et system, hvor politikere stemmer om deres egne lønninger, immunitet og ansvarlighed – og konsekvent vælger at beskytte sig selv. Spørgsmålet er ikke \"Er direkte demokrati perfekt?\" men \"er det bedre end det vi har?\" Beviserne tyder på ja."
+    }
+  },
+  "euLabor": {
+    "title": "The War on Workers: EU Labour Rights afmonteret",
+    "subtitle": "Hvordan europæisk integration svækkede arbejdstagerbeskyttelsen i Portugal",
+    "germany": {
+      "title": "Tyskland: Hartz IV-reformer",
+      "benefits": "Fordele skåret til minimale niveauer",
+      "duration": "Dagpenge begrænset til 12 måneder",
+      "dependent": "Oprettet ny klasse af \"working poor\""
+    },
+    "france": {
+      "title": "Frankrig: El Khomri & Pension Reform",
+      "elKhomri": "El Khomri-loven (2016): Svækket arbejdsbeskyttelse",
+      "pension": "Pensionsreform (2023): Forhøjet pensionsalder trods masseprotester",
+      "yellowVests": "Gule Veste-bevægelse knust af politivold"
+    },
+    "uk": {
+      "title": "Storbritannien: Nøjsomhed",
+      "welfare": "Velfærdssystem renset under \"besparelser\"",
+      "universalCredit": "Universal Credit: Designet til at nægte fordele",
+      "sanctioned": "2,5 millioner sanktioner anvendt (2012-2018)"
+    },
+    "italy": {
+      "title": "Italien: Meloni-regeringen",
+      "citizenIncome": "Reddito di Cittadinanza (borgerindkomst) afskaffet",
+      "prison": "Op til 6 års fængsel for at organisere strejker, der blokerer trafikken",
+      "strikes": "Strejkeretten bliver mere og mere kriminaliseret"
+    },
+    "pattern": {
+      "title": "Mønsteret på tværs af EU"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "Det digitale udelukkelseslag",
+      "description": "Den generation, der var vidne til det fulde 50-årige korruptionsmønster, er systematisk udelukket fra det digitale kun-system for folkeafstemningssignatur."
+    },
+    "explanation": "Moderne folkeafstemningsinitiativer kræver digitale signaturer, der effektivt udelukker ældre generationer, som er mindre tilbøjelige til at bruge internettet.",
+    "usageSource": "Kilde: Eurostat (2024)",
+    "stats": {
+      "65to74": "38,9 % af de 65-74-årige er digitalt udelukket",
+      "75plus": "~70 % af 75+-årige er digitalt udelukket",
+      "never": "Mange har aldrig brugt internettet",
+      "population": "Dette repræsenterer over 2 millioner portugisiske borgere"
+    },
+    "warning": "Den grusomme ironi:"
+  },
+  "conclusion": {
+    "notDemocracy": "Dette er ikke demokrati med korruptionsproblemer",
+    "byDesign": "Dette er By Design",
+    "euComplicit": "EU er medskyldig",
+    "choice": "Valget",
+    "byDesignText": "Systemet er ikke i stykker. Det blev designet på denne måde.",
+    "choiceText1": "Dette dokument er underskrevet af",
+    "choiceSignatures": "borgere",
+    "choiceText2": "kræve forandring.",
+    "choiceThatsYou": "Det er DIG.",
+    "euComplicitText": "EU-institutionerne fremmer embedsmænd, der er under undersøgelse, til topstillinger.",
+    "notDemocracyText": "Et land, hvor borgerne ikke kan holde folkeafstemninger, er ikke et fuldt demokrati.",
+    "choiceText": "Dette dokument er underskrevet af borgere, der kræver ændringer."
+  },
+  "dashboard": {
+    "title": "Portugals Korruptionspanel",
+    "intro": "Officielle data fra Transparency International, DGPJ, Eurostat og GRECO",
+    "kpi": {
+      "cpi": {
+        "label": "TI CPI-score 2024",
+        "trend": "-4 fra 2023"
+      },
+      "trust": {
+        "label": "Borgere: \"Regeringen er korrupt\"",
+        "source": "Eurobarometer 2024"
+      },
+      "blocked": {
+        "label": "Blokerede lovgivende forsøg",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "År: Sócrates-sag",
+        "trend": "Stadig i gang"
+      }
+    },
+    "charts": {
+      "cpi": "Corruption Perception Index (2012-2024)",
+      "duration": "Gennemsnitlig sagsvarighed (måneder)",
+      "euComparison": "EU-sammenligning: CPI-score vs. lov om ulovlig berigelse"
+    },
+    "sources": "Datakilder:"
+  },
+  "forum": {
+    "title": "EU-borgerforum",
+    "intro": "Del dit perspektiv på politisk ansvarlighed",
+    "stats": "bidrag fra EU-borgere",
+    "form": {
+      "name": "Navn (valgfrit)",
+      "namePlaceholder": "Anonym",
+      "country": "Land",
+      "message": "Din besked",
+      "messagePlaceholder": "Del dine tanker om politisk ansvarlighed i EU...",
+      "submit": "Skriv kommentar",
+      "note": "Ingen URL'er tilladt. Kommentarer gemmes lokalt og modereres."
+    },
+    "noComments": "Vær den første til at dele dit perspektiv på politisk ansvarlighed.",
+    "errors": {
+      "tooShort": "Kommentar skal være på mindst 10 tegn",
+      "tooLong": "Kommentar skal være under 1000 tegn",
+      "prohibited": "Kommentar indeholder forbudt indhold"
+    },
+    "success": "Kommentar tilføjet",
+    "time": {
+      "justNow": "Lige nu",
+      "minutesAgo": "m siden",
+      "hoursAgo": "h siden",
+      "daysAgo": "d siden"
+    }
+  },
+  "donate": {
+    "title": "Støt upartisk forskning",
+    "intro": "Maksimalt €2 pr. donor for at bevare fuldstændig uafhængighed",
+    "principles": {
+      "max": {
+        "title": "Maksimalt €2",
+        "text": "Ingen store donorer betyder ingen indflydelse. Alle har en lige stemme."
+      },
+      "allParties": {
+        "title": "Alle parter dokumenteret",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — ingen parter er undtaget fra kontrol."
+      },
+      "official": {
+        "title": "Kun officielle kilder",
+        "text": "Retsdokumenter, retsforfølgningsprotokoller, forfatningsdomstolsafgørelser."
+      },
+      "transparency": {
+        "title": "Fuld gennemsigtighed",
+        "text": "Alle data er verificerbare, alle kilder er citeret."
+      }
+    },
+    "stats": {
+      "raised": "Samlet hævet",
+      "donors": "Donorer"
+    },
+    "whyMax": "Hvorfor maksimalt 2 €?",
+    "whyMaxText": "Store donationer skaber forpligtelser. Mikrodonationer fra tusindvis af borgere sikrer, at denne forskning tjener offentlighedens interesse, ikke nogen politisk eller forretningsmæssig dagsorden.",
+    "modal": {
+      "title": "Støt upartisk forskning",
+      "purpose": "Din mikrodonation støtter uafhængig forskning i politisk ansvarlighed i hele EU.",
+      "principlesTitle": "Vores principper:",
+      "maxDonor": "Maksimalt €2/donor - Ingen store donorer, ingen indflydelse",
+      "allPartiesDoc": "Alle parter dokumenteret - PS, PSD, CDS, PCP, BE, Chega - alt inkluderet",
+      "officialOnly": "Kun officielle kilder - retsdokumenter, retsforfølgningsprotokoller",
+      "fullTransparency": "Fuld gennemsigtighed - Alle data kan verificeres",
+      "paymentMethods": "Betalingsmetoder kommer snart:",
+      "simulateBtn": "Simuler donation (demo)",
+      "demoNote": "Dette er en demonstration. Ægte betalingsintegration kræver backend-opsætning."
+    },
+    "errors": {
+      "invalidAmount": "Indtast venligst et gyldigt beløb",
+      "maxAmount": "Maksimal donation er €{{max}} for at bevare forskningsuafhængighed"
+    },
+    "success": "Tak! €{{amount}} donation registreret."
+  },
+  "footer": {
+    "legalTitle": "Juridisk meddelelse",
+    "legalNotice": "Juridisk meddelelse",
+    "legalNotice.text": "All individuals mentioned are entitled to the presumption of innocence. This document presents publicly available information from official sources, court documents, and verified media reports that the investigator considers essential for public awareness and democratic accountability.",
+    "legalText": "Alle personer, der er nævnt i dette dokument, har ret til uskyldsformodning, indtil det modsatte er bevist i en domstol. Dette dokument præsenterer offentligt tilgængelige oplysninger fra officielle kilder, retsdokumenter og velrenommerede medier. Analysen repræsenterer dokumenterede mønstre i det portugisiske retlige og politiske system.",
+    "prepared": "Dokument udarbejdet:",
+    "verified": "Alle kilder verificeret på udgivelsesdatoen",
+    "legalNoticeText": "Alle oplysninger, der præsenteres, er hentet fra officielle retsdokumenter, parlamentariske optegnelser og velrenommerede medier. De nævnte personer anses for uskyldige, indtil det modsatte er bevist."
+  },
+  "countries": {
+    "PT": "Portugal",
+    "ES": "Spanien",
+    "FR": "Frankrig",
+    "DE": "Tyskland",
+    "IT": "Italien",
+    "NL": "Holland",
+    "BE": "Belgien",
+    "AT": "Østrig",
+    "PL": "Polen",
+    "RO": "Rumænien",
+    "EL": "Grækenland",
+    "CZ": "Tjekkiet",
+    "HU": "Ungarn",
+    "SE": "Sverige",
+    "DK": "Danmark",
+    "FI": "Finland",
+    "IE": "Irland",
+    "BG": "Bulgarien",
+    "HR": "Kroatien",
+    "SK": "Slovakiet",
+    "SI": "Slovenien",
+    "LT": "Litauen",
+    "LV": "Letland",
+    "EE": "Estland",
+    "CY": "Cypern",
+    "MT": "Malta",
+    "LU": "Luxembourg",
+    "EU": "EU-borger"
+  },
+  "investigative": {
+    "badge": "Undersøgelsesrapport",
+    "title": "Hvad denne undersøgelse afslører",
+    "intro": "Efter at have gennemgået retsdokumenter, parlamentariske optegnelser, forfatningsdomstolsafgørelser, GRECO-evalueringer, Transparency International-rapporter, Eurobarometer-undersøgelser og 50 års portugisiske mediearkiver, tegner der sig et foruroligende mønster: Portugals politiske system er ikke brudt – det fungerer nøjagtigt efter hensigten.",
+    "evidenceTitle": "Beviserne viser:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Internationale resultater:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "Dette er ikke en konspirationsteori. Dette er dokumenteret faktum. Alle påstande i denne rapport stammer fra officielle dokumenter, domstolsafgørelser eller velrenommerede internationale organisationer. Straffrihedens arkitektur er ikke skjult – den er offentlig, lovlig og bevidst vedligeholdt af dem, den beskytter.",
+    "evidence": {
+      "banking": "20+ milliarder euro stjålet gennem bankkollaps (BPN, BES, CGD)",
+      "casaPia": "100+ børn misbrugt på Casa Pia, mens eliten dækkede over det i 20 år",
+      "pms": "2 statsministre undersøgt, 0 dømte",
+      "reforms": "9+ anti-korruptionsreformer blokeret af PS/PSD siden 1983",
+      "referendums": "0 bindende folkeafstemninger i 50 år med demokrati",
+      "suspended": "75 % af korruptionssagerne ender med betingede domme"
+    },
+    "findings": {
+      "greco": "GRECO: Kun 1 ud af 15 anti-korruptionsanbefalinger er fuldt implementeret",
+      "ti": "Transparency International: Portugal faldt fra 25. til 33. plads (2012-2024)",
+      "eurobarometer": "Eurobarometer: 88 % af portugiserne mener, at regeringen er korrupt",
+      "euAverage": "EU-gennemsnit: 10 års gennemsnitlig retsforfølgningstid kontra Portugals 11+ år",
+      "uncac": "UNCAC: 18 år siden forpligtelse, stadig ingen ulovlig berigelseslov",
+      "euRuleOfLaw": "EU-retsstaten 2025: 81 sager, 16 domme i 2024 — gennemsnitlig retsforfølgningstid: 6,8 år"
+    }
+  },
+  "greco": {
+    "badge": "Europarådets evaluering",
+    "title": "GRECO: 1 af 15 anbefalinger implementeret",
+    "subtitle": "Gruppe af stater mod korruption",
+    "intro": "Gruppen af ​​stater mod korruption (GRECO) har gentagne gange kritiseret Portugals manglende fremskridt",
+    "implemented": {
+      "number": "1",
+      "title": "Fuldt implementeret",
+      "subtitle": "ud af 15 anbefalinger",
+      "text": "Kun én anbefaling om gennemsigtighed i finansieringen af ​​politiske partier er blevet behandlet fuldt ud."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Delvist implementeret",
+      "subtitle": "stadig afventer færdiggørelse",
+      "text": "Omfatter: MP adfærdskodeks, aktiverklæringer, håndtering af interessekonflikter, gennemsigtighed i lobbyvirksomhed."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Ikke implementeret",
+      "subtitle": "ignoreret eller afvist",
+      "text": "Omfatter: Kriminalisering af ulovlig berigelse, beskyttelse af whistleblowere, fortrydelsesperioder for ministre."
+    },
+    "criticismsTitle": "Nøgle GRECO-kritik (2023-rapport):",
+    "criticisms": {
+      "noCode": "Ingen obligatorisk adfærdskodeks for parlamentsmedlemmer",
+      "assets": "Aktiverklæringer er ikke uafhængigt verificeret",
+      "lobbyists": "Intet register over lobbyister",
+      "coolingOff": "Ingen fortrydelsesperiode for ministre, der tilslutter sig den private sektor",
+      "whistleblower": "Loven om beskyttelse af whistleblowere har stadig huller",
+      "conflicts": "Reglerne for interessekonflikter håndhæves dårligt",
+      "prosecution": "Sagsbehandlingstiden overskrider rimelige grænser",
+      "immunity": "Den politiske immunitet er for bred"
+    },
+    "source": "Kilde: GRECOs femte evalueringsrunde - Portugal",
+    "sourceLabel": "Kilde: GRECOs femte evalueringsrunde - Portugal",
+    "scorecard": {
+      "title": "10-årig tidslinje for manglende overholdelse (2015-2025)",
+      "fourthRound": "FJERDE RUNDE (2015)",
+      "fifthRound": "FEMTE RUNDE (2024)",
+      "focusMPs": "Parlamentsmedlemmer, dommere, anklagere",
+      "focusExec": "Regering og retshåndhævelse",
+      "implemented": "Implemented",
+      "fullyImplemented": "Fuldt implementeret",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "EU-gennemsnit: 59 % | Portugal: 33 %",
+      "partial": "18 Delvis | 10 Ikke implementeret",
+      "ongoing": "Overholdelse løbende"
+    },
+    "menac": {
+      "title": "MENAC: National anti-korruptionsmekanisme",
+      "staffed": "Staffed",
+      "detail": "Kun 12 af 27 autoriserede stillinger besat. Erklæret \"operativ\" juni 2023, men GRECO siger: \"ikke fuldt operationel\""
+    }
+  },
+  "whistleblower": {
+    "title": "Whistleblower Protection: The Missing Shield",
+    "subtitle": "De, der afslører korruption, møder gengældelse, mens de korrupte står over for beskyttelse",
+    "ruiPinto": {
+      "title": "Rui Pinto-sagen",
+      "text": "Portugisisk hacker, der afslørede \"Football Leaks\"-skandalen og afslørede korruption i Europas største klubber og i Portugals retssystem. Hans lækager bidrog til Operation Lex (korrupte dommere) og Luanda Leaks.",
+      "outcomeTitle": "RESULTAT:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: Arresteret, udleveret fra Ungarn",
+      "convicted": "Pinto: Dømt for hackingforbrydelser",
+      "officials": "Korrupte embedsmænd han afslørede: Nogle på prøve, de fleste gratis"
+    },
+    "comparison": {
+      "title": "EU-sammenligning: Whistleblower-love",
+      "headers": {
+        "country": "Land",
+        "protection": "Beskyttelsesniveau",
+        "status": "Status"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Stærk",
+          "status": "Anonym indberetning + retshjælp"
+        },
+        "ireland": {
+          "protection": "Stærk",
+          "status": "Omfattende lov fra 2014"
+        },
+        "france": {
+          "protection": "Stærk",
+          "status": "Sapin II-loven (2016)"
+        },
+        "germany": {
+          "protection": "Medium",
+          "status": "Implementeret 2023"
+        },
+        "portugal": {
+          "protection": "Svag",
+          "status": "Der er fortsat huller pr. GRECO"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "Historien om Two Ruis",
+      "subtitle": "To mænd ved navn Rui, som vovede at afsløre sandheden. Begge straffet. Den korrupte? For det meste gratis."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "Grundlægger af <a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a>, en WikiLeaks-inspireret portugisisk platform (est. 2010), der afslører offentlige dokumenter og sikkerhedssårbarheder. Eneste hjemmeside, der er opført i CIA World Factbook under Portugals \"politiske presgrupper.\"",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Udelukket fra internettet</strong> i 8 måneder",
+      "gagged": "• Med forbehold af rettens <strong>knebelkendelse</strong>",
+      "fired": "• <strong>Afskediget</strong> fra sit job hos PT Comunicações",
+      "active": "• <span class=\"text-good\">Tugaleaks stadig aktive i 2025</span>",
+      "source": "Kilde: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRI (European Digital Rights)</a>"
+    }
+  },
+  "media": {
+    "title": "The Conditioning Machine: Medieejerskab",
+    "subtitle": "Hvem ejer portugisiske medier, og hvorfor betyder det noget?",
+    "ownershipTitle": "Koncentreret ejerskab",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão - tidligere premierminister (PSD)",
+      "cofina": "Større aktionærer omfatter banker, der er reddet af staten",
+      "mediaCapital": "Nyligt solgt, ejerskab skifter ofte",
+      "globalMedia": "Ejes af investorer med forskellige interesser",
+      "rtp": "Statsejet, bestyrelse udpeget af regeringen"
+    },
+    "conditioningTitle": "Den konditionerende effekt",
+    "conditioningIntro": "Når medieejere har bånd til politiske partier eller er afhængige af statsreklamer:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "RESULTATET:",
+    "resultText": "Portugisiske borgere ved, at der findes korruption (88 % siger det), men føler sig magtesløse til at ændre det. Medierne dækker skandaler, men forbinder dem sjældent med den systemiske beskyttelsesarkitektur.",
+    "conditioning": {
+      "selfCensorship": "Selvcensur bliver normaliseret",
+      "underfunded": "Undersøgende journalistik underfinansieret",
+      "forgotten": "Skandaler dækket kort, så glemt",
+      "bothSides": "\"Begge sider\" falsk ækvivalens om korruption",
+      "personalities": "Fokuser på personligheder, ikke systemiske problemer"
+    }
+  },
+  "eciCritique": {
+    "title": "ECI Design Flaw: 12 Months of Counter-Mobilization",
+    "problem": "Kommissionen har 12 måneder til at reagere - tid til at organisere modstand, lobbye mod implementering eller blot udsætte, indtil offentlighedens opmærksomhed svinder.",
+    "tacticsTitle": "Modforanstaltninger til rådighed for institutioner:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Historiske ECI-fejl:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "Alternativet:",
+    "alternativeText": "Det er grunden til, at vi foreslår DIREKTE folkeafstemningsmekanismer som Schweiz, ikke andragender-baserede europæiske borgerinitiativer, som kan ignoreres. Schweiziske folkeafstemninger er BINDENDE – politikere kan ikke bare vente på dem.",
+    "comparisonTitle": "ECI vs schweizisk folkeafstemning:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Komplet korruptionsdatabase",
+    "subtitle": "25+ store skandaler afsløret (1980-2025)",
+    "intro": "Enhver større korruptionssag dokumenteret med beløb, resultater og kilder",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "Det største bedrageri i portugisisk historie. 700 mio. EUR+ i ikke-balanceførte tab opdaget. Bank nationaliseret.",
+        "sources": "Kilder: RTP, Público, retsdokumenter"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "EDP-forbindelsen:",
+        "edpText": "Salgado dømt for at have bestikket økonomiminister Manuel Pinho med 4,5 millioner euro for gunstige EDP-beslutninger.",
+        "sources": "Kilder: Observador, retsdokumenter, BdP-rapporter",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado - CEO (1991-2014) - Flere forsøg, helbredsforsinkelser",
+          "ricciardi": "José Maria Ricciardi - BES Investment - dømt",
+          "pires": "Amílcar Morais Pires - CFO - dømt",
+          "cruz": "Machado da Cruz - Risk Director - På prøve"
+        },
+        "fraudStructure": {
+          "title": "Svigstrukturen:",
+          "hiddenLosses": "4,9 milliarder euro i ikke-oplyste tab skjult gennem offshore-køretøjer",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPV'er (Luxembourg shell-selskaber)",
+          "mechanisms": "Lån til nærtstående parter, cirkulære garantier, skjulte forpligtelser, fiktive aktiver, Angola-operationer (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgado bliver administrerende direktør (23-årig regeringstid)",
+          "problems": "2013: Interne revisioner viser problemer (familiebevidst)",
+          "collapse": "2014-08: Rapporterer et tab på 3,6 mia. EUR, bank suspenderet, 4,9 mia.",
+          "prosecution": "2015-2025: Flere retssager, langsom fremgang, administrerende direktør aldrig fængslet"
+        },
+        "monteBlanco": {
+          "name": "Monte Branco retssag",
+          "defendants": "18 tiltalte inklusive Salgado",
+          "status": "Igangværende 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Sócrates modtog angiveligt €15.000/måned fra Salgado",
+          "pinho": "Minister Pinho modtog 4,9 millioner euro fra Salgado (dømt 10 år)"
+        },
+        "regulatoryFailure": "Bank of Portugal savnede advarselsskilte i årevis. Revisorer kvitterede for svigagtige konti."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Statsejet bank kræver den største redningspakke i portugisisk historie.",
+        "interferenceTitle": "Politisk indblanding:",
+        "interferenceText": "Parlamentarisk undersøgelse finder \"politisk indblanding\" og \"partisansættelser\", der spænder over flere regeringer.",
+        "sources": "Kilder: RTP, Folketingets Udredningsrapport"
+      }
+    },
+    "politicians": {
+      "title": "Statsministre og toppolitikere",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Korruptionskilder:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Schweiziske konti: €24 mio. opdaget"
+        },
+        "otherScandalsTitle": "Andre forbundne skandaler:",
+        "other": {
+          "freeport": "Frihavn: Påstande om miljøafkald",
+          "parqueEscolar": "Parque Escolar: Svindel ved skolerenovering",
+          "cgd": "CGD: Påstået indflydelse på bankbeslutninger"
+        },
+        "sources": "Kilder: DCIAP-anklage, retsdokumenter",
+        "charges": {
+          "title": "Receptskandalen:",
+          "original": "189 anklager rejst (31 forbrydelser)",
+          "prescribed": "167 afgifter FORESKRIVET (udløbet)",
+          "remaining": "Kun 22 anklager går videre til retten",
+          "judge": "Dommer Ivo Rosa (april 2021): Bedømte, at de fleste forbrydelser var 'forældet'",
+          "ruling": "Dommeren afgjorde, at Sócrates var 'korrupt', men kriminalitet var 'forældet'"
+        },
+        "timeline": {
+          "arrested": "2014-11-21: Anholdt i Lissabon Lufthavn",
+          "prison": "2014-2015: 9 måneder i Évora Fængsel",
+          "houseArrest": "2015: Husarrest, derefter helt fri",
+          "ongoing": "2025: Stadig ingen dom efter 11+ år"
+        },
+        "pension": {
+          "title": "Beskyttet mens anklaget:",
+          "amount": "30.000 €/år 'livslang tilskud' (subvenção vitalícia)",
+          "legal": "Brug af pension til at finansiere juridisk forsvar",
+          "lifestyle": "Vedligeholder Paris lejlighed, livsstil"
+        },
+        "recovery": "€0 inddrevet for portugisisk stat",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Forsvarets position:",
+        "defense": "Sócrates fastholder, at €34 millioner var lån fra venner, ikke bestikkelse. Hans forsvar hævder medieforfølgelse og selektiv retsforfølgelse. Retssagen blev genoptaget juli 2025 efter 11+ års forsinkelser."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "Den ultimative ironi:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "The Raid (7. november 2023):",
+          "cash": "€78.000 kontanter fundet på stabschefens kontor",
+          "arrests": "Vítor Escária (stabschef) og Lacerda Machado (forretningsmand) anholdt",
+          "resignation": "Costa sagde op samme aften"
+        },
+        "investigation": {
+          "title": "Operação Influencer:",
+          "lithium": "Lithiumminekoncessioner (Europas største reserver)",
+          "hydrogen": "Grønt brint-projekter (investeringer på flere milliarder)",
+          "allegation": "Påståede gunstige licensbeslutninger i bytte for betalinger"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária - Stabschef - Anholdt, løsladt",
+          "machado": "Lacerda Machado - Forretningsmandsformidler - Anholdt",
+          "galamba": "João Galamba - statssekretær for energi - under lup"
+        },
+        "euPromotion": {
+          "date": "27. juni 2024: Valgt til formand for EU-rådet",
+          "start": "1. december 2024: Tiltræder",
+          "status": "Efterforskningen er stadig i gang - ingen sigtelse"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especiais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Costa er aldrig blevet sigtet og er fortsat ikke en 'arguido' (formel mistænkt). Nov 2025: Højesteret afgjorde, at aflytning blev udført UDEN behørig tilladelse. Efterforskning i gang, men ingen formelle beskyldninger."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Kilder: Rettens dokumenter",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Elite pædofile netværk ved hjælp af statslige børnehjem. TV-vært, UNESCO-ambassadør, Casa Pia-guvernør blandt dømte.",
+        "coverupTitle": "Tildækningen:",
+        "coverupText": "De første rapporter dukkede op i 1980'erne. Politiet droppede undersøgelser. Embedsmænd ødelagde dokumenter. Fuld eksponering først i 2002.",
+        "sources": "Kilder: Frankrig 24, retsdokumenter"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17 tiltalte inklusive seniordommere anklaget for at sælge favorable afgørelser.",
+        "failureTitle": "Systemisk fejl:",
+        "failureText": "De dommere, der skulle håndhæve anti-korruptionslove, var selv korrupte.",
+        "sources": "Kilder: Observador, retsbøger"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Tancos Arms Theft (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "Sikkerhedsbrud på militærbasen. Våben stjålet og derefter \"fundet\" i etapevis genopretning.",
+        "convicted": "Militært personel dømt",
+        "acquitted": "Forsvarsminister Azeredo Lopes frikendt",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "Flyvevåbnets embedsmænd hævede fødevarepriserne med €10M+.",
+        "hiring": "Shell-selskaber plejede at omdirigere midler",
+        "justified": "Begrundet som \"operationel nødvendighed\""
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "Det tyske selskab Ferrostaal betalte 6,4 millioner euro til portugisiske embedsmænd for en ubådskontrakt.",
+        "germans": "Tyske ledere: dømt i Tyskland",
+        "portuguese": "Portugisiske embedsmænd: ALLE FRAGT",
+        "documents": "Nøgledokumenter \"forsvandt\" fra forsvarsministeriet"
+      },
+      "police": {
+        "2004": "2004: Euro 2004 sikkerhedskorruption",
+        "2007": "2007: Leonor Cipriano-sag - betjente dømt for tortur",
+        "2019": "2019: Brutalt overfald på sorte borgere filmet",
+        "2021": "2021: PSP-betjente dømt for overfald",
+        "2025": "2025: Politiets handelsring afsløret",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Flere borgmestre i hele Portugal dømt eller under undersøgelse for korruption.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Multi-borgmester korruptionsnetværk",
+        "description": "Undersøgelse afslørede korruptionsnetværk, der involverede Santo Tirso og Barcelos borgmestre plus IPO Porto-direktør i falske offentlige kontrakter og returkommissioner.",
+        "santo": "• Santo Tirso borgmester: Undersøgt",
+        "barcelos": "• Barcelos borgmester: Undersøgt",
+        "ipo": "• IPO Porto-direktør: Undersøgt",
+        "pattern": "• Mønster: Kommunal korruption på tværs af partier"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "To Espinho-borgmestre under undersøgelse",
+        "description": "Nuværende og tidligere borgmestre i Espinho kommune er under undersøgelse for korruption i forbindelse med offentlige kontrakter og kommunale beslutninger.",
+        "current": "• Nuværende borgmester: Under undersøgelse",
+        "former": "• Tidligere borgmester: Under undersøgelse",
+        "pattern": "• Mønster: Korruption på tværs af administrationen"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Borgmester + Fodboldformand Dømt",
+        "description": "Borgmester i Gondomar og Boavista FC-formand dømt i en massiv dommerkorruptionsskandale. 171 personer involveret, 13 dømte. Betinget dom = intet fængsel.",
+        "sentence": "• Dømt: 3 år 2 måneder UDSÆTTET",
+        "prison": "• Afsonet fængsel: NUL",
+        "son": "• Son overtog Boavista FC (4-års karantæne)",
+        "pinto": "• Pinto da Costa: kontanter + prostituerede til dommere"
+      },
+      "maestro": {
+        "name": "Operação Maestro (2024)",
+        "subtitle": "39 millioner euro bedrageri med EU-midler",
+        "description": "March 2024: PJ raids 78 locations. Forretningsmanden Manuel Serrão anklaget for at omdirigere 39 millioner euro fra EU's regionale udviklingsfond. Two Secretaries of State under investigation.",
+        "raids": "• 78 steder overfaldet, 6 tilbageholdt",
+        "officials": "• 2 statssekretærer undersøgt",
+        "companies": "• Netværk af skalvirksomheder for bedrageri",
+        "status": "• Status: Undersøgelse i gang"
+      },
+      "overview": {
+        "description": "Lokal korruption trives i \"nyhedsørkener\", hvor ingen journalister overvåger kommunale kontrakter, byplanlægning og offentlige arbejder. Fælles ordninger: oppustede kontrakter, returkommissioner, \"hastegebyrer\" for godkendelser, job til politiske allierede.",
+        "investigated": "Borgmestre undersøgt (2010-2025)",
+        "municipalities": "portugisiske kommuner",
+        "officials": "Lokale embedsmænd med sager (dec. 2025)",
+        "suspended": "Modtage betingede domme",
+        "title": "Omfanget af kommunal korruption"
+      },
+      "trifecta": {
+        "convicted": "5 borgmestre dømt",
+        "description": "December 2024 oplevede hidtil usete domme af 5 nuværende/tidligere borgmestre fra Albergaria-a-Velha, Oliveira de Azeméis, Estarreja og de omkringliggende kommuner. Alle dømt for korruption, pekulation og magtmisbrug i forbindelse med offentlige kontrakter. De fleste fik betingede domme.",
+        "name": "December 2024: The Trifecta",
+        "pattern": "Alle betingede domme",
+        "prison": "0 i fængsel",
+        "subtitle": "5 borgmestre dømt i en enkelt uge"
+      }
+    },
+    "football": {
+      "title": "Fodbold korruption",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "Pinto da Costas FC Porto involveret i dommerbestikkelse.",
+        "costa": "Pinto da Costa: Frikendt på grund af teknikalitet",
+        "points": "Point fratrukket, senere gendannet",
+        "boavista": "Boavista (rivaler) rykkede ned i stedet",
+        "uefa": "UEFA gjorde ikke noget"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "En massiv korruptionsskandale, der involverer matchfixing, skattesvig og underslæb.",
+        "vieira": "Luís Filipe Vieira: Anholdt i 2021, for retten",
+        "goncalves": "Paulo Gonçalves: Tidligere juridisk direktør, dømt",
+        "ban": "Vieira udelukket fra fodbold",
+        "pinto": "Udsat af Rui Pinto (Football Leaks)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "Tidligere PSD-parlamentarisk leder anklaget for at have myrdet en brasiliansk klient i Rio.",
+        "bpn": "Forbundet til BPN-skandalen som bankadvokat",
+        "murder": "Offer: Rosalina Ribeiro, skudt i bil i Rio de Janeiro",
+        "untouchable": "De portugisiske myndigheder nægtede udlevering i årevis"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Golden Visa Scandal (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "11 embedsmænd anholdt for at hæve ejendomspriserne og modtage bestikkelse.",
+        "macedo": "SEF-direktør Paiva Nunes: Anholdt",
+        "figueiredo": "Flere embedsmænd dømt",
+        "chinese": "Kinesiske og russiske investorer involveret"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "Statslige flyselskabers ledere modtog massive fratrædelsespakker.",
+        "reis": "Christine Ourmieres-Widener: 500.000 € fratrædelsesgodtgørelse",
+        "santos": "Ramiro Sequeira: Kontroversiel exit-pakke",
+        "galamba": "Minister Galamba overvågede udnævnelser",
+        "laptop": "Parlamentarisk undersøgelse krævede dokumenter"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "Endemisk nepotisme på tværs af portugisisk politik.",
+        "president": "Marcelos pårørende i nøglestillinger",
+        "law": "Ingen meningsfuld anti-nepotisme-lovgivning",
+        "hodgepodge": "Familieforbindelser spænder over alle større partier"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Skolerenoveringsprogram under Sócrates-æraen fyldt med svindel.",
+        "notAudited": "€492 mio. brugt uden ordentlig revision",
+        "investigation": "Efterforskningen blev åbnet, men gik i stå",
+        "noConvictions": "Ingen domme til dato"
+      }
+    },
+    "pattern": {
+      "title": "Straffrihedens mønster: ved tallene",
+      "stats": {
+        "banking": "Banktab (BPN+BES+CGD+Novo Banco)",
+        "pms": "PM'er undersøgt",
+        "socrates": "År: Sócrates-sagsvarighed",
+        "suspended": "Sager, der ender med betingede domme",
+        "served": "Af dømte, der rent faktisk afsonede",
+        "casaPia": "Casa Pia ofre",
+        "judges": "Dommere i retssag (Op Lex)",
+        "submarine": "Portugisiske embedsmænd dømt (ubåd)",
+        "novoBanco": "Novo Banco redningsomkostninger (0 domme)",
+        "chargesDropped": "Sócrates-anklager faldet (88 %)",
+        "blocking": "Reformforslag blokeret (2007-2025)",
+        "enrichment": "Lovene om ulovlig berigelse blev vedtaget",
+        "admiral": "Operation Admiral recovery (EPPO)",
+        "arrests": "Admiral arresteres om 3 dage",
+        "prosecutors": "Anklagere står over for usikre kontrakter",
+        "lima": "Mordsagsforsinkelse i Duarte Lima"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Casa Pia Børnemishandlingsskandale",
+        "date": "2002 (misbrug siden 1980'erne)",
+        "amount": "100+ børneofre",
+        "description": "Elite pædofile netværk ved hjælp af statslige børnehjem. TV-vært Carlos Cruz, diplomat Jorge Ritto, Casa Pia guvernør Manuel Abrantes blandt dømte.",
+        "outcome": "7 dømte (2010), domme 5-18 år",
+        "source": "Frankrig 24"
+      },
+      "bpn": {
+        "title": "BPN - Banco Português de Negócios",
+        "date": "2008",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "José Oliveira e Costa: 14 år (reduceret ved appel)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES - Banco Espírito Santo",
+        "date": "2014",
+        "amount": "et tab på 11,8 milliarder euro",
+        "description": "Portugals største private bank kollapser. Ricardo Salgados familieimperium imploderer. Staten skaber Novo Banco med store omkostninger.",
+        "outcome": "Salgado: 6→8 år (et tilfælde), 6y3m (EDP-tilfælde). Påstår Alzheimers.",
+        "source": "Observador"
+      },
+      "cgd": {
+        "title": "CGD - Caixa Geral de Depositos",
+        "date": "2016",
+        "amount": "4,9 milliarder euro redningspakke",
+        "description": "Statsejet bank kræver den største redningspakke i portugisisk historie. Parlamentarisk undersøgelse finder 'politisk indblanding', 'partisansættelser'. 7 år med ignorerede svindeladvarsler.",
+        "outcome": "NUL domme",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "8+ milliarder euro offentlige penge",
+        "description": "'God bank' fra BES kollaps. Solgt til Lone Star (2017) med 3,89 mia. EUR statsgaranti. I 2021: 7,9 mia. EUR indsprøjtet. Parlamentarisk undersøgelse finder 'uansvarlighed.'",
+        "outcome": "NUL domme. Intet personligt ansvar.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Tyske ubådsbestikkelser",
+        "date": "2004",
+        "amount": "6,4 millioner euro i bestikkelse",
+        "description": "Ferrostaal betalte portugisiske embedsmænd for 833 millioner euro ubådskontrakt. €1M+ til CDS-PP-fest. Dokumenter 'forsvinder' fra forsvarsministeriet.",
+        "outcome": "Tyske ledere: dømt. Alle portugisiske: FRITODET (2014)",
+        "source": "Korruptionssporer"
+      },
+      "freeport": {
+        "title": "Frihavn",
+        "date": "2002",
+        "amount": "Uoplyst",
+        "description": "Miljøminister José Sócrates har angiveligt givet afkald på miljørestriktioner for britisk virksomhed til at bygge indkøbscenter på beskyttet jord.",
+        "outcome": "Klaret i 2010 - 'ingen at bebrejde'",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Golden Visa-skandale",
+        "date": "2014",
+        "amount": "€40+ millioner i bestikkelse",
+        "description": "11 embedsmænd anholdt for at hæve ejendomspriserne, tage imod bestikkelse for opholdstilladelser. Kinesiske og russiske investorer involveret.",
+        "outcome": "Nogle domme, programmet fortsætter",
+        "source": "Observador"
+      },
+      "tancos": {
+        "title": "Tancos våbentyveri",
+        "date": "2017",
+        "amount": "Militære våben cache",
+        "description": "1.450 skud, 150 håndgranater, 44 panserværnsgranater, 264 plastiksprængstoffer stjålet. Overvågningskameraer 'fungerer ikke' i uger. Minister Azeredo Lopes træder tilbage.",
+        "outcome": "Retssagen er i gang, flere tiltalte",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Komplet korruptionsdatabase",
+    "fullIntro": "Enhver større korruptionssag dokumenteret med beløb, resultater og kilder",
+    "additional": {
+      "title": "Retssystemskandaler",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Anklager modtog €700.000+ i bestikkelse",
+        "description": "Anklager Orlando Figueira tog imod bestikkelse fra Angolas vicepræsident Manuel Vicente for at afslutte korruptionsundersøgelser. Demonstrerer korruption i selve anklagemyndigheden.",
+        "orlando": "• Orlando Figueira (anklager): DEMMT",
+        "vicente": "• Manuel Vicente (Angola VP): Beskyttet af diplomatisk immunitet",
+        "pattern": "• Mønster: De, der retsforfølger korruption, er korrupte"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (Oeiras borgmester)",
+        "subtitle": "\"Den korrupte borgmester de elsker\"",
+        "description": "Dømt for skattesvig, hvidvask. Dømt til 7 år → nedsat til 2 år ved anke. Aftjent 14 måneder. Genvalgt som borgmester 2017 og 2021. Tjener stadig i dag.",
+        "conviction": "• 2009: Dømt 7 år → 2010: Nedsat til 2 år",
+        "prison": "• 2013-2014: Afsonet 14 måneder i Carregueira Fængsel",
+        "reelected": "• 2017, 2021: GENVALGT som borgmester",
+        "new": "• 2022: Nye sigtelser rejst for PPP-misbrug"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "Momskarruselsvindel i flere lande. EPPO retsforfulgt i stedet for de portugisiske myndigheder. 10 dømte, straffe på 7-8 år. Det er, hvad der sker, når EU overtager anklagemyndigheden.",
+        "lesson": "LEKTION: EPPO virker. Det gør det nationale system ikke.",
+        "name": "Operation Admiral (2025)",
+        "subtitle": "€2,9 milliarder - Største EU-svindel NOGENSINDE"
+      },
+      "context": {
+        "admiral": "Admiralsvig (enkeltsag)",
+        "description": "Portugal har modtaget over 60 milliarder euro fra EU's strukturfonde siden 1986. Alligevel er Portugal stadig et af de fattigste lande i Vesteuropa. Hvor blev pengene af? Revisorer finder konsekvent uregelmæssigheder, men retsforfølgning er sjældne.",
+        "eppo": "EPPO Portugals anklager",
+        "prr": "PRR-gendannelsesplan (2021-2026)",
+        "received": "EU-midler modtaget (1986-2024)",
+        "title": "Spørgsmålet om 60 milliarder euro"
+      },
+      "patterns": {
+        "invoices": "• Falske fakturaer for ikke-eksisterende tjenester",
+        "kickbacks": "• Tilbageslag til godkendende embedsmænd",
+        "monitoring": "• Svag overvågning af IGCP/IGAC",
+        "prescription": "• Sager ordineres før retssag",
+        "projects": "• \"Spøgelsesprojekter\" - godkendt men aldrig gennemført",
+        "shell": "• Shell-selskaber oprettet for at modtage midler",
+        "title": "Tilbagevendende svindelmønstre"
+      },
+      "title": "Svindel med EU-midler"
+    },
+    "disclaimer": {
+      "title": "Vigtig juridisk meddelelse",
+      "presumption": "• Formodning om uskyld: Alle individer antages at være uskyldige, indtil det modsatte er bevist ved endelig domstolsdom. Status \"Under undersøgelse\" eller \"arguido\" betyder ikke skyld.",
+      "status": "• Sagsstatus: Hvert indlæg er mærket med den aktuelle juridiske status (dømt, på prøve, under undersøgelse, arkiveret, frikendt). Statusser opdateres, efterhånden som sager skrider frem.",
+      "sources": "• Kilder: Alle oplysninger kommer fra officielle retsdokumenter, DCIAP-meddelelser, parlamentariske undersøgelser eller velrenommerede portugisiske medier (RTP, Público, Observador).",
+      "defense": "• Forsvarspositioner: Tiltalte har afvist påstande eller givet forklaringer. Deres juridiske positioner er noteret, hvor de er offentligt tilgængelige."
+    }
+  },
+  "operations": {
+    "title": "Politiets operationsliste",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "José Sócrates (PM)",
+      "status": "Prøve igangværende 11+ år",
+      "crimes": "22 forbrydelser: korruption, hvidvaskning, bedrageri"
+    },
+    "influencer": {
+      "name": "Operação Influencer",
+      "target": "Antonio Costa (PM)",
+      "status": "Under undersøgelse → EU-præsident",
+      "crimes": "Korruption, underslæb"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "target": "Dommerne Rangel, Galante, Vaz das Neves",
+      "status": "Prøveperioden startede i oktober 2025",
+      "crimes": "17 tiltalte, 21+ forbrydelser"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "Anklager Orlando Figueira",
+      "status": "Dømt 6y8m (2021)",
+      "crimes": "€700.000 bestikkelse fra Angola VP"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, Barcelos borgmestre",
+      "status": "Prøve igangværende 2025",
+      "crimes": "50+ forbrydelser, 1,8 mio. EUR uregelmæssigheder"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 Espinho borgmestre (PS + PSD)",
+      "status": "Retssag igangværende",
+      "crimes": "Bykorruption, 'hastegebyrer'"
+    },
+    "babel": {
+      "name": "Operação Babel",
+      "target": "Gaia VP Patrocínio Azevedo",
+      "status": "Prøveperioden starter januar 2025",
+      "crimes": "40 millioner euro fordele, 300 millioner euro fast ejendom"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "Lissabon sognepræsidenter",
+      "status": "Anklagen fuldført",
+      "crimes": "60 tiltalte, 463 forbrydelser, €580.000"
+    },
+    "maestro": {
+      "name": "Operação Maestro",
+      "target": "Manuel Serrão",
+      "status": "Efterforskning i gang",
+      "crimes": "39 millioner euro bedrageri med EU-midler"
+    },
+    "admiral": {
+      "name": "Operation Admiral (EPPO)",
+      "target": "momssvindel netværk",
+      "status": "10 dømte (maj 2025)",
+      "crimes": "Skade på €2,9 mia. - største EU-svindel nogensinde"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 års korruption: Den komplette tidslinje",
+    "pageSubtitle": "Hver skandale afsløret → Hver reform blokeret → Det systematiske mønster af straffrihed afsløret",
+    "legend": {
+      "corruption": "Korruption/Skandale",
+      "blocked": "Reform blokeret/svag respons",
+      "conviction": "Domfældelse/reform vedtaget"
+    },
+    "summaryTitle": "50 år: Partituret",
+    "summary": {
+      "bankingLosses": {
+        "value": "+25 mia. EUR",
+        "label": "Banktab (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Reformforsøg blokeret"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Bindende folkeafstemninger"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "Premierminister dømt"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Politikere, der står over for retfærdighed (siden 2017)"
+      },
+      "socratesDuration": {
+        "value": "11 år",
+        "label": "Sócrates arrestation→retssag"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "Casa Pia ofre"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Op Lex-tiltalte (dommere+)"
+      },
+      "admiralFraud": {
+        "value": "€2,9 mia",
+        "label": "Momssvindel (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Ministre i fængsel (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "Mønsteret afsløret",
+    "patternIntro": "Hver større skandale efterfølges af:",
+    "pattern": {
+      "step1": "1. <strong>Forargelse</strong> → Mediedækning, offentlig vrede",
+      "step2": "2. <strong>Reformforslag</strong> → Fra opposition eller små partier",
+      "step3": "3. <strong>Bloker</strong> → PS eller PSD stemmer imod (de har 150+ af 230 pladser)",
+      "step4": "4. <strong>Forsinkelse</strong> → Sagen trækker i årevis indtil ordination",
+      "step5": "5. <strong>Frifindelse eller betinget dom</strong> → 75 % af sagerne",
+      "step6": "6. <strong>Forfremmelse</strong> → Costa til EU-rådet, Barroso til EU-Kommissionen"
+    },
+    "patternQuote": "\"Kun de fattige og de ukendte kommer i fængsel.\"",
+    "footerSource": "Alle oplysninger stammer fra officielle retsdokumenter, portugisiske medier og internationale organisationer.",
+    "years": {
+      "y1974": "1974",
+      "y1980s": "1980'erne",
+      "y1989": "1989",
+      "y1997": "1997",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004",
+      "y2005_09": "2005-09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010",
+      "y2012": "2012",
+      "y2014": "2014",
+      "y2015": "2015",
+      "y2016": "2016",
+      "y2017": "2017",
+      "y2019": "2019",
+      "y2021": "2021",
+      "y2022": "2022",
+      "y2023": "2023",
+      "y2024": "2024",
+      "y2025": "2025"
+    },
+    "badges": {
+      "democracyRestored": "DEMOKRATIET GENOPRETTET",
+      "designFlaw": "DESIGNFEJL",
+      "abuseBegins": "MISBRUG BEGYNDER",
+      "reformBlocked": "REFORM BLOKERET",
+      "reformSabotaged": "REFORM SABOGERET",
+      "tcBlocks": "TC BLOKKE",
+      "sabotaged": "SABOTERET",
+      "centralizationPreserved": "CENTRALISERING BEBEVARES",
+      "scandalErupts": "SKANDALEN bryder ud",
+      "freeportAllegations": "FRIHAVN PÅSTAND",
+      "footballCorruption": "FODBOLDKORRUPTION",
+      "submarineBribery": "UBÅDSBEKOSTNING",
+      "euro2004Stadiums": "EURO 2004 STADIONER",
+      "corruptionMachine": "KORRUPTIONSMASKINE",
+      "faceOculta": "FACE OCULTA",
+      "commitmentMade": "FORPLIGTELSE FORGÅET",
+      "nonBinding": "IKKE-BINDENDE",
+      "policeCorruption": "POLITIKORRUPTION",
+      "bankingCollapse": "BANKKULPS",
+      "cgdFraudIgnored": "CGD SVIG ADVARSLER IGNORERET",
+      "murderAllegation": "DRABANSSTAND",
+      "rareConvictions": "SJÆLDNE DOMME",
+      "tcBlocksReform": "TC BLOKKER REFORM",
+      "noEuVote": "INGEN EU-STEMME",
+      "pmArrested": "PM ARRESTERET",
+      "goldenVisaScandal": "GYLDNE VISUM SKANDALE",
+      "tcBlocksAgain": "TC BLOKKER IGEN (ENSTEMMIG)",
+      "prosecutorCorruption": "Anklager KORRUPTION",
+      "benficaEmails": "BENFICA EMAILS",
+      "novoBancoBlackHole": "NOVO BANCO SORT HUL",
+      "militaryScandal": "MILITÆR SKANDALE",
+      "bpnConvictions": "BPN OVERBEVELSER",
+      "autarquiaCorruption": "AUTARQUIA KORRUPTION",
+      "joeBerado": "JOE BERARDO SKANDALE",
+      "varaConvicted": "VARA dømt",
+      "policeBrutality": "POLITIBRUTALITET",
+      "nepotismScandal": "NEPOTISM SKANDALE",
+      "policeMurder": "POLITIDORD",
+      "weakLawPassed": "SWAG LOV VEDTAGET",
+      "varaReleased": "VARA UDGIVET (COVID)",
+      "allPartiesBlock": "ALLE PARTER BLOKKERER",
+      "judgesOnTrial": "DOMMERE PÅ RETSEN",
+      "tapScandal": "TAP SKANDAL",
+      "tancosConvictions": "TANCOS OVERBEVELSER",
+      "espinhoMayorsArrested": "ESPINHO BORGMESTER ARRESTERET",
+      "lisbonParishCorruption": "LISSABON SOGN KORRUPTION",
+      "governmentFalls": "REGERINGEN FALDER",
+      "tapContinues": "TRYK FORTSÆTTER",
+      "edpConvictions": "EDP-DOMME",
+      "euFundsFraud": "39 mio. EUR SVIG MED EU-MIDLER",
+      "gaiaRealEstateRing": "GAIA EJENDOMSRING",
+      "defendants65": "65 TILSAGTEDE",
+      "euReward": "EU-BELØNING",
+      "reformBlockedAgain": "REFORM BLOKERET IGEN",
+      "euBiggestVatFraud": "EU'S STØRSTE DOMME FOR MOMSSVIG",
+      "judgesFinally": "DOMMERE ENDELIG PÅ FORSØG",
+      "policeTrafficking": "POLITI HANDEL RING",
+      "varaReturns": "VARA TILBAGE TIL FÆNGSLET",
+      "benficaFraudTrial": "BENFICA SVIG RØG",
+      "politicians191": "191 POLITIKERE",
+      "decemberTrifecta": "DECEMBERTRIFECTA",
+      "stillNoLaw": "51 ÅR SENERE"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Nellikerevolution",
+        "desc": "Slut på 48 år med Salazar/Caetano-diktatur. Ny demokratisk æra begynder."
+      },
+      "noReferendums": {
+        "title": "Ingen folkeafstemninger i 1976-forfatningen",
+        "desc": "Den grundlovgivende forsamling udelukker bevidst direkte demokrati. Partier forbinder folkeafstemninger med Salazars folkeafstemninger.",
+        "note": "Beskyttelsessystemet begynder ved fødslen."
+      },
+      "casaPiaFirstReported": {
+        "title": "Misbrug af Casa Pia blev først rapporteret",
+        "desc": "De første rapporter om seksuelt misbrug af børn på statslige børnehjem dukker op. Politiet dropper efterforskningen. Embedsmænd ødelægger dokumenter.",
+        "note": "Tildækning begynder. Holder 20+ år."
+      },
+      "pcpFirstProposal": {
+        "title": "PCP foreslår først anti-korruptionslove",
+        "desc": "Kommunistpartiet (PCP) foreslår ulovlig berigelseslovgivning.",
+        "result": "PS + PSD blok"
+      },
+      "referendumsPoisonPill": {
+        "title": "Folkeafstemninger tilføjet - med giftpille",
+        "desc": "Forfatningsrevision tilføjer folkeafstemningsmekanisme.",
+        "catch": "50 % valgdeltagelsestærskel + forfatningsdomstols veto = designet til at mislykkes",
+        "note": "Næste 35 år: 0 bindende folkeafstemninger opnået."
+      },
+      "amsterdamBlocked": {
+        "title": "Amsterdam-traktatens folkeafstemning blokeret",
+        "desc": "Forfatningsdomstolen afviser folkeafstemning om EU-traktat - \"vildledende spørgsmål\"",
+        "note": "Portugal vil ALDRIG stemme om EU-integration."
+      },
+      "casaPiaExposed": {
+        "title": "Casa Pia Misbrugsskandale afsløret",
+        "desc": "Journalist bryder historie: elite pædofile netværk ved hjælp af statslige børnehjem. TV-vært, UNESCO-ambassadør, Casa Pia-guvernør blandt anklagede.",
+        "note": "100+ børn misbrugt. Prøven vil vare 5+ år."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates & Freeport Mall",
+        "desc": "Miljøminister José Sócrates giver angiveligt afkald på miljørestriktioner for britisk virksomhed til at bygge indkøbscenter på beskyttet jord.",
+        "outcome": "Ryddet i 2010 - \"ingen at bebrejde\""
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Statistik & Kilder",
+    "pageSubtitle": "Alle data fra officielle og velrenommerede internationale kilder",
+    "ti": {
+      "title": "Transparency International",
+      "subtitle": "Corruption Perceptions Index (CPI)",
+      "score2024": {
+        "value": "57",
+        "label": "Portugal CPI-score 2024",
+        "trend": "-4 point fra 2023"
+      },
+      "rank": {
+        "value": "43",
+        "label": "Global rangering",
+        "detail": "af 180 lande"
+      },
+      "prosecutors": {
+        "value": "73 %",
+        "label": "Anklagere siger, at perioderne er utilstrækkelige",
+        "source": "TI-undersøgelse"
+      },
+      "tableTitle": "EU CPI-sammenligning (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobarometer",
+      "subtitle": "Særligt Eurobarometer om korruption (2023)",
+      "widespread": {
+        "value": "94 %",
+        "label": "Portugisere mener, at korruption er udbredt",
+        "euAvg": "EU-gennemsnit: 70 %"
+      },
+      "government": {
+        "value": "88 %",
+        "label": "Tror, der findes korruption i den nationale regering",
+        "euAvg": "EU-gennemsnit: 65 %"
+      },
+      "bribery": {
+        "value": "76 %",
+        "label": "Sig, at bestikkelse er den nemmeste måde at få offentlige tjenester på",
+        "euAvg": "EU-gennemsnit: 54 %"
+      }
+    },
+    "digitalDivide": {
+      "title": "Digital opdeling",
+      "subtitle": "Internetbrug efter aldersgruppe (Portugal, 2024)",
+      "keyInsight": "Den generation, der var vidne til det fulde 50-årige korruptionsmønster (65+), er systematisk udelukket fra underskriftssystemet DIGITAL-ONLY",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100 %",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99,1 %",
+          "excluded": "0,9 %"
+        },
+        "35-44": {
+          "usage": "98,6 %",
+          "excluded": "1,4 %"
+        },
+        "45-54": {
+          "usage": "94,9 %",
+          "excluded": "5,1 %"
+        },
+        "55-64": {
+          "usage": "82,5 %",
+          "excluded": "17,5 %"
+        },
+        "65-74": {
+          "usage": "61,1 %",
+          "excluded": "38,9 %"
+        },
+        "75+": {
+          "usage": "~30 %",
+          "excluded": "~70 %"
+        }
+      }
+    },
+    "summaryTitle": "Resumé: Hvad dataene viser",
+    "summaryStats": {
+      "corruption": {
+        "value": "94 %",
+        "label": "af portugiserne ser udbredt korruption",
+        "source": "Eurobarometer 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "GRECOs anbefalinger implementeret",
+        "source": "Europarådet 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "punkt CPI fald på et år",
+        "source": "Transparency International 2024"
+      },
+      "prosecutors": {
+        "value": "73 %",
+        "label": "af anklagerne siger, at forældelsesfristerne er utilstrækkelige",
+        "source": "TI-undersøgelse 2023"
+      }
+    },
+    "footer": "Alle statistikker fra officielle kilder. Sidst opdateret: december 2025."
+  },
+  "tables": {
+    "headers": {
+      "name": "Navn",
+      "party": "Parti",
+      "status": "Status",
+      "charges": "Afgifter/Status",
+      "chargesSentence": "Afgifter/sætning",
+      "chargesStatus": "Gebyrer/Status",
+      "amount": "Beløb",
+      "year": "År",
+      "initiative": "Initiativ",
+      "result": "Resultat",
+      "whoBlocked": "Hvem blokerede",
+      "country": "Land",
+      "score": "Score",
+      "rank": "Rang",
+      "change": "Forandring",
+      "ageGroup": "Aldersgruppe",
+      "internetUsage": "Internetbrug",
+      "excluded": "Udelukket",
+      "impact": "Indvirkning",
+      "aspect": "Aspekt",
+      "sentence": "Dømme",
+      "allegations": "Påstande/domme",
+      "protectionLevel": "Beskyttelsesniveau",
+      "sweden": "Sverige",
+      "portugal": "Portugal",
+      "position": "Position",
+      "illicitEnrichment": "Ulovlig berigelse",
+      "lobbyRegulation": "Lobbyregulering",
+      "endImmunity": "Afslut immunitet",
+      "notableActions": "Bemærkelsesværdige handlinger",
+      "politician": "Politiker",
+      "scandal": "Skandale",
+      "euReward": "EU-belønning",
+      "date": "Dato",
+      "subject": "Emne",
+      "turnout": "Valgdeltagelse",
+      "binding": "Bindende?",
+      "illicitEnrichmentLaw": "Lov om ulovlig berigelse",
+      "constitutionalStatus": "Forfatningsmæssig status",
+      "immunityScope": "Immunitetsomfang",
+      "parliamentBlocks": "Blokerer Folketinget efterforskning?",
+      "tiCpi": "TI CPI",
+      "prescription": "Recept",
+      "avgTime": "Gns. Tid",
+      "immunity": "Immunitet",
+      "role": "Rolle",
+      "municipality": "Kommune",
+      "controversy": "Kontrovers/kontekst"
+    },
+    "status": {
+      "convicted": "DØMT",
+      "convictedServing": "DØMT - Servering",
+      "convictedAppealing": "DØMT - Appellerer",
+      "onTrial": "På Retssag",
+      "underInvestigation": "Under undersøgelse",
+      "arguido": "Arguido",
+      "arrested": "ARRESTERET",
+      "archived": "Arkiveret",
+      "declined": "Undersøgelse afvist",
+      "neverProsecuted": "Aldrig retsforfulgt",
+      "acquitted": "FRITODET",
+      "euPromoted": "formand for EU-rådet"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega",
+      "livre": "Livre",
+      "pan": "PANDE",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "Dine odds vs. deres odds",
+    "subtitle": "Hvis retfærdighed var et lotteri, er her hvad tallene fortæller os",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Hvis du er statsborger:"
+    },
+    "politician": {
+      "title": "Hvis du er politiker:"
+    }
+  },
+  "sources": {
+    "title": "Komplet kildeliste",
+    "subtitle": "Alle data fra officielle og verificerede kilder",
+    "constitutionalCourt": "forfatningsdomstol",
+    "prosecutionService": "Anklagemyndigheden",
+    "europeanUnion": "Den Europæiske Union",
+    "internationalOrgs": "Internationale organisationer",
+    "eurobarometer": "Eurobarometer",
+    "portugueseLegislation": "portugisisk lovgivning",
+    "parliamentaryRecords": "Parlamentariske Optegnelser",
+    "internationalComparisons": "Internationale sammenligninger",
+    "mediaSources": "Mediekilder",
+    "laborHumanRights": "Arbejder/menneskerettigheder",
+    "cryptographicStandards": "Kryptografiske standarder",
+    "digitalStatistics": "Digital statistik"
+  },
+  "verdict": {
+    "title": "Dommen",
+    "subtitle": "50 års dokumenterede beviser"
+  },
+  "backToMain": "← Tilbage til Hovedrapport",
+  "duopoly": {
+    "bothProtect": "Begge parter beskytter hinanden",
+    "coordinatedTheater": "Den tilsyneladende modsætning mellem PS og PSD er koordineret teater. Når det gælder – blokerende reform – stemmer de sammen."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Kilde: Eurobarometer 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "Mønsteret af mislykkede folkeafstemninger",
+      "text": "Hver folkeafstemning i portugisisk historie har enten ikke nået valgdeltagelsestærsklen eller været ikke-bindende.",
+      "sources": "Kilde: den portugisiske valgkommission"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Kilde: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "Vigtige schweiziske demokratistatistikker:"
+  },
+  "roadmap": {
+    "title": "Undersøgelsen",
+    "subtitle": "En struktureret rejse gennem Portugals arkitektur af straffrihed",
+    "part1": {
+      "title": "Systemet",
+      "desc": "Hvordan den pavlovske politiske klasse beskytter sine egne"
+    },
+    "part2": {
+      "title": "Sagerne",
+      "desc": "Premierministre, ministre og de sager, der definerer straffrihed"
+    },
+    "part3": {
+      "title": "Smuthullerne",
+      "desc": "Juridiske mekanismer, der sikrer, at korruption forbliver ustraffet"
+    },
+    "part4": {
+      "title": "Blokeringen",
+      "desc": "Hvordan reformer systematisk blokeres af PS/PSD"
+    },
+    "part5": {
+      "title": "EU-belønningerne",
+      "desc": "Hvor anklagede politikere ender: Bruxelles"
+    },
+    "part6": {
+      "title": "Løsningen",
+      "desc": "Hvad borgere kan gøre for at bryde cyklussen"
+    },
+    "conclusion": "Fra borgerlig etik til konkret handling—hver del afslører endnu et lag af systemet designet til at beskytte de korrupte."
+  },
+  "journalism": {
+    "badge": "Hvorfor denne undersøgelse eksisterer",
+    "title": "Drømmen, der ikke kunne overleve systemet",
+    "subtitle": "Portugisisk journalistik under systemisk fangst",
+    "intro": "Enhver journalist starter med den samme drøm: Vis folk sandheden, dokumenter det, der betyder noget, forandre verden. I Portugal kolliderer den drøm med et system designet til at forhindre netop det.",
+    "medicine": {
+      "title": "Medicin",
+      "oath": "Først, gør ingen skade."
+    },
+    "journalismEthics": {
+      "title": "Journalistik",
+      "oath": "Først, vildled ikke."
+    },
+    "doctors": {
+      "title": "Læger",
+      "diagnose": "Diagnosticerer baseret på evidens, ikke tro",
+      "wellbeing": "Sætter patientens velbefindende over ideologi eller profit",
+      "bound": "Er bundet af etik selv under pres",
+      "lose": "Mister legitimitet, når de bevidst forårsager skade"
+    },
+    "journalists": {
+      "title": "Journalister",
+      "report": "Rapporterer baseret på verificerbare fakta, ikke agendaer",
+      "rightToKnow": "Sætter offentlighedens ret til at vide over politisk tilhørsforhold",
+      "bound": "Er etisk bundet selv under pres fra ejere, stater eller publikum",
+      "lose": "Mister legitimitet, når de bevidst forvrænger virkeligheden"
+    },
+    "broken": {
+      "title": "Når eden brydes",
+      "doctorMalpractice": "En læge, der praktiserer ideologi i stedet for medicin, begår fejlbehandling",
+      "journalistMalpractice": "En journalist, der praktiserer ideologi i stedet for sandhed, begår borgerlig fejlbehandling",
+      "consequences": "Konsekvenserne er samfundsmæssige:",
+      "consequence1": "Polarisering",
+      "consequence2": "Misinformation",
+      "consequence3": "Erosion af tillid",
+      "consequence4": "Demokratisk forfald"
+    },
+    "distinction": {
+      "title": "Den klare skelnen",
+      "text": "Journalister, ligesom læger, er mennesker og har personlige værdier. Etik brydes ikke ved at have værdier, men ved at lade disse værdier erstatte verificering, evidens og ansvarlighed."
+    },
+    "quote": "En læge, der lyver for en patient, er skyldig i fejlbehandling. En journalist, der lyver for offentligheden, er skyldig i borgerlig fejlbehandling."
+  },
+  "convicted": {
+    "badge": "Systemresultat",
+    "title": "Dømt, men beskyttet",
+    "subtitle": "Det er ikke påstande. Det er domme. Alligevel sikrer systemet, at de beholder deres pensioner, vender tilbage til embedet eller slipper helt for konsekvenserne.",
+    "status": {
+      "convicted": "DØMT",
+      "reelected": "DØMT → GENVALGT",
+      "murder": "mordanklagede",
+      "unpaid": "980 mio. EUR UBETALT",
+      "zeroPrison": "8 mia. € TABET, NUL FÆNGSEL",
+      "eppoSuccess": "EPPO SUCCES"
+    },
+    "labels": {
+      "operation": "Operation:",
+      "crime": "Forbrydelse:",
+      "sentence": "Dømme:",
+      "served": "Serveret tid:",
+      "amount": "Beløb:",
+      "currentStatus": "Strøm:",
+      "victim": "Offer:",
+      "date": "Dato:",
+      "trialStart": "Prøvestart:",
+      "borrowed": "Lånt:",
+      "repaid": "Tilbagebetalt:",
+      "artCollection": "Kunstsamling:",
+      "publicCost": "Offentlige omkostninger:",
+      "resolution": "Opløsning:",
+      "convictions": "Domfældelser:"
+    },
+    "pensionBattle": "Pensionskampen:",
+    "suedProsecutor": "Sagsøgte anklageren:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "PS udenrigsminister, minister, CGD-bestyrelsen",
+      "crime": "Influence Peddling (3 tæller)",
+      "pension": "8.551 €/måned pension beslaglagt TRE gange, returneret efter appel TO GANGE. Mønster: anfald → appel → returneret → gentag."
+    },
+    "pinho": {
+      "name": "Manuel Pinho",
+      "position": "PS økonomiminister (2005-2009)",
+      "crime": "Passiv korruption, skattesvig, hvidvaskning af penge",
+      "sued": "26.000 €/måned pension beslaglagt 3x, returneret 2x. Sagsøgte anklager og dommer Carlos Alexandre for pensionsbeslaglæggelser.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "PSD-borgmester i Oeiras (1985-2009, 2017-nu)",
+      "crime": "Skattesvig, hvidvaskning af penge, magtmisbrug",
+      "current": "STADIG BORGMÆR (2025)",
+      "quoteTitle": "Offentligt kaldenavn:",
+      "quote": "\"Den korrupte borgmester, som portugiserne forguder\" — GENVALGT i 2017 og 2021. Nye sigtelser rejst i 2022.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "PSD MP, advokat",
+      "crime": "MORD i Brasilien",
+      "victim": "Rosalina Ribeiro (klient)",
+      "shieldTitle": "Skjoldet:",
+      "shield": "Ingen udleveringsaftale mellem Portugal og Brasilien. Forblev \"urørlig\" i Portugal i 16 år, før retssagen endelig begyndte.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Forretningsmand, kunstsamler",
+      "repaid": "Tæt på nul",
+      "quoteTitle": "Til Folketinget:",
+      "quote": "\"Jeg har glemt\" - da jeg blev spurgt om €980 mio. gæld. Truede parlamentsmedlemmer under vidneforklaring. Ingen konsekvenser."
+    },
+    "novoBanco": {
+      "name": "Novo Banco-skandalen",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "NUL",
+      "outcomeTitle": "Parlamentarisk undersøgelse:",
+      "outcome": "Fundet \"politisk uansvarlighed\" - men intet strafferetligt ansvar. Private overskud, offentlige tab. Mønsteret fortsætter.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especiais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "The Lone Star Deal (2017):",
+        "salePrice": "Lone Star betalte: €1 mia",
+        "guarantee": "Statsgaranti: 3,89 milliarder euro i tab",
+        "result": "Staten bærer al risiko, køberen får alt på hovedet"
+      },
+      "injections": {
+        "title": "Offentlige penge tilført:",
+        "y2014": "2014: 4,9 mia. EUR (afviklingsfond)",
+        "y2018": "2018: €792 mio. (betinget kapital)",
+        "y2019": "2019: 1,15 mia. EUR (betinget kapital)",
+        "y2020": "2020: 1,04 mia. EUR (betinget kapital)",
+        "y2021": "2021: €598 mio. (betinget kapital)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa - Bank of Portugals guvernør - Overvågede salg",
+        "centeno": "Mário Centeno - Finansminister - Godkendte garantier"
+      },
+      "inquiryQuote": "\"Salgsbetingelserne var ekstraordinært gunstige for køberen, hvor den portugisiske stat påtog sig uforholdsmæssig risiko.\" — Parlamentarisk undersøgelse 2021",
+      "whyNoAccountability": {
+        "title": "Hvorfor ingen retsforfølgning:",
+        "discretion": "Salgsvilkår klassificeret som 'politiske beslutninger'",
+        "noEnrichment": "Beslutningstagere tjente ikke personligt",
+        "immunity": "Regulatorer har institutionel beskyttelse",
+        "bipartisan": "PS og PSD begge medskyldige - vil ikke retsforfølge hinanden"
+      },
+      "sale2025": {
+        "title": "2025-opdatering: Lone Star Exit",
+        "text": "Oktober 2025: Den franske bank BPCE køber Novo Banco for 8 milliarder euro. Lone Star forlader med massiv profit efter €8,5 mia. i statsindsprøjtninger. Nul domme for sammenbruddet. Nul tilbagebetaling af tab."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Novo Banco solgte til den franske bank BPCE for €8 milliarder (oktober 2025). Lone Star går ud med overskud efter at have modtaget €3,89 mia. i statsgarantier. Skatteyderne fik aldrig 10,4 mia. euro tilbage i offentlige midler. Salgsprovenuet går til Resolution Fund, ikke Treasury."
+    },
+    "admiral": {
+      "name": "Operation Admiral",
+      "subtitle": "Største EU-svindelsag NOGENSINDE",
+      "damage": "Total skade",
+      "convicted": "Dømt (maj 2025)",
+      "prosecutor": "EU anklager",
+      "type": "Karruselsvindel",
+      "lesson": "Læren: Når EU-anklageren behandler sager i stedet for nationale systemer, sker der domme."
+    },
+    "pattern": {
+      "title": "Mønsteret er klart",
+      "pension": "Pensioner beskyttet",
+      "delay": "Drab til retssagen",
+      "lost": "Tabt, nul fængsel",
+      "reelected": "Efter domfældelse",
+      "conclusion": "Overbevisning betyder ikke konsekvens. Systemet beskytter sine egne – før, under og efter prøveperioden."
+    }
+  },
+  "judicial": {
+    "badge": "Systemfejl",
+    "title": "Retlig korruption: Den rådne kerne",
+    "subtitle": "Når dommere sælger afgørelser, og anklagere tager imod bestikkelse, bryder hele anti-korruptionssystemet sammen. Disse sager forklarer, hvorfor politiske retsforfølgninger mislykkes.",
+    "status": {
+      "judgesCorrupt": "DOMMERE KORRUPT",
+      "prosecutorBribed": "Anklager bestikket",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Nøgletal:",
+      "defendants": "Samlede tiltalte:",
+      "exposed": "Udsat af:",
+      "timeline": "Tidslinje:",
+      "amount": "Bestikkelsesbeløb:",
+      "outcome": "Resultat:",
+      "year": "År:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "CSM Disciplinær Afgørelse:",
+      "defensePosition": "Forsvarets position:",
+      "convicted": "Convicted:",
+      "coconspirator": "Sag overført:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Appellen bekræftet:",
+      "tcReject": "TC-appel afvist:"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "subtitle": "Dommers salgsbeslutninger",
+      "rangel": "Appelrettens dommer",
+      "galante": "Dommer (Rangels kone)",
+      "neves": "Retspræsident",
+      "chargesTitle": "Gebyrer:",
+      "charges": "Salg af retsafgørelser, bestikkelse, påvirkningshandel, korruption. De dommere, der skulle dømme korrupte politikere, var selv korrupte.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db41d40e21cd34e286d",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Prøve igangværende (2025)",
+      "exposedBy": "Football Leaks / Rui Pinto",
+      "allegations": "Salg af gunstige afgørelser, fastsættelse af sagsudfald, påvirkningshandel, hindring af retfærdighed, koordineret retligt netværk",
+      "significance": "Whistlebloweren (Rui Pinto) blev retsforfulgt, mens retssagen mod korrupte dommere blev forsinket i 7 år. Systemet beskytter sig selv.",
+      "otherDefendants": "Advokater, forretningsmænd og retsembedsmænd, der deltog i korruptionsnetværket",
+      "vieira": "Tidligere Benfica-præsident",
+      "csm": "Rui Rangel blev bortvist fra retsvæsenet af Conselho Superior da Magistratura (CSM) i 2020 for disciplinære overtrædelser i forbindelse med denne sag.",
+      "defense": "Alle tiltalte nægter sig anklagerne. Rangel har udtalt, at anklagerne er grundløse og politisk motiverede."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Anklager betalt for at afslutte sager",
+      "figueira": "portugisisk anklager",
+      "vicente": "Vicepræsident i Angola",
+      "convicted": "Anklager dømt",
+      "significanceTitle": "Betydning:",
+      "significance": "En anklager blev betalt €700.000+ for at afslutte efterforskningen mod angolanske eliter. Hvis der kan købes anklagere, hvilken chance har korruptionssager så?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Demonstrerer oliepenge fra Angola, der korrumperer det portugisiske retssystem",
+      "outcome": "Anklager dømt, men sagen afslørede systemisk sårbarhed over for udenlandsk korruption",
+      "defense": "Figueira afviste anklagerne under hele retssagen og appellerede til forfatningsdomstolen, som afviste hans appel i december 2022."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Hvem holder øje med vægterne? Når dommere sælger afgørelser og anklagere tager imod bestikkelse, kollapser hele systemet med ansvarlighed.",
+    "stat": {
+      "defendants": "Tiltalte i Lex",
+      "bribe": "Anklager bestikkelse",
+      "delay": "Anklage til retssag (Lex)"
+    },
+    "disclaimer": "Alle oplysninger nedenfor er afledt af officielle retsprotokoller, DCIAP-beskyldninger, CSM-disciplinære afgørelser og verificerede nyhedskilder. Tiltalte i igangværende retssager fastholder uskyldsformodningen indtil den endelige domfældelse.",
+    "impact": {
+      "title": "Hvorfor disse sager er vigtige for anti-korruption",
+      "fizzTitle": "Operação Fizz Indvirkning:",
+      "fizz1": "• En anklager fra DCIAP – den enhed, der efterforsker korruption på højt niveau – var selv korrupt",
+      "fizz2": "• Sager mod angolanske eliter blev arkiveret på grund af bestikkelsen",
+      "fizz3": "• Manuel Vicente, bestikkeren, blev aldrig retsforfulgt – hans sag blev overført til Angola",
+      "lexTitle": "Operação Lex Indvirkning:",
+      "lex1": "• Hvis det blev bevist, solgte dommere på appelretsniveau afgørelser",
+      "lex2": "• Den domstol, der behandler korruptionsdomme i første instans, ville selv blive kompromitteret",
+      "lex3": "• Sagen tog mere end 7 år fra anklage (2018) til retssagen startede (2025)"
+    },
+    "sources": {
+      "title": "Officielle kilder:"
+    }
+  },
+  "methodology": {
+    "badge": "Uafhængig forskning",
+    "title": "Forskningsmetodologi",
+    "sources": {
+      "title": "Kilder undersøgt",
+      "tc": "• Forfatningsdomstolsafgørelser (Acórdãos)",
+      "dciap": "• DCIAP (den offentlige anklagemyndighed) officielle anklager",
+      "parliament": "• Parlamentariske undersøgelsesrapporter (CGD, BES, Novo Banco)",
+      "greco": "• Rapporter fra GRECO 4. og 5. evalueringsrunde",
+      "tdc": "• Tribunal de Contas (revisionsretten) bankrapporter",
+      "eu": "• EU-kommissionens retsstatsrapporter (2024, 2025)",
+      "eurobarometer": "• Eurobarometer-korruptionsundersøgelser (2023, 2025)",
+      "ti": "• Transparency International CPI (2012-2024)",
+      "media": "• Større portugisiske medier: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Inklusionskriterier",
+      "judicial": "• Officielle retssager (dom, tiltale, formel undersøgelse)",
+      "parliamentary": "• Folketingsforespørgsler med offentliggjorte rapporter",
+      "international": "• Internationale overvågningsorganers vurderinger",
+      "financial": "• Økonomiske tab dokumenteret af Revisionsretten"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Ubekræftede påstande uden officiel retssag",
+      "speculation": "• Spekulationer eller meninger, der ikke understøttes af dokumenter",
+      "anonymous": "• Anonyme kilder uden bekræftelse"
+    },
+    "disclaimer": "Alle nævnte personer fastholder deres uskyldsformodning. Status som \"Under undersøgelse\" eller \"arguido\" kan resultere i frifindelse. Sagsstatusser er tydeligt mærket. Denne undersøgelse bruger kun offentligt tilgængelige, officielt dokumenterede kilder.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Eksterne kilder bekræftet",
+      "official": "56%",
+      "officialLabel": "Fra officielle kilder",
+      "years": "50",
+      "yearsLabel": "Dokumenterede år (1974-2025)",
+      "cases": "40+",
+      "casesLabel": "Sager krydshenvist"
+    },
+    "limitations": {
+      "title": "Forskningsbegrænsninger",
+      "estimates": "• Nogle økonomiske tal er skøn fra officielle kilder (Tribunal de Contas, INE)",
+      "media": "• Medierapporter kan indeholde unøjagtigheder; vi prioriterer officielle dokumenter",
+      "appeals": "• Sagsudfald kan ændre sig ved appel; statusser afspejler de seneste bekræftede oplysninger",
+      "ongoing": "• Igangværende undersøgelser kan resultere i frifindelse eller arkivering",
+      "incomplete": "• Denne forskning kan have savnet relevante sager eller data; eventuelle udeladelser er utilsigtede",
+      "corrections": "<strong class=\"text-warning\">Vi glæder os over rettelser:</strong> Hvis du identificerer fejl, manglende sager eller forældede oplysninger, bedes du indsende rettelser med pålidelige officielle kilder. Vi er forpligtet til nøjagtighed og vil opdatere dataene i overensstemmelse hermed."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "Hvad de siger vs hvad dokumenter viser",
+      "claimsTitle": "Hvad politikerne påstår",
+      "claim1": "• \"Jeg er uskyldig, dette er politisk forfølgelse\"",
+      "claim2": "• \"Pengene var lån fra venner\"",
+      "claim3": "• \"Portugal har stærke anti-korruptionslove\"",
+      "claim4": "• \"Retssystemet virker\"",
+      "claim5": "• \"Vi implementerede alle EU-anbefalinger\"",
+      "factsTitle": "Hvad viser officielle dokumenter",
+      "fact1": "• DCIAP-anklager med mere end 56.000 siders beviser",
+      "fact2": "• Bankoptegnelser viser €34 mio. i uforklarlige overførsler",
+      "fact3": "• TC afskaffede ulovlig berigelse TO GANGE",
+      "fact4": "• 74,7 % korruptionsdomme = betingede domme",
+      "fact5": "• GRECO: 0/28 anbefalinger fuldt implementeret",
+      "note": "Denne undersøgelse bygger på officielle dokumenter, ikke påstande. Hver statistik linker til dens kilde."
+    },
+    "why": {
+      "title": "Hvorfor dette projekt eksisterer",
+      "description": "Al information præsenteret her kommer fra offentligt tilgængelige officielle kilder: retsafgørelser, parlamentariske undersøgelser, EU-rapporter og regeringsstatistikker. Men at få adgang til disse oplysninger kræver, at man navigerer i komplekse bureaukratiske labyrinter - spredt ud over snesevis af institutionelle websteder, begravet i PDF-dokumenter, ofte i teknisk juridisk sprog, og sjældent krydshenvisninger. De fleste borgere mangler tid, viden eller tålmodighed til at sammensætte dette fragmenterede billede.",
+      "purpose": "Dette projekt forenkler adgangen til allerede eksisterende data. Vi opretter ikke nye oplysninger - vi samler, verificerer og præsenterer officielle optegnelser i et strømlinet, tilgængeligt format med fulde kildelinks. Ethvert krav kan spores tilbage til dets originale dokument."
+    },
+    "editorial": {
+      "title": "Redaktionel gennemsigtighed",
+      "description": "Dette er <strong class=\"text-white\">undersøgende advocacy-journalistik</strong>, ikke neutral rapportering. Vi har et klart perspektiv: at Portugals politiske system indeholder strukturelle træk, der beskytter de magtfulde mod ansvarlighed. Dette perspektiv former, hvordan vi præsenterer information.",
+      "commitment": "Vi er dog forpligtet til faktuel nøjagtighed. Hver påstand er hentet. Vi skelner mellem dokumenterede fakta og vores fortolkning af mønstre. Vi anerkender alternative forklaringer. Læsere bør vurdere vores beviser og nå deres egne konklusioner.",
+      "invitation": "Vi hilser uenighed velkommen. Hvis du mener, at vores fortolkning er forkert, så kontakt kilderne direkte. Dokumenterne er offentlige."
+    },
+    "evidenceTypes": {
+      "title": "Hvordan vi klassificerer beviser",
+      "intro": "Igennem denne undersøgelse skelner vi mellem tre typer krav:",
+      "fact": "Direkte fra domstolsafgørelser, officielle rapporter, statsstatistikker. Verificerbar via linkede kilder.",
+      "pattern": "Flere dokumenterede tilfælde tyder på en sammenhæng. Beviser ikke årsagssammenhæng eller koordination.",
+      "analysis": "Vores fortolkning af dataene. Fornuftige mennesker kan være uenige i disse konklusioner."
+    },
+    "counterArguments": {
+      "title": "Alternative forklaringer, vi anerkender",
+      "intro": "Af hensyn til intellektuel ærlighed er her legitime alternative forklaringer på nogle mønstre, vi dokumenterer:",
+      "delays": {
+        "title": "Hvorfor tager korruptionssager mere end 11 år?",
+        "legit1": "• Retsvæsenet er stærkt underfinansieret og underbemandet",
+        "legit2": "• Kompleks økonomisk kriminalitet kræver omfattende efterforskning",
+        "legit3": "• Forsvaret har legitim ret til at anfægte beviser",
+        "legit4": "• Grundlovsbeskyttelse findes med god grund",
+        "response": "Selvom forsinkelser er utilsigtede, er <em>effekten</em> straffri. Andre EU-lande retsforfølger lignende forbrydelser hurtigere. Portugals gennemsnit er 6,8 år i forhold til EU-normen på 3-4 år. Hensigten betyder mindre end resultatet."
+      },
+      "euJobs": {
+        "title": "Er EU-udnævnelser virkelig \"belønninger\"?",
+        "legit1": "• Politikere har erfaring, der kvalificerer dem",
+        "legit2": "• EU's holdninger er konkurrencedygtige og meritbaserede",
+        "legit3": "• Korrelation ≠ årsagssammenhæng eller sammensværgelse",
+        "legit4": "• Mange kvalificerede politikere får aldrig EU-job",
+        "response": "Vi hævder ikke en sammensværgelse. Vi observerer et mønster, hvor undersøgelser sjældent blokerer for kampagner. Uanset om dette afspejler \"belønning\" eller ligegyldighed over for ansvarlighed, vedrører resultatet os lige så meget."
+      },
+      "bothParties": {
+        "title": "Hvorfor dokumentere sager fra begge store parter?",
+        "crit1": "• \"Dette er falsk ækvivalens\"",
+        "crit2": "• \"Den ene part kan være mere korrupt end den anden\"",
+        "crit3": "• \"Små partier har også korruption\"",
+        "response": "Vi dokumenterer sager proportionalt med beviser. PS og PSD har vekslet strøm i 50 år; begge har dokumenterede tilfælde. Vi hævder ikke ækvivalens – vi viser, at systemet beskytter <em>den, der har magten</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "Hvorfor denne undersøgelse eksisterer",
+    "subtitle": "Drømmen, der ikke kunne overleve systemet",
+    "journalism": {
+      "title": "Portugisisk journalistik under systemisk fangst",
+      "intro": "Enhver journalist starter med den samme drøm: Vis folk sandheden, dokumenter det, der betyder noget, forandre verden. I Portugal kolliderer den drøm med et system designet til at forhindre netop det."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "af journalister tjener mindre end €1.000/måned",
+      "groups": "4",
+      "groupsLabel": "mediegrupper styrer privat udsendelse",
+      "lusa": "95.9%",
+      "lusaLabel": "af det nationale nyhedsbureau (Lusa), nu statsejet",
+      "independence": "53%",
+      "independenceLabel": "redaktionel uafhængighedsrisiko (op fra 25 %)"
+    },
+    "kills": {
+      "title": "Hvad dræber drømmen",
+      "poverty": "15 % tjener under mindstelønnen eller slet ingenting",
+      "ownership": "Tidligere premierminister Pinto Balsemão ejede Impresa (SIC, Expresso)",
+      "slapp": "319 SLAPP-sager mod journalister i Europa (2024)",
+      "violence": "Chega-partiledere anklaget for at true journalister (november 2024)",
+      "result": "23% fald i professionelle journalister siden 2009",
+      "strike": "40+ medieorganisationer gik i historisk strejke"
+    },
+    "pressure": {
+      "title": "Det systemiske pres",
+      "directors": "af journalister melder om pres fra direktører",
+      "superiors": "melde pres fra redaktionschefer",
+      "ranking": "Portugal faldt i EU's mediepluralisme"
+    },
+    "notCriticism": {
+      "title": "Dette er ikke en kritik af journalister",
+      "quote": "\"Usikkerhed har en enorm indflydelse på journalisters uafhængighed... Denne forringelse har konsekvenser for politisk uafhængighed, på mediernes redaktionelle beslutninger.\"",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Hvorfor uafhængig forskning er nødvendig",
+      "intro": "Denne undersøgelse bruger kun offentligt tilgængelige officielle kilder - de samme dokumenter, som enhver nyhedsafdeling kan få adgang til. Forskellen:",
+      "noAdvertisers": "Ingen annoncører kan true med tilbagetrækning af indtægter",
+      "noOwners": "Ingen ejere med politiske forbindelser at beskytte",
+      "noEditors": "Ingen redaktører til at blødgøre sproget for stærke interesser",
+      "noPrecarity": "Ingen usikker beskæftigelse, der kræver stilhed",
+      "stance": "Denne undersøgelse står ved siden af ​​portugisiske journalister, ikke imod dem."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Grundlovsbeskyttelse",
+    "title": "Pensionsbeskyttelse: Beslaglagt, returneret, beslaglagt igen",
+    "intro": "Forfatningens artikel 30 forhindrer automatisk tab af rettigheder ved domfældelse. Dømte politikere beholder deres pensioner gennem endeløse appeller.",
+    "vara": {
+      "conviction": "Dømt: 5 år for påvirkningssmugling",
+      "status": "3x beslaglagt, 2x returneret"
+    },
+    "pinho": {
+      "conviction": "Dømt: 10 år + bøde på 4,9 mio. EUR",
+      "status": "10 års straf afsonet i HJEMMET"
+    },
+    "socrates": {
+      "status": "Prøve igangværende (11+ år)",
+      "prescribed": "167 af 189 sigtelser",
+      "expired": "Allerede ordineret (88%)",
+      "never": "Never seized",
+      "confirmed": "Bekræftet modtagelse af tilskud (SIC 2022)"
+    },
+    "conclusion": "Forfatningens artikel 30 + Appelsystem = Uendelig pensionsbeskyttelse",
+    "conclusionDetail": "Ingen automatisk fortabelse. Hver beslaglæggelse kræver retskendelse. Hver ordre kan appelleres. Hver appel tager år. Tiltalte beholder pension under sagen."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Arkivbeslutninger: \"Parco Detalhe\" (Utilstrækkelige detaljer)",
+    "intro": "Artikel 246º n.º 6 CPP tillader anklagere at afslå efterforskning baseret på \"utilstrækkelige detaljer\" - selv med dokumenteret bevis.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "Immunitet ophævet:",
+    "montenegro": {
+      "desc": "Offentlige kontrakter til familievirksomhed (Spinumviva), mens MP",
+      "outcome": "Forbliver PM med minimal mediedækning"
+    },
+    "mendes": {
+      "desc": "Konsulenthonorarer inkl. €360K fra vandværket ACA",
+      "irony": "Ironi: Han krævede Montenegro \"afklare alt\""
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 tiltalte, 463 forbrydelser",
+      "outcome": "60 andre sigtede, højt profilerede personer arkiveret"
+    },
+    "pattern": {
+      "title": "Mønsteret: Artikel 246º n.º 6 CPP",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Hvordan kan man etablere \"indikationer\" uden undersøgelse? Standarden kræver beviser før undersøgelsen, der ville indsamle beviser.",
+      "effect": "Effekt: Anklagemyndighedens veto over politisk følsomme sager"
+    }
+  }
+}

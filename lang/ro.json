@@ -1,0 +1,3255 @@
+{
+  "nav": {
+    "logo": "Arhitectura Impunității",
+    "thesis": "Teza",
+    "cases": "Dosare",
+    "loopholes": "Lacune Juridice",
+    "blocking": "Model de Blocare",
+    "euRewards": "Recompense UE",
+    "solution": "Soluție",
+    "eliteLaws": "Legile Elitei",
+    "euLabor": "Munca UE",
+    "brand": "Arhitectura Impunității",
+    "odds": "Cote",
+    "database": "Bază de date",
+    "sources": "Surse",
+    "timeline": "Cronologie",
+    "stats": "Statistici",
+    "dashboard": "Bord",
+    "forum": "Forum",
+    "donate": "Dona",
+    "sign": "SEMNEAZĂ",
+    "mediaMachine": "Media",
+    "goldenParachute": "Pensii",
+    "home": "Acasă",
+    "signPetition": "Semnează petiția",
+    "convicted": "Condamnați",
+    "judicial": "Judiciar",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"NU SUNT DEASUPRA NOASTRĂ\"",
+    "title": "ARHITECTURA IMPUNITĂȚII",
+    "subtitle": "Cum Sistemul Politic European Este Conceput pentru a Proteja Corupții",
+    "subtext": "Politicienii sunt SLUJITORI publici, nu STĂPÂNI publici. Ar trebui să trăiască ca cetățenii, să fie auditați ca cetățenii și să înfrunte justiția ca cetățenii.",
+    "stat1": "Indicele de Corupție TI 2024",
+    "stat2": "Ani: Durata Cazului",
+    "stat3": "Cetățenii Cred că Guvernul Este Corupt",
+    "scroll": "Derulați pentru a Începe",
+    "declaration": "O investigație condusă de cetățeni privind corupția politică din Portugalia",
+    "begin": "Începe investigația"
+  },
+  "parts": {
+    "one": "Partea I",
+    "two": "Partea II",
+    "three": "Partea III",
+    "four": "Partea IV",
+    "five": "Partea V",
+    "six": "Partea VI",
+    "seven": "Partea VII",
+    "eight": "Partea VIII",
+    "eleven": "Partea XI",
+    "twelve": "Partea XII",
+    "nine": "Partea a IX-a",
+    "ten": "Partea X",
+    "thirteen": "Partea XIII"
+  },
+  "thesis": {
+    "title": "Clasa Politică Pavloviană",
+    "intro": "Sistemul politic european funcționează pe principii de condiționare clasică",
+    "cycle": {
+      "title": "Ciclul de Condiționare",
+      "formula": "STIMUL → RĂSPUNS → RECOMPENSĂ → REPETĂ",
+      "entry": {
+        "title": "INTRARE",
+        "trigger": "Alătură-te partidului, arată loialitate",
+        "reward": "→ Poziție pe lista electorală"
+      },
+      "service": {
+        "title": "SERVICIU",
+        "trigger": "Votează cum ți se spune, protejează colegii",
+        "reward": "→ Mordomias (mașini, șoferi, personal, cheltuieli)"
+      },
+      "scandal": {
+        "title": "SCANDAL",
+        "trigger": "Anchetă anunțată",
+        "reward": "→ Imunitate activată, segredo de justiça, încep întârzierile"
+      },
+      "rescue": {
+        "title": "SALVARE",
+        "trigger": "Stai tăcut, nu dezvălui pe alții",
+        "reward": "→ Lacună juridică de ultimă oră te salvează"
+      },
+      "promotion": {
+        "title": "PROMOVARE",
+        "trigger": "Loialitate dovedită prin criză",
+        "reward": "→ POZIȚIE UE (recompensa supremă)"
+      }
+    },
+    "keyInsight": {
+      "title": "\"Nu Sunt Deasupra Noastră\" — Dar S-au Pus Deasupra Noastră",
+      "point1": "Politicienii au creat o societate paralelă cu privilegii inaccesibile cetățenilor",
+      "point2": "Sistemul produce exact comportamentul pe care îl recompensează: politicieni conformiști care se protejează reciproc",
+      "point3": "Reforma din interior este imposibilă: ca și cum ai cere câinilor lui Pavlov să deconecteze clopoțelul de mâncare",
+      "parallel": "Politicienii au creat o societate paralelă cu privilegii inaccesibile cetățenilor",
+      "rewards": "Sistemul produce exact comportamentul pe care îl recompensează: politicieni conformiști care se protejează reciproc",
+      "reform": "Reforma din interior este imposibilă: ca și cum ai cere câinilor lui Pavlov să deconecteze clopoțelul de mâncare"
+    },
+    "selfReinforcing": {
+      "title": "Bucla Auto-întăritoare",
+      "intro": "Sistemul este auto-perpetuant. Fiecare generație de politicieni învață de la cea anterioară:",
+      "observe": {
+        "title": "OBSERVĂ",
+        "text": "Politicienii tineri îi privesc pe cei seniori supraviețuind scandalurilor"
+      },
+      "learn": {
+        "title": "ÎNVAȚĂ",
+        "text": "Învață regulile: loialitate = protecție"
+      },
+      "replicate": {
+        "title": "REPLICĂ",
+        "text": "Când le vine rândul, îi protejează pe alții așteptând același lucru"
+      },
+      "teach": {
+        "title": "PREDĂ",
+        "text": "Devin seniorii pe care juniorii îi observă"
+      },
+      "conclusion": "Politicienii nu trebuie să fie instruiți explicit să-și protejeze colegii. O fac automat, știind că sistemul îi va proteja în schimb.",
+      "howLoop": "Cum Funcționează Bucla:",
+      "whyFails": "De Ce Reforma Internă Eșuează Mereu:",
+      "trapTitle": "Capcana:",
+      "trapText": "Sistemul nu e stricat—funcționează exact așa cum a fost conceput.",
+      "loopSteps": {
+        "step1": {
+          "title": "Tinerii politicieni observă:",
+          "text": "Personalitățile de rang înalt comit infracțiuni → se confruntă cu investigații → evadează → sunt promovate"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "„Sistemul își protejează propriile sale. Dacă sunt loial, voi fi și eu protejat”."
+        },
+        "step3": {
+          "title": "Comportament ajustat:",
+          "text": "Ei votează pentru a menține lacune, pentru a proteja colegii, pentru a bloca reforma"
+        },
+        "step4": {
+          "title": "Așteptările s-au solidificat:",
+          "text": "Când vine propriul lor scandal, se așteaptă și primesc aceeași protecție"
+        },
+        "step5": {
+          "title": "Următoarea generație observă:",
+          "text": "Ciclul se repetă cu așteptări întărite"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Îmbogățirea ilicită blocată:",
+          "text": "Politicienii nu vor vota pentru a-și scoate propria trapă de evacuare"
+        },
+        "lobby": {
+          "title": "Regulamentul lobby-ului blocat:",
+          "text": "PSD l-a blocat DE DOUĂ ORI (2019, 2024) - amenință sistemul de recompense"
+        },
+        "immunity": {
+          "title": "Imunitatea menținută:",
+          "text": "Parlamentul nu va vota ridicarea imunității - ar putea avea nevoie de ea"
+        },
+        "prescription": {
+          "title": "Prescriptie neschimbata:",
+          "text": "Întârzierile lungi servesc sistemului, astfel încât sistemul le întreține"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "Modelul de Protecție a Elitei",
+      "intro": "Analiza cazurilor de profil înalt dezvăluie un model consistent în trei pași:",
+      "investigate": {
+        "title": "ANCHETEAZĂ",
+        "text": "Media expune scandalul → Procurorii anunță ancheta → Indignarea publică controlată"
+      },
+      "delay": {
+        "title": "ÎNTÂRZIE",
+        "text": "Ani de complexitate procedurală → Segredo de justiça invocat → Probele îmbătrânesc"
+      },
+      "archiveOrReward": {
+        "title": "ARHIVEAZĂ SAU RECOMPENSEAZĂ",
+        "text": "Caz arhivat pentru 'lipsă de probe' SAU politician promovat în poziție superioară în timp ce e anchetat"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "Contrastul suedez",
+        "source": "Sursa: Claudia Wallin, „Um País Sem Excelências e Mordomias” (2014)",
+        "aspect": "Aspect",
+        "officialCars": "Mașini oficiale",
+        "mpOffices": "Birourile MP",
+        "immunity": "Imunitate",
+        "salaryRaises": "Creșteri de salariu",
+        "localCouncillors": "Consilierii locali",
+        "transparency": "Transparenţă",
+        "cpiScore": "Scorul TI CPI",
+        "swedenValues": {
+          "cars": "Doar PM are masina (securitate). Toți ceilalți: autobuz/tren",
+          "offices": "birouri 7m²; Parlamentarii gestionează propriile programe",
+          "immunity": "Nici unul. Judecat în instanță ca orice cetățean",
+          "salary": "Comitetul independent decide",
+          "councillors": "Voluntar, fără salariu, lucrează de acasă",
+          "transparency": "Toate declarațiile fiscale sunt publice din 1766",
+          "cpi": "85/100 (Top 5) - STABLE"
+        },
+        "portugalValues": {
+          "cars": "PM are 11 șoferi",
+          "offices": "Personal complet, secretare, bugete mari",
+          "immunity": "Nu poate fi reținut fără votul Parlamentului",
+          "salary": "Politicienii votează pentru propria compensație",
+          "councillors": "Posturi platite cu personal",
+          "transparency": "Segredo de justiça ascunde cazuri de ani de zile",
+          "cpi": "57/100 (43-a) - ÎN DECLINARE"
+        },
+        "quote": "Suntem cetățeni obișnuiți. Nu are sens să acordăm privilegii speciale parlamentarilor, deoarece sarcina noastră este să reprezentăm cetățenii și să cunoaștem realitatea în care trăiesc oamenii.",
+        "quoteCite": "— Per-Arne Håkansson, deputat suedez",
+        "sourceLabel": "Sursa: Claudia Wallin, „Um País Sem Excelências e Mordomias” (2014)"
+      },
+      "switzerland": {
+        "title": "Modelul elvețian: democrația directă în acțiune",
+        "intro": "Elveția demonstrează că cetățenii își pot controla în mod direct politicienii prin referendumuri obligatorii. Elvețienii votează de aproximativ 4 ori pe an în medie a 15 probleme federale.",
+        "popularInitiative": {
+          "title": "Inițiativa populară",
+          "requirement": "100.000 de semnături",
+          "text": "Vot pentru modificarea constituțională - cetățenii pot propune modificări ale constituției"
+        },
+        "optionalReferendum": {
+          "title": "Referendum optional",
+          "requirement": "50.000 de semnături",
+          "text": "Veto orice lege în termen de 100 de zile de la adoptare"
+        },
+        "mandatoryReferendum": {
+          "title": "Referendumul obligatoriu",
+          "requirement": "Automat",
+          "text": "TOATE modificările constituționale TREBUIE să treacă la vot popular"
+        },
+        "facts": {
+          "nonProfessional": "Politicieni neprofesioniști: parlamentarii nu au un salariu integral de stat - se așteaptă să își mențină locurile de muncă obișnuite",
+          "referendums": "Între 1848-2025: 700+ referendumuri organizate",
+          "cpi": "Clasament TI CPI: 3 la nivel global (la egalitate cu Suedia și Singapore)"
+        },
+        "quote": "Cuvântul poporului este suprem.",
+        "quoteCite": "— Principiul democratic elvețian",
+        "stats": "Statistici cheie elvețiene:"
+      }
+    },
+    "portugalReality": {
+      "title": "Realitatea Portugaliei",
+      "drivers": {
+        "number": "11",
+        "label": "Șoferi pentru PM António Costa",
+        "detail": "Fiecare câștigă 2.121 €/lună"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Membrii Cabinetului",
+        "detail": "Medie: 2.794 € | Profesori: 1.705 € | Salariul minim: 820 €"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Scădere punctuală în TI IPC 2024",
+        "detail": "Scor: 57/100 | Locul: locul 43 din 180 de țări"
+      }
+    },
+    "citizensKnow": "Cetățenii știu că sistemul este corupt:"
+  },
+  "signature": {
+    "title": "Semnați Inițiativa cetățenească europeană",
+    "subtitle": "Inițiativa Cetățenilor Europeni pentru Responsabilitate Politică",
+    "firstName": "Prenume",
+    "lastName": "Nume",
+    "country": "Țară",
+    "idNumber": "Număr de Identificare",
+    "submit": "Semnați",
+    "verify": "Verificați",
+    "count": "Semnături",
+    "goal": "Obiectiv: 1.000.000",
+    "verified": "Verificat de Infrastructura UE",
+    "eci": {
+      "title": "Inițiativa cetățenească europeană",
+      "regulation": "În urma Regulamentului UE 2019/788",
+      "security": "Verificat criptografic și inviolabil"
+    },
+    "euInfrastructure": "Integrarea infrastructurii UE",
+    "selectCountry": "Selectați țara dvs",
+    "consent": "Confirm că sunt cetățean al UE și sunt de acord ca datele mele să fie prelucrate în conformitate cu reglementările UE privind protecția datelor.",
+    "merkleLabel": "Merkle Root:",
+    "merkleCalculating": "De calculat...",
+    "merkleNoSigs": "Nicio semnătură încă",
+    "formFooter": "Semnătura dvs. va fi hashing criptografic și adăugată la un lanț inviolabil.",
+    "success": "Semnătura înregistrată!",
+    "invalidFormat": "Format ID nevalid pentru",
+    "integrityVerified": "Integritatea lanțului a fost verificată",
+    "integrityIssues": "Au fost detectate probleme de integritate",
+    "eciTitle": "Inițiativa cetățenească europeană",
+    "eciReg": "În urma Regulamentului UE 2019/788",
+    "verification": {
+      "title": "Verificare inviolabile",
+      "intro": "Acest sistem utilizează tehnici criptografice standard din industrie pentru a asigura integritatea semnăturii:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "Hashing SHA-256",
+        "text": "Fiecare semnătură este convertită într-o amprentă digitală unică de 256 de biți folosind algoritmul SHA-256 - același standard folosit de certificatele Bitcoin și TLS/SSL. Orice manipulare schimbă complet hash-ul.",
+        "source": "Standard: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Arborele Merkle",
+        "text": "Un arbore Merkle (arborele hash) este o structură de date inventată de criptograful Ralph Merkle în 1979. Acesta creează un singur „root hash” care verifică integritatea TUTUROR semnăturilor – dacă orice semnătură este modificată, rădăcina se schimbă.",
+        "source": "Folosit de: Bitcoin, Git, IPFS, Certificate Transparency"
+      },
+      "audit": {
+        "title": "Pista de audit",
+        "text": "Fiecare acțiune (semnătură, verificare, export) este înregistrată cu marcaje temporale, conform standardelor de urmărire de audit. Acest lucru oferă transparență și responsabilitate completă pentru toate operațiunile sistemului.",
+        "source": "Conformitate: articolul 30 din GDPR"
+      },
+      "euId": {
+        "title": "Validare ID UE",
+        "text": "Fiecare țară din UE are formate de identificare specifice (Portugalia: Cartão de Cidadão, Germania: Personalausweis etc.). Sistemul validează numerele de identificare în funcție de modelele specifice țării, conform Regulamentului UE 2019/788 privind Inițiativa cetățenească europeană.",
+        "source": "Cadru: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "Integrarea infrastructurii UE",
+      "text": "Această inițiativă este concepută pentru a se integra cu sistemele oficiale ale UE:",
+      "eciPortal": "Portal oficial ECI - Pentru transmiterea finală",
+      "eidas": "eIDAS - Standarde de identificare electronică",
+      "gdpr": "Conform GDPR - Protecția datelor garantată"
+    }
+  },
+  "common": {
+    "source": "Sursă",
+    "readMore": "Citiți Mai Mult",
+    "evidence": "Dovezi",
+    "convicted": "Condamnat",
+    "ongoing": "În Curs",
+    "archived": "Arhivat",
+    "keyInsight": "PERSPECTIVA CHEIE",
+    "declined": "Ancheta a fost refuzată",
+    "views": "vederi",
+    "likes": "place",
+    "share": "împărtășește",
+    "close": "Aproape"
+  },
+  "mediaMachine": {
+    "part": "Partea a XI-a",
+    "title": "A patra proprietate capturată",
+    "subtitle": "Cum mass-media portugheză servește puterea în loc de adevăr",
+    "intro": "Mass-media care ar trebui să expună corupția este deținută de același sistem pe care ar trebui să-l investigheze.",
+    "ownership": {
+      "title": "Cine controlează știrile",
+      "subtitle": "5 grupuri controlează ceea ce 10 milioane de oameni văd și citesc",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "Fost prim-ministru (PSD, 1981-1983)",
+        "note": "Un fost șef al guvernului controlează o mare rețea de televiziune"
+      },
+      "rtp": {
+        "name": "RTP (TV public)",
+        "owner": "Statul portughez",
+        "connection": "Consiliu desemnat de Parlament",
+        "note": "Guvernul controlează numirile și bugetul"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "Acţionarii includ bănci garantate de stat",
+        "note": "Dependența financiară de instituțiile statului"
+      },
+      "publico": {
+        "name": "Public",
+        "owner": "Grupul Sonae",
+        "connection": "Imperiul comerțului cu amănuntul depinde de contracte guvernamentale",
+        "note": "Acoperă reglementările care afectează profiturile proprietarului"
+      },
+      "globalMedia": {
+        "connection": "Achiziționat în 2020 de investitori cu legături din Angola/Macao. Contextul lui Kevin Ho include legături către cazinouri și sectoarele construcțiilor. Grupul controlează 4 ziare majore + al doilea cel mai ascultat post de radio din Portugalia.",
+        "name": "Global Media Group",
+        "note": "Controlează DN, JN, TSF, O Jogo - influență majoră a presei",
+        "owner": "Investitori privați (Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "Ușa rotativă",
+      "subtitle": "Politicienii devin comentatori, comentatorii îi protejează pe politicieni",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Marques Mendes",
+        "path": "Fost lider PSD → comentator politic SIC. Acum membru al Consiliului de Stat. Nu identifică niciodată conflicte de interese în emisie.",
+        "role": "SIC comentator politic",
+        "background": "Fost lider PSD (2005-2007)",
+        "scandal": "700.000 EUR+ în taxe de consultanță de la companii dependente de guvern",
+        "coverage": "SIC a oferit o acoperire minimă scandalului propriului comentator",
+        "outcome": "PGR a refuzat ancheta - 19 decembrie 2025"
+      }
+    },
+    "techniques": {
+      "title": "Tehnici de jurnalism „conducătoare”.",
+      "subtitle": "Modul în care mass-media modelează percepția ca un avocat conduce un martor",
+      "framing": {
+        "title": "Încadrarea titlului",
+        "description": "Aceleași acțiuni, cuvinte diferite bazate pe alinierea politică",
+        "example1": "Scandal PS: „Scheme criminale”, „rețea de corupție”",
+        "example2": "Scandal PSD: 'Contracte controversate', 'nereguli'"
+      },
+      "timing": {
+        "title": "Manipularea timpului",
+        "description": "Vești proaste pentru aliați lansate vineri și sărbători",
+        "example": "Decembrie 2025: trei arhive de cazuri s-au grupat înainte de Crăciun"
+      },
+      "omission": {
+        "title": "Omisiune strategică",
+        "description": "Ceea ce nu raportează este la fel de important ca ceea ce fac",
+        "example": "Modelul de blocare a reformei de 18 ani nu a fost niciodată sintetizat"
+      },
+      "balance": {
+        "title": "Echilibrul fals",
+        "description": "Dovezi documentare vs. negare tratate ca fiind la fel de valabile",
+        "example": "Tratând faptele și spinul politic ca poziții echivalente"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Publicitatea de stat: Lesa financiară",
+      "total": "6,45 milioane de euro",
+      "hidden": "3,7 milioane de euro",
+      "hiddenNote": "destinatarii NU sunt divulgați public",
+      "mechanism": "Mass-media în criză financiară → Depinde de reclamele de stat → Atenuează acoperirea critică → Corupția mai puțin controlată",
+      "increase": "+ creștere cu 1,29 milioane EUR (2024)"
+    },
+    "precarity": {
+      "title": "Precaritatea jurnalistului = Autocenzură",
+      "noContract": "33,4%",
+      "noContractLabel": "lucrează fără contracte formale",
+      "pressure": "23,8%",
+      "pressureLabel": "raportați presiunea din partea consiliilor",
+      "belief": "90%",
+      "beliefLabel": "cred că carierele devin mai precare",
+      "strike": "Martie 2024: Prima grevă a jurnaliştilor în peste 40 de ani"
+    },
+    "comparison": {
+      "title": "Portugalia vs. Democrații funcționale",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "A patra moșie este capturată de prima și a doua moșie. Arhitectura impunității include mass-media care ar trebui să o expună.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Cota de piata media de stat",
+      "risk": "RIDICAT",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Acoperire diferențială documentată",
+      "case1": {
+        "title": "Muntenegru vs Socrate",
+        "montenegro": "Muntenegru (PSD): Scandal Spinumviva, 410.000 EUR+ în timp ce MP - Acoperire scurtă, urmărire limitată",
+        "socrates": "Sócrates (PS): Acoperire extinsă, susținută de luni de zile",
+        "pattern": "Același tip (neregularitate financiară), intensitate foarte diferită"
+      },
+      "case2": {
+        "title": "Marques Mendes (dec 2025)",
+        "revealed": "Dezvăluit: 700.000 EUR+ în taxe de consultanță în timp ce comentator SIC",
+        "coverage": "Acoperire SIC: Minimă - scandalul minimizat de vânzarea proprie",
+        "pattern": "Efect de proprietate clasic - protejează-ți pe al tău"
+      },
+      "case3": {
+        "title": "Face Oculta Suppression",
+        "attempt": "Tentative: presiune pentru a limita acoperirea, amânarea publicării",
+        "result": "Rezultat: Eventual expus, dar cu întârzieri semnificative",
+        "pattern": "Arată presiune sistemică asupra jurnaliştilor"
+      }
+    },
+    "framingPatterns": {
+      "title": "Cum diferă încadrarea în funcție de parte",
+      "aspect": "Aspect",
+      "psScandal": "Acoperirea scandalului PS",
+      "psdScandal": "Acoperirea scandalului PSD",
+      "language": "Limba folosită",
+      "psLanguage": "„Scheme penale”, „Rețea de corupție”",
+      "psdLanguage": "„Contracte controversate”, „Nereguli”",
+      "duration": "Durata de acoperire",
+      "psDuration": "Săptămâni/luni, urmărire susținută",
+      "psdDuration": "Zile, mențiune scurtă, fără urmărire",
+      "placement": "Plasarea titlului",
+      "psPlacement": "Prima pagină, prime time",
+      "psdPlacement": "Paginile din interior, în afara orelor de vârf",
+      "accountability": "Încadrarea responsabilităţii",
+      "psAccountability": "Persoane numite, responsabilitatea partidului",
+      "psdAccountability": "„Ambele părți”, probleme sistemice",
+      "note": "Sursa: Studii academice care analizează acoperirea alegerilor din Portugalia 2015-2022"
+    },
+    "newsDeserts": {
+      "title": "News Deserturi: Unde corupția nu este raportată",
+      "municipalities": "din 308 municipii sunt pustii de stiri",
+      "percentage": "Portugalia nu are acoperire de știri locale",
+      "atRisk": "municipalități în pericol (doar 1 priză)",
+      "impact": "Acolo unde nu există jurnalism, nu există responsabilitate. Corupția locală înflorește în umbra deșerților de știri."
+    },
+    "pressFreedom": {
+      "title": "Libertatea presei în declin",
+      "ranking": "Portugalia a coborât de pe locul <strong class=\"text-good\">7</strong> pe locul <strong class=\"text-bad\">13</strong> în Monitorul pluralismului media (2024→2025)",
+      "trust": "• Încredere în știri: 54% (în scădere față de 66% în 2015)",
+      "concentration": "• Risc de concentrare media: 79%",
+      "independence": "• Independența editorială cu risc ridicat",
+      "pattern": "MODELUL:",
+      "explanation": "Pe măsură ce proprietatea media se concentrează, precaritatea jurnaliștilor crește, iar publicitatea de stat devine o finanțare de salvare – jurnalismul critic devine structural imposibil."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "Partea a XII-a",
+    "title": "Parașuta de aur",
+    "subtitle": "Condamnat pentru corupție? Păstrează-ți pensia pentru totdeauna",
+    "intro": "În Portugalia, politicienii condamnați pentru furtul de milioane își păstrează pensiile finanțate de contribuabili. Nu există nicio lege care să-i oprească.",
+    "question": "Ce se întâmplă când un politician portughez este condamnat pentru corupție?",
+    "answer": "EI PĂSTResc TOTUL.",
+    "cases": {
+      "title": "Cazuri documentate",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "José Sócrates",
+        "crime": "Taxe de corupție de 34 de milioane de euro",
+        "sentence": "Proces în curs de peste 11 ani",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "Fost prim-ministru (2005-2011)",
+        "status": "LA PROCES",
+        "description": "Acuzat de corupție, spălare de bani, fals în documente. După 10+ ani, încă primesc pensie. Caz în derulare din 2014."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Fost viceministru PS, administrator CGD"
+      },
+      "pinho": {
+        "name": "Manuel Pinho",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Condamnat: corupție pasivă, spălare de bani (10 ani)",
+        "note": "A primit 4,5 milioane EUR mită de la EDP",
+        "houseArrest": "🏠 Servire la domiciliu: în ciuda condamnării de 10 ani, servește în propria reședință din 2021"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Condamnat: fraudă fiscală, spălare de bani",
+        "note": "A executat pedeapsa, apoi REALES ca primar al orașului Oeiras"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Beneficii complete după un singur termen",
+      "pmBenefits": "Mașină, șofer, personal, siguranță pe viață",
+      "ministerBenefits": "Pensie generoasa indiferent de timpul servit"
+    },
+    "noLaw": {
+      "title": "Legea: Nu există",
+      "text": "Portugalia NU are nicio lege care să impună confiscarea pensiei după o condamnare penală.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Rata de înlocuire a pensiei din Portugalia",
+        "euAverage": "71%",
+        "euAverageLabel": "Media UE",
+        "productivity": "73%",
+        "productivityLabel": "Productivitatea Portugaliei vs UE"
+      },
+      "translation": "Cele mai generoase pensii + cea mai slabă responsabilitate + cea mai scăzută productivitate = sistem conceput pentru a recompensa eșecul.",
+      "country": "Ţară",
+      "rule": "Regula decăderii",
+      "applies": "Se aplică pentru"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "NESATISFACĂTOR LA GLOBALĂ",
+      "recommendations": "28",
+      "partial": "18 implementate parțial",
+      "notImplemented": "10 NU este implementat",
+      "lobbying": "Lobby: NEREGLEGAT",
+      "assets": "Declarații de avere: APLICARE SLAB",
+      "verdict": "Organismul anticorupție al Consiliului Europei a remarcat în mod repetat eșecul Portugaliei de a pune în aplicare sancțiuni semnificative pentru oficialii corupți. Sistemul de protecție a pensiilor subminează descurajarea și semnalează că criminalitatea politică nu are consecințe de durată."
+    },
+    "referendum": {
+      "title": "Întrebări propuse la referendum",
+      "q7": {
+        "number": "Întrebarea 7",
+        "text": "Ar trebui politicienii condamnați pentru infracțiuni de corupție să-și piardă automat pensiile finanțate de contribuabili?"
+      },
+      "q8": {
+        "number": "Întrebarea 8",
+        "text": "Ar trebui să li se solicite instituțiilor media să dezvăluie legăturile politice ale proprietarilor și acționarilor majori?"
+      }
+    },
+    "conclusion": "Arhitectura impunității se extinde dincolo de sala de judecată. Chiar și atunci când apare convingerea rară, parașuta aurie asigură o aterizare confortabilă. Sistemul nu îi protejează doar pe politicieni de justiție, ci îi recompensează pe viață.",
+    "scandal": {
+      "title": "Realitatea inacceptabilă",
+      "description": "Politicienii portughezi condamnați pentru corupție, fraudă și abuz de putere continuă să primească pensii finanțate de contribuabili. NU există decădere automată. În timp ce cetățenii obișnuiți își pierd locurile de muncă și casele pentru infracțiuni minore, clasa politică a conceput un sistem în care criminalitatea plătește literalmente."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Franța, Spania, Italia au protecții constituționale IDENTIC, dar au implementat cu succes legile privind confiscarea pensiilor. Instanțele lor au considerat decăderea constituțională. Rezistența Portugaliei este o alegere politică, nu o necesitate legală.",
+        "title": "Alte țări UE"
+      },
+      "portugal": {
+        "text": "Curtea Constituțională interpretează acest lucru în sensul că pensiile NU POATE fi pierdute automat. Încercările de reformă blocate de două ori (2012, 2015). Rezultat: politicienii condamnați păstrează pensiile complete.",
+        "title": "Interpretarea Portugaliei"
+      },
+      "quote": "„Nici o sentință nu va implica, după cum este necesar, pierderea vreunui drept civil, profesional sau politic.”",
+      "source": "— Articolul 30 din Constituția portugheză",
+      "title": "Scutul Constituțional: Articolul 30 CRP"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Pe baza salariului + ani de serviciu. Unii primesc peste 80% din salariul final pe viață. Poate depăși 20.000 EUR/lună pentru pozițiile de top.",
+        "title": "Cum se calculează"
+      },
+      "contrast": "CONTRAST: Lucrătorii obișnuiți condamnați pentru infracțiuni își pierd locurile de muncă, pensiile și viitorul. Politicienii condamnați pentru infracțiuni mult mai grave își păstrează 10.000-26.000 de euro/lună pe viață.",
+      "created": {
+        "text": "Legea 4/85 a creat subvenții pe viață pentru premier, miniștri, parlamentari și judecători. Conceput inițial pentru a recompensa „serviciul public”.",
+        "title": "Creat în 1984"
+      },
+      "description": "Portugalia are un sistem unic „Subvenção Vitalícia” (Subvenție pe viață) care acordă foștilor politicieni o plată lunară permanentă pe viață – separată și în plus față de orice pensie obișnuită. Aceasta nu este o pensie câștigată prin contribuții; este un privilegiu acordat de lege.",
+      "protected": {
+        "text": "Chiar dacă este condamnat pentru infracțiuni săvârșite în funcție, subvenția continuă. Sechestrul necesită o acțiune în instanță civilă separată – și adesea eșuează în apel.",
+        "title": "Protejat legal"
+      },
+      "title": "Sistemul Subvenção Vitalícia"
+    }
+  },
+  "meta": {
+    "title": "Arhitectura impunității - Sistemul de protecție politică al Portugaliei",
+    "description": "Cum este conceput sistemul politic al Portugaliei pentru a-i proteja pe cei corupti"
+  },
+  "accessibility": {
+    "skipToContent": "Treci la conținutul principal",
+    "toggleNav": "Comutați meniul de navigare",
+    "changeLang": "Schimbați limba",
+    "mainNav": "Navigație principală",
+    "infoIcon": "Informaţii",
+    "closeBanner": "Închideți bannerul de notificare"
+  },
+  "legal": {
+    "title": "Notă legală:",
+    "text": "Toate persoanele menționate au dreptul la prezumția de nevinovăție până la probarea vinovăției. Acest document prezintă informații disponibile public din surse oficiale, documente judecătorești și mass-media de renume. Analiza documentează modele în sistemele politice și juridice europene."
+  },
+  "cases": {
+    "title": "Dovezile: Dosare complete",
+    "intro": "Cazuri documentate care demonstrează sistemul de protecție în acțiune",
+    "timelineLabel": "Cronologie",
+    "status": {
+      "ongoing": "Proces în curs",
+      "trialOngoing": "Proces în curs",
+      "euCouncilPresident": "Președintele Consiliului UE",
+      "euPromoted": "Președintele Consiliului UE",
+      "archived": "Arhivat",
+      "declined": "Ancheta a fost refuzată",
+      "arguido": "Suspect formal (arguido)",
+      "pgrDeclined": "PGR a refuzat ancheta",
+      "formalSuspect": "Suspect formal (arguido)",
+      "convictedServing": "CONdamnat - Servire",
+      "convictedAppealing": "CONdamnat - Apel",
+      "convictedRearrested": "CONdamnat (2010) - Re-arestat 2022",
+      "convictedMultiple": "MULTIPLU CONdamnat",
+      "formalSuspectArguido": "SUSPECT FORMAL (arguido)",
+      "arrestedJan2024": "ARESTAT (ianuarie 2024)",
+      "neverProsecuted": "NICIODATĂ PUNCITĂ",
+      "neverDefendant": "Niciodată inculpat",
+      "convictedUnpaid": "CONdamnat - Datorii neachitate",
+      "convictedMultipleJurisdictions": "CONdamnat - Portugalia și Brazilia",
+      "convictedSuspended": "CONdamnat - Pedeapsa cu suspendare",
+      "convictedHouseArrest": "CONdamnat - Ares la domiciliu"
+    },
+    "tableStatus": {
+      "onTrial": "În proces",
+      "underInvestigation": "În curs de anchetă",
+      "convicted": "CONdamnat",
+      "convictedX2": "CONdamnat x2",
+      "arguido": "Arguido",
+      "archived": "Arhivat",
+      "declined": "A refuzat",
+      "arrested": "ARESTAT",
+      "neverProsecuted": "Niciodată urmărit penal",
+      "neverDefendant": "Niciodată inculpat*",
+      "convictedSuspended": "CONdamnat (susp.)"
+    },
+    "charges": {
+      "passiveCorruption": "Corupție pasivă",
+      "moneyLaundering": "Spălarea banilor",
+      "documentFalsification": "Falsificarea documentelor",
+      "taxFraud": "Frauda fiscală agravată"
+    },
+    "conditioningLesson": "Lecție de condiționare",
+    "theFacts": "Faptele",
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Operação Marquês",
+      "party": "PS - Partidul Socialist",
+      "position": "Prim-ministru (2005-2011)",
+      "timeline": {
+        "arrested": "Arestat pe aeroportul din Lisabona",
+        "detained": "Deținut în închisoarea Évora",
+        "accusation": "Acuzație formală (28 de infracțiuni)",
+        "trial": "25 de infracțiuni trimise în judecată",
+        "ongoing": "Încă este în curs de încercare - 11+ ANI",
+        "instruction": "Decizie de instrucție - 25 de infracțiuni trimise în judecată",
+        "current": "Încă este în curs de încercare - 11+ ANI"
+      },
+      "charges": {
+        "title": "Acuzații (în total 22 de infracțiuni)",
+        "corruption": "Corupția pasivă a titularului unei funcții politice",
+        "laundering": "Spălarea banilor",
+        "falsification": "Falsificarea documentelor",
+        "fraud": "Frauda fiscală agravată"
+      },
+      "amounts": {
+        "switzerland": "Elveția (2006-2009)",
+        "total": "Total de la 3 corporații",
+        "prescribed": "Taxe prescrise"
+      },
+      "keyFacts": {
+        "title": "Fapte cheie din acuzația oficială",
+        "switzerland": "Acumulat în Elveția (2006-2009)",
+        "total": "Total primit de la trei corporații",
+        "sources": "Surse de mită: Grupo LENA (construcții), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (stațiune de golf), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Lecție de condiționare",
+        "text": "Cazurile pot fi amânate pe termen nelimitat. Nici foștii premieri nu se confruntă cu nicio consecință timp de un deceniu. Fiecare contestație resetează termenele."
+      },
+      "coAccused": {
+        "apartment": "apartament Paris",
+        "description": "Prietenul apropiat al lui Socrates și presupusul „finanțator”. Om de afaceri care se presupune că a canalizat milioane către fostul PM prin achiziții de proprietăți, plăți de mașini și renovări la case. Acuzat de 9 capete de acuzare de spălare de bani.",
+        "expenses": "Cheltuieli de trai",
+        "renovations": "Renovări",
+        "sources": "Surse: rechizitoriu DCIAP, relatări de presă portugheză",
+        "title": "Co-inculpat cheie: Carlos Santos Silva",
+        "vehicles": "Vehicule"
+      },
+      "prescription": {
+        "title": "⏱️ Criza termenului de prescripție",
+        "text": "Din cele 189 de infracțiuni inițiale presupuse, 167 au fost deja prescrise (expirat) din cauza întârzierilor procedurale. Doar 22 de taxe rămân active după peste 11 ani."
+      }
+    },
+    "costa": {
+      "name": "Antonio Costa",
+      "operation": "Operação Influencer",
+      "party": "PS - Partidul Socialist",
+      "position": "Prim-ministru (2015-2023) → Președintele Consiliului UE (2024-)",
+      "timeline": {
+        "raid": "Poliția efectuează o percheziție în Palatul São Bento",
+        "resigns": "Costa demisionează imediat",
+        "elected": "Liderii UE ALEGE Costa președinte",
+        "takesOffice": "Preia funcția de președinte al Consiliului UE",
+        "ongoing": "Încă în curs de anchetă",
+        "resignation": "Costa demisionează imediat",
+        "euElection": "Liderii UE ALEGE Costa președinte al Consiliului European",
+        "current": "Încă în investigație, încă prezidând UE"
+      },
+      "keyFacts": {
+        "title": "Faptele",
+        "cash": "Numerar găsiți ascunși în cărți și cutii de vin în biroul șefului de personal",
+        "relates": "Investigația se referă la: minerit de litiu, hidrogen verde, proiecte de centre de date din Sines",
+        "arrests": "Arestări cheie: Vítor Escária (șeful de cabinet - arestat), Nuno Mascarenhas (primarul din Sines - arestat), Diogo Lacerda Machado (om de afaceri - arestat)",
+        "galamba": "Co-conspiratori numiți: João Galamba (ministrul Infrastructurii - formal arguido) — presupus implicat în trafic de influență pentru proiecte de litiu/hidrogen; a rămas la guvernare până la demisia lui Costa"
+      },
+      "lesson": {
+        "title": "Lecție de condiționare",
+        "text": "Fidelitate maximă = promovare UE. A fi sub urmărire penală nu reprezintă un obstacol în calea celor mai înalte poziții ale UE. Cel mai bun răsfăț pentru cel mai loial câine."
+      },
+      "quote": "La 27 iunie 2024, liderii UE l-au ales pe António Costa președinte al Consiliului European. A preluat mandatul la 1 decembrie 2024.",
+      "quoteCite": "— Site-ul oficial al Consiliului European"
+    },
+    "montenegro": {
+      "name": "Luís Muntenegru",
+      "operation": "Afacerea Spinumviva",
+      "party": "PSD - Partidul Social Democrat",
+      "position": "Prim-ministru (2024-prezent)",
+      "amounts": {
+        "family": "410.000 EUR+ în afaceri de familie",
+        "solverde": "4.500 €/lună consultanță pentru compania de jocuri de noroc"
+      },
+      "loopholeTitle": "Decalajul care L-a salvat:",
+      "loophole": {
+        "notFormal": "Nu este acuzat în mod oficial - numit doar în caz",
+        "preliminary": "Ancheta prealabilă (averiguação) a fost închisă fără acuzații",
+        "archived": "Caz arhivat la 17 decembrie 2025"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "SIC comentator politic",
+      "party": "PSD - Partidul Social Democrat",
+      "position": "Fost lider PSD (2005-2007), membru al Consiliului de Stat",
+      "amounts": {
+        "consultant": "700.000 EUR+ în taxe de consultanță nedezvăluite",
+        "aca": "5.000 €/lună de la ACA-M (antreprenor de stat)"
+      },
+      "keyFacts": {
+        "aca": "A primit 60.000 de euro/an de la ACA-M în timp ce avea peste 400 de milioane de euro în contracte de stat",
+        "irony": "În calitate de comentator SIC, el comentează despre corupție fără a-și dezvălui propriile interese financiare"
+      },
+      "loopholeTitle": "Decalajul care L-a salvat:",
+      "loophole": {
+        "complaint": "Plângere anonimă depusă",
+        "pgr": "PGR respins pentru \"parco detalhe\" (detaliu insuficient)",
+        "noInvestigation": "Nicio investigație nu a fost deschisă",
+        "destroyed": "Dovezi distruse efectiv prin neacțiune"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Operação Ab Initio",
+      "party": "PSD - Partidul Social Democrat",
+      "position": "Președintele Guvernului Regional Madeira",
+      "timeline": {
+        "searches": "Ianuarie 2024: Percheziții ale poliției la birourile guvernamentale",
+        "crimes": "8 infracțiuni presupuse: corupție pasivă, abuz de putere",
+        "censure": "Martie 2024: Moțiunea de cenzură eșuează",
+        "reelection": "Mai 2024: REALES în timpul anchetei"
+      },
+      "relatedArrest": "Arestare asociată:",
+      "calado": {
+        "text": "Pedro Calado (vicepreședinte, PSD) arestat în ianuarie 2024 pentru corupție"
+      },
+      "lesson": {
+        "text": "A fi sub investigație oficială nu este un obstacol în calea realegerii. Sistemul își protejează propriile sale."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado",
+      "charges": "Condamnări multiple: colaps BES, corupție EDP",
+      "note": "Pretinde Alzheimer pentru a evita închisoarea. Încă primesc pensie de bancher."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Suspect oficial în Operațiunea Influencer (corupție de litiu/hidrogen)",
+      "note": "A rămas ministrul Infrastructurii până la demisia premierului Costa"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Arestat pentru corupție, coluziune în contractele publice",
+      "note": "Vicepreședinte al Madeira, arestat în ianuarie 2024"
+    },
+    "barroso": {
+      "name": "José Manuel Barroso",
+      "charges": "Numit în scandalul submarinelor. Niciodată urmărit penal.",
+      "note": "Președintele Comisiei UE (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "Alți politicieni condamnați/acuzați",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3,5 ani: fraudă calificată, disiparea activelor. Datorie de peste 900 de milioane de euro către banca de stat CGD",
+      "note": "Colecția de artă în valoare de peste 500 de milioane de euro a fost transferată către fundații înainte de confiscare. Curtea Supremă a prelungit pedeapsa la 4 ani (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 ani (PT) + 25 ani (BR): Fraudă (BPN), asasinarea Rosalinei Ribeiro în Brazilia",
+      "note": "Fost deputat PSD (1987-2008). Victima era moștenitoarea averii clientului său. Sentință braziliană în așteptarea extrădării"
+    },
+    "loureiro": {
+      "name": "Valentim Loureiro",
+      "charges": "2 ani cu suspendare: corupție fotbalistică Apito Dourado. Aranjarea meciurilor, luarea de mită a arbitrilor",
+      "note": "Primar din Gondomar (1976-2013). Președintele Boavista FC. N-a făcut niciodată închisoare"
+    }
+  },
+  "eliteLaws": {
+    "title": "Legi concepute pentru a proteja elita",
+    "intro": "Modul în care Curtea Constituțională și Parlamentul au blocat sistematic responsabilitatea",
+    "cc": {
+      "title": "Curtea Constituțională: Gardianul Impunității",
+      "intro": "Curtea Constituțională portugheză (Tribunal Constitucional) a anulat de două ori legile privind îmbogățirea ilegală (2012 și 2015), în timp ce Parlamentul a blocat peste 22 de tentative legislative de-a lungul a 18 ani. Portugalia rămâne SINGURA țară din UE în care averea inexplicabilă nu poate fi incriminată.",
+      "timelineTitle": "18 ani de reformă blocată (2007-2025)"
+    },
+    "ruling2012": {
+      "badge": "LOVIT",
+      "title": "Acordão 179/2012",
+      "date": "4 aprilie 2012",
+      "claimedReason": "Motivul invocat:",
+      "claimedText": "Încalcă prezumția de nevinovăție (Art. 32º CRP)",
+      "reality": "Realitate:",
+      "realityText": "Franța, Spania, Italia și peste 45 de țări au legi similare care au trecut controlul constituțional.",
+      "paradox": "Paradoxul:",
+      "paradoxText": "Curtea protejează „prezumția de nevinovăție” pentru explicațiile despre avere, tolerând în același timp întârzieri de 11 ani înainte de judecată care încalcă același drept."
+    },
+    "ruling2015": {
+      "badge": "LOCAT (unanim)",
+      "title": "Acordão 377/2015",
+      "date": "27 iulie 2015",
+      "response": "Răspunsul Parlamentului:",
+      "responseText": "Legea revizuită pentru a răspunde preocupărilor din 2012 - cerință adăugată conform căreia urmărirea penală trebuie mai întâi să dovedească creșterea averii.",
+      "tcResponse": "Răspunsul TC:",
+      "tcResponseText": "Doborât din nou pe motive identice — în unanimitate.",
+      "message": "Mesaj:",
+      "messageText": "Nicio versiune a legii îmbogățirii ilicite nu va fi niciodată acceptată."
+    },
+    "euComparison": {
+      "title": "Comparație UE: de ce doar Portugalia?",
+      "country": "Ţară",
+      "law": "Legea îmbogățirii ilicite",
+      "status": "Statutul constituțional",
+      "approved": "aprobat",
+      "note": "Toate aceste țări au protecții constituționale identice pentru prezumția de nevinovăție. Doar TC din Portugalia consideră îmbogățirea ilicită „neconstituțională”."
+    },
+    "bipartisan": {
+      "title": "Mașina de blocare bipartizană",
+      "intro": "Timp de 18 ani (2007-2025), PS și PSD au blocat pe rând reformele anticorupție – indiferent cine este la putere."
+    },
+    "subtitle": "Modul în care Curtea Constituțională și Parlamentul au blocat sistematic responsabilitatea",
+    "acordao179": {
+      "title": "Acordão 179/2012",
+      "date": "4 aprilie 2012"
+    },
+    "acordao377": {
+      "title": "Acordão 377/2015",
+      "date": "27 iulie 2015"
+    },
+    "immunityComparison": {
+      "title": "Imunitate parlamentară: comparație cu UE"
+    },
+    "prescription": {
+      "title": "Perioade de prescripție: comparație UE"
+    },
+    "prescriptionNote": "Notă: Portugalia are cea mai lungă durată medie a cazului ȘI menține o imunitate largă - cea mai proastă combinație.",
+    "euScorecard": {
+      "title": "Tabloul de bord anti-corupție al UE",
+      "note": "Portugalia se clasează în mod constant la ultimul loc al democrațiilor vest-europene."
+    }
+  },
+  "loopholes": {
+    "title": "Arhitectura legală: trape de evacuare proiectate",
+    "subtitle": "Acestea nu sunt erori - sunt caracteristici",
+    "anonymousComplaint": {
+      "title": "Plângeri anonime respinse",
+      "text": "Articolul 246.º nr. 6 CPP permite procurorilor să respingă plângerile anonime pentru „parco detalhe” (detalii insuficiente), chiar și atunci când sunt furnizate probe."
+    },
+    "immunity": {
+      "title": "Imunitatea parlamentară",
+      "text": "Articolul 157.º CRP împiedică reținerea deputaților fără permisiunea Parlamentului, care nu este niciodată acordată aliaților politici."
+    },
+    "averiguacao": {
+      "title": "Faza de pre-investigație",
+      "subtitle": "Averiguação Preliminar",
+      "text": "O fază de pre-investigație care poate dura ani fără acuzații formale, permițând politicienilor să susțină că „nu sunt investigați”."
+    },
+    "segredo": {
+      "title": "Secretul judiciar",
+      "text": "Articolul 86.º nr. 3 CPP permite „segredo de justiça” să ascundă investigațiile timp de ani de zile – în timp ce politicienii continuă în funcție și sunt promovați."
+    },
+    "prescription": {
+      "title": "Termenul de prescripție",
+      "articles": "Articolele 118-122 CP",
+      "text": "Cazurile complexe de corupție pot fi amânate până când prescriu (expiră). Cazul mediu durează 8-12 ani; prescripția este de 10-15 ani."
+    },
+    "constitutionalCourt": {
+      "title": "Veto al Curții Constituționale",
+      "subtitle": "Tribunalul Constituțional",
+      "text": "TC a anulat de două ori legile privind îmbogățirea ilegală (2012, 2015) și a blocat mai multe încercări de referendum."
+    },
+    "immunityComparison": {
+      "title": "Imunitate parlamentară: comparație cu UE",
+      "scope": "Domeniul de aplicare al imunității",
+      "canBlock": "Poate bloca ancheta?",
+      "note": "Imunitatea Portugaliei este cea mai LARGA din UE, în ciuda cadrelor constituționale similare. Parlamentarii nu pot fi reținuți fără votul Parlamentului, ceea ce nu este niciodată acordat aliaților politici."
+    },
+    "prescriptionComparison": {
+      "title": "Perioade de prescripție: comparație UE",
+      "period": "Perioadă",
+      "suspension": "Suspendat în timpul anchetei?",
+      "avgDuration": "Durata medie a cazului",
+      "critical": "Constatare critică:",
+      "finding": "Operação Marquês: 167 din 189 de acuzații prescrise (88% respinse ca „prea târziu”). Judecătorul a recunoscut dovada, dar a decis că „timpul a expirat”.",
+      "stat": "73% dintre procurorii portughezi spun că termenele de prescripție sunt insuficiente. (Sursa: Transparency International)"
+    },
+    "article246": {
+      "title": "Paradoxul articolului 246",
+      "mechanism": "Mecanismul:",
+      "explanation": "Articolul 246.º nr. 6 CPP impune procurorilor să găsească „indicios” (indicii) de infracțiune ÎNAINTE de a investiga. Dar cum să stabilim indicații fără a investiga? Legea creează un catch-22 perfect.",
+      "cases": "Aplicații de caz:",
+      "montenegro": "410.000 EUR plăți documentate → „insuficiente”",
+      "mendes": "Înregistrări bancare de 700.000 EUR → „detaliu redus”",
+      "verdict": "„O caracteristică de design mascată drept garanție procedurală.”"
+    },
+    "inconsistency": {
+      "title": "Curtea Constituțională: Cerere selectivă",
+      "permitted": "✓ PERMIS în Portugalia",
+      "prohibited": "✗ INTERZIS de TC",
+      "p1": "• Procurorii refuză ancheta în ciuda documentelor (Muntenegru, Mendes)",
+      "p2": "• întârzieri de 11 ani înainte de judecată (Sócrates)",
+      "p3": "• Investigații de blocare a imunității parlamentare",
+      "p4": "• Pensii de 26.000 euro/lună pentru miniștrii condamnați",
+      "n1": "• Solicitarea oficialilor să explice creșterile documentate ale averii",
+      "n2": "• Incriminarea îmbogățirii inexplicabile după dovedirea creșterii",
+      "n3": "• Punerea sarcinii probelor asupra funcționarilor care dețin în mod unic probe",
+      "n4": "• Legile privind îmbogățirea ilegală (abrogate în 2012, 2015)",
+      "note": "Franța, Spania și Italia au protecții constituționale identice pentru prezumția de nevinovăție – totuși au respectat legile de îmbogățire ilicit. Numai TC din Portugalia le consideră „neconstituționale”."
+    },
+    "intro": "Sistemul juridic al Portugaliei conține mecanisme specifice care permit impunitatea clasei politice."
+  },
+  "blocking": {
+    "title": "Modelul de blocare: 18 ani de eșec intenționat",
+    "subtitle": "Fiecare încercare de reformare a fost blocată, slăbită sau doborâtă",
+    "timeline": {
+      "title": "Cronologie pentru blocarea îmbogățirii ilicite (2007-2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Blocarea regulamentului lobby-ului"
+    },
+    "symbiosis": {
+      "title": "Simbioza PS/PSD: doi câini, o canisa",
+      "psTitle": "PS (Partidul Socialist)",
+      "psdTitle": "PSD (social-democrați)",
+      "ps": {
+        "noProsecute": "Nu acuză pe PSD-iști",
+        "loopholes": "Menține lacune legale care beneficiază ambele părți",
+        "blocksReforms": "Blochează reformele anticorupție atunci când este în opoziție"
+      },
+      "psd": {
+        "noProsecute": "Nu acuză membrii PS",
+        "loopholes": "Menține lacune legale care beneficiază ambele părți",
+        "blocksReforms": "Blochează reformele anticorupție atunci când este în opoziție"
+      }
+    },
+    "quote": {
+      "text": "\"O PCP apresentou proiectos de lei para criminalizar o enriquecimento ilícito. Foram sempre rejeitados pelo PS e pelo PSD.\"",
+      "translation": "„PCP a prezentat proiecte de lege pentru incriminarea îmbogățirii ilicite. Au fost întotdeauna respinse de PS și PSD”."
+    },
+    "otherParties": {
+      "title": "Alte partide: Opoziţia impotentă",
+      "proposedReforms": "Reforme propuse (toate respinse):",
+      "reforms": {
+        "pcp1": "Proiectul PCP 726/X (2009) - Îmbogățirea ilicită",
+        "pcp2": "Proiectul PCP 25/XI (2009) - Îmbogățirea ilicită",
+        "chega": "Chega (2021) - Îmbogățirea ilicită",
+        "be": "BE - Propuneri multiple de transparență"
+      },
+      "chegaVote": {
+        "title": "Propunerea Chega respinsă de TOATE partidele (2021)",
+        "text": "Când Chega a propus îmbogățirea ilicită în 2021, <strong>fiecare partid a votat împotrivă</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> — NU",
+        "psd": "• <span class=\"text-psd\">PSD</span> — NU",
+        "be": "• <span class=\"text-pink-500\">BE</span> — NU (s-a abținut din motive de „sursă”)",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> — NU (s-a abținut din motive de „sursă”)",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> — NR",
+        "note": "Partidele de stânga au refuzat să voteze cu extrema dreaptă, chiar și pentru o reformă pe care o susțin"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "Paradoxul:",
+      "paradoxText": "Partidele care susțin public reforma anticorupție votează împotriva acesteia atunci când sunt propuse de alții."
+    },
+    "intro": "Fiecare încercare de reformă a fost blocată, slăbită sau respinsă",
+    "visual": {
+      "title": "18 ani de blocaj",
+      "attempts": "Încercări de reformă",
+      "years": "Ani de întârziere",
+      "laws": "Legi slăbite"
+    }
+  },
+  "euRewards": {
+    "title": "Sistemul de recompense al UE: Câinii loiali primesc tratații",
+    "subtitle": "Investigație → Promovare UE",
+    "costaTimeline": {
+      "title": "Cronologia Costa — Ultimate Conditioning Proof"
+    },
+    "december": {
+      "title": "Trifecta decembrie 2025"
+    },
+    "trifecta": {
+      "title": "Trifecta decembrie 2025",
+      "subtitle": "Trei politicieni au scăpat de responsabilitate într-o singură lună:"
+    },
+    "broaderPicture": {
+      "title": "Imaginea mai largă"
+    },
+    "observation": "Observație: UE recompensează loialitatea, nu integritatea.",
+    "intro": "Investigație → Promovare UE",
+    "table": {
+      "title": "Politicieni portughezi → Poziții UE",
+      "patternNote": "Acest tabel documentează un model de politicieni care primesc poziții UE în ciuda controverselor. Corelația nu dovedește cauzalitate sau coordonare - dar frecvența justifică o analiză."
+    },
+    "revolvingDoor": {
+      "title": "Ușa rotativă: Bruxelles → Sector privat"
+    }
+  },
+  "solution": {
+    "title": "Singura soluție: Forță externă",
+    "subtitle": "De ce este imposibilă reforma internă – și ce pot face cetățenii",
+    "impossibility": {
+      "title": "De ce este imposibilă reforma internă"
+    },
+    "mechanisms": {
+      "title": "Mecanismele externe"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "Întrebarea 1"
+      },
+      "q2": {
+        "title": "Întrebarea 2"
+      },
+      "q3": {
+        "title": "Întrebarea 3"
+      },
+      "q4": {
+        "title": "Întrebarea 4"
+      },
+      "q5": {
+        "title": "Întrebarea 5"
+      }
+    },
+    "whyImpossible": {
+      "title": "De ce este imposibilă reforma internă"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Inițiativa pentru referendumul cetățenesc",
+        "subtitle": "semnături necesare",
+        "text": "Cetăţenii pot propune referendumuri obligatorii pe orice chestiune de importanţă naţională."
+      },
+      "legislativa": {
+        "title": "Inițiativa legislativă a cetățenilor",
+        "subtitle": "semnături necesare",
+        "text": "Cetăţenii pot propune legislaţie direct Parlamentului."
+      },
+      "european": {
+        "title": "Inițiativa cetățenilor europeni",
+        "subtitle": "semnături necesare în peste 7 țări UE",
+        "text": "Mecanism la nivelul UE pentru propunerea de legislație Comisiei Europene."
+      }
+    },
+    "damningRecord": {
+      "title": "Recordul blestemat",
+      "text": "Istoria referendumului din Portugalia arată că sistemul este conceput să eșueze:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Excluderea digitală: reducerea la tăcere a persoanelor în vârstă",
+      "usageByAge": "Utilizarea internetului pe grupe de vârstă (Portugalia, 2024)",
+      "keyStats": "Statistici cheie:"
+    },
+    "proposedQuestions": {
+      "title": "Întrebări propuse la referendum"
+    },
+    "intro": "De ce reforma internă este imposibilă — și ce pot face cetățenii",
+    "tradeoffs": {
+      "title": "Compensații oneste: ceea ce propunem are riscuri",
+      "intro": "În spiritul transparenței, recunoaștem că mecanismele de democrație directă (cum ar fi referendumurile în stil elvețian) au provocări reale:",
+      "challenges": {
+        "title": "Provocări cunoscute",
+        "engagement": "• <strong>Oboseala alegătorilor:</strong> prezența la vot din Elveția este în medie de 40-50%. Voturile frecvente pot epuiza cetățenii.",
+        "complexity": "• <strong>Reducerea complexității:</strong> politica nuanțată este redusă la da/nu. Riscuri de simplificare.",
+        "populism": "• <strong>Manipularea populistă:</strong> campaniile bine finanțate pot influența alegătorii prost informați.",
+        "minority": "• <strong>Drepturile minorităților:</strong> Majoritățile pot vota împotriva minorităților (interdicția minaretului elvețian, 2009).",
+        "corruption": "• <strong>Nu este lipsită de corupție:</strong> Elveția ocupă locul 7 la IPC — bună, dar nu perfectă."
+      },
+      "whyStill": {
+        "title": "De ce încă o propunem",
+        "accountability": "• <strong>Răspunderea există:</strong> responsabilitate imperfectă > responsabilitate zero.",
+        "binding": "• <strong>Rezultate obligatorii:</strong> politicienii nu pot ignora rezultatele așa cum ignoră petițiile.",
+        "deterrent": "• <strong>Efect de descurajare:</strong> știind că alegătorii pot depăși, creează un stimulent pentru receptivitate.",
+        "culture": "• <strong>Schimbare culturală:</strong> participarea regulată dezvoltă implicarea civică în timp.",
+        "track": "• <strong>Record:</strong> peste 700 de referendumuri elvețiene din 1848. Sistemul funcționează, imperfect."
+      },
+      "conclusion": "<strong class=\"text-white\">Poziția noastră:</strong> nu pretindem că democrația directă este perfectă. Pretindem că este mai bine decât un sistem în care politicienii își votează propriile salarii, imunitate și responsabilitate – și aleg în mod constant să se protejeze. Întrebarea nu este „Este democrația directă perfectă?” dar „Este mai bine decât ceea ce avem noi?” Dovezile sugerează că da."
+    }
+  },
+  "euLabor": {
+    "title": "Războiul împotriva muncitorilor: drepturile muncii în UE demontate",
+    "subtitle": "Cum integrarea europeană a slăbit protecția lucrătorilor în Portugalia",
+    "germany": {
+      "title": "Germania: Hartz IV Reforme",
+      "benefits": "Beneficiile reduse la niveluri minime",
+      "duration": "Ajutoare de șomaj limitate la 12 luni",
+      "dependent": "S-a creat o nouă clasă de „muncitori săraci”"
+    },
+    "france": {
+      "title": "Franța: El Khomri și reforma pensiilor",
+      "elKhomri": "Legea El Khomri (2016): Protecția muncii slăbită",
+      "pension": "Reforma pensiilor (2023): Vârsta de pensionare crescută, în ciuda protestelor în masă",
+      "yellowVests": "Mișcarea vestelor galbene zdrobită de violența poliției"
+    },
+    "uk": {
+      "title": "Marea Britanie: Austeritate",
+      "welfare": "Sistemul de bunăstare evidențiat de „austeritate”",
+      "universalCredit": "Credit universal: conceput pentru a refuza beneficiile",
+      "sanctioned": "2,5 milioane de sancțiuni aplicate (2012-2018)"
+    },
+    "italy": {
+      "title": "Italia: Guvernul Meloni",
+      "citizenIncome": "Reddito di Cittadinanza (venitul cetăţeanului) desfiinţat",
+      "prison": "Până la 6 ani închisoare pentru organizarea de greve care blochează traficul",
+      "strikes": "Dreptul la grevă tot mai incriminat"
+    },
+    "pattern": {
+      "title": "Modelul în întreaga UE"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "Stratul de excludere digitală",
+      "description": "Generația care a asistat la întregul model de corupție de 50 de ani este exclusă sistematic din sistemul de semnătură a referendumului doar digital."
+    },
+    "explanation": "Inițiativele moderne de referendum necesită semnături digitale, excluzând efectiv generațiile mai în vârstă care sunt mai puțin probabil să folosească internetul.",
+    "usageSource": "Sursa: Eurostat (2024)",
+    "stats": {
+      "65to74": "38,9% dintre persoanele de 65-74 de ani sunt excluse digital",
+      "75plus": "~70% dintre persoanele de peste 75 de ani sunt excluse digital",
+      "never": "Mulți nu au folosit niciodată internetul",
+      "population": "Aceasta reprezintă peste 2 milioane de cetățeni portughezi"
+    },
+    "warning": "Ironia crudă:"
+  },
+  "conclusion": {
+    "notDemocracy": "Aceasta nu este democrație cu probleme de corupție",
+    "byDesign": "Acesta este prin design",
+    "euComplicit": "UE este complice",
+    "choice": "Alegerea",
+    "title": "Concluzie",
+    "summary": "Sistemul nu este stricat. Funcționează exact așa cum a fost conceput.",
+    "action": "Singura soluție este acțiunea externă a cetățenilor",
+    "byDesignText": "Sistemul nu este stricat. A fost conceput astfel.",
+    "choiceText1": "Acest document a fost semnat de",
+    "choiceSignatures": "cetăţenii",
+    "choiceText2": "cerând schimbarea.",
+    "choiceThatsYou": "Ăsta ești TU.",
+    "euComplicitText": "Instituțiile UE promovează funcționarii anchetați în funcții de vârf.",
+    "notDemocracyText": "O țară în care cetățenii nu pot organiza referendumuri nu este o democrație deplină.",
+    "choiceText": "Acest document a fost semnat de cetățeni care cer schimbarea."
+  },
+  "dashboard": {
+    "title": "Panoul Corupției din Portugalia",
+    "intro": "Date oficiale de la Transparency International, DGPJ, Eurostat și GRECO",
+    "kpi": {
+      "cpi": {
+        "label": "Scorul TI CPI 2024",
+        "trend": "-4 din 2023"
+      },
+      "trust": {
+        "label": "Cetăţeni: „Guvernul este corupt”",
+        "source": "Eurobarometru 2024"
+      },
+      "blocked": {
+        "label": "Tentative legislative blocate",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Ani: Cazul Socrates",
+        "trend": "Încă în curs"
+      }
+    },
+    "charts": {
+      "cpi": "Indicele de percepție a corupției (2012-2024)",
+      "duration": "Durata medie a cazului (luni)",
+      "euComparison": "Comparație UE: Scorul IPC vs Legea îmbogățirii ilicite"
+    },
+    "sources": "Surse de date:"
+  },
+  "forum": {
+    "title": "Forumul cetățenilor UE",
+    "intro": "Împărtășiți-vă perspectiva asupra răspunderii politice",
+    "stats": "contribuții din partea cetățenilor UE",
+    "form": {
+      "name": "Nume (opțional)",
+      "namePlaceholder": "Anonim",
+      "country": "Ţară",
+      "message": "Mesajul dvs",
+      "messagePlaceholder": "Împărtășiți-vă părerile despre responsabilitatea politică în UE...",
+      "submit": "Postează comentariu",
+      "note": "Nu sunt permise adrese URL. Comentariile sunt stocate local și moderate."
+    },
+    "noComments": "Fiți primul care vă împărtășește perspectiva asupra răspunderii politice.",
+    "errors": {
+      "tooShort": "Comentariul trebuie să aibă cel puțin 10 caractere",
+      "tooLong": "Comentariul trebuie să aibă sub 1000 de caractere",
+      "prohibited": "Comentariul conține conținut interzis"
+    },
+    "success": "Comentariu adăugat cu succes",
+    "time": {
+      "justNow": "Chiar acum",
+      "minutesAgo": "m în urmă",
+      "hoursAgo": "h în urmă",
+      "daysAgo": "d acum d"
+    }
+  },
+  "donate": {
+    "title": "Susține cercetarea imparțială",
+    "intro": "Maximum 2 EUR per donator pentru a menține independența completă",
+    "principles": {
+      "max": {
+        "title": "Maxim 2 €",
+        "text": "Fără donatori mari înseamnă lipsă de influență. Toată lumea are o voce egală."
+      },
+      "allParties": {
+        "title": "Toate părțile documentate",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — niciun partid nu este scutit de control."
+      },
+      "official": {
+        "title": "Doar surse oficiale",
+        "text": "Acte judecătorești, dosare de urmărire penală, hotărâri ale Curții Constituționale."
+      },
+      "transparency": {
+        "title": "Transparență deplină",
+        "text": "Toate datele sunt verificabile, toate sursele sunt citate."
+      }
+    },
+    "stats": {
+      "raised": "Total Strâns",
+      "donors": "Donatori"
+    },
+    "whyMax": "De ce maxim 2 euro?",
+    "whyMaxText": "Donațiile mari creează obligații. Microdonațiile de la mii de cetățeni asigură că această cercetare servește interesului public, nu oricărei agende politice sau de afaceri.",
+    "modal": {
+      "title": "Susține cercetarea imparțială",
+      "purpose": "Microdonația dvs. sprijină cercetarea independentă privind responsabilitatea politică în întreaga UE.",
+      "principlesTitle": "Principiile noastre:",
+      "maxDonor": "Maxim 2 EUR/donator - Fără donatori mari, fără influență",
+      "allPartiesDoc": "Toate părțile documentate - PS, PSD, CDS, PCP, BE, Chega - toate incluse",
+      "officialOnly": "Doar surse oficiale - acte de judecată, dosare de urmărire penală",
+      "fullTransparency": "Transparență totală - Toate datele pot fi verificate",
+      "paymentMethods": "Metode de plată în curând:",
+      "simulateBtn": "Simulați donația (Demo)",
+      "demoNote": "Aceasta este o demonstrație. Integrarea plăților reale necesită configurarea backend."
+    },
+    "errors": {
+      "invalidAmount": "Vă rugăm să introduceți o sumă validă",
+      "maxAmount": "Donația maximă este de {{max}} EUR pentru a menține independența în cercetare"
+    },
+    "success": "Multumesc! Donație de {{amount}} EUR înregistrată."
+  },
+  "footer": {
+    "legalTitle": "Aviz legal",
+    "legalNotice": "Aviz legal",
+    "legalNotice.text": "All individuals mentioned are entitled to the presumption of innocence. This document presents publicly available information from official sources, court documents, and verified media reports that the investigator considers essential for public awareness and democratic accountability.",
+    "legalText": "Toate persoanele menționate în acest document au dreptul la prezumția de nevinovăție până la probarea vinovăției în instanță. Acest document prezintă informații disponibile public din surse oficiale, documente ale instanței și instituții media de renume. Analiza reprezintă modele documentate în sistemul juridic și politic portughez.",
+    "prepared": "Document intocmit:",
+    "verified": "Toate sursele verificate la data publicării",
+    "legalNoticeText": "Toate informațiile prezentate provin din documente oficiale ale instanței, înregistrări parlamentare și mass-media de renume. Persoanele menționate sunt prezumate nevinovate până la dovedirea vinovăției."
+  },
+  "countries": {
+    "PT": "Portugalia",
+    "ES": "Spania",
+    "FR": "Franţa",
+    "DE": "Germania",
+    "IT": "Italia",
+    "NL": "Olanda",
+    "BE": "Belgia",
+    "AT": "Austria",
+    "PL": "Polonia",
+    "RO": "România",
+    "EL": "Grecia",
+    "CZ": "Cehia",
+    "HU": "Ungaria",
+    "SE": "Suedia",
+    "DK": "Danemarca",
+    "FI": "Finlanda",
+    "IE": "Irlanda",
+    "BG": "Bulgaria",
+    "HR": "Croaţia",
+    "SK": "Slovacia",
+    "SI": "Slovenia",
+    "LT": "Lituania",
+    "LV": "Letonia",
+    "EE": "Estonia",
+    "CY": "Cipru",
+    "MT": "Malta",
+    "LU": "Luxemburg",
+    "EU": "Cetăţean UE"
+  },
+  "investigative": {
+    "badge": "Raport de investigație",
+    "title": "Ce dezvăluie această investigație",
+    "intro": "După examinarea documentelor judecătorești, a înregistrărilor parlamentare, a hotărârilor Curții Constituționale, a evaluărilor GRECO, a rapoartelor Transparency International, a sondajelor Eurobarometru și a 50 de ani de arhive media portugheze, apare un model tulburător: sistemul politic al Portugaliei nu este stricat – funcționează exact așa cum a fost proiectat.",
+    "evidenceTitle": "Dovezile arată:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Constatări internaționale:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "Aceasta nu este o teorie a conspirației. Acesta este un fapt documentat. Fiecare reclamație din acest raport provine din documente oficiale, hotărâri judecătorești sau organizații internaționale de renume. Arhitectura impunității nu este ascunsă – este publică, legală și menținută în mod deliberat de cei pe care îi protejează.",
+    "evidence": {
+      "banking": "Peste 20 de miliarde de euro furate din cauza prăbușirilor bancare (BPN, BES, CGD)",
+      "casaPia": "Peste 100 de copii au fost abuzați la Casa Pia, în timp ce elitele l-au acoperit timp de 20 de ani",
+      "pms": "2 prim-miniștri anchetați, 0 condamnați",
+      "reforms": "9+ reforme anticorupție blocate de PS/PSD din 1983",
+      "referendums": "0 referendum obligatoriu în 50 de ani de democrație",
+      "suspended": "75% din cazurile de corupție se termină cu pedepse cu suspendare"
+    },
+    "findings": {
+      "greco": "GRECO: Doar 1 din cele 15 recomandări anticorupție a fost pe deplin implementată",
+      "ti": "Transparency International: Portugalia a scăzut de la locul 25 la locul 33 (2012-2024)",
+      "eurobarometer": "Eurobarometru: 88% dintre portughezi cred că guvernul este corupt",
+      "euAverage": "Media UE: durata medie de urmărire penală de 10 ani față de cei peste 11 ani din Portugalia",
+      "uncac": "UNCAC: 18 ani de la angajament, încă nu există o lege privind îmbogățirea ilicită",
+      "euRuleOfLaw": "Statul de drept al UE 2025: 81 de cazuri, 16 condamnări în 2024 — timp mediu de urmărire penală: 6,8 ani"
+    }
+  },
+  "greco": {
+    "badge": "Evaluarea Consiliului Europei",
+    "title": "GRECO: 1 din 15 recomandări implementate",
+    "subtitle": "Grupul de state împotriva corupției",
+    "intro": "Grupul de state împotriva corupției (GRECO) a criticat în mod repetat lipsa de progres a Portugaliei",
+    "implemented": {
+      "number": "1",
+      "title": "Implementat pe deplin",
+      "subtitle": "din 15 recomandări",
+      "text": "Doar o recomandare privind transparența finanțării partidelor politice a fost abordată pe deplin."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Implementat parțial",
+      "subtitle": "încă în așteptarea finalizării",
+      "text": "Include: coduri de conduită MP, declarații de avere, gestionarea conflictelor de interese, transparență în lobby."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Neimplementat",
+      "subtitle": "ignorat sau respins",
+      "text": "Include: incriminarea îmbogățirii ilicite, protecția avertizorilor, perioade de răcire pentru miniștri."
+    },
+    "criticismsTitle": "Critici cheie GRECO (Raport 2023):",
+    "criticisms": {
+      "noCode": "Fără cod de conduită obligatoriu pentru parlamentari",
+      "assets": "Declarațiile de avere nu au fost verificate independent",
+      "lobbyists": "Fără registru al lobbyiștilor",
+      "coolingOff": "Fără perioadă de răcire pentru miniștrii care se alătură sectorului privat",
+      "whistleblower": "Legea privind protecția avertizorilor are încă lacune",
+      "conflicts": "Reguli privind conflictele de interese aplicate prost",
+      "prosecution": "Perioadele de urmărire penală depășesc limite rezonabile",
+      "immunity": "Imunitatea politică reglementează prea ample"
+    },
+    "source": "Sursa: Runda a cincea de evaluare GRECO - Portugalia",
+    "sourceLabel": "Sursa: Runda a cincea de evaluare GRECO - Portugalia",
+    "scorecard": {
+      "title": "Cronologie de neconformitate pe 10 ani (2015-2025)",
+      "fourthRound": "RUPDA A PATRA (2015)",
+      "fifthRound": "RUNDA A CVINEA (2024)",
+      "focusMPs": "Parlamentari, Judecători, Procurori",
+      "focusExec": "Guvernul și aplicarea legii",
+      "implemented": "Implemented",
+      "fullyImplemented": "Implementat pe deplin",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "Media UE: 59% | Portugalia: 33%",
+      "partial": "18 Parțial | 10 Neimplementat",
+      "ongoing": "Conformitate În curs"
+    },
+    "menac": {
+      "title": "MENAC: Mecanismul Naţional Anticorupţie",
+      "staffed": "Staffed",
+      "detail": "Doar 12 din 27 de posturi autorizate au fost ocupate. Declarat „operațional” în iunie 2023, dar GRECO spune: „nu este pe deplin operațional”"
+    }
+  },
+  "whistleblower": {
+    "title": "Protecția avertizorilor: Scutul lipsă",
+    "subtitle": "Cei care demasc corupția se confruntă cu răzbunare, în timp ce corupții se confruntă cu protecție",
+    "ruiPinto": {
+      "title": "Cazul Rui Pinto",
+      "text": "Hacker portughez care a dezvăluit scandalul „Football Leaks”, dezvăluind corupția la cele mai mari cluburi din Europa și în sistemul de justiție al Portugaliei. Scurgerile sale au contribuit la Operațiunea Lex (judecători corupți) și Luanda Leaks.",
+      "outcomeTitle": "REZULTAT:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: Arestat, extrădat din Ungaria",
+      "convicted": "Pinto: Condamnat pentru infracțiuni de hacking",
+      "officials": "Oficiali corupți pe care i-a expus: Unii în proces, cei mai mulți liberi"
+    },
+    "comparison": {
+      "title": "Comparație UE: Legile privind avertizorii",
+      "headers": {
+        "country": "Ţară",
+        "protection": "Nivel de protecție",
+        "status": "Stare"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Puternic",
+          "status": "Raportare anonimă + asistență juridică"
+        },
+        "ireland": {
+          "protection": "Puternic",
+          "status": "Legea cuprinzătoare din 2014"
+        },
+        "france": {
+          "protection": "Puternic",
+          "status": "Legea Sapin II (2016)"
+        },
+        "germany": {
+          "protection": "Mediu",
+          "status": "Implementat 2023"
+        },
+        "portugal": {
+          "protection": "Slab",
+          "status": "Rămân goluri conform GRECO"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "Povestea celor doi Rui",
+      "subtitle": "Doi bărbați pe nume Rui care au îndrăznit să dezvăluie adevărul. Amândoi pedepsiți. Corupții? În mare parte gratuit."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "Fondator al <a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a>, o platformă portugheză inspirată de WikiLeaks (în 2010) care expune documentele guvernamentale și vulnerabilitățile de securitate. Singurul site web listat în CIA World Factbook sub „grupurile de presiune politică” din Portugalia.",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Interzis de pe internet</strong> timp de 8 luni",
+      "gagged": "• Sub rezerva <strong>ordonanței judiciare</strong>",
+      "fired": "• <strong>Concedat</strong> de la locul său de muncă la PT Comunicações",
+      "active": "• <span class=\"text-good\">Tugaleaks încă activ în 2025</span>",
+      "source": "Sursa: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRi (Drepturi digitale europene)</a>"
+    }
+  },
+  "media": {
+    "title": "The Conditioning Machine: Media Ownership",
+    "subtitle": "Cine deține mass-media portugheză și de ce contează?",
+    "ownershipTitle": "Proprietate concentrată",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão - fost premier (PSD)",
+      "cofina": "Printre acționarii majori se numără băncile salvate de stat",
+      "mediaCapital": "Vândut recent, proprietatea se schimbă frecvent",
+      "globalMedia": "Deținut de investitori cu interese diverse",
+      "rtp": "Deținut de stat, consiliu numit de guvern"
+    },
+    "conditioningTitle": "Efectul de condiționare",
+    "conditioningIntro": "Când proprietarii mass-media au legături cu partidele politice sau depind de publicitatea de stat:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "REZULTATUL:",
+    "resultText": "Cetățenii portughezi știu că există corupție (88% o spun), dar se simt neputincioși să o schimbe. Mass-media acoperă scandaluri, dar rareori le conectează la arhitectura de protecție sistemică.",
+    "conditioning": {
+      "selfCensorship": "Autocenzura devine normalizată",
+      "underfunded": "Jurnalism de investigație subfinanțat",
+      "forgotten": "Scandalurile acoperite pentru scurt timp, apoi uitate",
+      "bothSides": "„Ambele părți” falsă echivalență privind corupția",
+      "personalities": "Concentrați-vă pe personalități, nu pe probleme sistemice"
+    }
+  },
+  "eciCritique": {
+    "title": "Defectul de proiectare ECI: 12 luni de contramobilizare",
+    "problem": "Comisia are la dispoziție 12 luni pentru a răspunde — timp pentru a organiza rezistența, a face lobby împotriva implementării sau pur și simplu a amâna până când atenția publicului dispare.",
+    "tacticsTitle": "Contramăsuri disponibile instituțiilor:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Eșecuri istorice ECI:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "Alternativa:",
+    "alternativeText": "Acesta este motivul pentru care propunem mecanisme de referendum DIRECT, cum ar fi Elveția, nu ECI bazate pe petiții care pot fi ignorate. Referendumurile elvețiene sunt OBLIGATORII – politicienii nu pot să le aștepte pur și simplu.",
+    "comparisonTitle": "ECI vs Referendumul Elvețian:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Bază de date completă a corupției",
+    "subtitle": "Peste 25 de scandaluri majore expuse (1980-2025)",
+    "intro": "Fiecare caz major de corupție documentat cu sume, rezultate și surse",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "Cea mai mare fraudă din istoria Portugaliei. S-au descoperit 700 milioane EUR+ în pierderi în afara bilanțului. Banca nationalizata.",
+        "sources": "Surse: RTP, Público, Acte judecătorești"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "Conexiunea EDP:",
+        "edpText": "Salgado a fost condamnat pentru mituirea ministrului Economiei Manuel Pinho cu 4,5 milioane de euro pentru decizii favorabile PDE.",
+        "sources": "Surse: Observador, Acte Judecătorie, Rapoarte BdP",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado - CEO (1991-2014) - Studii multiple, întârzieri de sănătate",
+          "ricciardi": "José Maria Ricciardi - BES Investment - CONdamnat",
+          "pires": "Amílcar Morais Pires - CFO - CONdamnat",
+          "cruz": "Machado da Cruz - Director de risc - În proces"
+        },
+        "fraudStructure": {
+          "title": "Structura fraudei:",
+          "hiddenLosses": "4,9 miliarde EUR în pierderi nedezvăluite ascunse prin vehicule offshore",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPV-uri (companii fictive din Luxemburg)",
+          "mechanisms": "Împrumuturi cu părți afiliate, garanții circulare, datorii ascunse, active fictive, operațiuni în Angola (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgado devine CEO (23 de ani de domnie)",
+          "problems": "2013: Auditurile interne arată probleme (conștient de familie)",
+          "collapse": "2014-08: Raportează pierderi de 3,6 miliarde EUR, banca suspendată, salvare de 4,9 miliarde EUR",
+          "prosecution": "2015-2025: Procese multiple, progres lent, CEO nu a fost niciodată închis"
+        },
+        "monteBlanco": {
+          "name": "Procesul Monte Branco",
+          "defendants": "18 inculpați inclusiv Salgado",
+          "status": "În curs 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Socrates ar fi primit 15.000 de euro/lună de la Salgado",
+          "pinho": "Ministrul Pinho a primit 4,9 milioane de euro de la Salgado (condamnat la 10 ani)"
+        },
+        "regulatoryFailure": "Banca Portugaliei a ratat semnele de avertizare ani de zile. Auditorii au aprobat conturile frauduloase."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Banca de stat cere cea mai mare salvare din istoria Portugaliei.",
+        "interferenceTitle": "Interferență politică:",
+        "interferenceText": "Ancheta parlamentară constată „interferențe politice” și „numiri partizane” care se întind pe mai multe guverne.",
+        "sources": "Surse: RTP, Raport de anchetă parlamentară"
+      }
+    },
+    "politicians": {
+      "title": "Prim-miniștri și politicieni de top",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Surse de corupție:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Conturi elvețiene: 24 de milioane de euro descoperite"
+        },
+        "otherScandalsTitle": "Alte scandaluri conexe:",
+        "other": {
+          "freeport": "Freeport: acuzații de derogare de mediu",
+          "parqueEscolar": "Parque Escolar: fraudă la renovarea școlii",
+          "cgd": "CGD: Presupusă influență asupra deciziilor băncii"
+        },
+        "sources": "Surse: Acuza DCIAP, Acte Judecătorie",
+        "charges": {
+          "title": "Scandalul prescripțiilor:",
+          "original": "189 de acuzații depuse (31 de infracțiuni)",
+          "prescribed": "167 taxe PRESCRISE (expirate)",
+          "remaining": "Doar 22 de acuzații trec în judecată",
+          "judge": "Judecătorul Ivo Rosa (aprilie 2021): a hotărât că majoritatea crimelor au „decăzut”",
+          "ruling": "Judecătorul a hotărât că Socrates a fost „corupt”, dar crima „a încetat”"
+        },
+        "timeline": {
+          "arrested": "21-11-2014: Arestat pe aeroportul din Lisabona",
+          "prison": "2014-2015: 9 luni în închisoarea Évora",
+          "houseArrest": "2015: Ares la domiciliu, apoi complet liber",
+          "ongoing": "2025: Încă nicio condamnare după 11+ ani"
+        },
+        "pension": {
+          "title": "Protejat în timp ce este acuzat:",
+          "amount": "30.000 EUR/an „subvenție pe tot parcursul vieții” (subvenção vitalícia)",
+          "legal": "Folosirea pensiei pentru finanțarea apărării juridice",
+          "lifestyle": "Mentine apartamentul Paris, stilul de viata"
+        },
+        "recovery": "0 EUR recuperați pentru statul portughez",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Poziția de apărare:",
+        "defense": "Sócrates susține că 34 de milioane de euro au fost împrumuturi de la prieteni, nu mită. Apărarea sa susține persecuția mass-media și urmărirea selectivă. Procesul a fost reluat în iulie 2025, după peste 11 ani de întârzieri."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "Ironia supremă:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "Raidul (7 noiembrie 2023):",
+          "cash": "78.000 EUR numerar găsit în biroul șefului de cabinet",
+          "arrests": "Vítor Escária (șeful de cabinet) și Lacerda Machado (om de afaceri) arestați",
+          "resignation": "Costa și-a dat demisia în aceeași seară"
+        },
+        "investigation": {
+          "title": "Influencer operațional:",
+          "lithium": "Concesiuni miniere de litiu (cele mai mari rezerve din Europa)",
+          "hydrogen": "Proiecte cu hidrogen verde (investiții de mai multe miliarde)",
+          "allegation": "Presupuse decizii favorabile de acordare a licenței în schimbul plăților"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária - Șef de Stat Major - Arestat, eliberat",
+          "machado": "Lacerda Machado - Om de afaceri intermediar - Arestat",
+          "galamba": "João Galamba - Secretar de Stat pentru Energie - Sub control"
+        },
+        "euPromotion": {
+          "date": "27 iunie 2024: ales Președinte al Consiliului UE",
+          "start": "1 decembrie 2024: Preia mandatul",
+          "status": "Ancheta încă în desfășurare - nu s-au depus acuzații"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Costa nu a fost niciodată acuzat și nu rămâne un „arguido” (suspect formal). Noiembrie 2025: Curtea Supremă a decis că interceptările telefonice au fost efectuate FĂRĂ autorizarea corespunzătoare. Ancheta în curs, dar nu există acuzații oficiale."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Surse: acte judecatoresti",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Rețea de pedofili de elită care folosește orfelinate de stat. Prezentatoare TV, ambasador UNESCO, guvernator Casa Pia printre condamnați.",
+        "coverupTitle": "Mușamalizarea:",
+        "coverupText": "Primele rapoarte au apărut în anii 1980. Poliția a renunțat la investigații. Oficialii au distrus documente. Expunere completă doar în 2002.",
+        "sources": "Surse: France 24, Acte instanței"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17 inculpați, inclusiv înalți judecători acuzați de vânzarea unor hotărâri favorabile.",
+        "failureTitle": "Eșecul sistemic:",
+        "failureText": "Judecătorii care ar trebui să aplice legile anticorupție erau ei înșiși corupți.",
+        "sources": "Surse: Observador, Înregistrări judecătorești"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Furtul de arme Tancos (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "Încălcarea securității bazei militare. Arme furate, apoi „găsite” în etapa de recuperare.",
+        "convicted": "Personal militar condamnat",
+        "acquitted": "Ministrul Apărării Azeredo Lopes a fost achitat",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "Oficialii Forțelor Aeriene au umflat prețurile alimentelor cu peste 10 milioane de euro.",
+        "hiring": "Companiile Shell obișnuiau să deturneze fonduri",
+        "justified": "Justificată ca „necesitate operațională”"
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "Compania germană Ferrostaal a plătit 6,4 milioane de euro oficialilor portughezi pentru contractul submarinului.",
+        "germans": "Directori germani: CONdamnat în Germania",
+        "portuguese": "Oficiali portughezi: TOȚI ACHITATI",
+        "documents": "Documentele cheie „au dispărut” de la Ministerul Apărării"
+      },
+      "police": {
+        "2004": "2004: Euro 2004 corupție de securitate",
+        "2007": "2007: Cazul Leonor Cipriano - ofițeri condamnați pentru tortură",
+        "2019": "2019: A fost filmat atacul brutal asupra cetățenilor de culoare",
+        "2021": "2021: ofițerii PSP condamnați pentru agresiune",
+        "2025": "2025: Rețeaua de traficanți de poliție a fost dezvăluită",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Mai mulți primari din Portugalia condamnați sau cercetați pentru corupție.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Rețeaua de corupție cu mai mulți primari",
+        "description": "Ancheta a scos la iveală o rețea de corupție care implică primarii Santo Tirso și Barcelos și directorul IPO Porto în contracte publice frauduloase și comisioane.",
+        "santo": "• Primarul Santo Tirso: Investigat",
+        "barcelos": "• Primarul Barcelos: Investigat",
+        "ipo": "• Director IPO Porto: Investigat",
+        "pattern": "• Model: corupție municipală între partide"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Doi primari din Espinho sunt cercetați",
+        "description": "Actualii și foștii primari ai municipiului Espinho, cercetați pentru corupție legate de contractele publice și deciziile municipale.",
+        "current": "• Actual primar: În anchetă",
+        "former": "• Fost primar: În anchetă",
+        "pattern": "• Model: corupție între administrații"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Primar + Președinte Fotbal Condamnat",
+        "description": "Primarul orașului Gondomar și președintele Boavista FC, condamnat într-un scandal masiv de corupție a arbitrilor. 171 persoane implicate, 13 condamnate. Pedeapsă cu suspendare = fără închisoare.",
+        "sentence": "• Condamnat: 3 ani 2 luni SUSPENDAT",
+        "prison": "• Timp de închisoare executat: ZERO",
+        "son": "• Fiul a preluat Boavista FC (interdicție de 4 ani)",
+        "pinto": "• Pinto da Costa: numerar + prostituate pentru arbitri"
+      },
+      "maestro": {
+        "name": "Operação Maestro (2024)",
+        "subtitle": "Frauda cu fonduri UE de 39 de milioane de euro",
+        "description": "Martie 2024: PJ face raiduri în 78 de locații. Omul de afaceri Manuel Serrão acuzat că a deturnat 39 de milioane de euro din fondul de dezvoltare regională al UE. Doi secretari de stat cercetați.",
+        "raids": "• 78 de locații percheziționate, 6 reținute",
+        "officials": "• 2 secretari de stat anchetati",
+        "companies": "• Rețeaua de companii-fantasmă pentru fraudă",
+        "status": "• Stare: Investigație în curs"
+      },
+      "overview": {
+        "description": "Corupția locală prosperă în „deșerturile de știri”, unde niciun jurnalist nu monitorizează contractele municipale, planificarea urbană și lucrările publice. Scheme comune: contracte umflate, kickback-uri, „taxe de urgență” pentru aprobări, locuri de muncă pentru aliații politici.",
+        "investigated": "Primarii investigați (2010-2025)",
+        "municipalities": "municipalități portugheze",
+        "officials": "Oficiali locali cu cazuri (dec 2025)",
+        "suspended": "Primiți pedepse cu suspendare",
+        "title": "Scara corupției municipale"
+      },
+      "trifecta": {
+        "convicted": "5 primari CONdamnati",
+        "description": "Decembrie 2024 a fost condamnată fără precedent a 5 actuali/foști primari din Albergaria-a-Velha, Oliveira de Azeméis, Estarreja și municipalitățile din jur. Toți condamnați pentru corupție, peculare și abuz de putere legat de contractele publice. Majoritatea au primit pedepse cu suspendare.",
+        "name": "Decembrie 2024: Trifecta",
+        "pattern": "Toate pedepsele cu suspendare",
+        "prison": "0 în închisoare",
+        "subtitle": "5 primari condamnați într-o singură săptămână"
+      }
+    },
+    "football": {
+      "title": "Corupția din fotbal",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "FC Porto de la Pinto da Costa implicat în schema de mită a arbitrilor.",
+        "costa": "Pinto da Costa: Achitat din punct de vedere tehnice",
+        "points": "Puncte deduse, ulterior restaurate",
+        "boavista": "Boavista (rivali) a retrogradat în schimb",
+        "uefa": "UEFA nu a luat nicio măsură"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "Scandal de corupție masiv care implică aranjare de meciuri, fraudă fiscală și delapidare.",
+        "vieira": "Luís Filipe Vieira: Arestat în 2021, în proces",
+        "goncalves": "Paulo Gonçalves: Fost director juridic, condamnat",
+        "ban": "Vieira a fost interzis de la fotbal",
+        "pinto": "Expusă de Rui Pinto (Football Leaks)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "Fostul lider parlamentar al PSD acuzat de uciderea unui client brazilian la Rio.",
+        "bpn": "Legat de scandalul BPN ca avocat bancar",
+        "murder": "Victima: Rosalina Ribeiro, împușcată în mașină în Rio de Janeiro",
+        "untouchable": "Autoritățile portugheze au refuzat extrădarea ani de zile"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Scandalul Vizei de Aur (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "11 oficiali arestați pentru umflarea prețurilor proprietăților și luarea de mită.",
+        "macedo": "Director SEF Paiva Nunes: Arestat",
+        "figueiredo": "Mai mulți oficiali condamnați",
+        "chinese": "Investitori chinezi și ruși implicați"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "Directorii companiilor aeriene de stat au primit pachete masive de despăgubiri.",
+        "reis": "Christine Ourmieres-Widener: indemnizație de 500.000 EUR",
+        "santos": "Ramiro Sequeira: Pachet de ieșire controversat",
+        "galamba": "Ministrul Galamba a supravegheat numirile",
+        "laptop": "Ancheta parlamentară a cerut documente"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "Nepotismul endemic în politica portugheză.",
+        "president": "Rudele lui Marcelo în posturi cheie",
+        "law": "Nicio legislație anti-nepotism semnificativă",
+        "hodgepodge": "Legăturile de familie se întind în toate partidele importante"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Programul de renovare a școlii în timpul erei Socrates plin de fraude.",
+        "notAudited": "492 de milioane de euro cheltuiți fără un audit adecvat",
+        "investigation": "Ancheta a fost deschisă, dar a blocat",
+        "noConvictions": "Nicio condamnare până în prezent"
+      }
+    },
+    "pattern": {
+      "title": "Modelul impunității: după numere",
+      "stats": {
+        "banking": "Pierderi bancare (BPN+BES+CGD+Novo Banco)",
+        "pms": "PM investigat",
+        "socrates": "Ani: durata cazului Sócrates",
+        "suspended": "Cazuri care se termină cu pedepse cu suspendare",
+        "served": "De condamnați care chiar au executat pedeapsa",
+        "casaPia": "Victimele Casei Pia",
+        "judges": "Judecători în proces (Op Lex)",
+        "submarine": "Oficiali portughezi condamnați (submarin)",
+        "novoBanco": "Costul salvarii Novo Banco (0 condamnări)",
+        "chargesDropped": "Acuzațiile lui Socrates au scăzut (88%)",
+        "blocking": "Propuneri de reformă blocate (2007-2025)",
+        "enrichment": "Au fost adoptate legile privind îmbogățirea ilegală",
+        "admiral": "Operațiunea Amiral Recuperare (EPPO)",
+        "arrests": "Amiralul arestat în 3 zile",
+        "prosecutors": "Procurori care se confruntă cu contracte precare",
+        "lima": "Întârzierea cazului de crimă Duarte Lima"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Scandal de abuz asupra copiilor Casa Pia",
+        "date": "2002 (abuz din anii 1980)",
+        "amount": "Peste 100 de copii victime",
+        "description": "Rețea de pedofili de elită care folosește orfelinate de stat. Prezentatorul TV Carlos Cruz, diplomatul Jorge Ritto, guvernatorul Casa Pia Manuel Abrantes printre condamnați.",
+        "outcome": "7 condamnați (2010), pedepse 5-18 ani",
+        "source": "Franța 24"
+      },
+      "bpn": {
+        "title": "BPN - Banco Português de Negócios",
+        "date": "2008",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "José Oliveira e Costa: 14 ani (redus la recurs)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES - Banco Espírito Santo",
+        "date": "2014",
+        "amount": "Pierdere de 11,8 miliarde de euro",
+        "description": "Cea mai mare bancă privată din Portugalia se prăbușește. Imperiul familiei lui Ricardo Salgado explodează. Statul creează Novo Banco la un cost enorm.",
+        "outcome": "Salgado: 6→8 ani (un caz), 6y3m (caz EDP). Pretinde Alzheimer.",
+        "source": "Observator"
+      },
+      "cgd": {
+        "title": "CGD - Caixa Geral de Depósitos",
+        "date": "2016",
+        "amount": "Salvare de 4,9 miliarde de euro",
+        "description": "Banca de stat cere cea mai mare salvare din istoria Portugaliei. Ancheta parlamentară constată „interferențe politice”, „numiri partizane”. 7 ani de alerte de fraudă ignorate.",
+        "outcome": "ZERO convingeri",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "8+ miliarde de euro bani publici",
+        "description": "„Banca bună” din prăbușirea BES. Vândut către Lone Star (2017) cu 3,89 miliarde EUR garanție de stat. Până în 2021: 7,9 miliarde EUR injectați. Ancheta parlamentară constată „iresponsabilitate”.",
+        "outcome": "ZERO convingeri. Fără răspundere personală.",
+        "source": "Public"
+      },
+      "submarinos": {
+        "title": "Mită submarină germană",
+        "date": "2004",
+        "amount": "6,4 milioane de euro mită",
+        "description": "Ferrostaal a plătit oficialilor portughezi pentru un contract submarin de 833 de milioane de euro. 1 milion de euro+ către partidul CDS-PP. Documentele „dispar” de la Ministerul Apărării.",
+        "outcome": "Directori germani: CONdamnat. Toate portughezele: ACQUITTED (2014)",
+        "source": "Urmăritorul corupției"
+      },
+      "freeport": {
+        "title": "Freeport",
+        "date": "2002",
+        "amount": "Nedezvăluită",
+        "description": "Ministrul Mediului, José Sócrates, ar fi renunțat la restricțiile de mediu pentru ca compania britanică să construiască mall-uri pe teren protejat.",
+        "outcome": "Eliminat în 2010 - „nimeni de vină”",
+        "source": "Public"
+      },
+      "goldenVisa": {
+        "title": "Scandalul Vizei de Aur",
+        "date": "2014",
+        "amount": "40 de milioane de euro în mită",
+        "description": "11 funcționari arestați pentru umflarea prețurilor la proprietăți, luarea de mită pentru permisele de ședere. Investitori chinezi și ruși implicați.",
+        "outcome": "Unele convingeri, programul continuă",
+        "source": "Observator"
+      },
+      "tancos": {
+        "title": "Furtul de arme Tancos",
+        "date": "2017",
+        "amount": "Cache de arme militare",
+        "description": "1.450 de cartușe, 150 de grenade de mână, 44 de grenade antitanc, 264 de explozibili din plastic furați. Camerele de securitate „nu funcționează” de săptămâni întregi. Ministrul Azeredo Lopes a demisionat.",
+        "outcome": "Proces în curs, mai mulți inculpați",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Baza de date completă a corupției",
+    "fullIntro": "Fiecare caz major de corupție documentat cu sume, rezultate și surse",
+    "additional": {
+      "title": "Scandaluri ale sistemului de justiție",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Procurorul a luat peste 700.000 de euro în mită",
+        "description": "Procurorul Orlando Figueira a acceptat mită de la vicepreședintele Angola, Manuel Vicente, pentru a închide investigațiile de corupție. Demonstrează corupție în cadrul parchetului însuși.",
+        "orlando": "• Orlando Figueira (procuror): CONdamnat",
+        "vicente": "• Manuel Vicente (VP Angola): Protejat de imunitate diplomatică",
+        "pattern": "• Model: Cei care urmăresc corupția, corupti"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (primarul Oeiras)",
+        "subtitle": "„Primarul corupt pe care îl adoră”",
+        "description": "Condamnat pentru fraudă fiscală, spălare de bani. Condamnat la 7 ani → redus la 2 ani în apel. Servit 14 luni. Reales în funcția de primar în 2017 și 2021. Încă lucrează și astăzi.",
+        "conviction": "• 2009: Condamnat la 7 ani → 2010: Redus la 2 ani",
+        "prison": "• 2013-2014: A executat 14 luni în închisoarea Carregueira",
+        "reelected": "• 2017, 2021: REALES în funcția de primar",
+        "new": "• 2022: noi acuzații depuse pentru abatere în PPP"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "Frauda tip carusel de TVA care acoperă mai multe țări. EPPO a fost urmărit penal în locul autorităților portugheze. 10 condamnați, pedepse de 7-8 ani. Acesta este ceea ce se întâmplă atunci când UE preia urmărirea penală.",
+        "lesson": "LECȚIA: EPPO funcționează. Sistemul național nu.",
+        "name": "Operațiunea Amiral (2025)",
+        "subtitle": "2,9 miliarde de euro - Cea mai mare fraudă a UE VODATA"
+      },
+      "context": {
+        "admiral": "fraudă amiral (caz unic)",
+        "description": "Portugalia a primit peste 60 de miliarde EUR din fondurile structurale ale UE din 1986. Cu toate acestea, Portugalia rămâne una dintre cele mai sărace țări din Europa de Vest. Unde s-au dus banii? Auditorii găsesc în mod constant nereguli, dar urmăririle penale sunt rare.",
+        "eppo": "Procurorul EPPO Portugalia",
+        "prr": "Plan de redresare a PRR (2021-2026)",
+        "received": "Fonduri UE primite (1986-2024)",
+        "title": "Întrebarea de 60 de miliarde de euro"
+      },
+      "patterns": {
+        "invoices": "• Facturi false pentru servicii inexistente",
+        "kickbacks": "• Retrageri la adresa oficialilor de aprobare",
+        "monitoring": "• Monitorizare slabă de către IGCP/IGAC",
+        "prescription": "• Cazurile prescrise înaintea procesului",
+        "projects": "• „Proiecte fantomă” – aprobate dar niciodată finalizate",
+        "shell": "• Companii Shell create pentru a primi fonduri",
+        "title": "Modele de fraudă recurente"
+      },
+      "title": "Frauda fondurilor UE"
+    },
+    "disclaimer": {
+      "title": "Notă legală importantă",
+      "presumption": "• Prezumția de nevinovăție: Toate persoanele sunt prezumate nevinovate până când vinovația este dovedită printr-o hotărâre judecătorească definitivă. Statutul „În anchetă” sau „arguido” nu implică vinovăție.",
+      "status": "• Starea cazului: Fiecare înregistrare este etichetată cu statutul juridic actual (Condamnat, În proces, În curs de anchetă, Arhivat, Achit). Stările sunt actualizate pe măsură ce cazurile progresează.",
+      "sources": "• Surse: Toate informațiile provin din documente oficiale ale instanței, anunțuri DCIAP, anchete parlamentare sau mass-media portugheză de renume (RTP, Público, Observador).",
+      "defense": "• Pozițiile apărării: inculpații au negat acuzațiile sau au oferit explicații. Pozițiile lor juridice sunt menționate acolo unde sunt disponibile publicului."
+    }
+  },
+  "operations": {
+    "title": "Lista operațiunilor de poliție",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "José Sócrates (PM)",
+      "status": "Proces în curs de peste 11 ani",
+      "crimes": "22 de infracțiuni: corupție, spălare, fraudă"
+    },
+    "influencer": {
+      "name": "Operação Influencer",
+      "target": "Antonio Costa (PM)",
+      "status": "În cercetare → Președintele UE",
+      "crimes": "Corupție, delapidare"
+    },
+    "lex": {
+      "name": "Operația Lex",
+      "target": "Judecătorii Rangel, Galante, Vaz das Neves",
+      "status": "Procesul a început în octombrie 2025",
+      "crimes": "17 inculpați, 21+ infracțiuni"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "procurorul Orlando Figueira",
+      "status": "Condamnat 6 și 8 m (2021)",
+      "crimes": "700.000 EUR mită de la vicepreședintele Angola"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, primarii Barcelos",
+      "status": "Proces în curs 2025",
+      "crimes": "Peste 50 de infracțiuni, nereguli de 1,8 milioane EUR"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 primari din Espinho (PS + PSD)",
+      "status": "Proces în curs",
+      "crimes": "Corupție urbană, „taxe de urgență”"
+    },
+    "babel": {
+      "name": "Operația Babel",
+      "target": "Gaia VP Patrocínio Azevedo",
+      "status": "Procesul începe în ianuarie 2025",
+      "crimes": "Avantaje de 40 de milioane de euro, imobiliare de 300 de milioane de euro"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "președinții parohiei din Lisabona",
+      "status": "Acuzația completă",
+      "crimes": "60 de inculpați, 463 de infracțiuni, 580.000 euro"
+    },
+    "maestro": {
+      "name": "Operação Maestro",
+      "target": "Manuel Serrão",
+      "status": "Ancheta în curs",
+      "crimes": "Frauda cu fonduri UE de 39 de milioane de euro"
+    },
+    "admiral": {
+      "name": "Operațiunea Amiral (EPPO)",
+      "target": "Rețeaua de fraude în domeniul TVA",
+      "status": "10 condamnați (mai 2025)",
+      "crimes": "Prejudiciu de 2,9 miliarde EUR - cea mai mare fraudă din UE vreodată"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 de ani de corupție: cronologia completă",
+    "pageSubtitle": "Fiecare scandal demascat → Fiecare reformă blocată → Modelul sistematic al impunității dezvăluit",
+    "legend": {
+      "corruption": "Corupție/Scandal",
+      "blocked": "Reforma blocată/Răspuns slab",
+      "conviction": "Condamnare/Reforma adoptată"
+    },
+    "summaryTitle": "50 de ani: Scorul",
+    "summary": {
+      "bankingLosses": {
+        "value": "25 miliarde EUR+",
+        "label": "Pierderi bancare (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Încercările de reformă au fost blocate"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Referendum obligatorii"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "PM condamnați"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Politicieni care se confruntă cu justiția (din 2017)"
+      },
+      "socratesDuration": {
+        "value": "11 ani",
+        "label": "Socrate arestare→proces"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "Victimele Casei Pia"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Inculpații Op Lex (judecători+)"
+      },
+      "admiralFraud": {
+        "value": "2,9 miliarde de euro",
+        "label": "Frauda cu TVA (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Miniștri în închisoare (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "Modelul expus",
+    "patternIntro": "Fiecare scandal major este urmat de:",
+    "pattern": {
+      "step1": "1. <strong>Infuriare</strong> → Acoperire media, furia publicului",
+      "step2": "2. <strong>Propunere de reformă</strong> → Din partea opoziției sau a partidelor mici",
+      "step3": "3. <strong>Blocați</strong> → PS sau PSD votează împotrivă (au peste 150 din 230 de locuri)",
+      "step4": "4. <strong>Întârziere</strong> → Cazul durează ani de zile până la prescrierea rețetei",
+      "step5": "5. <strong>Achitare sau pedeapsă cu suspendare</strong> → 75% din cazuri",
+      "step6": "6. <strong>Promovare</strong> → Costa la Consiliul UE, Barroso la Comisia UE"
+    },
+    "patternQuote": "„Doar săracii și necunoscuții merg la închisoare”.",
+    "footerSource": "Toate informațiile provin din documente oficiale ale instanței, mass-media portugheză și organizații internaționale.",
+    "years": {
+      "y1974": "1974",
+      "y1980s": "anii 1980",
+      "y1989": "1989",
+      "y1997": "1997",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004",
+      "y2005_09": "2005-09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010",
+      "y2012": "2012",
+      "y2014": "2014",
+      "y2015": "2015",
+      "y2016": "2016",
+      "y2017": "2017",
+      "y2019": "2019",
+      "y2021": "2021",
+      "y2022": "2022",
+      "y2023": "2023",
+      "y2024": "2024",
+      "y2025": "2025"
+    },
+    "badges": {
+      "democracyRestored": "DEMOCRATIA RESTABILITA",
+      "designFlaw": "DEFECT DE PROIECT",
+      "abuseBegins": "Abuzul ÎNCEPE",
+      "reformBlocked": "REFORMA BLOCATĂ",
+      "reformSabotaged": "REFORMA SABOATĂ",
+      "tcBlocks": "BLOCURI TC",
+      "sabotaged": "SABOTAT",
+      "centralizationPreserved": "CENTRALIZARE PĂSTRATĂ",
+      "scandalErupts": "SCANDALUL ERUPTĂ",
+      "freeportAllegations": "ACTUAȚII DE PORT LIBER",
+      "footballCorruption": "CORUPȚIA FOTBALULUI",
+      "submarineBribery": "MITARE SUBMARINA",
+      "euro2004Stadiums": "STADIUNEE EURO 2004",
+      "corruptionMachine": "MAȘINA DE CORUPȚIE",
+      "faceOculta": "FACE OCULTA",
+      "commitmentMade": "ANGAJAMENT AFUS",
+      "nonBinding": "NEOBBLIGATORIE",
+      "policeCorruption": "CORUPŢIA POLIŢIEI",
+      "bankingCollapse": "PRIBERE BANCARĂ",
+      "cgdFraudIgnored": "ALERTE DE FRAUDA CGD IGNORATE",
+      "murderAllegation": "ACUZIA DE CRUCI",
+      "rareConvictions": "CONVINGIRI RARE",
+      "tcBlocksReform": "TC BLOCURI REFORMA",
+      "noEuVote": "NU VOT UE",
+      "pmArrested": "PM ARESTAT",
+      "goldenVisaScandal": "SCANDAL DE VIZA DE AUR",
+      "tcBlocksAgain": "TC se blochează din nou (UNANIM)",
+      "prosecutorCorruption": "PROCUROR CORUPȚIE",
+      "benficaEmails": "E-MAIL-uri BENFICA",
+      "novoBancoBlackHole": "NOVO BANCO BLACK HOLE",
+      "militaryScandal": "SCANDAL MILITAR",
+      "bpnConvictions": "CONVINCIRI BPN",
+      "autarquiaCorruption": "CORUPȚIA AUTARCHIEI",
+      "joeBerado": "SCANDAL JOE BERARDO",
+      "varaConvicted": "VARA CONdamnat",
+      "policeBrutality": "BRUTALITATE POLITISTICA",
+      "nepotismScandal": "SCANDAL DE NEPOTISM",
+      "policeMurder": "OCURREA POLIȚIEI",
+      "weakLawPassed": "LEGEA SLABĂ APROBATĂ",
+      "varaReleased": "VARA LANSAȚĂ (COVID)",
+      "allPartiesBlock": "TOATE PĂRDERILE BLOC",
+      "judgesOnTrial": "JUDECĂTORII ÎN PROCES",
+      "tapScandal": "APOTĂ SCANDAL",
+      "tancosConvictions": "TANCOS CONVICȚII",
+      "espinhoMayorsArrested": "PRIMARII ESPINHO ARESTATI",
+      "lisbonParishCorruption": "CORUPȚIA PAROHIEI DE LA LISBONA",
+      "governmentFalls": "GUVERNUL CADERE",
+      "tapContinues": "Atingerea CONTINUA",
+      "edpConvictions": "CONVINGE EDP",
+      "euFundsFraud": "FRAUDA FONDURILOR UE 39 M EUR",
+      "gaiaRealEstateRing": "INEL GAIA REAL ESTATE",
+      "defendants65": "65 de inculpați",
+      "euReward": "RECOMPENSA UE",
+      "reformBlockedAgain": "REFORMA BLOCATĂ DIN NOU",
+      "euBiggestVatFraud": "CELE MAI MARE CONVINCI DE FRAUDE DE TVA DIN UE",
+      "judgesFinally": "JUDECĂTORII ÎN SFÂRȘIT ÎN PROCES",
+      "policeTrafficking": "INELUL DE TRAFIC DE POLIȚIE",
+      "varaReturns": "VARA SE ÎNTORCE LA ÎNCHISERE",
+      "benficaFraudTrial": "PROCES DE FRAUDA BENFICA",
+      "politicians191": "191 POLITICIENI",
+      "decemberTrifecta": "TRIFECTA DECEMBRIE",
+      "stillNoLaw": "51 DE ANI MAI TARZIU"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Revoluția Garoafelor",
+        "desc": "Sfârșitul a 48 de ani de dictatură Salazar/Caetano. Începe o nouă eră democratică."
+      },
+      "noReferendums": {
+        "title": "Fără referendum în Constituția din 1976",
+        "desc": "Adunarea Constituantă exclude în mod deliberat democrația directă. Partidele asociază referendumurile cu plebiscitele lui Salazar.",
+        "note": "Sistemul de protecție începe de la naștere."
+      },
+      "casaPiaFirstReported": {
+        "title": "Abuzul Casa Pia a fost raportat pentru prima dată",
+        "desc": "Primele rapoarte de abuz sexual asupra copiilor la orfelinatele de stat apar. Poliția renunță la investigații. Oficialii distrug documente.",
+        "note": "Începe mușamalizarea. Va dura peste 20 de ani."
+      },
+      "pcpFirstProposal": {
+        "title": "PCP propune mai întâi legi anticorupție",
+        "desc": "Partidul Comunist (PCP) propune o legislație asupra îmbogățirii ilicite.",
+        "result": "Bloc PS + PSD"
+      },
+      "referendumsPoisonPill": {
+        "title": "Referendum adăugate - cu pilula otravitoare",
+        "desc": "Revizuirea constituțională adaugă mecanismul referendumului.",
+        "catch": "Prag de prezență la vot de 50% + veto al Curții Constituționale = proiectat să eșueze",
+        "note": "Următorii 35 de ani: 0 referendum obligatoriu realizat."
+      },
+      "amsterdamBlocked": {
+        "title": "Referendumul Tratatului de la Amsterdam a fost blocat",
+        "desc": "Curtea Constituțională respinge referendumul privind tratatul UE – „întrebare înșelătoare”",
+        "note": "Portugalia nu va vota NICIODATĂ pentru integrarea în UE."
+      },
+      "casaPiaExposed": {
+        "title": "Scandalul Abuzului Casa Pia Demascat",
+        "desc": "Jurnalist povestește: rețeaua de pedofili de elită care folosește orfelinate de stat. Prezentator TV, ambasador UNESCO, guvernator Casa Pia printre acuzați.",
+        "note": "Peste 100 de copii abuzați. Procesul va dura peste 5 ani."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates și Freeport Mall",
+        "desc": "Ministrul Mediului, José Sócrates, ar renunța la restricțiile de mediu pentru ca compania britanică să construiască mall-uri pe teren protejat.",
+        "outcome": "Eliminat în 2010 - „nimeni de vină”"
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Statistici și surse",
+    "pageSubtitle": "Toate datele din surse internaționale oficiale și de renume",
+    "ti": {
+      "title": "Transparency International",
+      "subtitle": "Indicele de percepție a corupției (IPC)",
+      "score2024": {
+        "value": "57",
+        "label": "Scorul IPC Portugaliei 2024",
+        "trend": "-4 puncte din 2023"
+      },
+      "rank": {
+        "value": "al 43-lea",
+        "label": "Clasament global",
+        "detail": "din 180 de țări"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Procurorii spun că perioadele sunt insuficiente",
+        "source": "Sondaj TI"
+      },
+      "tableTitle": "Comparație IPC UE (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobarometru",
+      "subtitle": "Eurobarometru special privind corupția (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "Portughezii cred că corupția este larg răspândită",
+        "euAvg": "Media UE: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Credeți că există corupție în guvernul național",
+        "euAvg": "Media UE: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Spuneți că mita este cea mai ușoară modalitate de a obține servicii publice",
+        "euAvg": "Media UE: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Diviziunea digitală",
+      "subtitle": "Utilizarea internetului pe grupe de vârstă (Portugalia, 2024)",
+      "keyInsight": "Generația care a asistat la întregul model de corupție de 50 de ani (65+) este exclusă sistematic din sistemul de semnătură a referendumului NUMAI DIGITAL.",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99,1%",
+          "excluded": "0,9%"
+        },
+        "35-44": {
+          "usage": "98,6%",
+          "excluded": "1,4%"
+        },
+        "45-54": {
+          "usage": "94,9%",
+          "excluded": "5,1%"
+        },
+        "55-64": {
+          "usage": "82,5%",
+          "excluded": "17,5%"
+        },
+        "65-74": {
+          "usage": "61,1%",
+          "excluded": "38,9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "~70%"
+        }
+      }
+    },
+    "summaryTitle": "Rezumat: Ce arată datele",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "portughezilor văd corupție pe scară largă",
+        "source": "Eurobarometru 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "Recomandările GRECO implementate",
+        "source": "Consiliul Europei 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "scădere punctuală a IPC într-un an",
+        "source": "Transparency International 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "dintre procurori spun că termenele de prescripție sunt insuficiente",
+        "source": "Sondaj TI 2023"
+      }
+    },
+    "footer": "Toate statisticile din surse oficiale. Ultima actualizare: decembrie 2025."
+  },
+  "tables": {
+    "headers": {
+      "name": "Nume",
+      "party": "Partid",
+      "status": "Stare",
+      "charges": "Taxe/Stare",
+      "chargesSentence": "Acuzații/Sentință",
+      "chargesStatus": "Taxe/Stare",
+      "amount": "Cantitate",
+      "year": "An",
+      "initiative": "Iniţiativă",
+      "result": "Rezultat",
+      "whoBlocked": "Cine a blocat",
+      "country": "Țară",
+      "score": "Scor",
+      "rank": "Rang",
+      "change": "Schimba",
+      "ageGroup": "Grupa de vârstă",
+      "internetUsage": "Utilizarea Internetului",
+      "excluded": "Exclus",
+      "impact": "Impact",
+      "aspect": "Aspect",
+      "sentence": "Propoziție",
+      "allegations": "Acuzații/Condamnări",
+      "protectionLevel": "Nivel de protecție",
+      "sweden": "Suedia",
+      "portugal": "Portugalia",
+      "position": "Poziţie",
+      "illicitEnrichment": "Îmbogățirea ilicită",
+      "lobbyRegulation": "Regulamentul de lobby",
+      "endImmunity": "Opriți imunitatea",
+      "notableActions": "Acțiuni notabile",
+      "politician": "Politician",
+      "scandal": "Scandal",
+      "euReward": "Recompensa UE",
+      "date": "Dată",
+      "subject": "Subiect",
+      "turnout": "A se dovedi",
+      "binding": "Legare?",
+      "illicitEnrichmentLaw": "Legea îmbogățirii ilicite",
+      "constitutionalStatus": "Statutul constituțional",
+      "immunityScope": "Domeniul de aplicare al imunității",
+      "parliamentBlocks": "Parlamentul blochează ancheta?",
+      "tiCpi": "TI CPI",
+      "prescription": "Prescriptie medicala",
+      "avgTime": "Mediu Timp",
+      "immunity": "Imunitate",
+      "role": "Rol",
+      "municipality": "Municipiul",
+      "controversy": "Controversa/Context"
+    },
+    "status": {
+      "convicted": "CONdamnat",
+      "convictedServing": "CONdamnat - Servire",
+      "convictedAppealing": "CONdamnat - Apel",
+      "onTrial": "În proces",
+      "underInvestigation": "În curs de anchetă",
+      "arguido": "Arguido",
+      "arrested": "ARESTAT",
+      "archived": "Arhivat",
+      "declined": "Ancheta a fost refuzată",
+      "neverProsecuted": "Niciodată urmărit penal",
+      "acquitted": "ACHITAT",
+      "euPromoted": "Președintele Consiliului UE"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega",
+      "livre": "Livre",
+      "pan": "PAN",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "Cotele tale vs. Cotele lor",
+    "subtitle": "Dacă dreptatea ar fi o loterie, iată ce ne spun cifrele",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Dacă sunteți cetățean:"
+    },
+    "politician": {
+      "title": "Dacă ești politician:"
+    }
+  },
+  "sources": {
+    "title": "Lista completă a surselor",
+    "subtitle": "Toate datele din surse oficiale și verificate",
+    "constitutionalCourt": "Curtea Constituțională",
+    "prosecutionService": "Serviciul Procuraturii",
+    "europeanUnion": "Uniunea Europeană",
+    "internationalOrgs": "Organizații internaționale",
+    "eurobarometer": "Eurobarometru",
+    "portugueseLegislation": "Legislația portugheză",
+    "parliamentaryRecords": "Înregistrări parlamentare",
+    "internationalComparisons": "Comparații internaționale",
+    "mediaSources": "Surse media",
+    "laborHumanRights": "Muncă/Drepturile omului",
+    "cryptographicStandards": "Standarde criptografice",
+    "digitalStatistics": "Statistici digitale"
+  },
+  "verdict": {
+    "title": "Verdictul",
+    "subtitle": "50 de ani de dovezi documentate"
+  },
+  "backToMain": "← Înapoi la Raportul principal",
+  "duopoly": {
+    "bothProtect": "Ambele părți se protejează reciproc",
+    "coordinatedTheater": "Aparenta opoziție dintre PS și PSD este teatru coordonat. Când contează – blocarea reformei – votează împreună."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Sursa: Eurobarometru 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "Modelul referendumurilor eșuate",
+      "text": "Fiecare referendum din istoria Portugaliei fie nu a reușit să atingă pragul de participare la vot, fie nu a fost obligatoriu.",
+      "sources": "Sursa: Comisia Electorală Portugheză"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Sursa: Claudia Wallin, „Um País Sem Excelências e Mordomias” (2014)"
+  },
+  "swiss": {
+    "stats": "Statistici cheie ale democrației elvețiene:"
+  },
+  "roadmap": {
+    "title": "Investigația",
+    "subtitle": "O călătorie structurată prin arhitectura impunității din Portugalia",
+    "part1": {
+      "title": "Sistemul",
+      "desc": "Cum clasa politică pavloviană își protejează pe ai săi"
+    },
+    "part2": {
+      "title": "Cazurile",
+      "desc": "Prim-miniștri, miniștri și cazurile care definesc impunitatea"
+    },
+    "part3": {
+      "title": "Lacunele",
+      "desc": "Mecanisme legale care asigură că corupția rămâne nepedepsită"
+    },
+    "part4": {
+      "title": "Blocajul",
+      "desc": "Cum sunt reformele blocate sistematic de PS/PSD"
+    },
+    "part5": {
+      "title": "Recompensele UE",
+      "desc": "Unde ajung politicienii acuzați: Bruxelles"
+    },
+    "part6": {
+      "title": "Soluția",
+      "desc": "Ce pot face cetățenii pentru a rupe ciclul"
+    },
+    "conclusion": "De la etica civică la acțiune concretă—fiecare parte dezvăluie un alt strat al sistemului conceput pentru a proteja corupții."
+  },
+  "journalism": {
+    "badge": "De ce există această anchetă",
+    "title": "Visul care nu a putut supraviețui sistemului",
+    "subtitle": "Jurnalismul portughez sub captură sistemică",
+    "intro": "Fiecare jurnalist începe cu același vis: arătați oamenilor adevărul, documentați ceea ce contează, schimbați lumea. În Portugalia, acel vis se ciocnește de un sistem conceput să prevină exact asta.",
+    "medicine": {
+      "title": "Medicină",
+      "oath": "În primul rând, să nu faci rău."
+    },
+    "journalismEthics": {
+      "title": "Jurnalism",
+      "oath": "În primul rând, să nu induci în eroare."
+    },
+    "doctors": {
+      "title": "Medici",
+      "diagnose": "Diagnostichează pe baza dovezilor, nu a convingerilor",
+      "wellbeing": "Pun bunăstarea pacientului mai presus de ideologie sau profit",
+      "bound": "Sunt legați de etică chiar și sub presiune",
+      "lose": "Pierd legitimitatea când provoacă în mod conștient daune"
+    },
+    "journalists": {
+      "title": "Jurnaliști",
+      "report": "Raportează pe baza faptelor verificabile, nu a agendelor",
+      "rightToKnow": "Pun dreptul publicului de a ști mai presus de alinierea politică",
+      "bound": "Sunt legați etic chiar și sub presiunea proprietarilor, statelor sau publicului",
+      "lose": "Pierd legitimitatea când distorsionează în mod conștient realitatea"
+    },
+    "broken": {
+      "title": "Când Jurământul este Încălcat",
+      "doctorMalpractice": "Un medic care practică ideologie în loc de medicină comite malpraxis",
+      "journalistMalpractice": "Un jurnalist care practică ideologie în loc de adevăr comite malpraxis civic",
+      "consequences": "Consecințele sunt societale:",
+      "consequence1": "Polarizare",
+      "consequence2": "Dezinformare",
+      "consequence3": "Erodarea încrederii",
+      "consequence4": "Declin democratic"
+    },
+    "distinction": {
+      "title": "Distincția Clară",
+      "text": "Jurnaliștii, ca și medicii, sunt oameni și au valori personale. Etica este încălcată nu prin a avea valori, ci prin a permite acestor valori să înlocuiască verificarea, dovezile și responsabilitatea."
+    },
+    "quote": "Un medic care minte un pacient este vinovat de malpraxis. Un jurnalist care minte publicul este vinovat de malpraxis civic."
+  },
+  "convicted": {
+    "badge": "Rezultatul sistemului",
+    "title": "Condamnat, dar protejat",
+    "subtitle": "Acestea nu sunt acuzații. Acestea sunt convingeri. Cu toate acestea, sistemul asigură că își păstrează pensiile, revin în funcție sau scapă complet de consecințe.",
+    "status": {
+      "convicted": "CONdamnat",
+      "reelected": "CONdamnat → REALES",
+      "murder": "OCURAT ACUZAT",
+      "unpaid": "980 M€ NEPLĂTITĂ",
+      "zeroPrison": "8 miliarde EUR PIERDUT, ZERO ÎNCHISOARE",
+      "eppoSuccess": "SUCCES EPPO"
+    },
+    "labels": {
+      "operation": "Operare:",
+      "crime": "Crima:",
+      "sentence": "Propoziție:",
+      "served": "Timp servit:",
+      "amount": "Cantitate:",
+      "currentStatus": "Actual:",
+      "victim": "Victimă:",
+      "date": "Data:",
+      "trialStart": "Începutul probei:",
+      "borrowed": "Împrumutat:",
+      "repaid": "Rambursat:",
+      "artCollection": "Colecție de artă:",
+      "publicCost": "Cost public:",
+      "resolution": "Rezoluţie:",
+      "convictions": "Condamnări:"
+    },
+    "pensionBattle": "Bătălia pensiilor:",
+    "suedProsecutor": "A dat în judecată procurorul:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "PS Secretar de stat, ministru, Consiliul CGD",
+      "crime": "trafic de influență (3 puncte)",
+      "pension": "Pensie de 8.551 €/lună poprită DE TREI ori, restituită în recurs DE DOUA ORI. Model: sechestru → recurs → returnat → repetare."
+    },
+    "pinho": {
+      "name": "Manuel Pinho",
+      "position": "PS Ministrul Economiei (2005-2009)",
+      "crime": "Corupție pasivă, fraudă fiscală, spălare de bani",
+      "sued": "26.000 €/lună pensie sechestrată de 3 ori, restituită de 2 ori. Procurorul și judecătorul Carlos Alexandre JAI în judecată pentru confiscarea pensiei.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "Primarul PSD din Oeiras (1985-2009, 2017-prezent)",
+      "crime": "Fraudă fiscală, spălare de bani, abuz de putere",
+      "current": "Încă primar (2025)",
+      "quoteTitle": "Pseudonim public:",
+      "quote": "„Primarul corupt pe care portughezii îl adoră” — REALES în 2017 și 2021. Noi acuzații depuse în 2022.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "Deputat PSD, Avocat",
+      "crime": "Crimă în Brazilia",
+      "victim": "Rosalina Ribeiro (client)",
+      "shieldTitle": "Scutul:",
+      "shield": "Niciun tratat de extrădare între Portugalia și Brazilia. A rămas „de neatins” în Portugalia timp de 16 ani înainte să înceapă în sfârșit procesul.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Om de afaceri, colecționar de artă",
+      "repaid": "Aproape de zero",
+      "quoteTitle": "Către Parlament:",
+      "quote": "„Am uitat” – când a fost întrebat despre o datorie de 980 de milioane de euro. Parlamentarii amenințați în timpul mărturiei. Fără consecințe."
+    },
+    "novoBanco": {
+      "name": "Scandalul Novo Banco",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "ZERO",
+      "outcomeTitle": "Anchetă parlamentară:",
+      "outcome": "S-a găsit „iresponsabilitate politică” – dar nicio răspundere penală. Profituri private, pierderi publice. Modelul continuă.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "The Lone Star Deal (2017):",
+        "salePrice": "Lone Star a plătit: 1 miliard de euro",
+        "guarantee": "Garantat de stat: 3,89 miliarde EUR în pierderi",
+        "result": "Statul suportă toate riscurile, cumpărătorul ia totul pe dos"
+      },
+      "injections": {
+        "title": "Bani publici injectați:",
+        "y2014": "2014: 4,9 miliarde EUR (Fond de rezoluție)",
+        "y2018": "2018: 792 milioane EUR (capital contingent)",
+        "y2019": "2019: 1,15 miliarde EUR (capital contingent)",
+        "y2020": "2020: 1,04 miliarde EUR (capital contingent)",
+        "y2021": "2021: 598 milioane EUR (capital contingent)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa - Guvernatorul Băncii Portugaliei - A supravegheat vânzarea",
+        "centeno": "Mário Centeno - Ministrul Finanțelor - Garanții aprobate"
+      },
+      "inquiryQuote": "„Condițiile de vânzare au fost extraordinar de favorabile cumpărătorului, statul portughez asumându-și un risc disproporționat”. — Ancheta parlamentară 2021",
+      "whyNoAccountability": {
+        "title": "De ce nu există urmăriri penale:",
+        "discretion": "Termenii de vânzare clasificați drept „decizii de politică”",
+        "noEnrichment": "Factorii de decizie nu au profitat personal",
+        "immunity": "Autoritățile de reglementare au protecție instituțională",
+        "bipartisan": "PS și PSD amândoi complici - nu se vor urmări reciproc"
+      },
+      "sale2025": {
+        "title": "Actualizare 2025: Lone Star Exit",
+        "text": "Octombrie 2025: Banca franceză BPCE achiziționează Novo Banco pentru 8 miliarde de euro. Lone Star iese cu profit masiv după 8,5 miliarde de euro în injecții de stat. Zero condamnări pentru prăbușire. Zero clawback al pierderilor."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Novo Banco a vândut băncii franceze BPCE pentru 8 miliarde EUR (octombrie 2025). Lone Star iese cu profit după ce a primit 3,89 miliarde de euro în garanții de stat. Contribuabilii nu au recuperat niciodată 10,4 miliarde de euro din fonduri publice. Veniturile din vânzare merg către Fondul de rezoluție, nu Trezorerie."
+    },
+    "admiral": {
+      "name": "Operațiunea Amiral",
+      "subtitle": "Cel mai mare caz de fraudă din UE",
+      "damage": "Daune totale",
+      "convicted": "Condamnat (mai 2025)",
+      "prosecutor": "Procurorul UE",
+      "type": "Frauda Carusel",
+      "lesson": "Lecția: Când procurorul UE se ocupă de cazuri în loc de sisteme naționale, au loc condamnări."
+    },
+    "pattern": {
+      "title": "Modelul este clar",
+      "pension": "Pensii protejate",
+      "delay": "Crima la judecată",
+      "lost": "Pierdut, închisoare zero",
+      "reelected": "După condamnare",
+      "conclusion": "Condamnare nu înseamnă consecință. Sistemul își protejează propriul său - înainte, în timpul și după încercare."
+    }
+  },
+  "judicial": {
+    "badge": "Eroare de sistem",
+    "title": "Corupția judiciară: miezul putred",
+    "subtitle": "Când judecătorii vând decizii și procurorii iau mită, întregul sistem anticorupție se prăbușește. Aceste cazuri explică de ce urmăririle politice eșuează.",
+    "status": {
+      "judgesCorrupt": "JUDECĂTORII CORUPȚI",
+      "prosecutorBribed": "PROCUROR MITAT",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Cifre cheie:",
+      "defendants": "Total pârâți:",
+      "exposed": "Expus de:",
+      "timeline": "Cronologie:",
+      "amount": "Suma de mită:",
+      "outcome": "Rezultat:",
+      "year": "An:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "Decizie disciplinară CSM:",
+      "defensePosition": "Poziția de apărare:",
+      "convicted": "Convicted:",
+      "coconspirator": "Caz transferat:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Apel confirmat:",
+      "tcReject": "Apelul TC respins:"
+    },
+    "lex": {
+      "name": "Operația Lex",
+      "subtitle": "Judecătorii care vând decizii",
+      "rangel": "Judecătorul Curții de Apel",
+      "galante": "Judecător (soția lui Rangel)",
+      "neves": "Președintele Curții",
+      "chargesTitle": "Taxe:",
+      "charges": "Vanzarea hotararilor judecatoresti, mita, trafic de influenta, coruptie. Judecătorii care trebuiau să îi condamne pe politicieni corupți erau ei înșiși corupți.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db41d34ed86d14e",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Proces în curs (2025)",
+      "exposedBy": "Football Leaks / Rui Pinto",
+      "allegations": "Vânzarea hotărârilor favorabile, stabilirea rezultatelor cauzelor, trafic de influență, obstrucționarea justiției, rețea judiciară coordonată",
+      "significance": "Denunțătorul (Rui Pinto) a fost urmărit penal în timp ce procesul judecătorilor corupți a fost amânat cu 7 ani. Sistemul se protejează singur.",
+      "otherDefendants": "Avocați, oameni de afaceri și oficiali ai instanțelor care au participat la rețeaua corupției",
+      "vieira": "Fostul președinte Benfica",
+      "csm": "Rui Rangel a fost exclus din justiție de către Conselho Superior da Magistratura (CSM) în 2020 pentru abateri disciplinare legate de acest caz.",
+      "defense": "Toți inculpații neagă acuzațiile. Rangel a declarat că acuzațiile sunt lipsite de temei și sunt motivate politic."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Procurorul plătit pentru închiderea dosarelor",
+      "figueira": "procuror portughez",
+      "vicente": "Vicepreședinte al Angolei",
+      "convicted": "procuror CONdamnat",
+      "significanceTitle": "Semnificaţie:",
+      "significance": "Un procuror a fost plătit cu peste 700.000 de euro pentru a închide investigațiile împotriva elitelor din Angola. Dacă procurorii pot fi cumpărați, ce șanse au cazurile de corupție?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Demonstrează că banii din petrol din Angola corupează sistemul de justiție portughez",
+      "outcome": "Procurorul a fost condamnat, dar cazul a expus vulnerabilitatea sistemică la corupția străină",
+      "defense": "Figueira a negat acuzațiile pe parcursul procesului și a făcut apel la Curtea Constituțională, care i-a respins recursul în decembrie 2022."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Cine urmărește paznicii? Când judecătorii vând decizii și procurorii iau mită, întregul sistem de răspundere se prăbușește.",
+    "stat": {
+      "defendants": "Inculpații din Lex",
+      "bribe": "Mită procuror",
+      "delay": "Acuzație la proces (Lex)"
+    },
+    "disclaimer": "Toate informațiile de mai jos sunt derivate din înregistrările judecătorești oficiale, acuzații DCIAP, decizii disciplinare CSM și surse de știri verificate. Inculpații aflati în proces în curs mențin prezumția de nevinovăție până la pronunțarea definitivă a condamnării.",
+    "impact": {
+      "title": "De ce contează aceste cazuri pentru combaterea corupției",
+      "fizzTitle": "Operação Fizz Impact:",
+      "fizz1": "• Un procuror de la DCIAP — unitatea care investighează corupția la nivel înalt — era el însuși corupt",
+      "fizz2": "• Cazurile împotriva elitelor angoleze au fost arhivate din cauza mită",
+      "fizz3": "• Manuel Vicente, mituitorul, nu a fost niciodată judecat — cazul lui a fost transferat în Angola",
+      "lexTitle": "Operação Lex Impact:",
+      "lex1": "• Dacă sunt dovedite, judecătorii de la nivelul Curții de Apel au vândut deciziile",
+      "lex2": "• Instanța care revizuiește condamnările de corupție în primă instanță ar fi ea însăși compromisă",
+      "lex3": "• Cazul a durat peste 7 ani de la acuzare (2018) până la începerea procesului (2025)"
+    },
+    "sources": {
+      "title": "Surse oficiale:"
+    }
+  },
+  "methodology": {
+    "badge": "Cercetare independentă",
+    "title": "Metodologia cercetării",
+    "sources": {
+      "title": "Surse examinate",
+      "tc": "• Deciziile Curții Constituționale (Acórdãos)",
+      "dciap": "• Acuzații oficiale DCIAP (Parchetul).",
+      "parliament": "• Rapoarte de anchetă parlamentară (CGD, BES, Novo Banco)",
+      "greco": "• Rapoarte ale rundei de evaluare a 4-a și a 5-a GRECO",
+      "tdc": "• Rapoartele bancare ale Tribunal de Contas (Curtea de Conturi).",
+      "eu": "• Rapoartele Comisiei UE privind statul de drept (2024, 2025)",
+      "eurobarometer": "• Sondajele Eurobarometru privind corupția (2023, 2025)",
+      "ti": "• IPC Transparency International (2012-2024)",
+      "media": "• Mass-media portugheză majoră: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Criterii de includere",
+      "judicial": "• Proceduri judiciare oficiale (condamnare, rechizitoriu, anchetă oficială)",
+      "parliamentary": "• Anchete parlamentare cu rapoarte publicate",
+      "international": "• Evaluări ale organismelor internaționale de monitorizare",
+      "financial": "• Pierderi financiare documentate de Curtea de Conturi"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Acuzații neverificate fără proceduri oficiale",
+      "speculation": "• Speculații sau opinii care nu sunt susținute de documente",
+      "anonymous": "• Surse anonime fără coroborare"
+    },
+    "disclaimer": "Toate persoanele menționate își mențin prezumția de nevinovăție. Statutul „În anchetă” sau „arguido” poate duce la achitare. Stările cazurilor sunt etichetate clar. Această investigație folosește numai surse disponibile public, documentate oficial.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Surse externe verificate",
+      "official": "56%",
+      "officialLabel": "Din surse oficiale",
+      "years": "50",
+      "yearsLabel": "Anii documentați (1974-2025)",
+      "cases": "40+",
+      "casesLabel": "Cazuri încrucișate"
+    },
+    "limitations": {
+      "title": "Limitări ale cercetării",
+      "estimates": "• Unele cifre financiare sunt estimări din surse oficiale (Tribunal de Contas, INE)",
+      "media": "• Rapoartele media pot conține inexactități; acordăm prioritate documentelor oficiale",
+      "appeals": "• Rezultatele cazului se pot schimba în apel; stările reflectă cele mai recente informații verificate",
+      "ongoing": "• Investigațiile în curs pot duce la achitare sau arhivare",
+      "incomplete": "• Este posibil ca această cercetare să fi omis cazuri sau date relevante; orice omisiuni sunt neintenționate",
+      "corrections": "<strong class=\"text-warning\">Bunăvenim corecțiile:</strong> dacă identificați erori, cazuri lipsă sau informații învechite, trimiteți corecții cu surse oficiale de încredere. Ne angajăm cu exactitate și vom actualiza datele în consecință."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "Ce spun ei vs ce arată documentele",
+      "claimsTitle": "Ce susțin politicienii",
+      "claim1": "• „Sunt nevinovat, aceasta este persecuție politică”",
+      "claim2": "• „Banii erau împrumuturi de la prieteni”",
+      "claim3": "• „Portugalia are legi puternice anticorupție”",
+      "claim4": "• „Sistemul de justiție funcționează”",
+      "claim5": "• „Am implementat toate recomandările UE”",
+      "factsTitle": "Ce arată documentele oficiale",
+      "fact1": "• Acuzații DCIAP cu peste 56.000 de pagini de dovezi",
+      "fact2": "• Înregistrări bancare care arată 34 de milioane de euro în transferuri inexplicabile",
+      "fact3": "• TC a anulat legile de îmbogățire ilicit de DOUA ORI",
+      "fact4": "• 74,7% condamnări pentru corupție = pedepse cu suspendare",
+      "fact5": "• GRECO: 0/28 de recomandări implementate integral",
+      "note": "Această investigație se bazează pe documente oficiale, nu pe pretenții. Fiecare statistică se leagă la sursa sa."
+    },
+    "why": {
+      "title": "De ce există acest proiect",
+      "description": "Toate informațiile prezentate aici provin din surse oficiale accesibile publicului: hotărâri judecătorești, anchete parlamentare, rapoarte UE și statistici guvernamentale. Cu toate acestea, accesarea acestor informații necesită navigarea în labirinturi birocratice complexe - împrăștiate pe zeci de site-uri web instituționale, îngropate în documente PDF, adesea în limbaj tehnic juridic și rareori referite încrucișate. Majoritatea cetățenilor nu au timpul, cunoștințele sau răbdarea pentru a pune cap la cap această imagine fragmentată.",
+      "purpose": "Acest proiect simplifică accesul la datele deja existente. Nu creăm informații noi - cumulăm, verificăm și prezentăm înregistrările oficiale într-un format simplificat, accesibil, cu link-uri complete la sursă. Fiecare revendicare poate fi urmărită până la documentul său original."
+    },
+    "editorial": {
+      "title": "Transparență editorială",
+      "description": "Acesta este <strong class=\"text-white\">jurnalism de advocacy de investigație</strong>, nu reportaj neutru. Avem o perspectivă clară: că sistemul politic al Portugaliei conține caracteristici structurale care îi protejează pe cei puternici de responsabilitate. Această perspectivă modelează modul în care prezentăm informațiile.",
+      "commitment": "Cu toate acestea, ne angajăm la acuratețea faptelor. Fiecare revendicare este sursă. Facem distincție între faptele documentate și interpretarea noastră a tiparelor. Recunoaștem explicațiile alternative. Cititorii ar trebui să evalueze dovezile noastre și să ajungă la propriile concluzii.",
+      "invitation": "Salutăm dezacordul. Dacă credeți că interpretarea noastră este greșită, interacționați direct cu sursele. Documentele sunt publice."
+    },
+    "evidenceTypes": {
+      "title": "Cum clasificăm dovezile",
+      "intro": "Pe parcursul acestei investigații, distingem între trei tipuri de revendicări:",
+      "fact": "Direct din hotărâri judecătorești, rapoarte oficiale, statistici guvernamentale. Verificabil prin surse legate.",
+      "pattern": "Mai multe cazuri documentate sugerează o corelație. Nu dovedește cauzalitate sau coordonare.",
+      "analysis": "Interpretarea noastră a datelor. Oamenii rezonabili pot să nu fie de acord cu aceste concluzii."
+    },
+    "counterArguments": {
+      "title": "Explicații alternative pe care le recunoaștem",
+      "intro": "În interesul onestității intelectuale, iată explicații alternative legitime pentru unele modele pe care le documentăm:",
+      "delays": {
+        "title": "De ce cazurile de corupție durează peste 11 ani?",
+        "legit1": "• Sistemul judiciar este sever subfinanțat și cu personal insuficient",
+        "legit2": "• Crimele financiare complexe necesită investigații ample",
+        "legit3": "• Apărarea are dreptul legitim de a contesta probe",
+        "legit4": "• Protecțiile constituționale există din motive întemeiate",
+        "response": "Chiar dacă întârzierile sunt neintenționate, <em>efectul</em> este impunitatea. Alte țări din UE judecă mai repede infracțiuni similare. Media Portugaliei este de 6,8 ani față de norma UE de 3-4 ani. Intenția contează mai puțin decât rezultatul."
+      },
+      "euJobs": {
+        "title": "Numirile UE sunt într-adevăr „recompense”?",
+        "legit1": "• Politicienii au experiență care îi califică",
+        "legit2": "• Pozițiile UE sunt competitive și bazate pe merit",
+        "legit3": "• Corelație ≠ cauzalitate sau conspirație",
+        "legit4": "• Mulți politicieni calificați nu obțin niciodată locuri de muncă în UE",
+        "response": "Nu pretindem o conspirație. Observăm un model în care investigațiile rareori blochează promoțiile. Indiferent dacă aceasta reflectă „recompensă” sau indiferență față de responsabilitate, rezultatul ne privește în egală măsură."
+      },
+      "bothParties": {
+        "title": "De ce să documentăm cazurile ambelor partide majore?",
+        "crit1": "• „Aceasta este o echivalență falsă”",
+        "crit2": "• „O parte poate fi mai coruptă decât cealaltă”",
+        "crit3": "• „Partidele mici au și corupție”",
+        "response": "Documentăm cazurile proporțional cu probele. PS și PSD au putere alternativă de 50 de ani; ambele au cazuri documentate. Nu revendicăm echivalență – arătăm că sistemul protejează <em>pe oricine este la putere</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "De ce există această anchetă",
+    "subtitle": "Visul care nu a putut supraviețui sistemului",
+    "journalism": {
+      "title": "Jurnalismul portughez sub captură sistemică",
+      "intro": "Fiecare jurnalist începe cu același vis: arătați oamenilor adevărul, documentați ceea ce contează, schimbați lumea. În Portugalia, acel vis se ciocnește de un sistem conceput să prevină exact asta."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "dintre jurnaliști câștigă mai puțin de 1.000 de euro/lună",
+      "groups": "4",
+      "groupsLabel": "grupurile media controlează difuzarea privată",
+      "lusa": "95.9%",
+      "lusaLabel": "a agenției naționale de știri (Lusa) acum deținută de stat",
+      "independence": "53%",
+      "independenceLabel": "risc de independență editorială (de la 25%)"
+    },
+    "kills": {
+      "title": "Ceea ce ucide visul",
+      "poverty": "15% câștigă sub salariul minim sau nimic",
+      "ownership": "Fostul premier Pinto Balsemão a deținut Impresa (SIC, Expresso)",
+      "slapp": "319 cazuri SLAPP împotriva jurnaliştilor din Europa (2024)",
+      "violence": "Liderii partidului Chega acuzați de amenințarea jurnaliștilor (noiembrie 2024)",
+      "result": "Scădere cu 23% a jurnaliştilor profesionişti din 2009",
+      "strike": "Peste 40 de organizații media au intrat în grevă istorică"
+    },
+    "pressure": {
+      "title": "Presiunea sistemică",
+      "directors": "dintre jurnalişti raportează presiuni din partea directorilor",
+      "superiors": "raportează presiunea din partea superiorilor editoriali",
+      "ranking": "Portugalia a scăzut în pluralismul media din UE"
+    },
+    "notCriticism": {
+      "title": "Aceasta nu este o critică a jurnaliștilor",
+      "quote": "„Precaritatea are un impact extraordinar asupra independenței jurnaliștilor... Această deteriorare are consecințe asupra independenței politice, asupra deciziilor editoriale ale presei”.",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "De ce este necesară cercetarea independentă",
+      "intro": "Această investigație folosește doar surse oficiale disponibile public - aceleași documente pe care le poate accesa orice redacție. Diferența:",
+      "noAdvertisers": "Nu există agenți de publicitate care să amenințe cu retragerea veniturilor",
+      "noOwners": "Nu există proprietari cu legături politice de protejat",
+      "noEditors": "Fără editori care să înmoaie limbajul pentru interese puternice",
+      "noPrecarity": "Nicio angajare precară care să ceară tăcere",
+      "stance": "Această investigație stă alături de jurnaliștii portughezi, nu împotriva lor."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Protecția Constituțională",
+    "title": "Protecția pensiei: confiscat, returnat, confiscat din nou",
+    "intro": "Articolul 30 din Constituție împiedică pierderea automată a drepturilor la condamnare. Politicienii condamnați își păstrează pensiile prin apeluri nesfârșite.",
+    "vara": {
+      "conviction": "Condamnat: 5 ani pentru trafic de influență",
+      "status": "3x confiscat, 2x returnat"
+    },
+    "pinho": {
+      "conviction": "Condamnat: 10 ani + 4,9 milioane EUR amendă",
+      "status": "10 ani de pedeapsă executată ACASA"
+    },
+    "socrates": {
+      "status": "Proces în curs (11+ ani)",
+      "prescribed": "167 din 189 de acuzații",
+      "expired": "Deja prescris (88%)",
+      "never": "Never seized",
+      "confirmed": "A confirmat primirea subvenției (SIC 2022)"
+    },
+    "conclusion": "Articolul Constituțional 30 + Sistemul de Contestații = Protecția Pensiei Infinite",
+    "conclusionDetail": "Fără confiscare automată. Fiecare sechestru necesită ordin judecătoresc. Fiecare ordin poate fi contestat. Fiecare contestație durează ani. Inculpatul păstrează pensia pe durata procesului."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Hotărâri de arhivă: „Parco Detalhe” (Detaliu insuficient)",
+    "intro": "Articolul 246º nr. 6 CPP permite procurorilor să refuze ancheta pe baza „detaliilor insuficiente” – chiar și cu probe documentate.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "Imunitatea crescută:",
+    "montenegro": {
+      "desc": "Contracte publice către compania de familie (Spinumviva) în timp ce MP",
+      "outcome": "Rămâne PM cu acoperire mediatică minimă"
+    },
+    "mendes": {
+      "desc": "Taxe de consultanta incl. 360.000 euro de la compania de apă ACA",
+      "irony": "Ironia: El a cerut Muntenegrului „să clarifice totul”"
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 de inculpați, 463 de infracțiuni",
+      "outcome": "Alți 60 de persoane au acuzat, cifre importante arhivate"
+    },
+    "pattern": {
+      "title": "Modelul: Articolul 246º nr. 6 CPP",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Cum se pot stabili „indicații” fără investigație? Standardul cere dovezi înainte de anchetă care ar aduna probe.",
+      "effect": "Efect: veto procurorului asupra cazurilor sensibile din punct de vedere politic"
+    }
+  }
+}

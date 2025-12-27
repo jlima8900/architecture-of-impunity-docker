@@ -1,0 +1,424 @@
+{
+  "country": {
+    "code": "IT",
+    "name": "Italy",
+    "cpiScore": 54,
+    "cpiRank": 52,
+    "eurobarometerCorruptionPerception": 87,
+    "grecoComplianceRate": 40,
+    "lastUpdated": "2025-12-23"
+  },
+
+  "politicians": [
+    {
+      "id": "it-berlusconi",
+      "name": "Silvio Berlusconi",
+      "country": "IT",
+      "party": "Forza Italia",
+      "partyAbbrev": "FI",
+      "positions": [
+        { "title": "Prime Minister", "startDate": "1994-05-10", "endDate": "1995-01-17", "level": "national" },
+        { "title": "Prime Minister", "startDate": "2001-06-11", "endDate": "2006-05-17", "level": "national" },
+        { "title": "Prime Minister", "startDate": "2008-05-08", "endDate": "2011-11-16", "level": "national" },
+        { "title": "Member of European Parliament", "startDate": "1999", "endDate": "2001", "level": "eu" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": null,
+      "pensionStatus": "deceased"
+    },
+    {
+      "id": "it-andreotti",
+      "name": "Giulio Andreotti",
+      "country": "IT",
+      "party": "Democrazia Cristiana",
+      "partyAbbrev": "DC",
+      "positions": [
+        { "title": "Prime Minister", "startDate": "1972", "endDate": "1973", "level": "national" },
+        { "title": "Prime Minister", "startDate": "1976", "endDate": "1979", "level": "national" },
+        { "title": "Prime Minister", "startDate": "1989", "endDate": "1992", "level": "national" },
+        { "title": "Senator for Life", "startDate": "1991", "endDate": "2013", "level": "national" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": null,
+      "pensionStatus": "deceased"
+    },
+    {
+      "id": "it-craxi",
+      "name": "Bettino Craxi",
+      "country": "IT",
+      "party": "Partito Socialista Italiano",
+      "partyAbbrev": "PSI",
+      "positions": [
+        { "title": "Prime Minister", "startDate": "1983-08-04", "endDate": "1987-04-17", "level": "national" },
+        { "title": "Leader of PSI", "startDate": "1976", "endDate": "1993", "level": "national" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": null,
+      "pensionStatus": "deceased"
+    },
+    {
+      "id": "it-dellutri",
+      "name": "Marcello Dell'Utri",
+      "country": "IT",
+      "party": "Forza Italia",
+      "partyAbbrev": "FI",
+      "positions": [
+        { "title": "Senator", "startDate": "2001", "endDate": "2013", "level": "national" },
+        { "title": "Member of European Parliament", "startDate": "1999", "endDate": "2004", "level": "eu" }
+      ],
+      "euPositions": [
+        { "title": "Member of European Parliament", "institution": "European Parliament", "startDate": "1999", "endDate": "2004" }
+      ],
+      "pensionMonthly": null,
+      "pensionStatus": "unknown"
+    }
+  ],
+
+  "cases": [
+    {
+      "id": "it-tangentopoli",
+      "name": "Tangentopoli / Mani Pulite",
+      "operationName": "Operazione Mani Pulite",
+      "country": "IT",
+      "status": "archived",
+      "politicians": ["it-craxi"],
+      "charges": [
+        { "type": "Corruption", "count": null, "status": "convicted" },
+        { "type": "Bribery", "count": null, "status": "convicted" },
+        { "type": "Illegal party financing", "count": null, "status": "convicted" }
+      ],
+      "timeline": [
+        { "date": "1992-02-17", "event": "Mario Chiesa arrested for bribery - investigation begins", "significance": "Start of Mani Pulite" },
+        { "date": "1992-04", "event": "Mass arrests of politicians and businessmen", "significance": "5,000+ suspects" },
+        { "date": "1992", "event": "Over half of Parliament under indictment", "significance": "Systemic collapse" },
+        { "date": "1994", "event": "Craxi flees to Tunisia", "significance": "PM flees justice" },
+        { "date": "1996", "event": "Craxi sentenced to 27 years (9y8m upheld)", "significance": "Major conviction" },
+        { "date": "2000-01-19", "event": "Craxi dies in Tunisia, never served time", "significance": "Zero accountability" }
+      ],
+      "amounts": {
+        "alleged": 4000000000,
+        "proven": null,
+        "recovered": null,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": {
+        "prison": "27 years (9y8m upheld)",
+        "suspended": false,
+        "fine": null,
+        "actualTimeServed": "0 - died as fugitive"
+      },
+      "sources": []
+    },
+    {
+      "id": "it-ruby",
+      "name": "Rubygate Scandal",
+      "operationName": null,
+      "country": "IT",
+      "status": "acquitted",
+      "politicians": ["it-berlusconi"],
+      "charges": [
+        { "type": "Paying for sex with minor", "count": 1, "status": "acquitted" },
+        { "type": "Abuse of office", "count": 1, "status": "acquitted" }
+      ],
+      "timeline": [
+        { "date": "2010", "event": "Investigation into 'bunga bunga' parties begins", "significance": "Major scandal" },
+        { "date": "2013-06-24", "event": "Berlusconi convicted - 7 years prison", "significance": "Historic conviction" },
+        { "date": "2014-03", "event": "Appeals court overturns conviction", "significance": "Acquittal" },
+        { "date": "2015-03", "event": "Supreme Court confirms acquittal", "significance": "Final acquittal" }
+      ],
+      "amounts": {
+        "alleged": null,
+        "proven": null,
+        "recovered": null,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": null,
+      "sources": []
+    },
+    {
+      "id": "it-mediaset",
+      "name": "Mediaset Tax Fraud",
+      "operationName": null,
+      "country": "IT",
+      "status": "convicted",
+      "politicians": ["it-berlusconi"],
+      "charges": [
+        { "type": "Tax fraud", "count": 1, "status": "convicted" }
+      ],
+      "timeline": [
+        { "date": "2012-10-26", "event": "Berlusconi convicted - 4 years prison", "significance": "Tax fraud conviction" },
+        { "date": "2013-08-01", "event": "Supreme Court confirms conviction", "significance": "Final conviction" },
+        { "date": "2013-11-27", "event": "Senate expels Berlusconi", "significance": "Lost parliamentary immunity" },
+        { "date": "2014", "event": "Serves community service at nursing home", "significance": "No prison time" }
+      ],
+      "amounts": {
+        "alleged": null,
+        "proven": null,
+        "recovered": null,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": {
+        "prison": "4 years (reduced to 1 year)",
+        "suspended": false,
+        "fine": null,
+        "actualTimeServed": "Community service only"
+      },
+      "sources": []
+    },
+    {
+      "id": "it-andreotti-mafia",
+      "name": "Andreotti Mafia Association",
+      "operationName": null,
+      "country": "IT",
+      "status": "prescribed",
+      "politicians": ["it-andreotti"],
+      "charges": [
+        { "type": "Mafia association", "count": 1, "status": "prescribed" },
+        { "type": "Ordering murder of journalist", "count": 1, "status": "acquitted" }
+      ],
+      "timeline": [
+        { "date": "1995", "event": "Andreotti charged with mafia association", "significance": "38 mafia turncoats testify" },
+        { "date": "1999-10", "event": "Acquitted of mafia association", "significance": "First trial" },
+        { "date": "2002-11", "event": "Convicted of ordering murder - 24 years", "significance": "Historic conviction" },
+        { "date": "2003-01", "event": "Murder conviction overturned", "significance": "Supreme Court reversal" },
+        { "date": "2004-10", "event": "Appeals court: guilty until 1980, then prescribed", "significance": "Time-barred" },
+        { "date": "2013-05-06", "event": "Andreotti dies age 94, never imprisoned", "significance": "Zero accountability" }
+      ],
+      "amounts": {
+        "alleged": null,
+        "proven": null,
+        "recovered": null,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": null,
+      "sources": []
+    },
+    {
+      "id": "it-dellutri-mafia",
+      "name": "Dell'Utri Mafia Conviction",
+      "operationName": null,
+      "country": "IT",
+      "status": "convicted",
+      "politicians": ["it-dellutri"],
+      "charges": [
+        { "type": "External participation in mafia association", "count": 1, "status": "convicted" }
+      ],
+      "timeline": [
+        { "date": "2004", "event": "Dell'Utri convicted - 9 years prison", "significance": "Berlusconi associate convicted" },
+        { "date": "2014-05", "event": "Supreme Court confirms 7-year sentence", "significance": "Final conviction" },
+        { "date": "2014-04", "event": "Dell'Utri flees to Lebanon", "significance": "Fugitive" },
+        { "date": "2014-04", "event": "Extradited from Lebanon", "significance": "Captured" },
+        { "date": "2018-07", "event": "Dell'Utri released", "significance": "Served sentence" }
+      ],
+      "amounts": {
+        "alleged": null,
+        "proven": null,
+        "recovered": null,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": {
+        "prison": "7 years",
+        "suspended": false,
+        "fine": null,
+        "actualTimeServed": "~4 years"
+      },
+      "sources": []
+    }
+  ],
+
+  "scandals": [
+    {
+      "id": "it-banco-ambrosiano",
+      "name": "Banco Ambrosiano Collapse",
+      "country": "IT",
+      "category": "banking",
+      "startYear": 1978,
+      "endYear": 1982,
+      "description": "Collapse of Italy's second-largest private bank. CEO Roberto Calvi found hanging under Blackfriars Bridge London. $1.287 billion unaccounted for. Vatican Bank involvement.",
+      "publicCost": 1287000000,
+      "victimsCount": null,
+      "relatedCases": [],
+      "relatedPoliticians": []
+    },
+    {
+      "id": "it-p2-lodge",
+      "name": "P2 (Propaganda Due) Lodge",
+      "country": "IT",
+      "category": "political",
+      "startYear": 1970,
+      "endYear": 1981,
+      "description": "Secret Masonic lodge operating as shadow government. Members from media, military, business, politics including Berlusconi. Accused of bribery, Banco Ambrosiano scandal, murders.",
+      "publicCost": null,
+      "victimsCount": null,
+      "relatedCases": ["it-banco-ambrosiano"],
+      "relatedPoliticians": ["it-berlusconi"]
+    },
+    {
+      "id": "it-tangentopoli-scandal",
+      "name": "Tangentopoli",
+      "country": "IT",
+      "category": "political",
+      "startYear": 1980,
+      "endYear": 1994,
+      "description": "Systemic nationwide bribery system. $4 billion annually paid in bribes. 5,000+ suspects. Over half of Parliament under indictment. Caused collapse of First Republic.",
+      "publicCost": 4000000000,
+      "victimsCount": null,
+      "relatedCases": ["it-tangentopoli"],
+      "relatedPoliticians": ["it-craxi", "it-andreotti"]
+    },
+    {
+      "id": "it-ndrangheta",
+      "name": "'Ndrangheta Economic Control",
+      "country": "IT",
+      "category": "other",
+      "startYear": 1970,
+      "endYear": null,
+      "description": "Calabrian mafia organization. Estimated €53 billion annual revenue. Controls 3% of Italy's GDP. Pervasive infiltration of politics and business.",
+      "publicCost": 53000000000,
+      "victimsCount": null,
+      "relatedCases": [],
+      "relatedPoliticians": []
+    }
+  ],
+
+  "mediaOutlets": [
+    {
+      "id": "it-mediaset",
+      "name": "Mediaset",
+      "country": "IT",
+      "type": "tv",
+      "owner": "Berlusconi/Fininvest family",
+      "ownerPoliticalConnection": "Founded by 3-time PM Berlusconi. Controls 45% of TV market.",
+      "stateOwned": false,
+      "stateAdvertisingDependency": "low",
+      "perceivedLean": "center-right"
+    },
+    {
+      "id": "it-rai",
+      "name": "RAI",
+      "country": "IT",
+      "type": "tv",
+      "owner": "Italian State",
+      "ownerPoliticalConnection": "Board appointed by Parliament. Historic lottizzazione (party division).",
+      "stateOwned": true,
+      "stateAdvertisingDependency": "high",
+      "perceivedLean": "government-aligned"
+    },
+    {
+      "id": "it-corriere",
+      "name": "Corriere della Sera",
+      "country": "IT",
+      "type": "print",
+      "owner": "RCS MediaGroup",
+      "ownerPoliticalConnection": "Multiple industrial shareholders",
+      "stateOwned": false,
+      "stateAdvertisingDependency": "low",
+      "perceivedLean": "center"
+    }
+  ],
+
+  "legalLoopholes": [
+    {
+      "id": "it-lodo-schifani",
+      "name": "Lodo Schifani (Immunity Law)",
+      "country": "IT",
+      "category": "immunity",
+      "description": "2003 law granting immunity to top 5 state offices, suspending all criminal proceedings. Tailored for PM Berlusconi.",
+      "effect": "Suspended Berlusconi trials for 7 months until Constitutional Court struck it down",
+      "beneficiaries": ["it-berlusconi"],
+      "reformAttempts": [
+        { "year": 2004, "proposal": "Constitutional Court challenge", "outcome": "passed", "blockedBy": [] }
+      ]
+    },
+    {
+      "id": "it-lodo-alfano",
+      "name": "Lodo Alfano (Second Immunity Law)",
+      "country": "IT",
+      "category": "immunity",
+      "description": "2008 law granting immunity to 4 highest offices. Second attempt to protect Berlusconi.",
+      "effect": "Suspended proceedings until Constitutional Court struck it down in 2009",
+      "beneficiaries": ["it-berlusconi"],
+      "reformAttempts": [
+        { "year": 2009, "proposal": "Constitutional Court challenge", "outcome": "passed", "blockedBy": [] }
+      ]
+    },
+    {
+      "id": "it-prescription",
+      "name": "Prescription (Statute of Limitations)",
+      "country": "IT",
+      "category": "prescription",
+      "description": "Short prescription periods allow crimes to expire. Complex cases routinely exceed limits.",
+      "effect": "Andreotti's mafia association was 'prescribed' - proven but time-barred",
+      "beneficiaries": ["it-andreotti", "it-berlusconi"],
+      "reformAttempts": []
+    },
+    {
+      "id": "it-fugitive-protection",
+      "name": "Fugitive Protection",
+      "country": "IT",
+      "category": "procedural",
+      "description": "Convicted politicians can flee abroad. Craxi to Tunisia, Dell'Utri to Lebanon.",
+      "effect": "Craxi died as fugitive after 6 years, never served a day",
+      "beneficiaries": ["it-craxi"],
+      "reformAttempts": []
+    }
+  ],
+
+  "grecoRecommendations": [
+    {
+      "id": "it-greco-r1",
+      "country": "IT",
+      "round": "Fifth Round",
+      "year": 2024,
+      "recommendation": "Prevent corruption among persons with top executive functions",
+      "status": "not-implemented",
+      "lastAssessment": "2024"
+    },
+    {
+      "id": "it-greco-r2",
+      "country": "IT",
+      "round": "Fifth Round",
+      "year": 2024,
+      "recommendation": "Establish comprehensive codes of conduct for all PTEFs",
+      "status": "not-implemented",
+      "lastAssessment": "2024"
+    },
+    {
+      "id": "it-greco-r3",
+      "country": "IT",
+      "round": "Fifth Round",
+      "year": 2024,
+      "recommendation": "Improve financial disclosure for ministers and advisers",
+      "status": "partly-implemented",
+      "lastAssessment": "2024"
+    },
+    {
+      "id": "it-greco-r4",
+      "country": "IT",
+      "round": "Fifth Round",
+      "year": 2024,
+      "recommendation": "Increase transparency of lobbyist contacts",
+      "status": "not-implemented",
+      "lastAssessment": "2024"
+    }
+  ],
+
+  "pensionRules": {
+    "country": "IT",
+    "hasForfeiture": false,
+    "forfeitureConditions": "No automatic forfeiture for corruption convictions",
+    "pensionAmounts": {
+      "president": null,
+      "primeMinister": null,
+      "minister": null,
+      "mp": null
+    },
+    "specialSchemes": "Senators for life receive lifetime benefits. Complex pension system varies by era of service.",
+    "reformHistory": []
+  }
+}

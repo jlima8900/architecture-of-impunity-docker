@@ -1,0 +1,826 @@
+{
+  "country": {
+    "code": "PT",
+    "name": "Portugal",
+    "cpiScore": 57,
+    "cpiRank": 42,
+    "eurobarometerCorruptionPerception": 88,
+    "grecoComplianceRate": 45,
+    "lastUpdated": "2025-12-23"
+  },
+
+  "statistics": {
+    "cpiHistory": [
+      { "year": 2024, "score": 57, "rank": 42, "change": -4 },
+      { "year": 2023, "score": 61, "rank": 34, "change": -1 },
+      { "year": 2022, "score": 62, "rank": 33, "change": 0 },
+      { "year": 2021, "score": 62, "rank": 32, "change": 1 },
+      { "year": 2020, "score": 61, "rank": 33, "change": -1 },
+      { "year": 2015, "score": 63, "rank": 28, "change": 0 },
+      { "year": 2010, "score": 60, "rank": 32, "change": -2 }
+    ],
+    "eurobarometer": {
+      "corruptionWidespread": 88,
+      "corruptionAffectsDaily": 76,
+      "briberyExperience": 2,
+      "trustInGovernment": 34,
+      "trustInParliament": 28,
+      "trustInPoliticalParties": 12,
+      "year": 2024
+    },
+    "legalSystem": {
+      "averageCorruptionCaseDuration": 6.8,
+      "prescriptionRate": 42,
+      "convictionRate": 28,
+      "suspendedSentenceRate": 75,
+      "prosecutorsSayPeriodsInsufficient": 73,
+      "source": "TI Portugal Survey 2024"
+    },
+    "prescriptionPeriods": {
+      "corruption": { "min": 10, "max": 15 },
+      "moneyLaundering": { "min": 10, "max": 15 },
+      "taxFraud": { "min": 5, "max": 10 },
+      "abuseOfPower": { "min": 5, "max": 10 }
+    },
+    "immunity": {
+      "parliamentaryImmunityScope": "Broad - covers pre-trial detention",
+      "canParliamentBlockInvestigation": true,
+      "requiresAuthorizationForArrest": true,
+      "exceptionsOnly": "Intentional crimes with 3+ year maximum sentences, flagrante delicto"
+    },
+    "comparativeEU": {
+      "immunity": [
+        { "country": "Sweden", "scope": "None for criminal matters", "canBlock": false },
+        { "country": "Germany", "scope": "Limited - can be waived", "canBlock": false },
+        { "country": "France", "scope": "Limited to parliamentary functions", "canBlock": false },
+        { "country": "Spain", "scope": "Functional immunity only", "canBlock": false },
+        { "country": "Portugal", "scope": "Broad - covers pre-trial detention", "canBlock": true }
+      ],
+      "prescription": [
+        { "country": "Portugal", "period": "10-15 years", "clockStarts": "At commission", "canSuspend": "Limited" },
+        { "country": "France", "period": "10 years", "clockStarts": "At commission", "canSuspend": "Yes, during investigation" },
+        { "country": "Spain", "period": "5-10 years", "clockStarts": "At commission", "canSuspend": "Yes, judicial" },
+        { "country": "Italy", "period": "Varies", "clockStarts": "At commission", "canSuspend": "Yes, automatic during trial" }
+      ],
+      "pensionForfeiture": [
+        { "country": "Portugal", "hasForfeiture": false, "conditions": "None" },
+        { "country": "UK", "hasForfeiture": true, "conditions": "Police - crimes injurious to state" },
+        { "country": "USA", "hasForfeiture": true, "conditions": "30 states - felony related to job" }
+      ]
+    },
+    "referendums": {
+      "totalBindingSince1974": 0,
+      "totalHeldSince1974": 3,
+      "signaturesRequired": 75000,
+      "parliamentCanBlock": true,
+      "constitutionalCourtCanBlock": true,
+      "source": "Constitution Article 115"
+    },
+    "mediaConcentration": {
+      "tvMarketControlledByTop3": 90,
+      "printMarketControlledByTop3": 85,
+      "ownersWithPoliticalBackground": ["Francisco Pinto Balsemão (Former PM, PSD)"],
+      "stateMediaShare": 33
+    }
+  },
+
+  "politicians": [
+    {
+      "id": "pt-socrates",
+      "name": "José Sócrates",
+      "country": "PT",
+      "party": "Partido Socialista",
+      "partyAbbrev": "PS",
+      "positions": [
+        { "title": "Prime Minister", "startDate": "2005-03-12", "endDate": "2011-06-21", "level": "national" },
+        { "title": "Minister of Environment", "startDate": "1999", "endDate": "2002", "level": "national" },
+        { "title": "Member of Parliament", "startDate": "1987", "endDate": "2005", "level": "national" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": 2500,
+      "pensionStatus": "active"
+    },
+    {
+      "id": "pt-costa",
+      "name": "António Costa",
+      "country": "PT",
+      "party": "Partido Socialista",
+      "partyAbbrev": "PS",
+      "positions": [
+        { "title": "Prime Minister", "startDate": "2015-11-26", "endDate": "2023-11-07", "level": "national" },
+        { "title": "Mayor of Lisbon", "startDate": "2007", "endDate": "2015", "level": "local" },
+        { "title": "Minister of Justice", "startDate": "1999", "endDate": "2002", "level": "national" }
+      ],
+      "euPositions": [
+        { "title": "President of the European Council", "institution": "European Council", "startDate": "2024-12-01", "endDate": null }
+      ],
+      "pensionMonthly": null,
+      "pensionStatus": "unknown"
+    },
+    {
+      "id": "pt-barroso",
+      "name": "José Manuel Durão Barroso",
+      "country": "PT",
+      "party": "Partido Social Democrata",
+      "partyAbbrev": "PSD",
+      "positions": [
+        { "title": "Prime Minister", "startDate": "2002-04-06", "endDate": "2004-06-29", "level": "national" },
+        { "title": "Minister of Foreign Affairs", "startDate": "1992", "endDate": "1995", "level": "national" }
+      ],
+      "euPositions": [
+        { "title": "President of the European Commission", "institution": "European Commission", "startDate": "2004-11-22", "endDate": "2014-10-31" }
+      ],
+      "pensionMonthly": null,
+      "pensionStatus": "active"
+    },
+    {
+      "id": "pt-vara",
+      "name": "Armando Vara",
+      "country": "PT",
+      "party": "Partido Socialista",
+      "partyAbbrev": "PS",
+      "positions": [
+        { "title": "Secretary of State for Treasury", "startDate": "1997", "endDate": "1999", "level": "national" },
+        { "title": "Board Member CGD", "startDate": null, "endDate": null, "level": "national" },
+        { "title": "Board Member Millennium BCP", "startDate": null, "endDate": null, "level": "national" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": 8551,
+      "pensionStatus": "active"
+    },
+    {
+      "id": "pt-pinho",
+      "name": "Manuel Pinho",
+      "country": "PT",
+      "party": "Partido Socialista",
+      "partyAbbrev": "PS",
+      "positions": [
+        { "title": "Minister of Economy and Innovation", "startDate": "2005", "endDate": "2009", "level": "national" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": 26000,
+      "pensionStatus": "active"
+    },
+    {
+      "id": "pt-salgado",
+      "name": "Ricardo Salgado",
+      "country": "PT",
+      "party": null,
+      "partyAbbrev": null,
+      "positions": [
+        { "title": "CEO Banco Espírito Santo", "startDate": "1991", "endDate": "2014", "level": "national" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": null,
+      "pensionStatus": "unknown"
+    },
+    {
+      "id": "pt-morais",
+      "name": "Isaltino Morais",
+      "country": "PT",
+      "party": "Partido Social Democrata",
+      "partyAbbrev": "PSD",
+      "positions": [
+        { "title": "Mayor of Oeiras", "startDate": "1985", "endDate": "2009", "level": "local" },
+        { "title": "Mayor of Oeiras", "startDate": "2017", "endDate": null, "level": "local" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": null,
+      "pensionStatus": "active"
+    },
+    {
+      "id": "pt-balsemao",
+      "name": "Francisco Pinto Balsemão",
+      "country": "PT",
+      "party": "Partido Social Democrata",
+      "partyAbbrev": "PSD",
+      "positions": [
+        { "title": "Prime Minister", "startDate": "1981-01-09", "endDate": "1983-06-09", "level": "national" },
+        { "title": "Minister of Social Communication", "startDate": "1975", "endDate": "1976", "level": "national" },
+        { "title": "Co-founder of PSD", "startDate": "1974", "endDate": null, "level": "national" }
+      ],
+      "euPositions": [],
+      "pensionMonthly": null,
+      "pensionStatus": "active"
+    }
+  ],
+
+  "cases": [
+    {
+      "id": "pt-marques",
+      "name": "Operação Marquês",
+      "operationName": "Operação Marquês",
+      "country": "PT",
+      "status": "trial",
+      "politicians": ["pt-socrates", "pt-salgado", "pt-vara"],
+      "charges": [
+        { "type": "Passive corruption", "count": 3, "status": "pending" },
+        { "type": "Money laundering", "count": 16, "status": "pending" },
+        { "type": "Document falsification", "count": 9, "status": "pending" },
+        { "type": "Tax fraud", "count": 6, "status": "pending" }
+      ],
+      "timeline": [
+        { "date": "2014-11-21", "event": "José Sócrates arrested at Lisbon Airport", "significance": "First former PM arrested in Portuguese history" },
+        { "date": "2015-09-04", "event": "Released from prison after 9 months", "significance": "Moved to house arrest" },
+        { "date": "2017-10-11", "event": "Formal accusation filed - 28 crimes", "significance": "Largest corruption case in Portuguese history" },
+        { "date": "2021-04-09", "event": "Judge Ivo Rosa rules most charges prescribed", "significance": "Only 22 of 189 charges proceed" },
+        { "date": "2025-12-01", "event": "Trial still ongoing - 11+ years", "significance": "No end in sight" }
+      ],
+      "amounts": {
+        "alleged": 34000000,
+        "proven": null,
+        "recovered": 0,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": null,
+      "sources": [
+        { "name": "DCIAP Official Accusation", "url": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0", "date": "2017-10-11" }
+      ]
+    },
+    {
+      "id": "pt-influencer",
+      "name": "Operação Influencer",
+      "operationName": "Operação Influencer",
+      "country": "PT",
+      "status": "investigation",
+      "politicians": ["pt-costa"],
+      "charges": [
+        { "type": "Corruption", "count": null, "status": "pending" },
+        { "type": "Influence peddling", "count": null, "status": "pending" }
+      ],
+      "timeline": [
+        { "date": "2023-11-07", "event": "Police raid São Bento Palace", "significance": "PM official residence searched" },
+        { "date": "2023-11-07", "event": "PM António Costa resigns", "significance": "Immediate resignation" },
+        { "date": "2023-11-07", "event": "€78,000 cash found in chief of staff office", "significance": "Vítor Escária arrested" },
+        { "date": "2024-06-27", "event": "EU leaders elect Costa as European Council President", "significance": "Despite ongoing investigation" }
+      ],
+      "amounts": {
+        "alleged": null,
+        "proven": null,
+        "recovered": 78000,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": null,
+      "sources": [
+        { "name": "NPR", "url": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns", "date": "2023-11-07" }
+      ]
+    },
+    {
+      "id": "pt-face-oculta",
+      "name": "Operação Face Oculta",
+      "operationName": "Operação Face Oculta",
+      "country": "PT",
+      "status": "convicted",
+      "politicians": ["pt-vara"],
+      "charges": [
+        { "type": "Influence peddling", "count": 3, "status": "convicted" }
+      ],
+      "timeline": [
+        { "date": "2014-09", "event": "Armando Vara sentenced to 5 years", "significance": "First major conviction" },
+        { "date": "2017-04", "event": "Conviction confirmed by Court of Appeal", "significance": "Appeals exhausted" },
+        { "date": "2018-12", "event": "Began serving sentence", "significance": "Finally imprisoned" },
+        { "date": "2021-10", "event": "Released after 2 years 9 months", "significance": "COVID early release" }
+      ],
+      "amounts": {
+        "alleged": 25000,
+        "proven": 25000,
+        "recovered": null,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": {
+        "prison": "5 years",
+        "suspended": false,
+        "fine": null,
+        "actualTimeServed": "2 years 9 months"
+      },
+      "sources": []
+    },
+    {
+      "id": "pt-pinho-case",
+      "name": "Manuel Pinho / EDP Case",
+      "operationName": null,
+      "country": "PT",
+      "status": "convicted",
+      "politicians": ["pt-pinho", "pt-salgado"],
+      "charges": [
+        { "type": "Passive corruption", "count": 1, "status": "convicted" },
+        { "type": "Money laundering", "count": 1, "status": "convicted" },
+        { "type": "Tax fraud", "count": 1, "status": "convicted" }
+      ],
+      "timeline": [
+        { "date": "2021-12", "event": "Placed under house arrest", "significance": "Preventive detention" },
+        { "date": "2024", "event": "Sentenced to 10 years", "significance": "Major conviction" },
+        { "date": "2025-04", "event": "Appeal denied", "significance": "Conviction confirmed" }
+      ],
+      "amounts": {
+        "alleged": 4900000,
+        "proven": 4900000,
+        "recovered": null,
+        "publicCost": null,
+        "currency": "EUR"
+      },
+      "sentence": {
+        "prison": "10 years",
+        "suspended": false,
+        "fine": 4900000,
+        "actualTimeServed": null
+      },
+      "sources": []
+    }
+  ],
+
+  "scandals": [
+    {
+      "id": "pt-bes",
+      "name": "BES - Banco Espírito Santo",
+      "country": "PT",
+      "category": "banking",
+      "startYear": 2014,
+      "endYear": null,
+      "description": "Collapse of Portugal's largest private bank. Fraudulent accounting, family dynasty control, billions in hidden losses.",
+      "publicCost": 4900000000,
+      "victimsCount": null,
+      "relatedCases": ["pt-marques"],
+      "relatedPoliticians": ["pt-salgado", "pt-socrates"]
+    },
+    {
+      "id": "pt-bpn",
+      "name": "BPN - Banco Português de Negócios",
+      "country": "PT",
+      "category": "banking",
+      "startYear": 2008,
+      "endYear": null,
+      "description": "Bank nationalized after discovery of massive fraud. Offshore accounts, loans to insiders, political connections.",
+      "publicCost": 5300000000,
+      "victimsCount": null,
+      "relatedCases": [],
+      "relatedPoliticians": []
+    },
+    {
+      "id": "pt-cgd",
+      "name": "CGD - Caixa Geral de Depósitos",
+      "country": "PT",
+      "category": "banking",
+      "startYear": 2000,
+      "endYear": null,
+      "description": "State bank used for political lending. Joe Berardo €900M loans, Sócrates connections, billions in bad loans.",
+      "publicCost": 5000000000,
+      "victimsCount": null,
+      "relatedCases": ["pt-marques"],
+      "relatedPoliticians": ["pt-socrates", "pt-vara"]
+    },
+    {
+      "id": "pt-casa-pia",
+      "name": "Casa Pia Scandal",
+      "country": "PT",
+      "category": "abuse",
+      "startYear": 2002,
+      "endYear": 2010,
+      "description": "Systematic child abuse at state orphanage. Cover-up by elites for 20+ years. Politicians, diplomats, TV personalities involved.",
+      "publicCost": null,
+      "victimsCount": 100,
+      "relatedCases": [],
+      "relatedPoliticians": []
+    }
+  ],
+
+  "mediaOutlets": [
+    {
+      "id": "pt-sic",
+      "name": "SIC",
+      "country": "PT",
+      "type": "tv",
+      "owner": "Francisco Pinto Balsemão (Impresa)",
+      "ownerPoliticalConnection": "Former PM (PSD 1981-1983), PSD co-founder",
+      "stateOwned": false,
+      "stateAdvertisingDependency": "medium",
+      "perceivedLean": "center-right"
+    },
+    {
+      "id": "pt-expresso",
+      "name": "Expresso",
+      "country": "PT",
+      "type": "print",
+      "owner": "Francisco Pinto Balsemão (Impresa)",
+      "ownerPoliticalConnection": "Former PM (PSD 1981-1983), PSD co-founder",
+      "stateOwned": false,
+      "stateAdvertisingDependency": "medium",
+      "perceivedLean": "center-right"
+    },
+    {
+      "id": "pt-rtp",
+      "name": "RTP",
+      "country": "PT",
+      "type": "tv",
+      "owner": "Portuguese State",
+      "ownerPoliticalConnection": "Board appointed by Parliament/Government",
+      "stateOwned": true,
+      "stateAdvertisingDependency": "high",
+      "perceivedLean": "government-aligned"
+    },
+    {
+      "id": "pt-tvi",
+      "name": "TVI",
+      "country": "PT",
+      "type": "tv",
+      "owner": "Cofina (Media Capital)",
+      "ownerPoliticalConnection": "Various board connections",
+      "stateOwned": false,
+      "stateAdvertisingDependency": "medium",
+      "perceivedLean": "center"
+    },
+    {
+      "id": "pt-publico",
+      "name": "Público",
+      "country": "PT",
+      "type": "print",
+      "owner": "Sonae (Belmiro de Azevedo family)",
+      "ownerPoliticalConnection": "Major government contractor (retail, telecom)",
+      "stateOwned": false,
+      "stateAdvertisingDependency": "medium",
+      "perceivedLean": "center-left"
+    },
+    {
+      "id": "pt-cm",
+      "name": "Correio da Manhã",
+      "country": "PT",
+      "type": "print",
+      "owner": "Cofina",
+      "ownerPoliticalConnection": null,
+      "stateOwned": false,
+      "stateAdvertisingDependency": "low",
+      "perceivedLean": "center"
+    }
+  ],
+
+  "legalLoopholes": [
+    {
+      "id": "pt-prescription",
+      "name": "Statute of Limitations (Prescrição)",
+      "country": "PT",
+      "category": "prescription",
+      "description": "Corruption crimes prescribe after 10-15 years. Complex cases routinely exceed this.",
+      "effect": "Sócrates case: 167 of 189 charges prescribed before trial",
+      "beneficiaries": ["pt-socrates"],
+      "reformAttempts": [
+        { "year": 2021, "proposal": "Extend prescription for corruption crimes", "outcome": "watered-down", "blockedBy": ["PS", "PSD"] }
+      ]
+    },
+    {
+      "id": "pt-averiguacao",
+      "name": "Preliminary Inquiry Phase",
+      "country": "PT",
+      "category": "procedural",
+      "description": "Optional phase that adds years to investigations. Allows defendants to contest evidence before trial.",
+      "effect": "Judge Ivo Rosa used this to dismiss majority of Sócrates charges",
+      "beneficiaries": ["pt-socrates"],
+      "reformAttempts": []
+    },
+    {
+      "id": "pt-immunity",
+      "name": "Parliamentary Immunity",
+      "country": "PT",
+      "category": "immunity",
+      "description": "MPs cannot be detained without Assembly authorization. Creates delays in investigations.",
+      "effect": "Investigations paused during parliamentary sessions",
+      "beneficiaries": [],
+      "reformAttempts": []
+    },
+    {
+      "id": "pt-constitutional-court",
+      "name": "Constitutional Court Delays",
+      "country": "PT",
+      "category": "procedural",
+      "description": "Appeals to Constitutional Court can add years. Used strategically to delay proceedings.",
+      "effect": "Multiple appeals in corruption cases take 2-3 years each",
+      "beneficiaries": ["pt-socrates", "pt-vara"],
+      "reformAttempts": []
+    },
+    {
+      "id": "pt-no-pension-forfeiture",
+      "name": "No Pension Forfeiture",
+      "country": "PT",
+      "category": "constitutional",
+      "description": "Article 30 of Constitution prevents automatic loss of rights upon conviction. No pension forfeiture mechanism.",
+      "effect": "Convicted politicians keep full pensions. Vara, Pinho maintain €26,000/month pensions.",
+      "beneficiaries": ["pt-vara", "pt-pinho", "pt-morais"],
+      "reformAttempts": [
+        { "year": 2024, "proposal": "Chega: 25-75% pension cuts for convicted politicians", "outcome": "blocked", "blockedBy": ["Constitutional constraints", "PS", "PSD"] }
+      ]
+    }
+  ],
+
+  "grecoCompliance": {
+    "fourthRound": {
+      "year": 2015,
+      "adopted": "2015-12-04",
+      "focus": "Prevention of corruption among MPs, judges, and prosecutors",
+      "total": 15,
+      "implemented": 5,
+      "partiallyImplemented": 10,
+      "notImplemented": 0,
+      "complianceRate": 33,
+      "euAverage": 59,
+      "assessment": "globally unsatisfactory",
+      "assessmentHistory": [
+        { "year": 2017, "implemented": 1, "assessment": "globally unsatisfactory" },
+        { "year": 2019, "implemented": 1, "assessment": "globally unsatisfactory" },
+        { "year": 2021, "implemented": 3, "assessment": "no longer unsatisfactory overall" },
+        { "year": 2022, "implemented": 3, "assessment": "globally unsatisfactory" },
+        { "year": 2024, "implemented": 3, "assessment": "globally unsatisfactory" },
+        { "year": 2025, "implemented": 5, "assessment": "globally unsatisfactory" }
+      ],
+      "recommendations": [
+        { "id": "4R-1", "category": "MPs", "text": "Lobbying regulation for MPs", "status": "not-implemented" },
+        { "id": "4R-2", "category": "MPs", "text": "Impact assessment of conflicts of interest system", "status": "partly-implemented" },
+        { "id": "4R-3", "category": "MPs", "text": "Asset disclosure enforcement with sanctions", "status": "partly-implemented" },
+        { "id": "4R-4", "category": "MPs", "text": "Post-employment restrictions for MPs", "status": "partly-implemented" },
+        { "id": "4R-5", "category": "MPs", "text": "Comprehensive code of conduct for MPs", "status": "partly-implemented" },
+        { "id": "4R-6", "category": "Judges", "text": "Judicial council composition (majority judges)", "status": "not-implemented" },
+        { "id": "4R-7", "category": "Judges", "text": "Supreme Court selection method reform", "status": "not-implemented" },
+        { "id": "4R-8", "category": "Judges", "text": "Online publication of court judgments", "status": "partly-implemented" },
+        { "id": "4R-9", "category": "Judges", "text": "Ethical standards for judges", "status": "partly-implemented" },
+        { "id": "4R-10", "category": "Judges", "text": "Periodic integrity evaluation", "status": "partly-implemented" },
+        { "id": "4R-11", "category": "Prosecutors", "text": "Post-employment restrictions for prosecutors", "status": "partly-implemented" },
+        { "id": "4R-12", "category": "Prosecutors", "text": "Confidential counselling mechanism", "status": "implemented" },
+        { "id": "4R-13", "category": "Prosecutors", "text": "Internal evaluation rules with ethics provisions", "status": "implemented" },
+        { "id": "4R-14", "category": "Prosecutors", "text": "Asset declarations monitoring", "status": "implemented" },
+        { "id": "4R-15", "category": "Prosecutors", "text": "Training on ethical standards", "status": "implemented" }
+      ]
+    },
+    "fifthRound": {
+      "year": 2024,
+      "adopted": "2024-01-10",
+      "focus": "Prevention of corruption in central government and law enforcement",
+      "total": 28,
+      "implemented": 0,
+      "partiallyImplemented": 18,
+      "notImplemented": 10,
+      "complianceRate": 0,
+      "assessment": "compliance procedure ongoing",
+      "deadlines": {
+        "fourthRoundReport": "2026-03-31",
+        "fifthRoundReport": "2026-09-30"
+      },
+      "recommendations": [
+        { "id": "5R-1", "category": "Executive", "text": "Pre-appointment integrity checks for ministers", "status": "implemented" },
+        { "id": "5R-2", "category": "Executive", "text": "Pre-appointment integrity checks for cabinet members", "status": "not-implemented" },
+        { "id": "5R-3", "category": "Executive", "text": "Asset declaration electronic filing platform", "status": "partly-implemented" },
+        { "id": "5R-4", "category": "Executive", "text": "Public accessibility of asset declarations", "status": "not-implemented" },
+        { "id": "5R-5", "category": "Executive", "text": "National Anti-Corruption Strategy 2025-28", "status": "not-implemented" },
+        { "id": "5R-6", "category": "Executive", "text": "Corruption-risk prevention plan for executives", "status": "not-implemented" },
+        { "id": "5R-7", "category": "Executive", "text": "Clear gift rules with timely publication", "status": "partly-implemented" },
+        { "id": "5R-8", "category": "Executive", "text": "Post-employment restrictions for cabinet members", "status": "not-implemented" },
+        { "id": "5R-9", "category": "Executive", "text": "Cooling-off periods for ministers", "status": "not-implemented" },
+        { "id": "5R-10", "category": "Executive", "text": "Lobbying transparency requirements", "status": "not-implemented" },
+        { "id": "5R-11", "category": "Executive", "text": "MENAC full operationalization", "status": "partly-implemented" },
+        { "id": "5R-12", "category": "Executive", "text": "Entity for Transparency operationalization", "status": "partly-implemented" },
+        { "id": "5R-13", "category": "Executive", "text": "Public information access improvement", "status": "partly-implemented" },
+        { "id": "5R-14", "category": "Executive", "text": "Government website transparency", "status": "partly-implemented" },
+        { "id": "5R-15", "category": "Law Enforcement", "text": "Codes of conduct for GNR/PSP", "status": "partly-implemented" },
+        { "id": "5R-16", "category": "Law Enforcement", "text": "Ethical standards (conflicts, gifts)", "status": "partly-implemented" },
+        { "id": "5R-17", "category": "Law Enforcement", "text": "Confidential counseling mechanism", "status": "not-implemented" },
+        { "id": "5R-18", "category": "Law Enforcement", "text": "Internal whistleblower channels", "status": "partly-implemented" },
+        { "id": "5R-19", "category": "Law Enforcement", "text": "Women representation at all levels", "status": "partly-implemented" },
+        { "id": "5R-20", "category": "Law Enforcement", "text": "Counter undue influence in promotions", "status": "partly-implemented" },
+        { "id": "5R-21", "category": "Law Enforcement", "text": "Transparency in recruitment", "status": "partly-implemented" },
+        { "id": "5R-22", "category": "Law Enforcement", "text": "Asset declarations for senior officers", "status": "partly-implemented" },
+        { "id": "5R-23", "category": "Law Enforcement", "text": "Post-employment restrictions enforcement", "status": "partly-implemented" },
+        { "id": "5R-24", "category": "Law Enforcement", "text": "Training on anti-corruption measures", "status": "partly-implemented" },
+        { "id": "5R-25", "category": "Law Enforcement", "text": "Risk assessment for corruption-prone positions", "status": "partly-implemented" },
+        { "id": "5R-26", "category": "Law Enforcement", "text": "Internal reporting mechanisms", "status": "partly-implemented" },
+        { "id": "5R-27", "category": "Law Enforcement", "text": "Disciplinary procedures transparency", "status": "partly-implemented" },
+        { "id": "5R-28", "category": "Law Enforcement", "text": "Regular integrity audits", "status": "not-implemented" }
+      ]
+    },
+    "menac": {
+      "name": "National Anti-Corruption Mechanism (MENAC)",
+      "declaredOperational": "2023-06-06",
+      "actualStatus": "not fully operational",
+      "authorizedPositions": 27,
+      "filledPositions": 12,
+      "staffingRate": 44,
+      "budget2023": 2100000,
+      "budget2024": 2550000,
+      "source": "GRECO Fifth Round Compliance Report 2025"
+    },
+    "sources": [
+      { "name": "GRECO Fourth Round Evaluation Report", "url": "https://rm.coe.int/fourth-evaluation-round-corruption-prevention-in-respect-of-members-of/168073bf0e", "date": "2015-12-04" },
+      { "name": "GRECO Fifth Round Evaluation Report", "url": "https://rm.coe.int/fifth-evaluation-round-preventing-corruption-and-promoting-integrity-i/1680ac3c2f", "date": "2024-01-10" },
+      { "name": "GRECO Fifth Round Compliance Report", "url": "https://rm.coe.int/grecorc5-2025-7-final-eng-compliance-report-portugal-public/4880282a05", "date": "2025-08" }
+    ]
+  },
+
+  "grecoRecommendations": [
+    {
+      "id": "pt-greco-r1",
+      "country": "PT",
+      "round": "Fourth Round",
+      "year": 2016,
+      "recommendation": "Strengthen rules on conflicts of interest for MPs",
+      "status": "partly-implemented",
+      "lastAssessment": "2023"
+    },
+    {
+      "id": "pt-greco-r2",
+      "country": "PT",
+      "round": "Fourth Round",
+      "year": 2016,
+      "recommendation": "Establish comprehensive code of conduct for MPs",
+      "status": "not-implemented",
+      "lastAssessment": "2023"
+    },
+    {
+      "id": "pt-greco-r3",
+      "country": "PT",
+      "round": "Fourth Round",
+      "year": 2016,
+      "recommendation": "Improve asset declarations and verification",
+      "status": "partly-implemented",
+      "lastAssessment": "2023"
+    },
+    {
+      "id": "pt-greco-r4",
+      "country": "PT",
+      "round": "Fifth Round",
+      "year": 2022,
+      "recommendation": "Increase transparency of lobbying",
+      "status": "not-implemented",
+      "lastAssessment": "2024"
+    }
+  ],
+
+  "pensionRules": {
+    "country": "PT",
+    "hasForfeiture": false,
+    "forfeitureConditions": "None. Article 30 of Constitution prevents automatic loss of rights.",
+    "pensionAmounts": {
+      "president": 11718.20,
+      "primeMinister": 8788.65,
+      "minister": 7616.83,
+      "mp": 4185.07
+    },
+    "specialSchemes": "Pre-2005 politicians with 12+ years service receive lifelong 'subvenção vitalícia'. Sócrates confirmed receiving ~€30,000/year from this scheme.",
+    "reformHistory": [
+      "2005: Law 52-A/2005 ended special MP pensions, but grandfathered existing recipients",
+      "2021: 10-year ban from office for convicted politicians (does not affect pensions)",
+      "2024: Chega proposal for 25-75% pension cuts blocked on constitutional grounds"
+    ]
+  },
+
+  "pensionSeizureCases": [
+    {
+      "id": "ps-vara",
+      "politician": "pt-vara",
+      "name": "Armando Vara",
+      "party": "PS",
+      "monthlyPension": 26000,
+      "conviction": "Face Oculta - 5 years for influence peddling",
+      "status": "convicted",
+      "prisonTime": "2 years 9 months (COVID early release)",
+      "seizurePattern": [
+        { "date": "2014", "action": "First seizure ordered", "result": "seized" },
+        { "date": "2016", "action": "Appeal to Court of Appeal", "result": "returned" },
+        { "date": "2018", "action": "Second seizure after conviction", "result": "seized" },
+        { "date": "2020", "action": "Second appeal", "result": "returned" },
+        { "date": "2025", "action": "Third seizure ordered", "result": "pending appeal" }
+      ],
+      "currentStatus": "Pension seized 3 times, returned 2 times on appeal",
+      "source": "Essential Business, Portugal Resident"
+    },
+    {
+      "id": "ps-pinho",
+      "politician": "pt-pinho",
+      "name": "Manuel Pinho",
+      "party": "PS",
+      "monthlyPension": 26000,
+      "conviction": "EDP Case - 10 years for passive corruption, €4.9M fine",
+      "status": "convicted",
+      "prisonTime": "Serving under house arrest since 2021",
+      "seizurePattern": [
+        { "date": "2017", "action": "First seizure ordered during investigation", "result": "seized" },
+        { "date": "2019", "action": "Appeal", "result": "returned" },
+        { "date": "2021", "action": "Second seizure at house arrest", "result": "seized" },
+        { "date": "2023", "action": "Second appeal", "result": "returned" },
+        { "date": "2024", "action": "Third seizure after conviction", "result": "pending" }
+      ],
+      "currentStatus": "Sued prosecutor and judge over seizures. 10-year sentence served at home.",
+      "source": "Bloomberg, Portugal Resident"
+    },
+    {
+      "id": "ps-socrates",
+      "politician": "pt-socrates",
+      "name": "José Sócrates",
+      "party": "PS",
+      "yearlySubvention": 30000,
+      "conviction": null,
+      "status": "trial ongoing (11+ years)",
+      "chargesPrescribed": "167 of 189 charges (88%)",
+      "seizurePattern": [],
+      "currentStatus": "Pension never seized. Confirmed receiving €30K/year subvention (SIC interview June 2022).",
+      "source": "Observador, SIC"
+    }
+  ],
+
+  "archiveDecisions": [
+    {
+      "id": "ad-montenegro",
+      "politician": "Luís Montenegro",
+      "party": "PSD",
+      "role": "Prime Minister",
+      "caseNane": "Spinumviva",
+      "amount": 410000,
+      "description": "€410,000+ in public contracts to family company while MP",
+      "archiveDate": "2025-12-17",
+      "archiveReason": "parco detalhe",
+      "archiveReasonEn": "insufficient detail",
+      "mechanism": "Averiguação Preventiva (no formal inquiry opened)",
+      "legalBasis": "Article 246º n.º 6 CPP",
+      "outcome": "Investigation archived despite documentary evidence",
+      "consequence": "Remains PM with minimal media coverage",
+      "source": "PGR, Sábado"
+    },
+    {
+      "id": "ad-mendes",
+      "politician": "Luís Marques Mendes",
+      "party": "PSD",
+      "role": "Former PSD leader, SIC political commentator",
+      "caseName": "Consultancy fees",
+      "amount": 700000,
+      "description": "€700,000+ in consultancy fees, including €360,000 from ACA (water utility)",
+      "archiveDate": "2025-12-19",
+      "archiveReason": "parco detalhe",
+      "archiveReasonEn": "insufficient detail",
+      "mechanism": "PGR declined investigation despite bank records",
+      "legalBasis": "Article 246º n.º 6 CPP",
+      "outcome": "Investigation declined despite documented €5,000/month payments",
+      "consequence": "Continues as SIC prime-time political commentator without disclosure",
+      "irony": "Mendes demanded Montenegro 'clarify everything' during Spinumviva scandal",
+      "source": "PGR, Sábado"
+    },
+    {
+      "id": "ad-medina",
+      "politician": "Fernando Medina",
+      "party": "PS",
+      "role": "Former Finance Minister, Former Lisbon Mayor",
+      "caseName": "Operação Tutti-Frutti",
+      "amount": 580000,
+      "description": "60 defendants, 463 alleged crimes in Lisbon parishes corruption",
+      "archiveDate": "2025-02",
+      "archiveReason": "insufficient evidence",
+      "mechanism": "10-year investigation archived for high-profile figures only",
+      "legalBasis": "Prosecutorial discretion",
+      "outcome": "Medina and Cordeiro archived while 60 others charged",
+      "consequence": "Parliamentary immunity lifted Sept 2024, then archived Feb 2025",
+      "investigationDuration": "10 years (2015-2025)",
+      "source": "Observador, Público"
+    }
+  ],
+
+  "parliamentaryVotingRecords": {
+    "illicitEnrichmentBlocking": [
+      { "year": 2007, "proposal": "First PCP proposal", "proposer": "PCP", "result": "blocked", "partiesAgainst": ["PS", "PSD"] },
+      { "year": 2009, "proposal": "PCP 726/X", "proposer": "PCP", "result": "rejected", "partiesAgainst": ["PS", "PSD"] },
+      { "year": 2009, "proposal": "PCP 25/XI", "proposer": "PCP", "result": "rejected", "partiesAgainst": ["PS", "PSD"] },
+      { "year": 2012, "proposal": "Decree 37/XII", "proposer": "Parliament", "result": "TC struck down", "partiesAgainst": [], "tcDecision": "Acórdão 179/2012" },
+      { "year": 2015, "proposal": "Decree 369/XII", "proposer": "Parliament", "result": "TC struck down (unanimous)", "partiesAgainst": [], "tcDecision": "Acórdão 377/2015" },
+      { "year": 2019, "proposal": "PSD lobby law", "proposer": "Opposition", "result": "blocked", "partiesAgainst": ["PS"] },
+      { "year": 2021, "proposal": "Illicit Enrichment", "proposer": "Chega", "result": "ALL PARTIES AGAINST", "partiesAgainst": ["PS", "PSD", "BE", "PCP", "CDS"], "significance": "Only time all parties voted together - to reject anti-corruption reform" },
+      { "year": 2024, "proposal": "Anti-corruption measures", "proposer": "Opposition", "result": "Adiamento Potestativo", "partiesAgainst": ["PSD"], "mechanism": "Parliamentary delay tactic" }
+    ],
+    "keyFinding": "The 2021 vote is the only documented instance where all Portuguese parliamentary parties voted together. Their unified cause: rejecting anti-corruption reform.",
+    "source": "Parliamentary records, Assembleia da República"
+  },
+
+  "euComparisonExtended": {
+    "illicitEnrichment": [
+      { "country": "France", "hasLaw": true, "constitutional": true, "mechanism": "Article 321-6-1 Code Pénal", "convictions": "Multiple high officials" },
+      { "country": "Spain", "hasLaw": true, "constitutional": true, "mechanism": "Penal Code", "convictions": "Active prosecutions" },
+      { "country": "Italy", "hasLaw": true, "constitutional": true, "mechanism": "Codice Penale", "convictions": "Time-barred often" },
+      { "country": "Portugal", "hasLaw": false, "constitutional": false, "mechanism": "BLOCKED 18 years by TC", "convictions": "Impossible without law" }
+    ],
+    "lobbyingRegulation": [
+      { "country": "France", "mandatory": true, "register": true, "coolingOff": "2 years for ministers" },
+      { "country": "Germany", "mandatory": true, "register": true, "coolingOff": "Variable" },
+      { "country": "Spain", "mandatory": true, "register": true, "coolingOff": "Yes" },
+      { "country": "EU Commission", "mandatory": true, "register": true, "coolingOff": "Comprehensive" },
+      { "country": "Portugal", "mandatory": false, "register": false, "coolingOff": "None" }
+    ],
+    "assetDeclarations": [
+      { "country": "Denmark", "public": true, "online": true, "verified": true, "familyIncluded": true },
+      { "country": "Sweden", "public": true, "online": true, "verified": true, "familyIncluded": true },
+      { "country": "France", "public": "partial", "online": true, "verified": true, "familyIncluded": "partial" },
+      { "country": "Portugal", "public": false, "online": false, "verified": false, "familyIncluded": false }
+    ],
+    "whistleblowerProtection": [
+      { "country": "Denmark", "level": "strong", "specializedAgency": true, "anonymousReporting": true },
+      { "country": "Netherlands", "level": "strong", "specializedAgency": true, "anonymousReporting": true },
+      { "country": "France", "level": "good", "specializedAgency": false, "anonymousReporting": true },
+      { "country": "Germany", "level": "medium", "specializedAgency": false, "anonymousReporting": true },
+      { "country": "Portugal", "level": "weak", "specializedAgency": false, "anonymousReporting": "limited" }
+    ]
+  }
+}

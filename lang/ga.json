@@ -1,0 +1,3259 @@
+{
+  "nav": {
+    "logo": "Ailtireacht na Saoirse ó Phionós",
+    "thesis": "An Téis",
+    "cases": "Cásanna",
+    "loopholes": "Bearnaí Dlíthiúla",
+    "blocking": "Patrún Blocála",
+    "euRewards": "Duaiseanna AE",
+    "solution": "Réiteach",
+    "eliteLaws": "Dlíthe na hÉilíte",
+    "euLabor": "Saothar AE",
+    "brand": "Ailtireacht an Neamhphionóis",
+    "odds": "Odds",
+    "database": "Bunachar Sonraí",
+    "sources": "Foinsí",
+    "timeline": "Amlíne",
+    "stats": "Stats",
+    "dashboard": "Dashboard",
+    "forum": "Forum",
+    "donate": "Donate",
+    "sign": "SÍNIÚ",
+    "mediaMachine": "Meáin",
+    "goldenParachute": "Pinsin",
+    "home": "Baile",
+    "signPetition": "Sínigh achainí",
+    "convicted": "Ciontaithe",
+    "judicial": "Breithiúnach",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"NÍL SIAD OS ÁR gCIONN\"",
+    "title": "AILTIREACHT NA SAOIRSE Ó PHIONÓS",
+    "subtitle": "Conas atá Córas Polaitiúil na hEorpa Deartha chun na Truaillithe a Chosaint",
+    "subtext": "Is SEIRBHÍSIGH phoiblí iad polaiteoirí, ní MÁISTRÍ poiblí. Ba cheart dóibh maireachtáil mar shaoránaigh, bheith iniúchta mar shaoránaigh agus aghaidh a thabhairt ar an gceartas mar shaoránaigh.",
+    "stat1": "Innéacs Éillithe TI 2024",
+    "stat2": "Blianta: Fad an Cháis",
+    "stat3": "Creideann Saoránaigh go bhfuil an Rialtas Truaillithe",
+    "scroll": "Scrollaigh chun Tosú",
+    "declaration": "Imscrúdú faoi stiúir saoránach ar éilliú polaitiúil sa Phortaingéil",
+    "begin": "Tosaigh imscrúdú"
+  },
+  "parts": {
+    "one": "Cuid I",
+    "two": "Cuid II",
+    "three": "Cuid III",
+    "four": "Cuid IV",
+    "five": "Cuid V",
+    "six": "Cuid VI",
+    "seven": "Cuid VII",
+    "eight": "Cuid VIII",
+    "eleven": "Cuid XI",
+    "twelve": "Cuid XII",
+    "nine": "Part IX",
+    "ten": "Part X",
+    "thirteen": "Cuid XIII"
+  },
+  "signature": {
+    "title": "Sínigh an Tionscnamh Eorpach ó na Saoránaigh",
+    "subtitle": "Tionscnamh Eorpach ó na Saoránaigh um Chuntasacht Pholaitiúil",
+    "firstName": "Céadainm",
+    "lastName": "Sloinne",
+    "country": "Tír",
+    "idNumber": "Uimhir Aitheantais",
+    "submit": "Sínigh",
+    "verify": "Fíoraigh",
+    "count": "Sínithe",
+    "goal": "Sprioc: 1.000.000",
+    "verified": "Fíoraithe ag Bonneagar AE",
+    "eci": {
+      "title": "Tionscnamh Eorpach na Saoránach",
+      "regulation": "Tar éis Rialachán AE 2019/788",
+      "security": "Fíoraithe go cripteagrafach agus nach bhfuil aon chur isteach air"
+    },
+    "euInfrastructure": "Comhtháthú Bonneagair an AE",
+    "selectCountry": "Roghnaigh do thír",
+    "consent": "Deimhním gur saoránach de chuid an AE mé agus toilím go bpróiseálfar mo shonraí de réir rialacháin um chosaint sonraí an AE.",
+    "merkleLabel": "Merkle Root:",
+    "merkleCalculating": "Calculating...",
+    "merkleNoSigs": "Níl aon sínithe fós",
+    "formFooter": "Déanfar do shíniú a ghreamú go cripteagrafach agus cuirfear le slabhra dobhearnaithe é.",
+    "success": "Síniú Taifeadta!",
+    "invalidFormat": "Formáid aitheantais neamhbhailí le haghaidh",
+    "integrityVerified": "Sláine Slabhra Fíoraithe",
+    "integrityIssues": "Saincheisteanna Sláine a Braitheadh",
+    "eciTitle": "Tionscnamh Eorpach na Saoránach",
+    "eciReg": "Tar éis Rialachán AE 2019/788",
+    "verification": {
+      "title": "Fíorú Tamper-Proof",
+      "intro": "Úsáideann an córas seo teicníochtaí cripteagrafacha de chaighdeán an tionscail chun sláine sínithe a chinntiú:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "SHA-256 Hashing",
+        "text": "Tiontaítear gach síniú ina mhéarloirg uathúil 256-giotán ag baint úsáide as an algartam SHA-256 - an caighdeán céanna a úsáideann deimhnithe Bitcoin agus TLS/SSL. Athraíonn aon cur isteach ar an hash go hiomlán.",
+        "source": "Caighdeán: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Merkle Tree",
+        "text": "Is struchtúr sonraí é crann Merkle (crann hash) a chruthaigh an cripteagrafóir Ralph Merkle i 1979. Cruthaíonn sé \"hash fréimhe\" amháin a fhíoraíonn sláine GACH síniú - má athraítear aon síniú, athraíonn an fhréamh.",
+        "source": "Arna úsáid ag: Bitcoin, Git, IPFS, Trédhearcacht Teastais"
+      },
+      "audit": {
+        "title": "Audit Trail",
+        "text": "Déantar gach gníomh (síniú, fíorú, onnmhairiú) a logáil le stampaí ama de réir caighdeáin rian iniúchta. Soláthraíonn sé seo trédhearcacht agus cuntasacht iomlán do gach oibríocht córais.",
+        "source": "Comhlíonadh: Airteagal 30 den GDPR"
+      },
+      "euId": {
+        "title": "Bailíochtú ID AE",
+        "text": "Tá formáidí aitheantais ar leith ag gach tír AE (an Phortaingéil: Cartão de Cidadão, an Ghearmáin: Personalausweis, etc.). Déanann an córas uimhreacha aitheantais a bhailíochtú i gcoinne patrúin a bhaineann go sonrach le tír de réir Rialachán AE 2019/788 maidir leis an Tionscnamh Eorpach ó na Saoránaigh.",
+        "source": "Creat: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "Comhtháthú Bonneagair an AE",
+      "text": "Tá an tionscnamh seo deartha chun comhtháthú le córais oifigiúla an AE:",
+      "eciPortal": "Tairseach Oifigiúil ECI - Le haighneacht deiridh",
+      "eidas": "eIDAS - Caighdeáin um shainaithint leictreonach",
+      "gdpr": "GDPR Comhlíontach - Tá cosaint sonraí ráthaithe"
+    }
+  },
+  "common": {
+    "source": "Foinse",
+    "readMore": "Léigh Tuilleadh",
+    "evidence": "Fianaise",
+    "convicted": "Ciontaithe",
+    "ongoing": "Ar Siúl",
+    "archived": "Cartlannaithe",
+    "keyInsight": "KEY INSIGHT",
+    "declined": "Imscrúdú Diúltaithe",
+    "views": "views",
+    "likes": "likes",
+    "share": "share",
+    "close": "Close"
+  },
+  "mediaMachine": {
+    "part": "Part XI",
+    "title": "Gabhadh an Ceathrú Eastát",
+    "subtitle": "Mar a Fhreastlaíonn Meáin Phortaingéil Cumhachta in ionad na Fírinne",
+    "intro": "Is leis an gcóras céanna ba cheart dó a imscrúdú a dhéanamh ar na meáin chumarsáide ar cheart éilliú a nochtadh.",
+    "ownership": {
+      "title": "Cé a Rialaíonn an Nuacht",
+      "subtitle": "rialaíonn 5 ghrúpa an méid a fheiceann agus a léann 10 milliún duine",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "Iar-Phríomh-Aire (PSD, 1981-83)",
+        "note": "Rialaíonn iar-cheannaire rialtais mórghréasán teilifíse"
+      },
+      "rtp": {
+        "name": "RTP (Public TV)",
+        "owner": "Stát na Portaingéile",
+        "connection": "An Bord arna cheapadh ag an bParlaimint",
+        "note": "Rialaíonn an Rialtas ceapacháin agus buiséad"
+      },
+      "tvi": {
+        "name": "TVI + Correo da Manhã",
+        "owner": "Cofina",
+        "connection": "I measc na scairshealbhóirí tá bainc atá faoi bhannaí stáit",
+        "note": "Spleáchas airgeadais ar institiúidí stáit"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Sonae Group",
+        "connection": "Impireacht miondíola ag brath ar chonarthaí rialtais",
+        "note": "Clúdaíonn sé rialacháin a théann i bhfeidhm ar bhrabúis úinéara"
+      },
+      "globalMedia": {
+        "connection": "Arna fháil 2020 ag infheisteoirí a bhfuil naisc Angólach/Macao acu. Cuimsíonn cúlra Kevin Ho naisc leis na hearnálacha ceasaíneo agus tógála. Rialaíonn an grúpa 4 mhórnuachtán + an 2ú stáisiún raidió is mó éisteacht sa Phortaingéil.",
+        "name": "Grúpa Meán Domhanda",
+        "note": "Rialuithe DN, JN, TSF, O Jogo - tionchar mór preasa",
+        "owner": "Infheisteoirí príobháideacha (Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "An Doras Imrothlach",
+      "subtitle": "Bíonn polaiteoirí ina dtráchtairí, cosnaíonn tráchtairí polaiteoirí",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Marques Mendes",
+        "path": "Iar-cheannaire PSD → tráchtaire polaitiúil SIC. Ball den Chomhairle Stáit anois. Ná sainaithnítear coinbhleachtaí leasa ar an aer riamh.",
+        "role": "Tráchtaire Polaitíochta SIC",
+        "background": "Iarcheannaire PSD (2005-2007)",
+        "scandal": "€700,000+ i dtáillí comhairleoireachta ó chuideachtaí atá ag brath ar an rialtas",
+        "coverage": "Thug SIC clúdach íosta ar scannal a tráchtaire féin",
+        "outcome": "Dhiúltaigh PGR imscrúdú - 19 Nollaig, 2025"
+      }
+    },
+    "techniques": {
+      "title": "Teicnící Iriseoireachta \"Ceannasaí\".",
+      "subtitle": "Mar a mhúnlaíonn na meáin aireachtáil mar dhlíodóir tá finné i gceannas",
+      "framing": {
+        "title": "Frámaíocht Ceannlíne",
+        "description": "Gníomhartha céanna, focail éagsúla bunaithe ar ailíniú polaitiúil",
+        "example1": "Scannal PS: 'Scéimeanna coiriúla', 'líonra truaillithe'",
+        "example2": "Scannal PSD: 'Conarthaí conspóideacha', 'neamhrialtachtaí'"
+      },
+      "timing": {
+        "title": "Ionramháil Uainiú",
+        "description": "Drochscéala do chomhghuaillithe a eisítear Dé hAoine agus laethanta saoire",
+        "example": "Nollaig 2025: Cnuasaíodh trí chartlann chásanna roimh an Nollaig"
+      },
+      "omission": {
+        "title": "Dearmad Straitéiseach",
+        "description": "Tá an rud nach dtuairiscíonn siad chomh tábhachtach leis an méid a dhéanann siad",
+        "example": "Ní shintéisíodh patrún blocála athchóirithe 18 mbliana riamh"
+      },
+      "balance": {
+        "title": "False Balance",
+        "description": "Déileáiltear le fianaise dhoiciméadach vs séanadh mar fhianaise chomh bailí",
+        "example": "Déileáil le fíricí agus casadh polaitíochta mar sheasaimh choibhéiseacha"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Fógraíocht Stáit: The Financial Leash",
+      "total": "€6.45 million",
+      "hidden": "€3.7 million",
+      "hiddenNote": "faighteoirí NÁ nochtar go poiblí",
+      "mechanism": "Na meáin chumarsáide i ngéarchéim airgeadais → Ag brath ar fhógraí stáit → Bogann clúdach criticiúil → Ní dhéantar grinnscrúdú ar an gcaimiléireacht",
+      "increase": "Méadú €1.29M (2024)"
+    },
+    "precarity": {
+      "title": "Réamheolas Iriseora = Féin-Chinsireacht",
+      "noContract": "33.4%",
+      "noContractLabel": "obair gan conarthaí foirmiúla",
+      "pressure": "23.8%",
+      "pressureLabel": "brú ó bhoird a thuairisciú",
+      "belief": "90%",
+      "beliefLabel": "creidim go bhfuil gairmeacha ag éirí níos neamhbhuana",
+      "strike": "Márta 2024: An chéad stailc iriseoirí le 40+ bliain"
+    },
+    "comparison": {
+      "title": "An Phortaingéil vs Daonlathais Fheidhmiúla",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "Gabhann an chéad agus an dara heastát an ceathrú eastát. Áirítear ar ailtireacht na saoirse ó phionós na meáin ar cheart é a nochtadh.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Stáit sciar den mhargadh meán",
+      "risk": "HIGH",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Clúdach Difreálach Doiciméadaithe",
+      "case1": {
+        "title": "Montainéagró vs Sócraitéas",
+        "montenegro": "Montainéagró (PSD): Scannal Spinumviva, €410K+ agus MP - Clúdach gairid, obair leantach teoranta",
+        "socrates": "Sócraitéas (PS): Clúdach forleathan, marthanach ar feadh míonna",
+        "pattern": "Cineál céanna (neamhrialtacht airgeadais), déine an-difriúil"
+      },
+      "case2": {
+        "title": "Marques Mendes (Nollaig 2025)",
+        "revealed": "Nochta: €700,000+ i dtáillí comhairleoireachta agus tráchtaire SIC",
+        "coverage": "Clúdach SIC: Íosráta - asraon féin downplayed scannal",
+        "pattern": "Éifeacht úinéireachta clasaiceach - do chuid féin a chosaint"
+      },
+      "case3": {
+        "title": "Faoi chois Oculta Aghaidh",
+        "attempt": "Iarrtha: Brú chun clúdach a theorannú, moill a chur ar fhoilsiú",
+        "result": "Toradh: Faoi dheireadh nochta ach le moill shuntasach",
+        "pattern": "Léiríonn brú córasach ar iriseoirí"
+      }
+    },
+    "framingPatterns": {
+      "title": "Mar a Difríonn Frámaíocht de réir Páirtí",
+      "aspect": "Aspect",
+      "psScandal": "Clúdach Scannal PS",
+      "psdScandal": "Clúdach Scannal PSD",
+      "language": "Language Used",
+      "psLanguage": "\"Scéimeanna coiriúla\", \"Líonra Éillithe\"",
+      "psdLanguage": "\"Conarthaí conspóideacha\", \"Neamhrialtachtaí\"",
+      "duration": "Fad Clúdach",
+      "psDuration": "Seachtainí/míonna, obair leantach leanúnach",
+      "psdDuration": "Laethanta, trácht gairid, gan aon obair leantach",
+      "placement": "Socrúchán Ceannlíne",
+      "psPlacement": "Leathanach tosaigh, príomh-am",
+      "psdPlacement": "Leathanaigh taobh istigh, seachbhuaice",
+      "accountability": "Frámaíocht Cuntasachta",
+      "psAccountability": "Daoine aonair ainmnithe, freagracht páirtí",
+      "psdAccountability": "\"An dá thaobh\", fadhbanna sistéamach",
+      "note": "Foinse: Staidéir acadúla a dhéanann anailís ar chlúdach toghcháin na Portaingéile 2015-2022"
+    },
+    "newsDeserts": {
+      "title": "Fásach Nuachta: An Áit a dTéann Éilliú Gan Tuairisciú",
+      "municipalities": "as 308 bardais is fásaigh nuachta iad",
+      "percentage": "na Portaingéile easpa clúdach nuachta áitiúil",
+      "atRisk": "bardais i mbaol (ach asraon amháin)",
+      "impact": "I gcás nach bhfuil aon iriseoireacht ann, ní bhíonn cuntasacht ann. Éiríonn le héilliú áitiúil faoi scáth na bhfásach nuachta."
+    },
+    "pressFreedom": {
+      "title": "Saoirse an Phreasa ag meath",
+      "ranking": "Thit an Phortaingéil ó <strong class=\"text-good\">7ú</strong> go dtí <strong class=\"text-bad\">13ú</strong> i Monatóir Iolrachas na Meán (2024→2025)",
+      "trust": "• Muinín sa nuacht: 54% (síos ó 66% in 2015)",
+      "concentration": "• Riosca comhchruinnithe meán: 79%",
+      "independence": "• Neamhspleáchas eagarthóireachta i mbaol ard",
+      "pattern": "THE PATTERN:",
+      "explanation": "De réir mar a dhírítear ar úinéireacht na meán, méadaíonn neamhchinnteacht iriseoirí, agus déantar maoiniú ríthábhachtach d’fhógraíocht stáit – éiríonn iriseoireacht chriticiúil dodhéanta ó thaobh struchtúir de."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/ga/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/ga/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "Part XII",
+    "title": "An Paraisiúit Órga",
+    "subtitle": "Ciontaíodh éilliú? Coinnigh do Phinsean go Deo",
+    "intro": "Sa Phortaingéil, coimeádann polaiteoirí a chiontaítear as na milliúin a ghoid a bpinsin atá maoinithe ag an gcáiníocóir. Níl aon dlí ann chun iad a stopadh.",
+    "question": "Cad a tharlaíonn nuair a chiontaítear polaiteoir Portaingéalach as caimiléireacht?",
+    "answer": "COINNÍONN SIAD gach rud.",
+    "cases": {
+      "title": "Cásanna Doiciméadaithe",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "José Sócrates",
+        "crime": "Táillí caimiléireachta €34M",
+        "sentence": "Trial ongoing 11+ years",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "Iar-Phríomh-Aire (2005-2011)",
+        "status": "ON TRIAL",
+        "description": "Charged with corruption, money laundering, document forgery. After 10+ years, still receiving pension. Case ongoing since 2014."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Iar-Leas-Aire PS, Riarthóir CGD"
+      },
+      "pinho": {
+        "name": "Manuel Pinho",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Ciontaíodh: éilliú éighníomhach, sciúradh airgid (10 mbliana)",
+        "note": "Fuarthas €4.5M mar bhreabanna ón EDP",
+        "houseArrest": "🏠 Ag fónamh sa bhaile: In ainneoin pianbhreithe 10 mbliana, feidhmíonn sé ina áit chónaithe féin ó 2021"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Ciontaíodh: calaois chánach, sciúradh airgid",
+        "note": "Cuireadh pianbhreith air, agus ATHTHHOGHADH ansin mar Mhéara Oeiras"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Buntáistí iomlána tar éis téarma AMHÁIN",
+      "pmBenefits": "Carr, tiománaí, foireann, slándáil ar feadh an tsaoil",
+      "ministerBenefits": "Pinsean flaithiúil beag beann ar an am a seirbheáladh"
+    },
+    "noLaw": {
+      "title": "An Dlí: Níl aon cheann ann",
+      "text": "NÍL dlí ag an bPortaingéil a éilíonn forghéilleadh pinsin tar éis ciontú coiriúil.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Ráta athsholáthair pinsin na Portaingéile",
+        "euAverage": "71%",
+        "euAverageLabel": "EU average",
+        "productivity": "73%",
+        "productivityLabel": "Táirgiúlacht na Portaingéile vs AE"
+      },
+      "translation": "Pinsin is flaithiúla + cuntasacht is laige + táirgiúlacht is ísle = córas deartha chun luach saothair a thabhairt don teip.",
+      "country": "Country",
+      "rule": "Forfeiture Rule",
+      "applies": "Applies To"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "MÁSÁSÁIDEACH DOMHANDA",
+      "recommendations": "28",
+      "partial": "18 curtha i bhfeidhm go páirteach",
+      "notImplemented": "10 NÍ cuireadh i bhfeidhm",
+      "lobbying": "Stocaireacht: NEAMHRIALAITHE",
+      "assets": "Dearbhuithe sócmhainní: FORFHEIDHMIÚ LAGA",
+      "verdict": "Thug comhlacht frith-éillithe Chomhairle na hEorpa faoi deara arís agus arís eile gur theip ar an bPortaingéil smachtbhannaí fiúntacha a chur i bhfeidhm ar oifigigh éillithe. Baineann an córas cosanta pinsin an bonn de dhíspreagadh agus comharthaíonn sé nach bhfuil aon iarmhairtí marthanacha ag coireacht pholaitiúil."
+    },
+    "referendum": {
+      "title": "Ceisteanna Molta an Reifrinn",
+      "q7": {
+        "number": "Question 7",
+        "text": "Ar cheart do pholaiteoirí a chiontaítear i gcoireanna caimiléireachta a bpinsin atá maoinithe ag an gcáiníocóir a chailleadh go huathoibríoch?"
+      },
+      "q8": {
+        "number": "Question 8",
+        "text": "Ar cheart ceangal a chur ar asraonta meán cumarsáide naisc pholaitiúla úinéirí agus príomh-scairshealbhóirí a nochtadh?"
+      }
+    },
+    "conclusion": "Síneann ailtireacht na saoirse ó phionós thar seomra na cúirte. Fiú nuair a tharlaíonn an ciontú annamh, cinntíonn an paraisiúit órga tuirlingthe compordach. Ní hamháin go gcosnaíonn an córas polaiteoirí ón gceartas - tugann sé luach saothair dóibh ar feadh a saoil.",
+    "scandal": {
+      "title": "An Réaltacht Do-ghlactha",
+      "description": "Leanann polaiteoirí na Portaingéile a chiontaítear as éilliú, calaois, agus mí-úsáid cumhachta ag fáil pinsin maoinithe ag cáiníocóir. Níl aon fhorghéilleadh uathoibríoch ann. Cé go gcailleann gnáthshaoránaigh post agus tithe do mhionchionta, tá córas deartha ag an aicme pholaitiúil ina n-íocann an choireacht go litriúil."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Tá cosaintí bunreachtúla IDIRBHEARTA ag an bhFrainc, an Spáinn agus an Iodáil ach tá dlíthe forghéillte pinsin curtha i bhfeidhm go rathúil acu. Fuair ​​a gcúirteanna forghéilleadh bunreachtúil. Rogha pholaitiúil atá in aghaidh na Portaingéile, ní riachtanas dlíthiúil.",
+        "title": "Tíortha eile an AE"
+      },
+      "portugal": {
+        "text": "Ciallaíonn an Chúirt Bhunreachtúil go gciallaíonn sé seo NÍ FÉIDIR pinsin a fhorghéilleadh go huathoibríoch. Cuireadh bac faoi dhó ar iarrachtaí athchóirithe (2012, 2015). Toradh: coinníonn polaiteoirí ciontaithe pinsin iomlána.",
+        "title": "Léiriú na Portaingéile"
+      },
+      "quote": "\"Ní bhainfidh aon éifeacht de réir mar is gá le haon phianbhreith aon chearta sibhialta, gairmiúla nó polaitiúla a chailleadh\"",
+      "source": "— Airteagal 30, Bunreacht na Portaingéile",
+      "title": "An Sciath Bunreachtúil: Airteagal 30 CRP"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Bunaithe ar thuarastal + blianta seirbhíse. Faigheann cuid acu 80%+ dá dtuarastal deiridh ar feadh a saoil. Is féidir leo dul thar €20,000/mí le haghaidh post barr.",
+        "title": "Conas a Ríomhtar é"
+      },
+      "contrast": "CONTRAST: Oibrithe rialta a chiontaítear i gcoireanna, caillfidh siad a bpoist, a bpinsin agus a dtodhchaíochtaí. Coinníonn polaiteoirí a chiontaítear as coireanna i bhfad níos measa a gcuid €8,500-26,000/mí ar feadh a saoil.",
+      "created": {
+        "text": "Chruthaigh Dlí 4/85 fóirdheontais saoil do PM, Airí, Feisirí agus Breithiúna. Ceapadh ar dtús é chun luach saothair a thabhairt do “seirbhís phoiblí”.",
+        "title": "Created in 1984"
+      },
+      "description": "Tá córas uathúil “Subvenção Vitalícia” (Fóirdheontas Saoil) ag an bPortaingéil a thugann íocaíocht mhíosúil bhuan ar feadh a saoil d’iarpholaiteoirí – ar leithligh ó agus de bhreis ar aon phinsean rialta. Ní pinsean é seo a thuilltear trí ranníocaíochtaí; is pribhléid é a dheonaítear faoin dlí.",
+      "protected": {
+        "text": "Fiú má chiontaítear coireanna a rinneadh in oifig, leanann an fóirdheontas. Teastaíonn caingean cúirte sibhialta ar leithligh chun urghabháil—agus is minic a theipeann ar achomharc.",
+        "title": "Cosanta go dleathach"
+      },
+      "title": "An Córas Subvenção Vitalícia"
+    }
+  },
+  "meta": {
+    "title": "Ailtireacht na Pionós - Córas Cosanta Polaitíochta na Portaingéile",
+    "description": "Conas a Dheartar Córas Polaitiúil na Portaingéile chun an Truaillitheach a Chosaint"
+  },
+  "accessibility": {
+    "skipToContent": "Téigh ar aghaidh chuig an bpríomhábhar",
+    "toggleNav": "Scoránaigh roghchlár nascleanúna",
+    "changeLang": "Change language",
+    "mainNav": "Main navigation",
+    "infoIcon": "Information",
+    "closeBanner": "Dún an bhratach fógra"
+  },
+  "legal": {
+    "title": "Fógra Dlíthiúil:",
+    "text": "Tá gach duine a luaitear i dteideal toimhde na neamhchiontachta go dtí go gcruthaítear ciontach é. Cuireann an doiciméad seo faisnéis atá ar fáil go poiblí i láthair ó fhoinsí oifigiúla, doiciméid chúirte, agus ó na meáin chreidiúnacha. Déanann an anailís doiciméadú ar phatrúin i gcórais pholaitiúla agus dhlíthiúla na hEorpa."
+  },
+  "thesis": {
+    "title": "An Aicme Pholaitiúil Phavlóiveach",
+    "intro": "Feidhmíonn córas polaitiúil na Portaingéile ar phrionsabail riochtaithe clasaiceach",
+    "cycle": {
+      "title": "An tSraith Atmaisféar",
+      "formula": "spreagthach → FREAGRA → LUACH SAOTHAIR → ATHDHÉANAMH",
+      "entry": {
+        "title": "ENTRY",
+        "trigger": "Glac páirt sa pháirtí, léirigh dílseacht",
+        "reward": "→ Seasamh ar an liosta toghthóirí"
+      },
+      "service": {
+        "title": "SERVICE",
+        "trigger": "Vóta mar a dúradh, a chosaint comhghleacaithe",
+        "reward": "→ Mordomias (gluaisteáin, tiománaithe, foireann, costais)"
+      },
+      "scandal": {
+        "title": "SCANDAL",
+        "trigger": "Imscrúdú fógartha",
+        "reward": "→ Imdhíonacht gníomhachtaithe, segredo de justiça, cuirtear tús le moilleanna"
+      },
+      "rescue": {
+        "title": "RESCUE",
+        "trigger": "Fan ciúin, ná nocht daoine eile",
+        "reward": "→ Sábhálann an bealach éalaithe dlíthiúil ag an nóiméad deireanach tú"
+      },
+      "promotion": {
+        "title": "PROMOTION",
+        "trigger": "Dílseacht cruthaithe trí ghéarchéim",
+        "reward": "→ SEASAMH AN AE (an chóireáil deiridh)"
+      }
+    },
+    "keyInsight": {
+      "title": "\"Nach bhfuil siad Os cionn Orainn\" - Ach Rinne Siad iad féin Os cionn Orainn",
+      "point1": "Chruthaigh polaiteoirí sochaí comhthreomhar le pribhléidí nach féidir le saoránaigh a rochtain",
+      "point2": "Táirgeann an córas an t-iompar go díreach a thugann sé luach saothair: polaiteoirí comhlíontacha a chosnaíonn a chéile",
+      "point3": "Tá sé dodhéanta athchóiriú ón taobh istigh: cosúil le iarraidh ar mhadraí Pavlov an clog a dhícheangal ón mbia",
+      "parallel": "Chruthaigh polaiteoirí sochaí comhthreomhar le pribhléidí nach féidir le saoránaigh a rochtain",
+      "rewards": "Táirgeann an córas an t-iompar go díreach a thugann sé luach saothair: polaiteoirí comhlíontacha a chosnaíonn a chéile",
+      "reform": "Tá sé dodhéanta athchóiriú ón taobh istigh: cosúil le iarraidh ar mhadraí Pavlov an clog a dhícheangal ón mbia"
+    },
+    "selfReinforcing": {
+      "title": "An Lúb Féin-Treisithe",
+      "intro": "Tá an córas féin-bhuan. Foghlaimíonn gach glúin polaiteoirí ón gceann roimhe seo:",
+      "observe": {
+        "title": "OBSERVE",
+        "text": "Féachann polaiteoirí sóisearacha ar sheanóirí ag teacht slán as na scannail"
+      },
+      "learn": {
+        "title": "LEARN",
+        "text": "Foghlaimíonn siad na rialacha: dílseacht = cosaint"
+      },
+      "replicate": {
+        "title": "REPLICATE",
+        "text": "Nuair a thagann a seal, cosnaíonn siad daoine eile atá ag súil leis an gcéanna"
+      },
+      "teach": {
+        "title": "TEACH",
+        "text": "Éiríonn siad mar sheanóirí a bhreathnaíonn na daoine sóisearacha"
+      },
+      "conclusion": "Politicians don't need to be explicitly told to protect colleagues. They do it automatically, knowing the system will protect them in return. The conditioning is generational.",
+      "howLoop": "Conas a Oibríonn an Lúb:",
+      "whyFails": "Why Internal Reform Always Fails:",
+      "trapTitle": "The Trap:",
+      "trapText": "The system is not broken—it is working exactly as designed.",
+      "loopSteps": {
+        "step1": {
+          "title": "Tugann polaiteoirí óga faoi deara:",
+          "text": "Déanann daoine sinsearacha coireanna → aghaidh a thabhairt ar imscrúdú → éalú → ardú céime a fháil"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "\"Cosnaíonn an córas a chuid féin. Má tá mé dílis, beidh mé a chosaint freisin.\""
+        },
+        "step3": {
+          "title": "Iompar coigeartaithe:",
+          "text": "Vótálann siad bealaí éalaithe a choinneáil, comhghleacaithe a chosaint, athchóiriú a bhlocáil"
+        },
+        "step4": {
+          "title": "Ionchas daingnithe:",
+          "text": "Nuair a thagann a scannal féin, bíonn siad ag súil leis agus faigheann siad an chosaint chéanna"
+        },
+        "step5": {
+          "title": "Tugann an chéad ghlúin eile le fios:",
+          "text": "Athdhéantar an timthriall le hionchais threisithe"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Saibhriú aindleathach bac:",
+          "text": "Ní vótálfaidh polaiteoirí chun a gcuid éalaithe féin a bhaint"
+        },
+        "lobby": {
+          "title": "Rialachán stocaireachta bactha:",
+          "text": "Chuir PSD bac air faoi dhó (2019, 2024) - bagairt ar an gcóras luach saothair"
+        },
+        "immunity": {
+          "title": "Díolúine á chothabháil:",
+          "text": "Ní vótálfaidh an Pharlaimint chun díolúine a ardú - seans go mbeidh sé ag teastáil uathu"
+        },
+        "prescription": {
+          "title": "Oideas gan athrú:",
+          "text": "Freastalaíonn moilleanna fada ar an gcóras, mar sin coinníonn an córas iad"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "An Patrún Cosanta mionlach",
+      "intro": "Léiríonn anailís ar chásanna ardphróifíle patrún comhsheasmhach trí chéim:",
+      "investigate": {
+        "title": "INVESTIGATE",
+        "text": "Nochtann na meáin scannal → Fógraíonn ionchúisitheoirí imscrúdú → Fearg poiblí cuimsithe"
+      },
+      "delay": {
+        "title": "DELAY",
+        "text": "Blianta de chastacht nós imeachta → Segredo de justiça agairt → Aoiseanna na fianaise → Cuimhní finnéithe imithe i léig"
+      },
+      "archiveOrReward": {
+        "title": "Cartlann NÓ RABHADH",
+        "text": "Cás curtha i gcartlann le haghaidh 'easpa fianaise' NÓ polaiteoir a tugadh ardú céime chuig seasamh níos airde agus é á imscrúdú"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "Codarsnacht na Sualainne",
+        "source": "Foinse: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Aspect",
+        "officialCars": "Official Cars",
+        "mpOffices": "MP Offices",
+        "immunity": "Immunity",
+        "salaryRaises": "Salary Raises",
+        "localCouncillors": "Comhairleoirí Áitiúla",
+        "transparency": "Transparency",
+        "cpiScore": "TI CPI Score",
+        "swedenValues": {
+          "cars": "Níl ach carr (slándáil) ag PM. Gach duine eile: bus/traein",
+          "offices": "oifigí 7m²; Bainistíonn Básanna a sceidil féin",
+          "immunity": "Dada. Thriail sa chúirt mar aon saoránach",
+          "salary": "Cinneann coiste neamhspleách",
+          "councillors": "Oibrí deonach, gan tuarastal, obair ó bhaile",
+          "transparency": "Gach tuairisceán cánach poiblí ó 1766 i leith",
+          "cpi": "85/100 (Barr 5) - STABLE"
+        },
+        "portugalValues": {
+          "cars": "Tá 11 tiománaí ag PM",
+          "offices": "Foireann iomlán, rúnaithe, buiséid mhóra",
+          "immunity": "Ní féidir é a choinneáil gan vóta na Parlaiminte",
+          "salary": "Vótálann polaiteoirí ar chúiteamh féin",
+          "councillors": "Poist íoctha leis an bhfoireann",
+          "transparency": "Segredo de justiça seithí cásanna ar feadh na mblianta",
+          "cpi": "57/100 (43ú) - DEARBHÚ"
+        },
+        "quote": "Is gnáthshaoránaigh sinn. Níl aon chiall le pribhléidí speisialta a thabhairt do pharlaiminteoirí, mar is é an tasc atá againn ná ionadaíocht a dhéanamh ar shaoránaigh agus fios a bheith againn ar an réaltacht ina gcónaíonn daoine.",
+        "quoteCite": "— Per-Arne Håkansson, Feisire na Sualainne",
+        "sourceLabel": "Foinse: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "Múnla na hEilvéise: Daonlathas Díreach i mBun Gníomhaíochta",
+        "intro": "Cruthaíonn an Eilvéis gur féidir le saoránaigh a gcuid polaiteoirí a rialú go díreach trí reifrinn cheangailteacha. Vótáil na hEilvéise tuairim is 4 huaire in aghaidh na bliana ar 15 shaincheist feidearálach ar an meán.",
+        "popularInitiative": {
+          "title": "Tionscnamh Coitianta",
+          "requirement": "100,000 síniú",
+          "text": "Vóta leasú bunreachta - is féidir le saoránaigh athruithe ar an mbunreacht a mholadh"
+        },
+        "optionalReferendum": {
+          "title": "Reifreann Roghnach",
+          "requirement": "50,000 síniú",
+          "text": "Cros a chur ar aon dlí laistigh de 100 lá ón rith"
+        },
+        "mandatoryReferendum": {
+          "title": "Reifreann Éigeantach",
+          "requirement": "Automatic",
+          "text": "NÍ MÓR GACH athrú bunreachtúil dul chuig vóta coitianta"
+        },
+        "facts": {
+          "nonProfessional": "Polaiteoirí neamhghairmiúla: níl tuarastal iomlán stáit ag Básanna - táthar ag súil go gcoimeádfaidh siad postanna rialta",
+          "referendums": "Idir 1848-2024: Reáchtáladh 700+ reifreann",
+          "cpi": "Rang TI CPI: 3ú ar fud an domhain (ceangailte leis an tSualainn agus Singeapór)"
+        },
+        "quote": "Tá focal na ndaoine uachtaracha.",
+        "quoteCite": "— prionsabal daonlathach na hEilvéise",
+        "stats": "Príomhstaitisticí na hEilvéise:"
+      }
+    },
+    "portugalReality": {
+      "title": "Réaltacht na Portaingéile",
+      "drivers": {
+        "number": "11",
+        "label": "Tiománaithe do PM Antonio Costa",
+        "detail": "Gach duine ag tuilleamh €2,121/mí"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Cabinet Members",
+        "detail": "Meán: €2,794 | Múinteoirí: €1,705 | Íosphá: €820"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Pointe Buail isteach TI CPI 2024",
+        "detail": "Scór: 57/100 | Rang: 43 as 180 tír"
+      }
+    },
+    "citizensKnow": "Tá a fhios ag Saoránaigh go bhfuil an Córas Truaillithe:"
+  },
+  "cases": {
+    "title": "An Fhianaise: Comhaid Iomlána",
+    "intro": "Cásanna doiciméadaithe a thaispeánann an córas cosanta i mbun gnímh",
+    "timelineLabel": "Timeline",
+    "status": {
+      "ongoing": "Trial Ongoing",
+      "trialOngoing": "Trial Ongoing",
+      "euCouncilPresident": "Uachtarán Chomhairle an AE",
+      "euPromoted": "Uachtarán Chomhairle an AE",
+      "archived": "Archived",
+      "declined": "Imscrúdú Diúltaithe",
+      "arguido": "Formal Suspect (arguido)",
+      "pgrDeclined": "Imscrúdú Diúltaithe PGR",
+      "formalSuspect": "Formal Suspect (arguido)",
+      "convictedServing": "CONVICTED - Ag freastal",
+      "convictedAppealing": "CIONTÚ - Achomharc",
+      "convictedRearrested": "CIONTÚ (2010) - Gabhadh arís in 2022",
+      "convictedMultiple": "IOMLÁN CHIONTÚ",
+      "formalSuspectArguido": "SUSPECT FORMALACH (arguido)",
+      "arrestedJan2024": "GATA (Eanáir 2024)",
+      "neverProsecuted": "NÁ IONCHÚISEAMH RIAMH",
+      "neverDefendant": "Ná Cosantóir riamh",
+      "convictedUnpaid": "CIONTÚ - Fiachas Neamhíoctha",
+      "convictedMultipleJurisdictions": "Ciontaíodh - an Phortaingéil & an Bhrasaíl",
+      "convictedSuspended": "CIONTÚ - Pianbhreith ar Fionraí",
+      "convictedHouseArrest": "CIONTÚ - Gabháil Tí"
+    },
+    "tableStatus": {
+      "onTrial": "On Trial",
+      "underInvestigation": "Faoi Imscrúdú",
+      "convicted": "CONVICTED",
+      "convictedX2": "CONVICTED x2",
+      "arguido": "Arguido",
+      "archived": "Archived",
+      "declined": "Declined",
+      "arrested": "ARRESTED",
+      "neverProsecuted": "Ná ionchúiseamh riamh",
+      "neverDefendant": "Ná cosantóir riamh*",
+      "convictedSuspended": "CIONTAITHE (ar fionraí)"
+    },
+    "charges": {
+      "passiveCorruption": "Éilliú fulangach",
+      "moneyLaundering": "Sciúradh airgid",
+      "documentFalsification": "Falsú doiciméad",
+      "taxFraud": "Calaois chánach tromaithe"
+    },
+    "conditioningLesson": "Ceacht riochtú",
+    "theFacts": "The Facts",
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Ceoldráma Marquês",
+      "party": "PS - Páirtí Sóisialach",
+      "position": "Príomh-Aire (2005-2011)",
+      "timeline": {
+        "arrested": "Gabhadh ag Aerfort Liospóin",
+        "detained": "Coinnithe i bpríosún Éabhar",
+        "accusation": "Cúiseamh foirmiúil (28 coire)",
+        "trial": "25 coir curtha chun trialach",
+        "ongoing": "Triail fós ar siúl - 11+ BLIAIN",
+        "instruction": "Cinneadh teagaisc - 25 coire curtha chun trialach",
+        "current": "Triail fós ar siúl - 11+ BLIAIN"
+      },
+      "charges": {
+        "title": "Táillí (22 coire san iomlán)",
+        "corruption": "Éilliú éighníomhach sealbhóir oifige polaitíochta",
+        "laundering": "Sciúradh airgid",
+        "falsification": "Falsú doiciméad",
+        "fraud": "Calaois chánach tromaithe"
+      },
+      "amounts": {
+        "switzerland": "an Eilvéis (2006-2009)",
+        "total": "Iomlán ó 3 chorparáid",
+        "prescribed": "Muirir forordaithe"
+      },
+      "keyFacts": {
+        "title": "Príomhfhíricí ón gCionchúis Oifigiúil",
+        "switzerland": "Carnaithe san Eilvéis (2006-2009)",
+        "total": "Iomlán a líomhnaítear a fuarthas ó thrí chorparáid",
+        "sources": "Foinsí breabanna: Grupo LENA (tógáil), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (saoire gailf), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Ceacht riochtú",
+        "text": "Is féidir moill a chur ar chásanna ar feadh tréimhse éiginnte. Ní bheidh aon iarmhairt ag baint le fiú iar-PManna ar feadh deich mbliana. Athshocraíonn gach achomharc amlínte."
+      },
+      "coAccused": {
+        "apartment": "Paris apartment",
+        "description": "Dlúthchara Shócraitéas agus “airgeadaí” líomhnaithe. Fear gnó a líomhnaítear a sheol na milliúin chuig ex-PM trí cheannacháin réadmhaoine, íocaíochtaí gluaisteán agus athchóiriú tí. Gearradh 9 scór sciúradh airgid air.",
+        "expenses": "Living expenses",
+        "renovations": "Renovations",
+        "sources": "Foinsí: díotáil DCIAP, tuairiscí preasa na Portaingéile",
+        "title": "Príomh-Chomhchúisí: Carlos Santos Silva",
+        "vehicles": "Vehicles"
+      },
+      "prescription": {
+        "title": "⏱️ Géarchéim Reacht na dTréimhsí",
+        "text": "As na 189 coir líomhnaithe bhunaidh, tá 167 forordaithe cheana féin (éagtha) mar gheall ar mhoilleanna nós imeachta. Níl ach 22 muirear fós gníomhach tar éis 11+ bliain."
+      }
+    },
+    "costa": {
+      "name": "António Costa",
+      "operation": "Tioncharoir Opera",
+      "party": "PS - Páirtí Sóisialach",
+      "position": "Príomh-Aire (2015-2023) → Uachtarán Chomhairle an AE (2024-)",
+      "timeline": {
+        "raid": "Tugann na póilíní ruathar ar São Bento Palace",
+        "resigns": "Éiríonn Costa as láithreach",
+        "elected": "Toghann ceannairí an AE Costa mar Uachtarán",
+        "takesOffice": "Gabhann sé san oifig mar Uachtarán Chomhairle an AE",
+        "ongoing": "FÓS faoi imscrúdú",
+        "resignation": "Éiríonn Costa as láithreach",
+        "euElection": "Ceannairí an AE TOGHAÍONN Costa mar Uachtarán na Comhairle Eorpaí",
+        "current": "FÓS faoi imscrúdú, fós i gceannas ar an AE"
+      },
+      "keyFacts": {
+        "title": "The Facts",
+        "cash": "Airgead tirim a fuarthas i bhfolach i leabhair agus i mboscaí fíona in oifig an cheannasaí foirne",
+        "relates": "Baineann an t-imscrúdú le: Mianadóireacht litiam, hidrigin ghlas, tionscadail lárionad sonraí i Sines",
+        "arrests": "Príomh-gabháil: Vítor Escária (Ceann Foirne - gafa), Nuno Mascarenhas (Méara Sines - gafa), Diogo Lacerda Machado (fear gnó - gafa)",
+        "galamba": "Comhcheilgeoirí ainmnithe: João Galamba (An tAire Bonneagair - arguido foirmiúil) — a líomhnaítear go raibh baint aige le peddling tionchair do thionscadail litiam/hidrigine; d’fhan sa rialtas go dtí gur éirigh Costa as"
+      },
+      "lesson": {
+        "title": "Ceacht riochtú",
+        "text": "Dílseacht uasta = ardú céime AE. Ní haon bhac ar na seasaimh is airde san AE é a bheith faoi imscrúdú coiriúil. An chóireáil deiridh don madra is dílis."
+      },
+      "quote": "An 27 Meitheamh 2024, thogh ceannairí AE António Costa mar Uachtarán na Comhairle Eorpaí. Chuaigh sé i mbun oifige ar 1 Nollaig 2024.",
+      "quoteCite": "— Suíomh Gréasáin Oifigiúil na Comhairle Eorpaí"
+    },
+    "montenegro": {
+      "name": "Luís Montenegro",
+      "operation": "Cearrbhachas spinumviva",
+      "party": "PSD - Páirtí Daonlathach Sóisialta",
+      "position": "Príomh-Aire (2024-láthair)",
+      "amounts": {
+        "family": "€410,000+ i ndéileálacha gnó teaghlaigh",
+        "solverde": "€4,500 in aghaidh na míosa do chuideachta chearrbhachais"
+      },
+      "loopholeTitle": "An Pholl Lúb a Shábháil É:",
+      "loophole": {
+        "notFormal": "Gan cúisí go foirmiúil - ainmnithe i gcás amháin",
+        "preliminary": "Dúnadh an réamh-imscrúdú (averiguação) gan táillí",
+        "archived": "Cás sa chartlann 17 Nollaig, 2025"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "Tráchtaire Polaitíochta SIC",
+      "party": "PSD - Páirtí Daonlathach Sóisialta",
+      "position": "Iarcheannaire PSD (2005-2007), Ball den Chomhairle Stáit",
+      "amounts": {
+        "consultant": "€700,000+ i dtáillí comhairleoireachta neamhnochta",
+        "aca": "€5,000/mí ó ACA-M (conraitheoir stáit)"
+      },
+      "keyFacts": {
+        "aca": "Fuarthas €60,000 in aghaidh na bliana ó ACA-M agus bhí €400M+ i gconarthaí stáit aige.",
+        "irony": "Mar thráchtaire SIC, déanann sé trácht ar chaimiléireacht gan a leasanna airgeadais féin a nochtadh"
+      },
+      "loopholeTitle": "An Pholl Lúb a Shábháil É:",
+      "loophole": {
+        "complaint": "Gearán gan ainm comhdaithe",
+        "pgr": "PGR diúltaithe do \"parco detalhe\" (mionsonraí neamhleor)",
+        "noInvestigation": "Níor osclaíodh aon imscrúdú riamh",
+        "destroyed": "Fianaise scriosta go héifeachtach ag neamhghníomhaíocht"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Ceoldráma Ab Initio",
+      "party": "PSD - Páirtí Daonlathach Sóisialta",
+      "position": "Uachtarán Rialtas Réigiúnach Mhaidéara",
+      "timeline": {
+        "searches": "Eanáir 2024: Cuardach póilíní ag oifigí rialtais",
+        "crimes": "8 gcoir a líomhnaítear: éilliú éighníomhach, mí-úsáid cumhachta",
+        "censure": "Márta 2024: Theip ar thairiscint cháinte",
+        "reelection": "Bealtaine 2024: ATHOGHADH le linn dó a bheith faoi imscrúdú"
+      },
+      "relatedArrest": "Related Arrest:",
+      "calado": {
+        "text": "Gabhadh Pedro Calado (Leas-Uachtarán, PSD) Eanáir 2024 as éilliú"
+      },
+      "lesson": {
+        "text": "Ní haon bhac ar an atoghadh é a bheith faoi imscrúdú foirmiúil. Cosnaíonn an córas a chuid féin."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado",
+      "charges": "Ciontuithe iolracha: titim BES, éilliú EDP",
+      "note": "Éilíonn Alzheimer chun príosún a sheachaint. Fós ag fáil pinsin baincéir."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Drochamhras foirmiúil in Operação Influencer (éilliú litiam/hidrigine)",
+      "note": "D’fhan an tAire Bonneagair go dtí go n-éireoidh PM Costa as"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Gabhadh mar gheall ar chaimiléireacht, claonpháirteachas i gconarthaí poiblí",
+      "note": "Leas-Uachtarán Mhaidéara, gafa Eanáir 2024"
+    },
+    "barroso": {
+      "name": "José Manuel Barroso",
+      "charges": "Ainmnithe i scannal fomhuirí. Ná ionchúiseamh riamh.",
+      "note": "Uachtarán Choimisiún an AE (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "Polaiteoirí Ciontaithe/Cúisithe Breise",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3.5 bliana: Calaois cháilithe, diomailt sócmhainní. Fiachas €900M+ le CGD bainc stáit",
+      "note": "Bailiúchán ealaíne dar luach €500M+ aistrithe chuig fondúireachtaí roimh an urghabháil. Chuir an Chúirt Uachtarach pianbhreith síneadh go 4 bliana (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 bliana (PT) + 25 bliain (BR): Calaois (BPN), Dúnmharú Rosalina Ribeiro sa Bhrasaíl",
+      "note": "Iar MP do PSD (1987-2008). Bhí an t-íospartach ina oighre ar fhortún a chliaint. Pianbhreith na Brasaíle ar feitheamh eiseachadta"
+    },
+    "loureiro": {
+      "name": "Valentim Loureiro",
+      "charges": "2 bhliain ar fionraí: éilliú peile Apito Dourado. Match-fixing, breabaireacht na réiteoirí",
+      "note": "Méara Gondomar (1976-2013). Uachtarán FC Boavista. Níor sheirbheáil am príosúin riamh"
+    }
+  },
+  "eliteLaws": {
+    "title": "Dlíthe atá ceaptha chun an mionlach a chosaint",
+    "intro": "Mar a chuir an Chúirt Bhunreachtúil agus an Pharlaimint bac córasach ar chuntasacht",
+    "cc": {
+      "title": "An Chúirt Bhunreachtúil: Caomhnóir Pionóis",
+      "intro": "Tá Cúirt Bhunreachtúil na Portaingéile (Bunreacht Bhinse) tar éis dlíthe saibhrithe aindleathacha a scriosadh faoi dhó (2012 agus 2015), agus chuir an Pharlaimint bac ar 22+ iarracht reachtach thar 18 mbliana. Is í an Phortaingéil an t-AON tír san AE nach féidir saibhreas gan mhíniú a choiriúlú.",
+      "timelineTitle": "18 mBliana den Athchóiriú Faoi Bhac (2007-2025)"
+    },
+    "ruling2012": {
+      "badge": "STRUCK DOWN",
+      "title": "Accordão 179/2012",
+      "date": "4 April 2012",
+      "claimedReason": "Claimed Reason:",
+      "claimedText": "Sáraíonn sé toimhde na neamhchiontachta (Airt. 32º CRP)",
+      "reality": "Reality:",
+      "realityText": "Tá dlíthe comhchosúla ag an bhFrainc, ag an Spáinn, ag an Iodáil agus ag 45+ tír a rith athbhreithniú bunreachtúil.",
+      "paradox": "The Paradox:",
+      "paradoxText": "Cosnaíonn an Chúirt \"toimhde na neamhchiontachta\" le haghaidh mínithe ar shaibhreas agus í ag glacadh le moilleanna réamhthrialacha 11 bliana a sháraíonn an ceart céanna."
+    },
+    "ruling2015": {
+      "badge": "STRUCHTÚIR (D'aon toil)",
+      "title": "Accordão 377/2015",
+      "date": "27 July 2015",
+      "response": "Freagra na Parlaiminte:",
+      "responseText": "Dlí athbhreithnithe chun aghaidh a thabhairt ar imní 2012 - ceanglas breise nach mór d'ionchúiseamh méadú ar shaibhreas a chruthú ar dtús.",
+      "tcResponse": "TC's Response:",
+      "tcResponseText": "Briseadh síos arís ar na forais chéanna—d'aon toil.",
+      "message": "Message:",
+      "messageText": "Ní ghlacfar go deo le haon leagan den dlí saibhrithe aindleathach."
+    },
+    "euComparison": {
+      "title": "Comparáid idir an AE: Cén Fáth ar an bPortaingéil amháin?",
+      "country": "Country",
+      "law": "Dlí Saibhrithe Aindleathach",
+      "status": "Stádas Bunreachtúil",
+      "approved": "approved",
+      "note": "Tá cosaintí bunreachtúla comhionanna ag na tíortha seo go léir maidir le toimhde na neamhchiontachta. Is é TC na Portaingéile amháin a fhaigheann saibhriú aindleathach \"míbhunreachtúil.\""
+    },
+    "bipartisan": {
+      "title": "An Meaisín Blocáil Bipartisan",
+      "intro": "Le 18 mbliana (2007-2025), tá PS agus PSD ar a seal ag cur bac ar athchóirithe frith-éillithe - is cuma cé atá i gcumhacht."
+    },
+    "subtitle": "Mar a chuir an Chúirt Bhunreachtúil agus an Pharlaimint bac córasach ar chuntasacht",
+    "acordao179": {
+      "title": "Accordão 179/2012",
+      "date": "4 April 2012"
+    },
+    "acordao377": {
+      "title": "Accordão 377/2015",
+      "date": "27 July 2015"
+    },
+    "immunityComparison": {
+      "title": "Díolúine Parlaiminte: Comparáid AE"
+    },
+    "prescription": {
+      "title": "Tréimhsí Oideas: Comparáid AE"
+    },
+    "prescriptionNote": "Nóta: Tá an meántréimhse cásanna is faide ag an bPortaingéil AGUS coinníonn sí díolúine leathan - an meascán is measa.",
+    "euScorecard": {
+      "title": "Scórchárta Frith-éillithe an AE",
+      "note": "Tá an Phortaingéil go seasta ag bun na ndaonlathas in Iarthar na hEorpa."
+    }
+  },
+  "loopholes": {
+    "title": "An Ailtireacht Dhlíthiúil: Haistí Éalaithe Deartha",
+    "subtitle": "Ní bugs iad seo - is gnéithe iad",
+    "anonymousComplaint": {
+      "title": "Gearáin gan Ainm Diúltaithe",
+      "text": "Airteagal 246.º n.º 6 Ligeann CPP d’ionchúisitheoirí diúltú do ghearáin gan ainm maidir le “parco detalhe” (neamhleor sonraí), fiú nuair a chuirtear fianaise ar fáil."
+    },
+    "immunity": {
+      "title": "Díolúine Parlaiminte",
+      "text": "Airteagal 157.º Coscann CRP Feisirí a choinneáil gan chead ón bParlaimint—nach ndeonaítear riamh do chomhghuaillithe polaitiúla."
+    },
+    "averiguacao": {
+      "title": "Céim Réamh-Imscrúdaithe",
+      "subtitle": "Réamhfhocal Averiguação",
+      "text": "Céim réamh-imscrúdaithe is féidir a mhaireann blianta gan táillí foirmiúla, rud a ligeann do pholaiteoirí a éileamh nach bhfuil siad \"faoi imscrúdú.\""
+    },
+    "segredo": {
+      "title": "Rúndacht Bhreithiúnach",
+      "text": "Airteagal 86.º n.º 3 CPP Ceadaíonn \"segredo de justiça\" imscrúduithe a cheilt ar feadh na mblianta — fad a leanann polaiteoirí in oifig agus faigheann siad ardú céime."
+    },
+    "prescription": {
+      "title": "Reacht na dTréimhsí",
+      "articles": "Airteagail 118-122 CP",
+      "text": "Is féidir moill a chur ar chásanna éillithe casta go dtí go bhforordóidh siad (in éag). Tógann an meánchás 8-12 bliana; Tá oideas 10-15 bliana."
+    },
+    "constitutionalCourt": {
+      "title": "Crosadh na Cúirte Bunreachtúla",
+      "subtitle": "Binse Bunreachta",
+      "text": "Tá an TC tar éis dlíthe saibhrithe aindleathacha a scriosadh TWICE (2012, 2015) agus bac a chur ar iarrachtaí iolracha reifrinn."
+    },
+    "immunityComparison": {
+      "title": "Díolúine Parlaiminte: Comparáid AE",
+      "scope": "Immunity Scope",
+      "canBlock": "An féidir Imscrúdú a Bhac?",
+      "note": "Tá díolúine na Portaingéile ar an gceann is leithne san AE in ainneoin creata bunreachtúla comhchosúla. Ní féidir Feisirí a choinneáil gan vóta na Parlaiminte — rud nach dtugtar riamh do chomhghuaillithe polaitiúla."
+    },
+    "prescriptionComparison": {
+      "title": "Tréimhsí Oideas: Comparáid AE",
+      "period": "Period",
+      "suspension": "Ar Fionraí Le linn Imscrúdaithe?",
+      "avgDuration": "Meán Fad Cás",
+      "critical": "Fionnachtain Chriticiúil:",
+      "finding": "Operação Marquês: 167 de 189 cúiseamh forordaithe (88% dífhostaithe mar \"ró-dhéanach\"). D'admhaigh an Breitheamh an cruthúnas ach rialaigh sé \"dul in éag.\"",
+      "stat": "Deir 73% d'ionchúisitheoirí na Portaingéile nach leor na tréimhsí oideas. (Foinse: Transparency International)"
+    },
+    "article246": {
+      "title": "Paradacsa Airteagal 246º",
+      "mechanism": "The Mechanism:",
+      "explanation": "Airteagal 246.º n.º 6 CPP ceanglaítear ar ionchúisitheoirí \"indícios\" (tásca) coireachta a aimsiú SULA n-imscrúdaítear. Ach conas tásca a bhunú gan imscrúdú a dhéanamh? Cruthaíonn an dlí gabháil foirfe-22.",
+      "cases": "Iarratais Cás:",
+      "montenegro": "Íocaíochtaí doiciméadaithe €410K → \"neamhleor\"",
+      "mendes": "Taifid bainc €700K → \"gann mionsonraí\"",
+      "verdict": "msgstr \"Gné deartha atá masquerading mar chosaint nós imeachta.\""
+    },
+    "inconsistency": {
+      "title": "An Chúirt Bhunreachtúil: Iarratas Roghnach",
+      "permitted": "✓ CEADAITHE sa Phortaingéil",
+      "prohibited": "✗ AR THOIRMEASC ag TC",
+      "p1": "• Diúltaíonn ionchúisitheoirí imscrúdú in ainneoin doiciméad (Montainéagró, Mendes)",
+      "p2": "• Moilleanna réamhthrialach 11 bliana (Sócrates)",
+      "p3": "• Imscrúduithe na Parlaiminte ar bhlocáil díolúine",
+      "p4": "• Pinsin €26K/mí d'airí ciontaithe",
+      "n1": "• A cheangal ar oifigigh méaduithe saibhris doiciméadaithe a mhíniú",
+      "n2": "• Saibhriú gan mhíniú a choiriúlú tar éis méadú a chruthú",
+      "n3": "• Ualach fianaise a chur ar oifigigh a bhfuil fianaise uathúil acu",
+      "n4": "• Dlíthe saibhrithe aindleathach (buaite 2012, 2015)",
+      "note": "Tá cosaintí bunreachtúla comhionanna ag an bhFrainc, ag an Spáinn agus ag an Iodáil maidir le toimhde na neamhchiontachta — ach sheas siad le dlíthe saibhrithe aindleathaí. Is é TC na Portaingéile amháin a fhaigheann \"míbhunreachtúil\" dóibh."
+    },
+    "intro": "Tá sásraí sonracha i gcóras dlí na Portaingéile a chumasaíonn saoirse ó phionós don aicme pholaitiúil."
+  },
+  "blocking": {
+    "title": "An Patrún Blocála: 18 mBliana de Theip ar Thángthas ar Intinn",
+    "subtitle": "Cuireadh bac ar gach iarracht athchóiriú a dhéanamh, rinneadh é a lagú nó a scriosadh",
+    "timeline": {
+      "title": "Amlíne Blocála Saibhrithe Aindleathaí (2007-2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Blocáil Rialacháin Stocaireachta"
+    },
+    "symbiosis": {
+      "title": "An PS/PSD Symbiosis: Dhá Pháirtí, Córas Amháin",
+      "psTitle": "PS (Páirtí Sóisialach)",
+      "psdTitle": "PSD (Daonlathaithe Sóisialta)",
+      "ps": {
+        "noProsecute": "Ní ionchúisíonn comhaltaí PSD",
+        "loopholes": "Coinníonn sé bealaí éalaithe dlíthiúla a théann chun sochair an dá pháirtí",
+        "blocksReforms": "Cuireann sé bac ar leasuithe frith-éillithe agus tú i gcoinne"
+      },
+      "psd": {
+        "noProsecute": "Ní ionchúisíonn comhaltaí PS",
+        "loopholes": "Coinníonn sé bealaí éalaithe dlíthiúla a théann chun sochair an dá pháirtí",
+        "blocksReforms": "Cuireann sé bac ar leasuithe frith-éillithe agus tú i gcoinne"
+      }
+    },
+    "quote": {
+      "text": "\"Tá PCP i láthair na dtionscadal le haghaidh coirpeach agus enriquecimento ilicito. Foram semper rejeitados pelo PS agus PSD.\"",
+      "translation": "\"Thíolaic an PCP billí chun saibhriú aindleathach a choiriúlú. Dhiúltaigh PS agus PSD iad i gcónaí.\""
+    },
+    "otherParties": {
+      "title": "Páirtithe Eile: An Fhreasúra Neamhchumhachtach",
+      "proposedReforms": "Leasuithe Molta (Gach Diúltaithe):",
+      "reforms": {
+        "pcp1": "Tionscadal PCP 726/X (2009) - saibhriú aindleathach",
+        "pcp2": "Tionscadal PCP 25/XI (2009) - saibhriú aindleathach",
+        "chega": "Chega (2021) - saibhriú aindleathach",
+        "be": "BE - Tograí iomadúla trédhearcachta"
+      },
+      "chegaVote": {
+        "title": "Togra Chega ar dhiúltaigh GACH páirtí dó (2021)",
+        "text": "Nuair a mhol Chega saibhriú aindleathach in 2021, vótáil <strong>gach páirtí i gcoinne</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> — NÍL",
+        "psd": "• <span class=\"text-psd\">PSD</span> — NÍL",
+        "be": "• <span class=\"text-pink-500\">BE</span> — NÍL (stad sé ar fhorais “foinse”)",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> — NÍL (staonadh ar fhorais “foinse”)",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> — UIMH",
+        "note": "Dhiúltaigh páirtithe na láimhe clé vóta a chaitheamh leis an gceart is faide ar dheis, fiú le haghaidh athchóiriú a dtugann siad tacaíocht dó"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "The Paradox:",
+      "paradoxText": "Vótálann páirtithe a thacaíonn go poiblí le hathchóiriú frith-éillithe ina choinne nuair a mholann daoine eile é."
+    },
+    "intro": "Cuireadh bac ar gach iarracht athchóirithe, lagaíodh nó diúltaíodh í",
+    "visual": {
+      "title": "18 mbliana de bhac",
+      "attempts": "Iarrachtaí athchóirithe",
+      "years": "Blianta moille",
+      "laws": "Dlíthe lagaithe"
+    }
+  },
+  "euRewards": {
+    "title": "The EU Reward System: Loyal Dogs Get Treats",
+    "subtitle": "Imscrúdú → Cur Chun Cinn an AE",
+    "costaTimeline": {
+      "title": "Amlíne Costa - Cruthúnas Atreisithe Deiridh"
+    },
+    "december": {
+      "title": "Trifecta Nollaig 2025"
+    },
+    "trifecta": {
+      "title": "Trifecta Nollaig 2025",
+      "subtitle": "D’éalaigh triúr polaiteoirí as an gcuntasacht in aon mhí amháin:"
+    },
+    "broaderPicture": {
+      "title": "The Broader Picture"
+    },
+    "observation": "Observation: The EU rewards loyalty, not integrity.",
+    "intro": "Imscrúdú → Ardú AE",
+    "table": {
+      "title": "Polaiteoirí na Portaingéile → Seasamh an AE",
+      "patternNote": "Déanann an tábla seo doiciméadú ar phatrún de pholaiteoirí a fhaigheann poist san AE in ainneoin conspóidí. Ní chruthaíonn comhghaol cúis ná comhordú — ach is gá grinnscrúdú a dhéanamh ar an minicíocht."
+    },
+    "revolvingDoor": {
+      "title": "An Doras Imrothlach: An Bhruiséil → An Earnáil Phríobháideach"
+    }
+  },
+  "solution": {
+    "title": "An t-aon réiteach: Fórsa seachtrach",
+    "subtitle": "Cén fáth a bhfuil athchóiriú inmheánach dodhéanta - agus cad is féidir le saoránaigh a dhéanamh",
+    "impossibility": {
+      "title": "Cén Fáth A Bhfuil Athchóiriú Inmheánach Dodhéanta"
+    },
+    "mechanisms": {
+      "title": "Na Meicníochtaí Seachtracha"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "Question 1"
+      },
+      "q2": {
+        "title": "Question 2"
+      },
+      "q3": {
+        "title": "Question 3"
+      },
+      "q4": {
+        "title": "Question 4"
+      },
+      "q5": {
+        "title": "Question 5"
+      }
+    },
+    "whyImpossible": {
+      "title": "Cén Fáth A Bhfuil Athchóiriú Inmheánach Dodhéanta"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Tionscnamh Reifrinn na Saoránach",
+        "subtitle": "sínithe ag teastáil",
+        "text": "Is féidir le saoránaigh reifrinn cheangailteacha a mholadh ar aon ábhar a bhfuil tábhacht náisiúnta ag baint leis."
+      },
+      "legislativa": {
+        "title": "Tionscnamh Reachtaíochta do Shaoránaigh",
+        "subtitle": "sínithe ag teastáil",
+        "text": "Is féidir le saoránaigh reachtaíocht a mholadh go díreach don Pharlaimint."
+      },
+      "european": {
+        "title": "Tionscnamh Eorpach na Saoránach",
+        "subtitle": "sínithe ag teastáil ar fud 7+ tír AE",
+        "text": "Sásra uile-AE chun reachtaíocht a mholadh don Choimisiún Eorpach."
+      }
+    },
+    "damningRecord": {
+      "title": "An Taifead Damning",
+      "text": "Léiríonn stair reifrinn na Portaingéile go bhfuil an córas deartha chun teip:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Eisiamh Digiteach: Daoine Scothaosta a Tosú",
+      "usageByAge": "Úsáid Idirlín de réir Aoisghrúpa (An Phortaingéil, 2024)",
+      "keyStats": "Key Statistics:"
+    },
+    "proposedQuestions": {
+      "title": "Ceisteanna Molta an Reifrinn"
+    },
+    "intro": "Cén fáth nach féidir athchóiriú inmheánach — agus cad is féidir le saoránaigh a dhéanamh",
+    "tradeoffs": {
+      "title": "Malairtí Macánta: Tá Rioscaí ag a bhfuil á Mholadh againn",
+      "intro": "I spiorad na trédhearcachta, admhaímid go bhfuil fíordhúshláin ag baint le meicníochtaí díreacha daonlathais (cosúil le reifrinn ar nós na hEilvéise):",
+      "challenges": {
+        "title": "Dúshláin Aitheanta",
+        "engagement": "• <strong>Tuirse vótálaithe:</strong> 40-50% ar an meán de thionól na hEilvéise. Is féidir le vótaí go minic saoránaigh a sceite.",
+        "complexity": "• <strong>Laghdú castachta:</strong> Laghdaítear an beartas nua go dtí tá/níl. Rioscaí simplithe.",
+        "populism": "• <strong>Ionramháil Phobalaíoch:</strong> Is féidir le feachtais dea-mhaoinithe tionchar a imirt ar vótálaithe nach bhfuil ar an eolas.",
+        "minority": "• <strong>Cearta mionlaigh:</strong> Is féidir le tromlaigh vótáil i gcoinne mionlaigh (toirmeasc minaret na hEilvéise, 2009).",
+        "corruption": "• <strong>Gan éilliú:</strong> Tá an Eilvéis sa 7ú háit ar CPI - go maith, ach níl sé foirfe."
+      },
+      "whyStill": {
+        "title": "An Fáth a Molaimid fós é",
+        "accountability": "• <strong>Tá cuntasacht ann:</strong> Cuntasacht neamhfhoirfe > cuntasacht nialasach.",
+        "binding": "• <strong>Torthaí ceangailteacha:</strong> Ní féidir le polaiteoirí neamhaird a dhéanamh ar thorthaí mar a dhéanann siad neamhaird ar achainíocha.",
+        "deterrent": "• <strong>Éifeacht dhíspreagtha:</strong> Cruthaítear dreasacht freagrúlachta má bhíonn a fhios ag vótálaithe gur féidir le vótálaithe a shárú.",
+        "culture": "• <strong>Aistriú cultúir:</strong> Tógann rannpháirtíocht rialta rannpháirtíocht shibhialta thar am.",
+        "track": "• <strong>Teist:</strong> 700+ reifreann Eilvéiseach ó 1848. Oibríonn an córas, go neamhfhoirfe."
+      },
+      "conclusion": "<strong class=\"text-white\">Ár seasamh:</strong> Nílimid ag éileamh go bhfuil an daonlathas díreach foirfe. Maíonn muid gur fearr é ná córas ina vótálann polaiteoirí ar a dtuarastail, a ndíolúine agus a gcuntasacht féin — agus go roghnaíonn siad iad féin a chosaint go seasta. Ní í an cheist \"An bhfuil an daonlathas díreach foirfe?\" ach \"An bhfuil sé níos fearr ná an méid atá againn?\" Tugann an fhianaise le fios go bhfuil."
+    }
+  },
+  "euLabor": {
+    "title": "An Cogadh ar Oibrithe: Cearta Saothair AE a Bhaint as",
+    "subtitle": "Mar a lagaigh lánpháirtiú Eorpach cosaintí oibrithe sa Phortaingéil",
+    "germany": {
+      "title": "An Ghearmáin: Leasuithe Hartz IV",
+      "benefits": "Sochair gearrtha go leibhéil íosta",
+      "duration": "Sochair dífhostaíochta teoranta do 12 mhí",
+      "dependent": "Cruthaíodh aicme nua \"bocht ag obair\""
+    },
+    "france": {
+      "title": "An Fhrainc: El Khomri & Athchóiriú Pinsin",
+      "elKhomri": "Dlí El Khomri (2016): Cosaintí saothair lagaithe",
+      "pension": "Leasú pinsin (2023): Ardú aois scoir in ainneoin oll-agóidí",
+      "yellowVests": "Gluaiseacht an Veist Bhuí brúite ag foréigean na bpóilíní"
+    },
+    "uk": {
+      "title": "An Ríocht Aontaithe: Austerity",
+      "welfare": "Córas leasa scriosta faoi \"austerity\"",
+      "universalCredit": "Creidmheas Uilíoch: Deartha chun sochair a dhiúltú",
+      "sanctioned": "2.5 milliún smachtbhannaí i bhfeidhm (2012-2018)"
+    },
+    "italy": {
+      "title": "An Iodáil: Rialtas Meloni",
+      "citizenIncome": "Cuireadh deireadh le Reddito di Cittadinanza (ioncam saoránach).",
+      "prison": "Suas le 6 bliana príosúin as stailceanna a eagrú a chuireann bac ar thrácht",
+      "strikes": "Ceart dul ar stailc ag éirí níos coiriúla"
+    },
+    "pattern": {
+      "title": "An Patrún Ar fud an AE"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "An Chiseal Eisiaimh Dhigiteach",
+      "description": "Tá an ghlúin a chonaic an patrún iomlán éillithe 50 bliain eisiata go córasach ón gcóras sínithe reifrinn digiteach amháin."
+    },
+    "explanation": "Teastaíonn sínithe digiteacha ó thionscnaimh reifrinn nua-aimseartha, rud a fhágann nach bhfuil na glúine níos sine ar lú an seans go n-úsáidfidh siad an t-idirlíon san áireamh.",
+    "usageSource": "Foinse: Eurostat (2024)",
+    "stats": {
+      "65to74": "Tá 38.9% de dhaoine 65-74 bliana d’aois eisiata go digiteach",
+      "75plus": "Tá ~70% de dhaoine 75+ bliain d’aois eisiata go digiteach",
+      "never": "Níor bhain go leor daoine úsáid as an idirlíon riamh",
+      "population": "Léiríonn sé seo breis agus 2 mhilliún saoránach de chuid na Portaingéile"
+    },
+    "warning": "An íoróin Cruálach:"
+  },
+  "conclusion": {
+    "notDemocracy": "Ní Daonlathas É Seo Le Fadhbanna Éillithe",
+    "byDesign": "Seo De réir Dearadh",
+    "euComplicit": "Tá an AE Comhdhéanta",
+    "choice": "The Choice",
+    "notDemocracy.text": "This is a protection system that uses democratic forms as camouflage.",
+    "byDesign.text": "Every element—from legal loopholes to EU promotions—works together to protect the political class.",
+    "euComplicit.text": "Brussels elevates politicians under investigation to the highest positions, rewarding loyalty over integrity.",
+    "choice.text1": "Accept the system as it is, or use the mechanisms available to force change.",
+    "choice.signatures": "1,000,000 signatures can make a difference.",
+    "choice.text2": "The European Citizens Initiative is the only external mechanism citizens can use.",
+    "choice.thatsYou": "That's you.",
+    "byDesignText": "Níl an córas briste. Dearadh é ar an mbealach seo.",
+    "choiceText1": "Tá an doiciméad seo sínithe ag",
+    "choiceSignatures": "citizens",
+    "choiceText2": "athrú ag éileamh.",
+    "choiceThatsYou": "That's YOU.",
+    "euComplicitText": "Cuireann institiúidí an AE oifigigh atá faoi imscrúdú chun cinn chuig poist uachtaracha.",
+    "notDemocracyText": "Ní daonlathas iomlán í tír nach féidir le saoránaigh reifrinn a reáchtáil.",
+    "choiceText": "Tá an doiciméad seo sínithe ag saoránaigh atá ag éileamh athrú."
+  },
+  "dashboard": {
+    "title": "Painéal na Portaingéile um Éilliú",
+    "intro": "Sonraí oifigiúla ó Transparency International, DGPJ, Eurostat, agus GRECO",
+    "kpi": {
+      "cpi": {
+        "label": "Scór TI CPI 2024",
+        "trend": "-4 from 2023"
+      },
+      "trust": {
+        "label": "Saoránaigh: \"Tá Gov't Corrupt\"",
+        "source": "Eorabharaiméadair 2024"
+      },
+      "blocked": {
+        "label": "Iarrachtaí Reachtaíochta a bhfuil bac orthu",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Blianta: Cás Sócraitéas",
+        "trend": "Still ongoing"
+      }
+    },
+    "charts": {
+      "cpi": "Innéacs Dearcadh Éillithe (2012-2024)",
+      "duration": "Meánré Chásanna (Míonna)",
+      "euComparison": "Comparáid idir an AE: Scór IPT vs Dlí Saibhrithe Aindleathach"
+    },
+    "sources": "Data Sources:"
+  },
+  "forum": {
+    "title": "Fóram Saoránach an AE",
+    "intro": "Roinn do dhearcadh ar chuntasacht pholaitiúil",
+    "stats": "ranníocaíochtaí ó shaoránaigh an AE",
+    "form": {
+      "name": "Name (optional)",
+      "namePlaceholder": "Anonymous",
+      "country": "Country",
+      "message": "Your message",
+      "messagePlaceholder": "Roinn do thuairimí ar chuntasacht pholaitiúil san AE...",
+      "submit": "Post Comment",
+      "note": "Ní cheadaítear URLanna. Stóráiltear tuairimí go háitiúil agus modhnaítear iad."
+    },
+    "noComments": "Bí ar an gcéad duine a roinn do dhearcadh ar chuntasacht pholaitiúil.",
+    "errors": {
+      "tooShort": "Ní mór 10 gcarachtar ar a laghad a bheith sa trácht",
+      "tooLong": "Ní mór don trácht a bheith níos lú ná 1000 carachtar",
+      "prohibited": "Tá ábhar toirmiscthe sa tráchtaireacht"
+    },
+    "success": "D'éirigh leis an nóta tráchta a chur leis",
+    "time": {
+      "justNow": "Just now",
+      "minutesAgo": "m ago",
+      "hoursAgo": "h ago",
+      "daysAgo": "d ago"
+    }
+  },
+  "donate": {
+    "title": "Tacaigh le Taighde Neamhchlaonta",
+    "intro": "Uasmhéid €2 an deontóra chun neamhspleáchas iomlán a choinneáil",
+    "principles": {
+      "max": {
+        "title": "Maximum €2",
+        "text": "Ní chiallaíonn aon deontóirí móra aon tionchar. Tá guth comhionann ag gach duine."
+      },
+      "allParties": {
+        "title": "Gach Páirtí Doiciméadaithe",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — níl aon pháirtí díolmhaithe ó ghrinnscrúdú."
+      },
+      "official": {
+        "title": "Foinsí Oifigiúla Amháin",
+        "text": "Doiciméid chúirte, taifid ionchúisimh, rialuithe na Cúirte Bunreachtúla."
+      },
+      "transparency": {
+        "title": "Trédhearcacht Iomlán",
+        "text": "Tá na sonraí go léir infhíoraithe, luaitear gach foinse."
+      }
+    },
+    "stats": {
+      "raised": "Total Raised",
+      "donors": "Donors"
+    },
+    "whyMax": "Why €2 maximum?",
+    "whyMaxText": "Cruthaíonn síntiúis mhóra oibleagáidí. Cinntíonn micrea-shíntiúis ó na mílte saoránach go bhfreastalaíonn an taighde seo ar leas an phobail, ní ar aon chlár oibre polaitíochta nó gnó.",
+    "modal": {
+      "title": "Tacaigh le Taighde Neamhchlaonta",
+      "purpose": "Tacaíonn do mhicrea-thabhartas le taighde neamhspleách ar chuntasacht pholaitiúil ar fud an AE.",
+      "principlesTitle": "Our Principles:",
+      "maxDonor": "Uasmhéid €2/deontóir - Gan deontóirí móra, gan tionchar",
+      "allPartiesDoc": "Gach páirtí doiciméadaithe - PS, PSD, CDS, PCP, BE, Chega - go léir san áireamh",
+      "officialOnly": "Foinsí oifigiúla amháin - Doiciméid Cúirte, taifid ionchúisimh",
+      "fullTransparency": "Trédhearcacht iomlán - Na sonraí go léir infhíoraithe",
+      "paymentMethods": "Modhanna íocaíochta ag teacht go luath:",
+      "simulateBtn": "Insamhalta Síntiús (Demo)",
+      "demoNote": "Is léiriú é seo. Teastaíonn socrú backend chun fíor-chomhtháthú íocaíochta."
+    },
+    "errors": {
+      "invalidAmount": "Cuir isteach méid bailí",
+      "maxAmount": "Is é €{{max}} an síntiús uasta chun neamhspleáchas taighde a choinneáil"
+    },
+    "success": "Go raibh maith agat! Taifeadadh síntiús de €{{méid}}."
+  },
+  "footer": {
+    "legalTitle": "Legal Notice",
+    "legalNotice": "Legal Notice",
+    "legalNotice.text": "All individuals mentioned are entitled to the presumption of innocence. This document presents publicly available information from official sources, court documents, and verified media reports that the investigator considers essential for public awareness and democratic accountability.",
+    "legalText": "Tá gach duine a luaitear sa doiciméad seo i dteideal toimhde na neamhchiontachta go dtí go gcruthaítear ciontach i gcúirt dlí é. Cuireann an doiciméad seo faisnéis atá ar fáil go poiblí i láthair ó fhoinsí oifigiúla, ó dhoiciméid chúirte, agus ó asraonta meán cumarsáide. Léiríonn an anailís patrúin doiciméadaithe i gcóras dlí agus polaitiúil na Portaingéile.",
+    "prepared": "Doiciméad ullmhaithe:",
+    "verified": "Gach foinse fíoraithe ón dáta foilsithe",
+    "legalNoticeText": "Faightear an fhaisnéis go léir a chuirtear i láthair ó dhoiciméid oifigiúla na cúirte, ó thaifid pharlaiminteacha agus ó na meáin chreidiúnacha. Glactar leis go bhfuil na daoine a luaitear neamhchiontach go dtí go gcruthaítear ciontach iad."
+  },
+  "countries": {
+    "PT": "Portugal",
+    "ES": "Spain",
+    "FR": "France",
+    "DE": "Germany",
+    "IT": "Italy",
+    "NL": "Netherlands",
+    "BE": "Belgium",
+    "AT": "Austria",
+    "PL": "Poland",
+    "RO": "Romania",
+    "EL": "Greece",
+    "CZ": "Czechia",
+    "HU": "Hungary",
+    "SE": "Sweden",
+    "DK": "Denmark",
+    "FI": "Finland",
+    "IE": "Ireland",
+    "BG": "Bulgaria",
+    "HR": "Croatia",
+    "SK": "Slovakia",
+    "SI": "Slovenia",
+    "LT": "Lithuania",
+    "LV": "Latvia",
+    "EE": "Estonia",
+    "CY": "Cyprus",
+    "MT": "Malta",
+    "LU": "Luxembourg",
+    "EU": "EU Citizen"
+  },
+  "investigative": {
+    "badge": "Tuairisc Imscrúdaithe",
+    "title": "Cad a nochtann an t-imscrúdú seo",
+    "intro": "Tar éis athbhreithniú a dhéanamh ar dhoiciméid chúirte, taifid pharlaiminteacha, rialuithe na Cúirte Bunreachtúla, meastóireachtaí GRECO, tuarascálacha Transparency International, suirbhéanna Eorabharaiméadair, agus 50 bliain de chartlanna meán na Portaingéile, tagann patrún suaite chun cinn: níl córas polaitiúil na Portaingéile briste - tá sé ag obair go díreach mar a ceapadh.",
+    "evidenceTitle": "Léiríonn an Fianaise:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Torthaí Idirnáisiúnta:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "Ní teoiric chomhcheilg é seo. Is fíoras doiciméadaithe é seo. Faightear gach éileamh sa tuarascáil seo ó dhoiciméid oifigiúla, ó rialuithe cúirte, nó ó eagraíochtaí creidiúnacha idirnáisiúnta. Níl ailtireacht na saoirse ó phionós i bhfolach - tá sé poiblí, dlíthiúil, agus á chothabháil d'aon ghnó acu siúd a chosnaíonn sé.",
+    "evidence": {
+      "banking": "€20+ billiún a goideadh trí thitim bhaincéireachta (BPN, BES, CGD)",
+      "casaPia": "Rinneadh mí-úsáid ar 100+ leanbh ag Casa Pia agus chlúdaigh Scothaicme é ar feadh 20 bliain",
+      "pms": "Imscrúdaíodh 2 Phríomh-Aire, ciontaíodh 0",
+      "reforms": "9+ athchóiriú frith-éillithe bactha ag PS/PSD ó 1983 i leith",
+      "referendums": "0 reifreann ceangailteach i 50 bliain den daonlathas",
+      "suspended": "Críochnaíonn 75% de chásanna éillithe le pianbhreitheanna ar fionraí"
+    },
+    "findings": {
+      "greco": "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "ti": "Transparency International: Thit an Phortaingéil ón 25ú háit go dtí an 43ú háit (2012-2024)",
+      "eurobarometer": "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "euAverage": "Meán an AE: 10 mbliana ar an meán aga ionchúisimh vs 11+ bliain na Portaingéile",
+      "uncac": "UNCAC: 18 mbliana ó ghealltanas, níl aon dlí saibhrithe aindleathach fós",
+      "euRuleOfLaw": "Riail Dlí an AE 2025: 81 cás, 16 chiontú in 2024 — meántréimhse ionchúisimh: 6.8 bliain"
+    }
+  },
+  "greco": {
+    "badge": "Measúnú Chomhairle na hEorpa",
+    "title": "GRECO: 1 of 15 Recommendations Implemented",
+    "subtitle": "Grúpa Stát i gCoinne na Caimiléireachta",
+    "intro": "The Group of States Against Corruption (GRECO) has repeatedly criticized Portugal's lack of progress",
+    "implemented": {
+      "number": "1",
+      "title": "Curtha i bhFeidhm go hiomlán",
+      "subtitle": "out of 15 recommendations",
+      "text": "Only one recommendation on transparency of political party financing has been fully addressed."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Curtha i bhFeidhm i bPáirt",
+      "subtitle": "fós ar feitheamh críochnaithe",
+      "text": "Includes: MP codes of conduct, asset declarations, conflicts of interest management, lobbying transparency."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Not Implemented",
+      "subtitle": "neamhaird nó diúltaithe",
+      "text": "Includes: Illicit enrichment criminalization, whistleblower protection, cooling-off periods for ministers."
+    },
+    "criticismsTitle": "Príomhchriticí GRECO (Tuarascáil 2023):",
+    "criticisms": {
+      "noCode": "Níl aon chód iompair sainordaitheach do na Feisirí",
+      "assets": "Níl dearbhuithe sócmhainní fíoraithe go neamhspleách",
+      "lobbyists": "Níl aon chlár brústocairí",
+      "coolingOff": "Gan aon tréimhse shuaimhnithe d’airí a théann isteach san earnáil phríobháideach",
+      "whistleblower": "Tá bearnaí fós sa dlí um chosaint sceithirí",
+      "conflicts": "Ní chuirtear rialacha coinbhleachta leasa i bhfeidhm go dona",
+      "prosecution": "Sáraíonn amanna ionchúisimh teorainneacha réasúnta",
+      "immunity": "Rialacha díolúine polaitiúil ró-leathan"
+    },
+    "source": "Foinse: GRECO Cúigiú Babhta Measúnaithe - An Phortaingéil",
+    "sourceLabel": "Foinse: GRECO Cúigiú Babhta Measúnaithe - An Phortaingéil",
+    "scorecard": {
+      "title": "Amlíne Neamhchomhlíonta 10 mBliana (2015-2025)",
+      "fourthRound": "AN CEATHRÚ Babhta (2015)",
+      "fifthRound": "AN CÚIGIÚ BHABHTA (2024)",
+      "focusMPs": "Básanna, Breithiúna, Ionchúisitheoirí",
+      "focusExec": "Rialtas & Forfheidhmiú an Dlí",
+      "implemented": "Implemented",
+      "fullyImplemented": "Curtha i bhFeidhm go hiomlán",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "Meán an AE: 59% | An Phortaingéil: 33%",
+      "partial": "18 Páirteach | 10 Gan Chur i bhFeidhm",
+      "ongoing": "Comhlíonadh Leanúnach"
+    },
+    "menac": {
+      "title": "MENAC: Meicníocht Náisiúnta Frith-éillithe",
+      "staffed": "Staffed",
+      "detail": "Níor líonadh ach 12 phost údaraithe as 27. Arna dhearbhú \"oibríochtúil\" Meitheamh 2023 ach deir GRECO: \"gan a bheith ag feidhmiú go hiomlán\""
+    }
+  },
+  "whistleblower": {
+    "title": "Cosaint do sceithirí: An Sciath ar Iarraidh",
+    "subtitle": "Iad siúd a nochtadh aghaidh éilliú retaliation agus an chosaint aghaidh truaillithe",
+    "ruiPinto": {
+      "title": "The Rui Pinto Case",
+      "text": "Haiceálaí Portaingéile a nochtaigh an scannal \"Football Leaks\", a léirigh éilliú ag na clubanna is mó san Eoraip agus i gcóras ceartais na Portaingéile. Chuir a sceitheadh ​​le hOibríocht Lex (breithiúna truaillithe) agus Luanda Leaks.",
+      "outcomeTitle": "OUTCOME:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: Arrested, extradited from Hungary",
+      "convicted": "Pinto: Convicted of hacking crimes",
+      "officials": "Corrupt officials he exposed: Some on trial, most free"
+    },
+    "comparison": {
+      "title": "Comparáid idir an AE: Dlíthe sceithirí",
+      "headers": {
+        "country": "Country",
+        "protection": "Leibhéal Cosanta",
+        "status": "Status"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Strong",
+          "status": "Tuairisciú gan ainm + cúnamh dlíthiúil"
+        },
+        "ireland": {
+          "protection": "Strong",
+          "status": "Dlí cuimsitheach 2014 saor in aisce"
+        },
+        "france": {
+          "protection": "Strong",
+          "status": "Dlí Sapin II (2016)"
+        },
+        "germany": {
+          "protection": "Medium",
+          "status": "Curtha i bhfeidhm 2023"
+        },
+        "portugal": {
+          "protection": "Weak",
+          "status": "Tá bearnaí fós in aghaidh an GRECO"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "Scéal Dhá Ruis",
+      "subtitle": "Beirt fhear darbh ainm Rui a raibh fonn orthu an fhírinne a nochtadh. An dá phionósú. An truaillithe? Den chuid is mó saor in aisce."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "Bunaitheoir <a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a>, ardán Portaingéile spreagtha ag WikiLeaks (eag. 2010) a nochtar doiciméid rialtais agus leochaileachtaí slándála. An láithreán gréasáin amháin atá liostaithe i Leabhar Fíricí Domhanda an CIA faoi \"ghrúpaí brú polaitiúla\" na Portaingéile.",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Cosc ar an idirlíon</strong> ar feadh 8 mí",
+      "gagged": "• Faoi réir <strong>ordú gagging</strong> cúirte",
+      "fired": "• <strong>Fóite</strong> óna phost ag PT Comunicações",
+      "active": "• <span class=\"text-good\">Tugaleaks fós gníomhach in 2025</span>",
+      "source": "Foinse: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRi (Cearta Digiteacha Eorpacha)</a>"
+    }
+  },
+  "media": {
+    "title": "An Meaisín Atmaisféar: Úinéireacht na Meán",
+    "subtitle": "Cé leis na meáin Portaingéile, agus cén fáth a bhfuil sé tábhachtach?",
+    "ownershipTitle": "Úinéireacht Chomhchruinnithe",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão - iar-PM (PSD)",
+      "cofina": "Áirítear ar na príomh-scairshealbhóirí bainc atá fóirithinte ag an stát",
+      "mediaCapital": "Díolta le déanaí, athraíonn úinéireacht go minic",
+      "globalMedia": "Ar úinéireacht ag infheisteoirí le leasanna éagsúla",
+      "rtp": "Faoi úinéireacht an stáit, bord arna cheapadh ag an rialtas"
+    },
+    "conditioningTitle": "An Éifeacht Atmaisféar",
+    "conditioningIntro": "Nuair a bhíonn naisc ag úinéirí meáin le páirtithe polaitíochta nó ag brath ar fhógraíocht stáit:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "THE RESULT:",
+    "resultText": "Portuguese citizens know corruption exists (88% say so) but feel powerless to change it. The media covers scandals but rarely connects them to the systemic protection architecture.",
+    "conditioning": {
+      "selfCensorship": "Éiríonn féinchinsireacht normalú",
+      "underfunded": "Iriseoireacht imscrúdaithe tearc-mhaoinithe",
+      "forgotten": "Scannail clúdaithe go hachomair, ansin dearmad",
+      "bothSides": "\"An dá thaobh\" coibhéis bhréagach ar chaimiléireacht",
+      "personalities": "Fócas ar phearsantachtaí, ní ar cheisteanna sistéamacha"
+    }
+  },
+  "eciCritique": {
+    "title": "An Locht Dearaidh ECI: 12 Mhí de Fhrithshlógadh",
+    "problem": "Tá 12 mhí ag an gCoimisiún chun freagra a thabhairt — tá an t-am aige frithsheasmhacht a eagrú, stocaireacht a dhéanamh i gcoinne an chur chun feidhme, nó moill a chur go dtí go n-imíonn aird an phobail.",
+    "tacticsTitle": "Frithbhearta ar Fáil d'Institiúidí:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Teipeanna Stairiúla ECI:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "An Rogha Eile:",
+    "alternativeText": "Sin an fáth a mholaimid meicníochtaí reifrinn DÍREACH cosúil leis an Eilvéis, ní ECIanna bunaithe ar achainí ar féidir neamhaird a dhéanamh orthu. Tá reifrinn na hEilvéise INA CHEANGAILTE - ní féidir le polaiteoirí fanacht amach leo.",
+    "comparisonTitle": "ECI vs Reifreann na hEilvéise:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Bunachar sonraí iomlán éillithe",
+    "subtitle": "25+ Mórscandal Nochta (1980-2025)",
+    "intro": "Gach mórchás éillithe doiciméadaithe le méideanna, torthaí agus foinsí",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "An chalaois is mó i stair na Portaingéile. €700M+ i gcaillteanas lasmuigh den chlár comhardaithe a aimsíodh. Banc náisiúnaithe.",
+        "sources": "Foinsí: RTP, Publico, doiciméid na Cúirte"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "An Ceangal EDP:",
+        "edpText": "Ciontaíodh Salgado as €4.5M a thabhairt don Aire Geilleagair Manuel Pinho le haghaidh cinntí fabhracha EDP.",
+        "sources": "Foinsí: Breathnadóir, Doiciméid Cúirte, tuarascálacha BdP",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado - POF (1991-2014) - Trialacha iolracha, moilleanna sláinte",
+          "ricciardi": "José Maria Ricciardi - Infheistíocht BES - Ciontaíodh",
+          "pires": "Amílcar Morais Pires - CFO - Ciontaíodh",
+          "cruz": "Machado da Cruz - Stiúrthóir Riosca - Ar a thriail"
+        },
+        "fraudStructure": {
+          "title": "An Struchtúr Calaoise:",
+          "hiddenLosses": "€4.9 billiún i gcaillteanas neamhnochta atá folaithe trí fheithiclí amach ón gcósta",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPVanna (comhlachtaí sliogéisc Lucsamburg)",
+          "mechanisms": "Iasachtaí páirtithe gaolmhara, ráthaíochtaí ciorclach, dliteanais fholaithe, sócmhainní bréige, oibríochtaí Angóla (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Tháinig Salgado ina Phríomhfheidhmeannach (riocht 23 bliain)",
+          "problems": "2013: Léiríonn iniúchtaí inmheánacha fadhbanna (feasach don teaghlach)",
+          "collapse": "2014-08: Tuairiscíonn caillteanas €3.6B, banc ar fionraí, fóirithint €4.9B",
+          "prosecution": "2015-2025: Trialacha iolracha, dul chun cinn mall, níor cuireadh Príomhfheidhmeannach i bpríosún riamh"
+        },
+        "monteBlanco": {
+          "name": "Triail Monte Branco",
+          "defendants": "18 cosantóir lena n-áirítear Salgado",
+          "status": "Leanúnach 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Líomhnaítear go bhfuair Sócraitéas €15,000/mí ó Salgado",
+          "pinho": "Fuair ​​an tAire Pinho €4.9M ó Salgado (ciontaithe 10 mbliana)"
+        },
+        "regulatoryFailure": "Chaill Banc na Portaingéile comharthaí rabhaidh ar feadh na mblianta. Shínigh iniúchóirí cuntais chalaoiseacha."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Teastaíonn fóirithint is mó i stair na Portaingéile ó bhanc faoi úinéireacht an stáit.",
+        "interferenceTitle": "Cur isteach Polaitiúil:",
+        "interferenceText": "Fuarthas amach le fiosrúchán parlaiminte go bhfuil “cur isteach polaitiúil” agus “coinní páirtíneach” trasna ar rialtais iolracha.",
+        "sources": "Foinsí: RTP, Tuarascáil Fiosrúcháin Parlaiminte"
+      }
+    },
+    "politicians": {
+      "title": "Príomh-Airí & Príomh-Pholaiteoirí",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Foinsí Éillithe:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Cuntais na hEilvéise: €24M aimsithe"
+        },
+        "otherScandalsTitle": "Scannail Nasctha Eile:",
+        "other": {
+          "freeport": "Freeport: Líomhaintí um tharscaoileadh comhshaoil",
+          "parqueEscolar": "Parque Escolar: Calaois athchóirithe scoile",
+          "cgd": "CGD: Tionchar líomhnaithe ar chinntí bainc"
+        },
+        "sources": "Foinsí: Cúisí DCIAP, doiciméid na Cúirte",
+        "charges": {
+          "title": "Scannal an Oideas:",
+          "original": "189 cúiseamh comhdaithe (31 coire)",
+          "prescribed": "167 muirear FORORDAITHE (in éag)",
+          "remaining": "Ní théann ach 22 cúiseamh ar aghaidh chuig triail",
+          "judge": "An Breitheamh Ivo Rosa (Aibreán 2021): Rialaíodh go raibh formhór na gcoireanna ‘tite i léig’",
+          "ruling": "Rialaigh an Breitheamh go raibh Sócrates 'truaillithe' ach go raibh an choireacht 'tite i léig'"
+        },
+        "timeline": {
+          "arrested": "2014-11-21: Gabhadh ag Aerfort Liospóin",
+          "prison": "2014-2015: 9 mí i bPríosún Éabhóra",
+          "houseArrest": "2015: Gabháil tí, ansin saor in aisce",
+          "ongoing": "2025: Gan aon chiontú fós tar éis 11+ bliain"
+        },
+        "pension": {
+          "title": "Cosanta agus Cúisí:",
+          "amount": "'fóirdheontas ar feadh an tsaoil' €30,000 in aghaidh na bliana (subvenção vitalícia)",
+          "legal": "Pinsean a úsáid chun cosaint dhlíthiúil a mhaoiniú",
+          "lifestyle": "Coinníonn Páras árasán, stíl mhaireachtála"
+        },
+        "recovery": "€0 aisghafa do stát na Portaingéile",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Seasamh Cosanta:",
+        "defense": "Coinníonn Sócrates gur iasachtaí ó chairde a bhí sa €34M, ní breabanna. Maíonn a chosaint géarleanúint sna meáin agus ionchúiseamh roghnach. Athshocraigh an triail Iúil 2025 tar éis 11+ bliain de mhoilleanna."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "An íoróin deiridh:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "An Ruathar (7 Samhain, 2023):",
+          "cash": "Fuarthas €78,000 in oifig an Cheann Foirne",
+          "arrests": "Vítor Escária (Ceann Foirne) agus Lacerda Machado (fear gnó) gafa",
+          "resignation": "D’éirigh Costa as an oíche chéanna"
+        },
+        "investigation": {
+          "title": "Tioncharoir Operação:",
+          "lithium": "Lamháltais mianadóireachta litiam (na cúlchistí is mó san Eoraip)",
+          "hydrogen": "Tionscadail hidrigine glas (infheistíochtaí iolracha)",
+          "allegation": "Cinntí ceadúnaithe líomhnaithe mar mhalairt ar íocaíochtaí"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária - Ceann Foirne - Gabhadh, scaoileadh",
+          "machado": "Lacerda Machado - Idirghabhálaí Fear Gnó - Gabhadh",
+          "galamba": "João Galamba - Státrúnaí Fuinnimh - Faoi ghrinnscrúdú"
+        },
+        "euPromotion": {
+          "date": "27 Meitheamh, 2024: Uachtarán tofa ar Chomhairle an AE",
+          "start": "1 Nollaig, 2024: Glacadh leis san oifig",
+          "status": "Imscrúdú fós ar siúl - níor comhdaíodh aon táillí"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-éirí as oifig",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especiais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Níor cúisíodh Costa riamh agus ní ‘arguido’ (amhras foirmiúil) fós é. Samhain 2025: Rialaigh an Chúirt Uachtarach go ndearnadh téipeanna sreinge GAN údarú cuí. Imscrúdú ar siúl ach níl aon chúisimh fhoirmiúla ann."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Foinsí: Doiciméid chúirte",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Líonra pedophile mionlach ag baint úsáide as dílleachtlanna stáit. Láithreoir teilifíse, ambasadóir UNESCO, gobharnóir Casa Pia i measc ciontaithe.",
+        "coverupTitle": "The Cover-Up:",
+        "coverupText": "Tháinig na chéad tuairiscí chun cinn sna 1980í. Chuir na póilíní imscrúduithe ar ceal. Oifigigh scrios doiciméid. Nochtadh iomlán i 2002 amháin.",
+        "sources": "Foinsí: An Fhrainc 24, Doiciméid na Cúirte"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17 cosantóir lena n-áirítear breithiúna sinsearacha cúisithe i rialuithe fabhracha a dhíol.",
+        "failureTitle": "Teip Sistéamach:",
+        "failureText": "Bhí na breithiúna ar cheart dóibh dlíthe frith-éillithe a fhorghníomhú truaillithe iad féin.",
+        "sources": "Foinsí: Breathnadóir, taifid chúirte"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Goid Arm Tancos (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "Sárú slándála bonn míleata. Airm a goideadh, ansin \"aimsithe\" i téarnamh céimnithe.",
+        "convicted": "Pearsanra míleata ciontaithe",
+        "acquitted": "Éigiontaíodh an tAire Cosanta Azeredo Lopes",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "Bhris oifigigh Aerfhórsa praghsanna bia faoi €10M+.",
+        "hiring": "Cuideachtaí bhlaosc a úsáidtear chun cistí a atreorú",
+        "justified": "Ceart mar \"riachtanas oibriúcháin\""
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "D'íoc an chuideachta Gearmánach Ferrostaal €6.4M le hoifigigh na Portaingéile ar chonradh fomhuirí.",
+        "germans": "Feidhmeannaigh na Gearmáine: Ciontaíodh sa Ghearmáin",
+        "portuguese": "Oifigigh na Portaingéile: GÁ GÁ BHAINEANN",
+        "documents": "Príomhdhoiciméid \"imithe\" ón Aireacht Cosanta"
+      },
+      "police": {
+        "2004": "2004: Euro 2004 éilliú slándála",
+        "2007": "2007: Leonor Cipriano cás - oifigigh ciontaithe i gcéasadh",
+        "2019": "2019: Scannán ionsaí brúidiúil ar shaoránaigh Dhubha",
+        "2021": "2021: Oifigigh PSP ciontaithe as ionsaí",
+        "2025": "2025: Nochtar fáinne gáinneála na bpóilíní",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Méaraí iolracha ar fud na Portaingéile ciontaithe nó faoi imscrúdú mar gheall ar chaimiléireacht.",
+      "teia": {
+        "name": "Ceoldráma Teia (2019)",
+        "subtitle": "Líonra Éillithe Ilmhéara",
+        "description": "Nocht an t-imscrúdú líonra éillithe ina raibh méaraí Santo Tirso agus Barcelos mar aon le stiúrthóir IPO Porto i gconarthaí poiblí rigged agus kickbacks.",
+        "santo": "• Méara Santo Tirso: Imscrúdaithe",
+        "barcelos": "• Méara Barcelos: Imscrúdaithe",
+        "ipo": "• Stiúrthóir IPO Porto: Imscrúdaithe",
+        "pattern": "• Patrún: Caimiléireacht chathrach traspháirtí"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Beirt Mhéaraí Espinho Faoi Imscrúdú",
+        "description": "Tá méaraí reatha agus iar-mhéaraí bhardas Espinho faoi imscrúdú mar gheall ar éilliú a bhaineann le conarthaí poiblí agus cinntí bardasach.",
+        "current": "• Méara reatha: Faoi imscrúdú",
+        "former": "• Iarmhéara: Faoi imscrúdú",
+        "pattern": "• Patrún: Éilliú tras-riaracháin"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Méara + Cathaoirleach Peile Ciontaithe",
+        "description": "Méara Gondomar agus cathaoirleach Boavista FC ciontaithe i scannal ollmhór éillithe an réiteora. 171 duine i gceist, 13 ciontaithe. Pianbhreith ar fionraí = gan phríosún.",
+        "sentence": "• Cuireadh pianbhreith air: 3 bliana 2 mhí AR FHIONRAÍ",
+        "prison": "• Am príosúin seirbheáilte: ZERO",
+        "son": "• Ghlac Mac seilbh ar Boavista FC (cosc 4 bliana)",
+        "pinto": "• Pinto da Costa: airgead tirim + striapach do na réiteoirí"
+      },
+      "maestro": {
+        "name": "Ceoldráma Maestro (2024)",
+        "subtitle": "Calaois Cistí AE €39 Milliún",
+        "description": "Márta 2024: Thug PJ ruathar ar 78 láthair. Fear gnó Manuel Serrão cúisithe as €39M a atreorú ó chiste forbartha réigiúnach an AE. Beirt Rúnaithe Stáit atá faoi imscrúdú.",
+        "raids": "• Rinneadh ruathar ar 78 láthair, coinníodh 6 cinn",
+        "officials": "• Fiosraíodh 2 Rúnaithe Stáit",
+        "companies": "• Líonra de chuideachtaí blaosc le haghaidh calaoise",
+        "status": "• Stádas: Imscrúdú ar siúl"
+      },
+      "overview": {
+        "description": "Éiríonn le caimiléireacht áitiúil i “fástaí nuachta” áit nach ndéanann iriseoirí monatóireacht ar chonarthaí cathrach, ar phleanáil uirbeach ná ar oibreacha poiblí. Comhscéimeanna: conarthaí teannta, kickbacks, \"táillí práinne\" le haghaidh formheasanna, poist do chomhghuaillithe polaitiúla.",
+        "investigated": "Imscrúduithe na méara (2010-2025)",
+        "municipalities": "bardais na Portaingéile",
+        "officials": "Oifigigh áitiúla le cásanna (Nollaig 2025)",
+        "suspended": "Pianbhreitheanna ar fionraí a fháil",
+        "title": "Scála na Caimiléireachta Cathrach"
+      },
+      "trifecta": {
+        "convicted": "Ciontaíodh 5 mhéara",
+        "description": "I mí na Nollag 2024 ciontaíodh 5 mhéara reatha/iar-mhéaraí ó Albergaria-a-Velha, Oliveira de Azeméis, Estarreja, agus na bardais máguaird. Gach ciontaithe as éilliú, peculation, agus mí-úsáid cumhachta a bhaineann le conarthaí poiblí. Fuair ​​a bhformhór pianbhreitheanna ar fionraí.",
+        "name": "Nollaig 2024: An Trifecta",
+        "pattern": "Gach pianbhreith ar fionraí",
+        "prison": "0 in prison",
+        "subtitle": "5 Méaraí a Ciontaíodh i Seachtain Aonair"
+      }
+    },
+    "football": {
+      "title": "Éilliú Peile",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "FC Porto de chuid Pinto da Costa páirteach i scéim breabaireachta na réiteoirí.",
+        "costa": "Pinto da Costa: Éigiontaithe ar theicniúlacht",
+        "points": "Asbhaineadh na pointí, athchóiríodh iad níos déanaí",
+        "boavista": "Boavista (iomaitheoirí) relegated ina ionad",
+        "uefa": "Ní dhearna UEFA aon ghníomh"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "Scannal ollmhór éillithe a bhaineann le socrú cluichí, calaois chánach agus embezzlement.",
+        "vieira": "Luís Filipe Vieira: Gabhadh 2021, ar a thriail",
+        "goncalves": "Paulo Gonçalves: Iar-stiúrthóir dlí, ciontaithe",
+        "ban": "Vieira toirmeasc ó pheil",
+        "pinto": "Nochtadh ag Rui Pinto (Sceitheadh ​​Peile)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "Iar-cheannaire parlaiminte PSD cúisithe i ndúnmharú cliant Brasaíleach i Rio.",
+        "bpn": "Ceangailte le scannal BPN mar dhlíodóir bainc",
+        "murder": "Íospartach: Rosalina Ribeiro, lámhaigh sa charr i Rio de Janeiro",
+        "untouchable": "Dhiúltaigh údaráis na Portaingéile an eiseachadadh ar feadh na mblianta"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Scannal Víosa Órga (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "Gabhadh 11 oifigeach as praghsanna maoine a ardú agus as breabanna a ghlacadh.",
+        "macedo": "Stiúrthóir SEF Paiva Nunes: Gabhadh",
+        "figueiredo": "Oifigigh iolracha ciontaithe",
+        "chinese": "Infheisteoirí na Síne agus na Rúise i gceist"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "Fuair ​​feidhmeannaigh aerlínte stáit pacáistí scoir ollmhóra.",
+        "reis": "Christine Ourmieres-Widener: éarlais €500,000",
+        "santos": "Ramiro Sequeira: Pacáiste scoir conspóideach",
+        "galamba": "Rinne an tAire Galamba maoirseacht ar cheapacháin",
+        "laptop": "D’éiligh fiosrúchán parlaiminte doiciméid"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "nepotism endemic ar fud pholaitíocht na Portaingéile.",
+        "president": "Gaolta Marcelo i bpoist lárnacha",
+        "law": "Uimh reachtaíocht frith-nepotism brí",
+        "hodgepodge": "Cuimsíonn naisc teaghlaigh gach mórpháirtí"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Clár athchóirithe scoile le linn ré Sócrates lán le calaois.",
+        "notAudited": "€492M caite gan iniúchadh ceart",
+        "investigation": "D'oscail an t-imscrúdú ach cuireadh stop leis",
+        "noConvictions": "Níl aon chiontuithe go dtí seo"
+      }
+    },
+    "pattern": {
+      "title": "Patrún na Saoirse: De réir na nUimhreacha",
+      "stats": {
+        "banking": "Caillteanais bhaincéireachta (BPN+BES+CGD+Novo Banco)",
+        "pms": "Fiosraíodh PManna",
+        "socrates": "Blianta: Fad cás Shócraitéas",
+        "suspended": "Cásanna dar críoch pianbhreith ar fionraí",
+        "served": "As ciontaithe a sheirbheáil iarbhír am",
+        "casaPia": "íospartaigh Casa Pia",
+        "judges": "Breithiúna ar triail (Op Lex)",
+        "submarine": "Oifigigh na Portaingéile ciontaithe (fomhuirí)",
+        "novoBanco": "Costas tarrthála Novo Banco (0 gciontú)",
+        "chargesDropped": "Thit táillí Sócraitéas (88%)",
+        "blocking": "Moltaí athchóirithe bactha (2007-2025)",
+        "enrichment": "Ritheadh ​​dlíthe saibhrithe aindleathach",
+        "admiral": "Oibríocht Aimiréil a ghnóthú (EPPO)",
+        "arrests": "Gabhálacha Aimiréil i 3 lá",
+        "prosecutors": "Ionchúisitheoirí atá ag tabhairt aghaidh ar chonarthaí neamhbhuana",
+        "lima": "Moill ar chás dúnmharaithe Duarte Lima"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Scannal Drochúsáid Leanaí Casa Pia",
+        "date": "2002 (mí-úsáid ó na 1980idí)",
+        "amount": "100+ íospartach leanaí",
+        "description": "Líonra pedophile mionlach ag baint úsáide as dílleachtlanna stáit. I measc an láithreoir teilifíse Carlos Cruz, an taidhleoir Jorge Ritto, an gobharnóir Casa Pia Manuel Abrantes.",
+        "outcome": "7 ciontaithe (2010), pianbhreitheanna 5-18 bliana",
+        "source": "France 24"
+      },
+      "bpn": {
+        "title": "BPN - Banco Português de Negócios",
+        "date": "2008",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "José Oliveira e Costa: 14 bliana (laghdaithe ar achomharc)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES - Banco Espírito Santo",
+        "date": "2014",
+        "amount": "€11.8 billion loss",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes. State creates Novo Banco at huge cost.",
+        "outcome": "Salgado: 6→8 years (one case), 6y3m (EDP case). Claims Alzheimer's.",
+        "source": "Observador"
+      },
+      "cgd": {
+        "title": "CGD - Caixa Geral de Depósitos",
+        "date": "2016",
+        "amount": "Tarrtháil €4.9 billiún",
+        "description": "Teastaíonn fóirithint is mó i stair na Portaingéile ó bhanc faoi úinéireacht an stáit. Cinneann fiosrúchán parlaiminte 'cur isteach polaitiúil,' 'coinní páirtíneach.' 7 mbliana d'fholáirimh chalaoise a ndearnadh neamhaird orthu.",
+        "outcome": "ZERO ciontuithe",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "€8+ billion public money",
+        "description": "'Good bank' from BES collapse. Sold to Lone Star (2017) with €3.89B state guarantee. By 2021: €7.9B injected. Parliamentary inquiry finds 'irresponsibility.'",
+        "outcome": "ZERO convictions. No personal liability.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Breabanna Fomhuirí Gearmánacha",
+        "date": "2004",
+        "amount": "€6.4 milliún i breabanna",
+        "description": "D’íoc Ferrostaal le hoifigigh na Portaingéile ar chonradh fomhuirí €833M. €1M+ chuig cóisir CDS-PP. Doiciméid 'imithe' ón Aireacht Cosanta.",
+        "outcome": "Feidhmeannaigh na Gearmáine: CIONTÚ. Portaingéilis go léir: ACQUITTED (2014)",
+        "source": "Lorgaire Éillithe"
+      },
+      "freeport": {
+        "title": "Freeport",
+        "date": "2002",
+        "amount": "Undisclosed",
+        "description": "Líomhain an tAire Comhshaoil ​​José Sócrates tarscaoileadh srianta comhshaoil ​​do chuideachta Briotanach ionad a thógáil ar thalamh cosanta.",
+        "outcome": "Glanadh i 2010 - 'gan aon duine an milleán'",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Scannal Visa Órga",
+        "date": "2014",
+        "amount": "€40+ milliún i breabanna",
+        "description": "Gabhadh 11 oifigeach as praghsanna maoine a ardú, ag glacadh breabanna le haghaidh ceadanna cónaitheachta. Infheisteoirí na Síne agus na Rúise i gceist.",
+        "outcome": "Roinnt ciontuithe, leanann an clár",
+        "source": "Observador"
+      },
+      "tancos": {
+        "title": "Cluiche Tancos Arm goid",
+        "date": "2017",
+        "amount": "Taisce airm mhíleata",
+        "description": "1,450 babhta, 150 grenades láimhe, 44 grenades frith-umar, goideadh 264 pléascán plaisteach. Ceamaraí slándála 'gan obair' ar feadh seachtainí. Tá an tAire Azeredo Lopes ag éirí as.",
+        "outcome": "Triail leanúnach, cosantóirí iolracha",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Bunachar Sonraí Éillithe a chomhlánú",
+    "fullIntro": "Gach mórchás éillithe doiciméadaithe le méideanna, torthaí agus foinsí",
+    "additional": {
+      "title": "Scannail an Chórais Dlí agus Cirt",
+      "fizz": {
+        "name": "Ceoldráma Fizz (2016)",
+        "subtitle": "Thóg an tIonchúisitheoir €700,000+ i Breabanna",
+        "description": "Ghlac an t-ionchúisitheoir Orlando Figueira le breabanna ó Leas-Uachtarán Angóla Manuel Vicente chun imscrúduithe éillithe a dhúnadh. Léiríonn éilliú laistigh den tseirbhís ionchúisimh féin.",
+        "orlando": "• Orlando Figueira (Ionchúisitheoir): Ciontaíodh",
+        "vicente": "• Manuel Vicente (Leas-Uachtarán Angóla): Cosanta ag díolúine taidhleoireachta",
+        "pattern": "• Patrún: Iad siúd a ionchúiseamh éilliú, truaillithe"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (Méara Oeiras)",
+        "subtitle": "\"Is breá leo an Méara truaillithe\"",
+        "description": "Ciontaíodh i gcalaois chánach, sciúradh airgid. Pianbhreith → 7 mbliana a laghdú go 2 bhliain ar achomharc. Seirbheáladh 14 mhí. Atoghadh mar mhéara 2017 agus 2021. Fós ag fónamh inniu.",
+        "conviction": "• 2009: Pianbhreith 7 mbliana → 2010: Laghdaithe go 2 bhliain",
+        "prison": "• 2013-2014: Seirbheáladh 14 mhí i bPríosún Carregueira",
+        "reelected": "• 2017, 2021: TOGHADH mar mhéara",
+        "new": "• 2022: Táillí nua comhdaithe as mí-iompar PPP"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "Calaois timpealláin CBL a chuimsíonn tíortha iolracha. Rinne EPPO ionchúiseamh in ionad údaráis na Portaingéile. 10 ciontaithe, pianbhreitheanna de 7-8 bliana. Seo a tharlaíonn nuair a théann an AE i gceann ionchúisimh.",
+        "lesson": "CEACHT: Oibríonn EPPO. Ní dhéanann an córas náisiúnta.",
+        "name": "Oibríocht Aimiréil (2025)",
+        "subtitle": "€2.9 Billiún - Calaois AE is Mó riamh"
+      },
+      "context": {
+        "admiral": "Calaois Aimiréil (cás singil)",
+        "description": "Tá breis is €60 billiún faighte ag an bPortaingéil ó chistí struchtúracha an AE ó 1986. Ach tá an Phortaingéil fós ar cheann de na tíortha is boichte in Iarthar na hEorpa. Cá ndeachaigh an t-airgead? Faigheann iniúchóirí neamhrialtachtaí go seasta, ach is annamh a bhíonn ionchúisimh.",
+        "eppo": "EPPO Ionchúisitheoir na Portaingéile",
+        "prr": "Plean Téarnaimh PRR (2021-2026)",
+        "received": "Cistí AE faighte (1986-2024)",
+        "title": "An Cheist €60 Billiún"
+      },
+      "patterns": {
+        "invoices": "• Sonraisc bhréige le haghaidh seirbhísí nach bhfuil ann",
+        "kickbacks": "• Ticeanna d'oifigigh cheadaithe",
+        "monitoring": "• Monatóireacht lag ag IGCP/IGAC",
+        "prescription": "• Forordaítear cásanna roimh an triail",
+        "projects": "• \"Tionscadail Ghost\" - ceadaithe ach níor críochnaíodh iad",
+        "shell": "• Cuideachtaí bhlaosc a cruthaíodh chun cistí a fháil",
+        "title": "Patrúin Calaoise Athfhillteacha"
+      },
+      "title": "EU Funds Fraud"
+    },
+    "disclaimer": {
+      "title": "Fógra Dlíthiúil Tábhachtach",
+      "presumption": "• Toimhde na Neamhchiontachta: Toimhdítear go bhfuil gach duine neamhchiontach go dtí go gcruthaítear ciontach i mbreithiúnas cúirte deiridh. Ní thugann stádas \"faoi imscrúdú\" nó \"arguido\" ciontacht le tuiscint.",
+      "status": "• Stádas an Cháis: Tá gach iontráil lipéadaithe le stádas dlíthiúil reatha (Ciontaithe, Ar Triail, Faoi Imscrúdú, Cartlainne, Éigiontaithe). Nuashonraítear stádas de réir mar a théann cásanna ar aghaidh.",
+      "sources": "• Foinsí: Tagann an fhaisnéis go léir ó dhoiciméid oifigiúla chúirte, ó fhógraí DCIAP, ó fhiosrúcháin pharlaiminteacha, nó ó mheáin cháiliúla na Portaingéile (RTP, Público, Observador).",
+      "defense": "• Poist Chosanta: Shéan na cosantóirí líomhaintí nó thug siad mínithe. Tugtar faoi deara a seasaimh dlí nuair atá siad ar fáil go poiblí."
+    }
+  },
+  "operations": {
+    "title": "Liosta Oibríochtaí Póilíní",
+    "marques": {
+      "name": "Ceoldráma Marquês",
+      "target": "José Sócrates (PM)",
+      "status": "Triail leanúnach 11+ bliain",
+      "crimes": "22 coireanna: éilliú, sciúradh, calaois"
+    },
+    "influencer": {
+      "name": "Tioncharoir Opera",
+      "target": "António Costa (PM)",
+      "status": "Faoi imscrúdú → Uachtarán an AE",
+      "crimes": "Éilliú, embezzlement"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "target": "na Breithiúna Rangel, Galante, Vaz das Neves",
+      "status": "Cuireadh tús leis an triail Deireadh Fómhair 2025",
+      "crimes": "17 cosantóir, 21+ coir"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "An t-ionchúisitheoir Orlando Figueira",
+      "status": "Ciontaíodh 6y8m (2021)",
+      "crimes": "Breab €700K ó Leas-Uachtarán Angóla"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, méaraí Barcelos",
+      "status": "Triail ar siúl in 2025",
+      "crimes": "50+ coir, neamhrialtachtaí €1.8M"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 mhéara Espinho (PS + PSD)",
+      "status": "Trial ongoing",
+      "crimes": "Éilliú uirbeach, 'táillí práinne'"
+    },
+    "babel": {
+      "name": "Operação Babel",
+      "target": "Gaia VP Patrocínio Azevedo",
+      "status": "Tosaíonn an triail Eanáir 2025",
+      "crimes": "Buntáistí €40M, €300M ar eastát réadach"
+    },
+    "tuttiFrutti": {
+      "name": "Ceoldráma Tutti Frutti",
+      "target": "Uachtaráin pharóiste Liospóin",
+      "status": "Cúiseamh críochnaithe",
+      "crimes": "60 cosantóir, 463 coire, €580K"
+    },
+    "maestro": {
+      "name": "Ceoldráma Maestro",
+      "target": "Manuel Serrão",
+      "status": "Imscrúdú ar siúl",
+      "crimes": "Calaois cistí AE €39M"
+    },
+    "admiral": {
+      "name": "Oibríocht Aimiréil (EPPO)",
+      "target": "Líonra calaois CBL",
+      "status": "10 ciontaithe (Bealtaine 2025)",
+      "crimes": "Damáiste €2.9B - an chalaois AE is mó riamh"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 Bliain na hÉillithe: An Amlíne Iomlán",
+    "pageSubtitle": "Nochtadh gach scannal → Cuireadh bac ar gach athchóiriú → Nochtadh patrún córasach na saoirse ó phionós",
+    "legend": {
+      "corruption": "Éilliú/Scannal",
+      "blocked": "Leasú ar Bhac / Freagra Lag",
+      "conviction": "Ciontú/Leasú Ritheadh"
+    },
+    "summaryTitle": "50 Bliain: An Scór",
+    "summary": {
+      "bankingLosses": {
+        "value": "€25B+",
+        "label": "Caillteanais bhaincéireachta (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Iarrachtaí leasaithe bactha"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Reifrinn cheangailteach"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "PMs convicted"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Polaiteoirí atá os comhair an cheartais (ó 2017)"
+      },
+      "socratesDuration": {
+        "value": "11 years",
+        "label": "Gabháil Sócrait → Triail"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "íospartaigh Casa Pia"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Cosantóirí Op Lex (breithiúna+)"
+      },
+      "admiralFraud": {
+        "value": "€2.9B",
+        "label": "Calaois CBL (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Airí i bpríosún (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "An Patrún Nochta",
+    "patternIntro": "Leanann gach mórscandal:",
+    "pattern": {
+      "step1": "1. <strong>Outrage</strong> → Clúdach sna meáin, fearg an phobail",
+      "step2": "2. <strong>Togra athchóirithe</strong> → Ó pháirtithe an fhreasúra nó ó pháirtithe beaga",
+      "step3": "3. <strong>Bloc</strong> → Vótáil PS nó PSD ina choinne (tá 150+ acu as 230 suíochán)",
+      "step4": "4. <strong>Moill</strong> → Iompraíonn an cás ar feadh na mblianta go dtí an t-oideas",
+      "step5": "5. <strong>Éigiontú nó pianbhreith ar fionraí</strong> → 75% de na cásanna",
+      "step6": "6. <strong>Ardaithe céime</strong> → Costa chuig Comhairle an AE, Barroso chuig Coimisiún an AE"
+    },
+    "patternQuote": "\"Níl ach na boicht agus an anaithnid dul chun jail.\"",
+    "footerSource": "An fhaisnéis go léir a fuarthas ó dhoiciméid oifigiúla chúirte, ó mheáin na Portaingéile, agus ó eagraíochtaí idirnáisiúnta.",
+    "years": {
+      "y1974": "1974",
+      "y1980s": "1980s",
+      "y1989": "1989",
+      "y1997": "1997",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004",
+      "y2005_09": "2005-09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010",
+      "y2012": "2012",
+      "y2014": "2014",
+      "y2015": "2015",
+      "y2016": "2016",
+      "y2017": "2017",
+      "y2019": "2019",
+      "y2021": "2021",
+      "y2022": "2022",
+      "y2023": "2023",
+      "y2024": "2024",
+      "y2025": "2025"
+    },
+    "badges": {
+      "democracyRestored": "Daonlathas ATHCHÓIRITHE",
+      "designFlaw": "DESIGN FLAW",
+      "abuseBegins": "ABUSE BEGINS",
+      "reformBlocked": "REFORM BLOCKED",
+      "reformSabotaged": "REFORM SABOTAGED",
+      "tcBlocks": "TC BLOCKS",
+      "sabotaged": "SABOTAGED",
+      "centralizationPreserved": "LÁRÚ CAOMHNAITHE",
+      "scandalErupts": "SCANDAL ERUPTS",
+      "freeportAllegations": "LÍomhaintí SAORPHORT",
+      "footballCorruption": "ÉILLIÚ PEILE",
+      "submarineBribery": "BRABÚS FOMHAIRE",
+      "euro2004Stadiums": "STAIDÉIR EURO 2004",
+      "corruptionMachine": "MEAISÍN ÉILLITHE",
+      "faceOculta": "FACE OCULTA",
+      "commitmentMade": "COMMITMENT MADE",
+      "nonBinding": "NON-BINDING",
+      "policeCorruption": "ÉILLIÚ PÓILÍNEACHTA",
+      "bankingCollapse": "TRÁCHT BHAINCÉAL",
+      "cgdFraudIgnored": "NÍOS NÍOS FEARTA CALAOISE CGD",
+      "murderAllegation": "líomhain dúnmharaithe",
+      "rareConvictions": "Ciontuithe Uathúla",
+      "tcBlocksReform": "TC BLOC ATHCHÓIRIÚ",
+      "noEuVote": "NO EU VOTE",
+      "pmArrested": "PM ARRESTED",
+      "goldenVisaScandal": "SCANDAL VÍOSA FÍRÉIN",
+      "tcBlocksAgain": "TC BLOCKS ARÍS (AONTÚ)",
+      "prosecutorCorruption": "Éilliú Ionchúisitheora",
+      "benficaEmails": "BENFICA EMAILS",
+      "novoBancoBlackHole": "Poll DUBH NOVO BANCO",
+      "militaryScandal": "SCANNÁN MÍLEATA",
+      "bpnConvictions": "BPN CONVICTIONS",
+      "autarquiaCorruption": "Éilliú AUTARQUIA",
+      "joeBerado": "Scannal JOE BERARDO",
+      "varaConvicted": "VARA CONVICTED",
+      "policeBrutality": "BRUTALITY PÓILÍNEACHTA",
+      "nepotismScandal": "SCANDAL NEPOTISM",
+      "policeMurder": "POLICE MURDER",
+      "weakLawPassed": "WEAK LAW PASSED",
+      "varaReleased": "VARA Scaoilte (COVID)",
+      "allPartiesBlock": "BLOC PÁIRTITHE GACH",
+      "judgesOnTrial": "JUDGES ON TRIAL",
+      "tapScandal": "TAP SCANDAL",
+      "tancosConvictions": "Ciontuithe TANCOS",
+      "espinhoMayorsArrested": "Gabhadh Méaraí ESPINHO",
+      "lisbonParishCorruption": "ÉILLIÚ PÁISTE LIOSPÓIN",
+      "governmentFalls": "Titeann RIALTAIS",
+      "tapContinues": "TAP CONTINUES",
+      "edpConvictions": "EDP CONVICTIONS",
+      "euFundsFraud": "€39M CALAOIS CHISTE",
+      "gaiaRealEstateRing": "Fáinne GAIA RÉITEACH",
+      "defendants65": "65 DEFENDANTS",
+      "euReward": "EU REWARD",
+      "reformBlockedAgain": "ATHCHÓIRIÚ ARÍS",
+      "euBiggestVatFraud": "NA CIONTUITHE CALAOISE CBL MÓRA san AE",
+      "judgesFinally": "BREITHIÚNA AR AN TRIAIL AR FAOI DEIREADH",
+      "policeTrafficking": "Fáinne GÁINNEÁIL PÓILÍNEACHTA",
+      "varaReturns": "FILLEADH VARA DON PHRÍOSÚN",
+      "benficaFraudTrial": "TRIAIL CALAOISE BENFICA",
+      "politicians191": "191 POLITICIANS",
+      "decemberTrifecta": "AN TRIFECTA NOLLAIG",
+      "stillNoLaw": "51 YEARS LATER"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Réabhlóid Carnation",
+        "desc": "Deireadh le 48 bliain de dheachtóireacht Salazar/Caetano. Tosaíonn ré nua dhaonlathach."
+      },
+      "noReferendums": {
+        "title": "Gan aon Reifreann i mBunreacht 1976",
+        "desc": "Cuireann Comhthionól an daonlathas díreach as an áireamh d’aon ghnó. Comhcheanglaíonn páirtithe reifrinn le pobalbhreith Salazar.",
+        "note": "Tosaíonn an córas cosanta ag breith."
+      },
+      "casaPiaFirstReported": {
+        "title": "Mí-Úsáid Casa Pia a Tuairiscíodh den Chéad Uair",
+        "desc": "Tagann na chéad tuairiscí ar mhí-úsáid ghnéasach leanaí ag dílleachtaí stáit chun cinn. Imscrúduithe titim póilíní. Scriosann oifigigh doiciméid.",
+        "note": "Tosaíonn clúdach suas. Mairfidh sé 20+ bliain."
+      },
+      "pcpFirstProposal": {
+        "title": "Molann PCP Dlíthe Frith-éillithe ar dtús",
+        "desc": "Molann an Páirtí Cumannach (PCP) reachtaíocht saibhrithe aindleathach.",
+        "result": "PS + PSD block"
+      },
+      "referendumsPoisonPill": {
+        "title": "Reifrinn Curtha Leis - Le Pill Nimh",
+        "desc": "Cuireann athbhreithniú bunreachtúil meicníocht reifrinn leis.",
+        "catch": "Tairseach tionóil 50% + crosadh na Cúirte Bunreachtúla = deartha chun teip",
+        "note": "Na 35 bliana amach romhainn: 0 reifreann ceangailteach bainte amach."
+      },
+      "amsterdamBlocked": {
+        "title": "Cuireadh bac ar Reifreann Chonradh Amstardam",
+        "desc": "Diúltaíonn an Chúirt Bhunreachtúil reifreann ar chonradh AE — \"ceist mhíthreorach\"",
+        "note": "Ní vótálfaidh an Phortaingéil ar lánpháirtiú AE choíche."
+      },
+      "casaPiaExposed": {
+        "title": "Scannal Mí-Úsáide Casa Pia Nochta",
+        "desc": "Briseann iriseoir scéal: líonra pedophile mionlach ag baint úsáide as dílleachtlanna stáit. Láithreoir teilifíse, ambasadóir UNESCO, gobharnóir Casa Pia i measc an chúisí.",
+        "note": "100+ leanbh mí-úsáide. Mairfidh an triail 5+ bliana."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates & Freeport Mall",
+        "desc": "Líomhain an tAire Comhshaoil ​​José Sócrates tarscaoileadh srianta comhshaoil ​​do chuideachta Briotánach ionad a thógáil ar thalamh faoi chosaint.",
+        "outcome": "Glanta i 2010 - \"gan aon duine chun an milleán\""
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Staitisticí & Foinsí",
+    "pageSubtitle": "Na sonraí go léir ó fhoinsí oifigiúla agus cáil idirnáisiúnta",
+    "ti": {
+      "title": "Trédhearcacht Idirnáisiúnta",
+      "subtitle": "Innéacs Dearcaí Éillithe (CPI)",
+      "score2024": {
+        "value": "57",
+        "label": "An Phortaingéil Scór CPI 2024",
+        "trend": "-4 phointe ó 2023"
+      },
+      "rank": {
+        "value": "43rd",
+        "label": "Global Ranking",
+        "detail": "de 180 tír"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Deir ionchúisitheoirí nach leor tréimhsí",
+        "source": "TI Survey"
+      },
+      "tableTitle": "Comparáid CPI an AE (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobarometer",
+      "subtitle": "Eorabharaiméadair Speisialta ar Éilliú (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "Creideann na Portaingéile go bhfuil éilliú forleathan",
+        "euAvg": "EU avg: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Creid go bhfuil éilliú ann i rialtas náisiúnta",
+        "euAvg": "EU avg: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Abair gurb é breabaireacht an bealach is éasca chun seirbhísí poiblí a fháil",
+        "euAvg": "EU avg: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Digital Divide",
+      "subtitle": "Úsáid idirlín de réir aoisghrúpa (An Phortaingéil, 2024)",
+      "keyInsight": "Tá an ghlúin a chonaic an patrún iomlán éillithe 50 bliain (65+) eisiata go córasach ó chóras sínithe an reifrinn DIGITEACH AMHÁIN",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99.1%",
+          "excluded": "0.9%"
+        },
+        "35-44": {
+          "usage": "98.6%",
+          "excluded": "1.4%"
+        },
+        "45-54": {
+          "usage": "94.9%",
+          "excluded": "5.1%"
+        },
+        "55-64": {
+          "usage": "82.5%",
+          "excluded": "17.5%"
+        },
+        "65-74": {
+          "usage": "61.1%",
+          "excluded": "38.9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "~70%"
+        }
+      }
+    },
+    "summaryTitle": "Achoimre: Cad a thaispeánann na Sonraí",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "na Portaingéile a fheiceáil éilliú forleathan",
+        "source": "Eorabharaiméadair, 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "Moltaí GRECO curtha i bhfeidhm",
+        "source": "Council of Europe 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "titim CPI pointe i mbliain amháin",
+        "source": "Trédhearcacht Idirnáisiúnta 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "na n-ionchúisitheoirí a rá nach leor tréimhsí oideas",
+        "source": "TI Survey 2023"
+      }
+    },
+    "footer": "Gach staitisticí ó fhoinsí oifigiúla. Nuashonrú is déanaí: Nollaig 2025."
+  },
+  "tables": {
+    "headers": {
+      "name": "Ainm",
+      "party": "Páirtí",
+      "status": "Stádas",
+      "charges": "Charges/Status",
+      "chargesSentence": "Táillí / Pianbhreith",
+      "chargesStatus": "Charges/Status",
+      "amount": "Amount",
+      "year": "Year",
+      "initiative": "Initiative",
+      "result": "Toradh",
+      "whoBlocked": "Who Blocked",
+      "country": "Tír",
+      "score": "Score",
+      "rank": "Rank",
+      "change": "Change",
+      "ageGroup": "Age Group",
+      "internetUsage": "Internet Usage",
+      "excluded": "Excluded",
+      "impact": "Impact",
+      "aspect": "Aspect",
+      "sentence": "Sentence",
+      "allegations": "Líomhaintí/Cionta",
+      "protectionLevel": "Leibhéal Cosanta",
+      "sweden": "Sweden",
+      "portugal": "An Phortaingéil",
+      "position": "Position",
+      "illicitEnrichment": "Saibhriú Aindleathach",
+      "lobbyRegulation": "Rialachán Brústocaireachta",
+      "endImmunity": "End Immunity",
+      "notableActions": "Notable Actions",
+      "politician": "Politician",
+      "scandal": "Scandal",
+      "euReward": "EU Reward",
+      "date": "Dáta",
+      "subject": "Subject",
+      "turnout": "Turnout",
+      "binding": "Binding?",
+      "illicitEnrichmentLaw": "Dlí Saibhrithe Aindleathach",
+      "constitutionalStatus": "Stádas Bunreachtúil",
+      "immunityScope": "Immunity Scope",
+      "parliamentBlocks": "Imscrúdú Bloic na Parlaiminte?",
+      "tiCpi": "TI CPI",
+      "prescription": "Prescription",
+      "avgTime": "Avg. Time",
+      "immunity": "Immunity",
+      "role": "Role",
+      "municipality": "Municipality",
+      "controversy": "Conspóid/Comhthéacs"
+    },
+    "status": {
+      "convicted": "CONVICTED",
+      "convictedServing": "CONVICTED - Ag freastal",
+      "convictedAppealing": "CIONTÚ - Achomharc",
+      "onTrial": "On Trial",
+      "underInvestigation": "Faoi Imscrúdú",
+      "arguido": "Arguido",
+      "arrested": "ARRESTED",
+      "archived": "Archived",
+      "declined": "Imscrúdú Diúltaithe",
+      "neverProsecuted": "Ná Ionchúiseamh riamh",
+      "acquitted": "ACQUITTED",
+      "euPromoted": "Uachtarán Chomhairle an AE"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega",
+      "livre": "Livre",
+      "pan": "PAN",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "Do Rogha vs",
+    "subtitle": "Dá mba chrannchur an ceartas, seo an méid a insíonn na huimhreacha dúinn",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Más Saoránach Tú:"
+    },
+    "politician": {
+      "title": "Más Polaiteoir Tú:"
+    }
+  },
+  "sources": {
+    "title": "Liosta iomlán foinsí",
+    "subtitle": "Na sonraí go léir ó fhoinsí oifigiúla agus fíoraithe",
+    "constitutionalCourt": "An Chúirt Bhunreachtúil",
+    "prosecutionService": "An tSeirbhís Ionchúisimh",
+    "europeanUnion": "European Union",
+    "internationalOrgs": "Eagraíochtaí Idirnáisiúnta",
+    "eurobarometer": "Eurobarometer",
+    "portugueseLegislation": "Reachtaíocht na Portaingéile",
+    "parliamentaryRecords": "Taifid Parlaiminte",
+    "internationalComparisons": "Comparáidí Idirnáisiúnta",
+    "mediaSources": "Media Sources",
+    "laborHumanRights": "Saothair/Cearta Daonna",
+    "cryptographicStandards": "Caighdeáin Cryptographic",
+    "digitalStatistics": "Staitisticí Digiteach"
+  },
+  "verdict": {
+    "title": "An Breithiúnas",
+    "subtitle": "50 bliain d’fhianaise dhoiciméadaithe"
+  },
+  "backToMain": "← Ar ais chuig an bPríomhthuairisc",
+  "duopoly": {
+    "bothProtect": "Cosnaíonn an dá Pháirtí a Chéile",
+    "coordinatedTheater": "Is amharclann comhordaithe é an freasúra dealraitheach idir PS agus PSD. Nuair a bhíonn tábhacht leis—ag cur bac ar athchóiriú—vótálann siad le chéile."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Foinse: Eorabharaiméadair 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "Patrún na Reifreann ar Theip orthu",
+      "text": "Theip ar gach reifreann i stair na Portaingéile an tairseach vótála a bhaint amach nó bhí sé neamhcheangailteach.",
+      "sources": "Foinse: Coimisiún Toghcháin na Portaingéile"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Foinse: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "Príomhstaitisticí Daonlathas na hEilvéise:"
+  },
+  "roadmap": {
+    "title": "An Fiosrúchán",
+    "subtitle": "Turas struchtúrtha trí ailtireacht na neamhphionóis sa Phortaingéil",
+    "part1": {
+      "title": "An Córas",
+      "desc": "Conas a chosnaíonn an aicme pholaitiúil Phavlovian a gcuid féin"
+    },
+    "part2": {
+      "title": "Na Cásanna",
+      "desc": "Príomh-Airí, Airí agus na cásanna a shainíonn neamhphionós"
+    },
+    "part3": {
+      "title": "Na Bearnaí",
+      "desc": "Meicníochtaí dlíthiúla a chinntíonn go bhfanann éilliú gan phionós"
+    },
+    "part4": {
+      "title": "An Blocáil",
+      "desc": "Conas a bhlocálann PS/PSD athchóirithe go córasach"
+    },
+    "part5": {
+      "title": "Duaiseanna AE",
+      "desc": "Cá dtéann polaiteoirí cúisithe: an Bhruiséil"
+    },
+    "part6": {
+      "title": "An Réiteach",
+      "desc": "Cad is féidir le saoránaigh a dhéanamh chun an timthriall a bhriseadh"
+    },
+    "conclusion": "Ón eitic shibhialta go gníomh coincréiteach—nochtann gach cuid sraith eile den chóras atá deartha chun na daoine truaillithe a chosaint."
+  },
+  "journalism": {
+    "badge": "An Fáth a Bhfuil an tImscrúdú seo ann",
+    "title": "An Aisling Níorbh fhéidir an Córas a Mhaireachtáil",
+    "subtitle": "Iriseoireacht na Portaingéile faoi Ghabháil Sistéamach",
+    "intro": "Tosaíonn gach iriseoir leis an aisling chéanna: taispeáin an fhírinne do dhaoine, doiciméadaigh cad atá tábhachtach, athraigh an domhan. Sa Phortaingéil, imbhuaileann an aisling sin le córas atá deartha chun é sin a chosc.",
+    "medicine": {
+      "title": "Leigheas",
+      "oath": "Ar dtús, ná déan dochar."
+    },
+    "journalismEthics": {
+      "title": "Iriseoireacht",
+      "oath": "Ar dtús, ná cuir ar míthreoir."
+    },
+    "doctors": {
+      "title": "Dochtúirí",
+      "diagnose": "Déanann diagnóis bunaithe ar fhianaise, ní ar chreideamh",
+      "wellbeing": "Cuireann folláine an othair os cionn idé-eolaíochta nó brabúis",
+      "bound": "Tá siad faoi cheangal ag an eitic fiú faoi bhrú",
+      "lose": "Cailleann siad dlisteanacht nuair a dhéanann siad dochar d'aon ghnó"
+    },
+    "journalists": {
+      "title": "Iriseoirí",
+      "report": "Tuairiscíonn bunaithe ar fhíricí infhíoraithe, ní ar chláir oibre",
+      "rightToKnow": "Cuireann ceart an phobail eolas a fháil os cionn ailíniú polaitiúil",
+      "bound": "Tá siad faoi cheangal eiticiúil fiú faoi bhrú ó úinéirí, stáit nó lucht féachana",
+      "lose": "Cailleann siad dlisteanacht nuair a shaobhann siad an réaltacht d'aon ghnó"
+    },
+    "broken": {
+      "title": "Nuair a Bhrisetar an Mionn",
+      "doctorMalpractice": "Dochtúir a chleachtann idé-eolaíocht in ionad leighis a dhéanann míthrialófacht",
+      "journalistMalpractice": "Iriseoir a chleachtann idé-eolaíocht in ionad fírinne a dhéanann míthrialófacht shibhialta",
+      "consequences": "Tá na hiarmhairtí sochaíocha:",
+      "consequence1": "Polariú",
+      "consequence2": "Míeolas",
+      "consequence3": "Creimeadh muiníne",
+      "consequence4": "Meath daonlathach"
+    },
+    "distinction": {
+      "title": "An Idirdhealú Soiléir",
+      "text": "Tá iriseoirí, cosúil le dochtúirí, ina ndaoine daonna agus tá luachanna pearsanta acu. Brisetar an eitic ní trí luachanna a bheith agat, ach trí ligean do na luachanna sin fíorú, fianaise agus cuntasacht a ionadú."
+    },
+    "quote": "Tá dochtúir a insíonn bréag d'othar ciontach i míthrialófacht. Tá iriseoir a insíonn bréag don phobal ciontach i míthrialófacht shibhialta."
+  },
+  "convicted": {
+    "badge": "System Outcome",
+    "title": "Ciontaíodh Ach Cosanta",
+    "subtitle": "Ní líomhaintí iad seo. Is ciontuithe iad seo. Ach cinntíonn an córas go gcoimeádann siad a bpinsin, go bhfilleann siad ar an oifig, nó go n-éalaíonn siad go hiomlán as a n-iarmhairtí.",
+    "status": {
+      "convicted": "CONVICTED",
+      "reelected": "CIONTAÍODH → ATHOGHADH",
+      "murder": "MURDER ACCUSED",
+      "unpaid": "€980M UNPAID",
+      "zeroPrison": "€8B CAILLTE, Príosún náid",
+      "eppoSuccess": "EPPO SUCCESS"
+    },
+    "labels": {
+      "operation": "Operation:",
+      "crime": "Crime:",
+      "sentence": "Sentence:",
+      "served": "Time Served:",
+      "amount": "Amount:",
+      "currentStatus": "Current:",
+      "victim": "Victim:",
+      "date": "Date:",
+      "trialStart": "Trial Start:",
+      "borrowed": "Borrowed:",
+      "repaid": "Repaid:",
+      "artCollection": "Art Collection:",
+      "publicCost": "Public Cost:",
+      "resolution": "Resolution:",
+      "convictions": "Convictions:"
+    },
+    "pensionBattle": "Cath na bPinsean:",
+    "suedProsecutor": "D’agairt an tIonchúisitheoir:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "PS Rúnaí Stáit, an tAire, Bord CGD",
+      "crime": "Tionchar Peddling (3 chomhaireamh)",
+      "pension": "Pinsean €8,551/mí urghabhadh TRÍ huaire, curtha ar ais ar achomharc DHÁ uair. Patrún: urghabháil → achomharc → ar ais → athrá."
+    },
+    "pinho": {
+      "name": "Manuel Pinho",
+      "position": "PS Aire Geilleagair (2005-2009)",
+      "crime": "Éilliú éighníomhach, calaois chánach, sciúradh airgid",
+      "sued": "Pinsean €26,000/mí urghabhadh 3x, aischur 2x. Ionchúisitheoir SUED agus an Breitheamh Carlos Alexandre thar urghabhálacha pinsin.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "PSD Méara Oeiras (1985-2009, 2017-láthair)",
+      "crime": "Calaois chánach, sciúradh airgid, mí-úsáid cumhachta",
+      "current": "FÓS MÉARA (2025)",
+      "quoteTitle": "Leasainm Poiblí:",
+      "quote": "\"An méara truaillithe a bhfuil meas ag na Portaingéile air\" - ATHTHOghadh in 2017 agus 2021. Táillí nua comhdaithe in 2022.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "PSD MP, Lawyer",
+      "crime": "Dúnmharú sa Bhrasaíl",
+      "victim": "Rosalina Ribeiro (cliant)",
+      "shieldTitle": "The Shield:",
+      "shield": "Níl aon chonradh eiseachadta idir an Phortaingéil agus an Bhrasaíl. D'fhan \"touchable\" sa Phortaingéil ar feadh 16 bliana sular thosaigh an triail ar deireadh.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Fear Gnó, Bailitheoir Ealaíne",
+      "repaid": "Near zero",
+      "quoteTitle": "To Parliament:",
+      "quote": "\"Rinne mé dearmad\" — nuair a cuireadh ceist faoi fhiachas €980M. Básanna faoi bhagairt le linn fianaise. Gan iarmhairtí."
+    },
+    "novoBanco": {
+      "name": "Scannal Novo Banco",
+      "position": "BES → Nua Banc → Aonair Star",
+      "convictions": "ZERO",
+      "outcomeTitle": "Fiosrúchán Parlaiminte:",
+      "outcome": "Fuarthas \"mífhreagracht pholaitiúil\" - ach gan aon dliteanas coiriúil. Brabúis phríobháideacha, caillteanais phoiblí. Leanann patrún.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especiais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "The Lone Star Deal (2017):",
+        "salePrice": "Aonair Star íoctha: €1 billiún",
+        "guarantee": "Ráthaithe ag an Stát: €3.89 billiún i gcaillteanas",
+        "result": "Stáit Bears gach riosca, ceannaitheoir faigheann gach bun os cionn"
+      },
+      "injections": {
+        "title": "Airgead Poiblí Instealladh:",
+        "y2014": "2014: €4.9B (Ciste Réitigh)",
+        "y2018": "2018: €792M (caipiteal teagmhasach)",
+        "y2019": "2019: €1.15B (caipiteal teagmhasach)",
+        "y2020": "2020: €1.04B (caipiteal teagmhasach)",
+        "y2021": "2021: €598M (caipiteal teagmhasach)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa - Banc Gobharnóir na Portaingéile - Maoirseacht ar dhíolachán",
+        "centeno": "Mário Centeno - An tAire Airgeadais - Ráthaíochtaí ceadaithe"
+      },
+      "inquiryQuote": "\"Bhí na coinníollacha díolacháin thar a bheith fabhrach don cheannaitheoir, agus stát na Portaingéile ag glacadh leis go raibh riosca díréireach ann.\" — Fiosrúchán Parlaiminte 2021",
+      "whyNoAccountability": {
+        "title": "Cén Fáth Gan Ionchúiseamh:",
+        "discretion": "Téarmaí díolacháin rangaithe mar 'cinntí beartais'",
+        "noEnrichment": "Ní dhearna lucht déanta cinntí brabús go pearsanta",
+        "immunity": "Tá cosaint institiúideach ag rialtóirí",
+        "bipartisan": "PS agus PSD araon complicate - ní bheidh ionchúiseamh a chéile"
+      },
+      "sale2025": {
+        "title": "Nuashonrú 2025: Scoir Réalta Aonair",
+        "text": "Deireadh Fómhair 2025: Faigheann banc Francach BPCE Novo Banco ar €8 billiún. Imíonn Lone Star le brabús ollmhór tar éis €8.5B in instealltaí stáit. Nialais ciontuithe as an titim. Aisghlámadh caillteanas nialasach."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Dhíol Novo Banco leis an mbanc Francach BPCE ar €8 billiún (Deireadh Fómhair 2025). Imíonn Lone Star le brabúis tar éis €3.89B de ráthaíochtaí stáit a fháil. Níor ghnóthaigh cáiníocóirí €10.4B riamh i gcistí poiblí. Téann fáltais díolacháin chuig an gCiste Réitigh, ní chuig an gCiste."
+    },
+    "admiral": {
+      "name": "Oibríocht Aimiréil",
+      "subtitle": "An Cás Calaoise is Mó riamh san AE",
+      "damage": "Total Damage",
+      "convicted": "Ciontaíodh (Bealtaine 2025)",
+      "prosecutor": "EU Prosecutor",
+      "type": "Carousel Fraud",
+      "lesson": "An Ceacht: Nuair a láimhseálann ionchúisitheoir an AE cásanna seachas córais náisiúnta, tarlaíonn ciontuithe."
+    },
+    "pattern": {
+      "title": "Tá an Patrún Soiléir",
+      "pension": "Pinsin cosanta",
+      "delay": "Murder to trial",
+      "lost": "Príosún caillte, náid",
+      "reelected": "Tar éis é a chiontú",
+      "conclusion": "Ní chiallaíonn ciontú iarmhairt. Cosnaíonn an córas a chuid féin - roimh, le linn, agus tar éis trialach."
+    }
+  },
+  "judicial": {
+    "badge": "System Failure",
+    "title": "Éilliú Breithiúnach: The Rotten Core",
+    "subtitle": "Nuair a dhíolann breithiúna cinntí agus nuair a ghlacann ionchúisitheoirí breabanna, titeann an córas frith-éillithe ar fad i léig. Míníonn na cásanna seo an fáth a dteipeann ar ionchúisimh pholaitiúla.",
+    "status": {
+      "judgesCorrupt": "JUDGES CORRUPT",
+      "prosecutorBribed": "BRÍD AN IONCHÚISEOIR",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Key Figures:",
+      "defendants": "Cosantóirí Iomlán:",
+      "exposed": "Exposed By:",
+      "timeline": "Timeline:",
+      "amount": "Bribe Amount:",
+      "outcome": "Outcome:",
+      "year": "Year:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "Cinneadh Araíonachta CSM:",
+      "defensePosition": "Seasamh Cosanta:",
+      "convicted": "Convicted:",
+      "coconspirator": "Cás Aistrithe:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Achomharc Deimhnithe:",
+      "tcReject": "Achomharc TC diúltaithe:"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "subtitle": "Judges Selling Decisions",
+      "rangel": "Appeals Court Judge",
+      "galante": "Breitheamh (bean Rangel)",
+      "neves": "Court President",
+      "chargesTitle": "Charges:",
+      "charges": "Selling judicial decisions, bribery, influence peddling, corruption. The judges who were supposed to convict corrupt politicians were themselves corrupt.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db41d34ed86d4e",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Triail ar siúl (2025)",
+      "exposedBy": "Leaids Peile / Rui Pinto",
+      "allegations": "Rialuithe fabhracha a dhíol, torthaí cáis a shocrú, tionchar a imirt ar pheddling, bac ar cheartas, líonra breithiúnach comhordaithe",
+      "significance": "Ionchúisíodh an sceithire (Rui Pinto) agus cuireadh moill 7 mbliana ar thriail na mbreithiúna truaillithe. Cosnaíonn an córas é féin.",
+      "otherDefendants": "Dlíodóirí, lucht gnó, agus oifigigh cúirte a ghlac páirt sa líonra éillithe",
+      "vieira": "Iar-Uachtarán Benfica",
+      "csm": "Dhíbir an Conselho Superior da Magistratura (CSM) Rui Rangel as na breithiúna in 2020 mar gheall ar sháruithe araíonachta a bhain leis an gcás seo.",
+      "defense": "Séanann gach cosantóir na cúisimh. Tá sé ráite ag Rangel go bhfuil na líomhaintí gan bhunús agus spreagtha go polaitiúil."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Prosecutor Paid to Close Cases",
+      "figueira": "Portuguese Prosecutor",
+      "vicente": "Vice President of Angola",
+      "convicted": "Ionchúisitheoir CIONTAITHE",
+      "significanceTitle": "Significance:",
+      "significance": "A prosecutor was paid €700K+ to close investigations against Angolan elites. If prosecutors can be bought, what chance do corruption cases have?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Léiríonn sé airgead ola ó Angóla éilliú córas ceartais na Portaingéile",
+      "outcome": "Ciontaíodh an t-ionchúisitheoir, ach nocht an cás leochaileacht chórasach i leith éillithe coigríche",
+      "defense": "Shéan Figueira na cúisimh le linn na trialach agus rinne sé achomharc chuig an gCúirt Bhunreachtúil, a dhiúltaigh dá achomharc i mí na Nollag 2022."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Who watches the watchmen? When judges sell decisions and prosecutors take bribes, the entire system of accountability collapses.",
+    "stat": {
+      "defendants": "Defendants in Lex",
+      "bribe": "Prosecutor bribe",
+      "delay": "Cúiseamh trialach (Lex)"
+    },
+    "disclaimer": "Díorthaítear an fhaisnéis go léir thíos ó thaifid oifigiúla chúirte, líomhaintí DCIAP, cinntí araíonachta CSM, agus foinsí nuachta fíoraithe. Coinníonn cosantóirí in imeachtaí leanúnacha an toimhde neamhchiontachta go dtí go gciontaítear iad go críochnaitheach.",
+    "impact": {
+      "title": "Cén Fáth a Bhfuil Tábhacht ag na Cásanna seo maidir le Frith-Éilliú",
+      "fizzTitle": "Tionchar Operação Fizz:",
+      "fizz1": "• Bhí ionchúisitheoir ó DCIAP - an t-aonad a imscrúdaíonn éilliú ardleibhéil - truaillithe é féin",
+      "fizz2": "• Cuireadh cásanna i gcoinne Scothaicme Angólach i gcartlann mar gheall ar an mbréag",
+      "fizz3": "• Níor triaileadh Manuel Vicente, an breabadóir, riamh – aistríodh a chás go Angóla",
+      "lexTitle": "Tionchar Operação Lex:",
+      "lex1": "• Má tá sé cruthaithe, dhíol breithiúna ag leibhéal na Cúirte Achomhairc cinntí",
+      "lex2": "• Chuirfí i gcontúirt féin an chúirt a dhéanann athbhreithniú ar chiontuithe éillithe céadchéime",
+      "lex3": "• Thóg an cás 7+ bliain ó chúiseamh (2018) go dtí tús na trialach (2025)"
+    },
+    "sources": {
+      "title": "Foinsí Oifigiúla:"
+    }
+  },
+  "methodology": {
+    "badge": "Taighde Neamhspleách",
+    "title": "Modheolaíocht Taighde",
+    "sources": {
+      "title": "Foinsí a Scrúdaíodh",
+      "tc": "• Cinntí na Cúirte Bunreachtúla (Acórdãos)",
+      "dciap": "• líomhaintí oifigiúla DCIAP (Oifig an Ionchúisitheora Phoiblí).",
+      "parliament": "• Tuarascálacha fiosrúcháin Parlaiminte (CGD, BES, Novo Banco)",
+      "greco": "• Tuarascálacha GRECO 4ú & 5ú Babhta Measúnaithe",
+      "tdc": "• Tuairiscí baincéireachta an Bhinse de Contas (An Chúirt Iniúchóirí).",
+      "eu": "• Tuarascálacha ón gCoimisiún um Rialáil Dlí (2024, 2025)",
+      "eurobarometer": "• Suirbhéanna Eorabharaiméadair éillithe (2023, 2025)",
+      "ti": "• Trédhearcacht CPI Idirnáisiúnta (2012-2024)",
+      "media": "• Meáin mhóra na Portaingéile: RTP, Publico, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Critéir Chuimsithe",
+      "judicial": "• Imeachtaí oifigiúla breithiúnacha (ciontú, díotáil, imscrúdú foirmiúil)",
+      "parliamentary": "• Fiosrúcháin pharlaiminte le tuarascálacha foilsithe",
+      "international": "• Measúnuithe comhlachtaí monatóireachta idirnáisiúnta",
+      "financial": "• Caillteanais airgeadais doiciméadaithe ag an gCúirt Iniúchóirí"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Líomhaintí neamhfhíoraithe gan imeachtaí oifigiúla",
+      "speculation": "• Tuairimíocht nó tuairim gan tacaíocht ó dhoiciméid",
+      "anonymous": "• Foinsí gan ainm gan aon chomhthacaíocht"
+    },
+    "disclaimer": "Coinníonn gach duine a luaitear a thoimhde neamhchiontachta. D’fhéadfadh stádas “faoi imscrúdú” nó “arguido” a bheith mar thoradh ar éigiontú. Tá stádas cásanna lipéadaithe go soiléir. Ní úsáideann an t-imscrúdú seo ach foinsí atá ar fáil go poiblí agus atá doiciméadaithe go hoifigiúil.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Foinsí Seachtracha Deimhnithe",
+      "official": "56%",
+      "officialLabel": "Ó Fhoinsí Oifigiúla",
+      "years": "50",
+      "yearsLabel": "Na Blianta Doiciméadaithe (1974-2025)",
+      "cases": "40+",
+      "casesLabel": "Cásanna Crostagartha"
+    },
+    "limitations": {
+      "title": "Teorainneacha Taighde",
+      "estimates": "• Is meastacháin ó fhoinsí oifigiúla iad roinnt figiúirí airgeadais (Tribunal de Contas, INE)",
+      "media": "• D'fhéadfadh míchruinneas a bheith i dtuairiscí meán; tugaimid tosaíocht do dhoiciméid oifigiúla",
+      "appeals": "• D'fhéadfadh go n-athrófar torthaí cáis ar achomharc; léiríonn stádais an fhaisnéis fhíoraithe is déanaí",
+      "ongoing": "• D'fhéadfadh éigiontú nó cartlann a bheith mar thoradh ar imscrúduithe leanúnacha",
+      "incomplete": "• Seans gur chaill an taighde seo cásanna nó sonraí ábhartha; tá aon easnaimh neamhbheartaithe",
+      "corrections": "<strong class=\"text-warning\">Fáiltímid roimh cheartúcháin:</strong> Má shainaithníonn tú earráidí, cásanna ar iarraidh, nó faisnéis atá as dáta, cuir isteach ceartúcháin le foinsí iontaofa oifigiúla le do thoil. Táimid tiomanta do chruinneas agus déanfaimid na sonraí a nuashonrú dá réir."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "An Rud a Deir siad vs Cad a Thaispeánann Doiciméid",
+      "claimsTitle": "Cad a Éilíonn Polaiteoirí",
+      "claim1": "• \"Táim neamhchiontach, is géarleanúint pholaitiúil é seo\"",
+      "claim2": "• \"Iasachtaí ó chairde a bhí san airgead\"",
+      "claim3": "• \"Tá dlíthe láidre frith-éillithe ag an bPortaingéil\"",
+      "claim4": "• \"Oibríonn an córas ceartais\"",
+      "claim5": "• \"Chuireamar moltaí uile an AE i bhfeidhm\"",
+      "factsTitle": "Cad a thaispeánann Doiciméid Oifigiúla",
+      "fact1": "• líomhaintí DCIAP le 56,000+ leathanach fianaise",
+      "fact2": "• Taifid bhainc a thaispeánann €34M in aistrithe gan mhíniú",
+      "fact3": "• Bhain TC síos dlíthe saibhrithe aindleathacha DHÁ uair",
+      "fact4": "• 74.7% ciontaithe éillithe = pianbhreith ar fionraí",
+      "fact5": "• GRECO: 0/28 moltaí curtha i bhfeidhm go hiomlán",
+      "note": "Braitheann an t-imscrúdú seo ar dhoiciméid oifigiúla, ní ar éilimh. Nascann gach staitistic lena fhoinse."
+    },
+    "why": {
+      "title": "An Fáth Atá an Tionscadal Seo Ann",
+      "description": "Tagann an fhaisnéis go léir a chuirtear i láthair anseo ó fhoinsí oifigiúla atá ar fáil go poiblí: cinntí cúirte, fiosrúcháin pharlaiminteacha, tuarascálacha AE, agus staitisticí rialtais. Mar sin féin, chun rochtain a fháil ar an bhfaisnéis seo ní mór dul i ngleic le saotharlanna casta maorlathacha - scaipthe ar fud an iliomad suíomhanna gréasáin institiúideacha, curtha i ndoiciméid PDF, go minic i dteanga theicniúil dlí, agus is annamh a chrostagairtí iad. Níl an t-am, an t-eolas ná an fhoighne ag formhór na saoránach chun an pictiúr ilroinnte seo a chur le chéile.",
+      "purpose": "Déanann an tionscadal seo rochtain ar shonraí atá ann cheana a shimpliú. Ní chruthaímid faisnéis nua - déanann muid taifid oifigiúla a chomhiomlánú, a fhíorú agus a chur i láthair i bhformáid shruthlínithe, inrochtana le naisc foinse iomlána. Is féidir gach éileamh a rianú siar go dtí an doiciméad bunaidh."
+    },
+    "editorial": {
+      "title": "Trédhearcacht Eagarthóireachta",
+      "description": "Is <strong class=\"text-white\">iriseoireacht abhcóideachta imscrúdaithe</strong> é seo, ní tuairisciú neodrach. Tá dearcadh soiléir againn: go bhfuil gnéithe struchtúracha i gcóras polaitiúil na Portaingéile a chosnaíonn na daoine cumhachtacha ar chuntasacht. Cruthaíonn an dearcadh seo conas a chuirimid faisnéis i láthair.",
+      "commitment": "Mar sin féin, táimid tiomanta do chruinneas fíorasach. Faightear gach éileamh. Déanaimid idirdhealú idir fíricí doiciméadaithe agus ár léirmhíniú ar phatrúin. Admhaímid mínithe eile. Ba cheart do léitheoirí ár gcuid fianaise a mheas agus teacht ar a gcuid conclúidí féin.",
+      "invitation": "Fáiltímid roimh easaontas. Má chreideann tú go bhfuil ár léirmhíniú mícheart, téigh i dteagmháil leis na foinsí go díreach. Tá na doiciméid poiblí."
+    },
+    "evidenceTypes": {
+      "title": "Conas a Aicmímid Fianaise",
+      "intro": "Le linn an imscrúdaithe seo, déanaimid idirdhealú idir trí chineál éileamh:",
+      "fact": "Go díreach ó rialuithe cúirte, tuarascálacha oifigiúla, staitisticí rialtais. Infhíoraithe trí fhoinsí nasctha.",
+      "pattern": "Tugann cásanna doiciméadaithe iolracha comhghaol le fios. Ní chruthaíonn sé cúis ná comhordú.",
+      "analysis": "Ár léirmhíniú ar na sonraí. D’fhéadfadh go n-aontaíonn daoine réasúnta leis na conclúidí seo."
+    },
+    "counterArguments": {
+      "title": "Mínithe Malartacha A Admhaímid",
+      "intro": "Ar mhaithe le macántacht intleachtúil, seo mínithe dlisteanacha malartacha ar roinnt patrúin a ndéanaimid doiciméadú orthu:",
+      "delays": {
+        "title": "Cén fáth go dtógann cásanna éillithe 11+ bliain?",
+        "legit1": "• Bhí tearcmhaoiniú ag na breithiúna agus gann ar an bhfoireann",
+        "legit2": "• Teastaíonn imscrúdú fairsing ar choireanna casta airgeadais",
+        "legit3": "• Tá ceart dlisteanach ag cosaint agóid a dhéanamh i gcoinne fianaise",
+        "legit4": "• Tá cosaintí bunreachtúla ann ar chúis mhaith",
+        "response": "Fiú má tá moilleanna neamhbheartaithe, is é an <em>éifeacht</em> ná saoirse ó phionós. Ionchúisíonn tíortha eile an AE coireanna comhchosúla níos tapúla. Is é meán na Portaingéile ná 6.8 bliain i gcomparáid le norm an AE de 3-4 bliana. Is lú an t-intinn ná an toradh."
+      },
+      "euJobs": {
+        "title": "An “luach saothair” dáiríre iad ceapacháin AE?",
+        "legit1": "• Tá taithí ag polaiteoirí a cháilíonn iad",
+        "legit2": "• Tá seasaimh an AE iomaíoch agus bunaithe ar fhiúntas",
+        "legit3": "• Comhghaol ≠ cúis nó comhcheilg",
+        "legit4": "• Ní fhaigheann go leor polaiteoirí cáilithe poist san AE riamh",
+        "response": "Níl comhcheilg á éileamh againn. Breathnaímid ar phatrún inar annamh a chuireann imscrúduithe bac ar chur chun cinn. Cibé an léiríonn sé seo \"luach saothair\" nó neamhshuim i leith cuntasachta, baineann an toradh linne mar an gcéanna."
+      },
+      "bothParties": {
+        "title": "Cén fáth a ndéantar cásanna ón dá pháirtí mhóra a dhoiciméadú?",
+        "crit1": "• \"Is coibhéis bhréagach é seo\"",
+        "crit2": "• \"D'fhéadfadh páirtí amháin a bheith níos truaillithe ná an páirtí eile\"",
+        "crit3": "• \"Tá caimiléireacht ag páirtithe beaga freisin\"",
+        "response": "Déanaimid cásanna a dhoiciméadú go comhréireach le fianaise. Tá cumhacht malartach ag PS agus PSD ar feadh 50 bliain; tá cásanna doiciméadaithe ag an mbeirt. Nílimid ag éileamh coibhéise - táimid ag taispeáint go gcosnaíonn an córas <em>an té atá i gcumhacht</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "An Fáth a Bhfuil an tImscrúdú seo ann",
+    "subtitle": "An Aisling Níorbh fhéidir an Córas a Mhaireachtáil",
+    "journalism": {
+      "title": "Iriseoireacht na Portaingéile faoi Ghabháil Sistéamach",
+      "intro": "Tosaíonn gach iriseoir leis an aisling chéanna: taispeáin an fhírinne do dhaoine, doiciméadaigh cad atá tábhachtach, athraigh an domhan. Sa Phortaingéil, imbhuaileann an aisling sin le córas atá deartha chun é sin a chosc."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "d’iriseoirí a thuilleann níos lú ná €1,000/mí",
+      "groups": "4",
+      "groupsLabel": "rialaíonn grúpaí meán craoladh príobháideach",
+      "lusa": "95.9%",
+      "lusaLabel": "na gníomhaireachta nuachta náisiúnta (Lusa) faoi úinéireacht an stáit anois",
+      "independence": "53%",
+      "independenceLabel": "riosca neamhspleáchais eagarthóireachta (suas ó 25%)"
+    },
+    "kills": {
+      "title": "Cad a mharaíonn an aisling",
+      "poverty": "Tuilleann 15% faoin íosphá nó ní thuilleann aon rud ar bith",
+      "ownership": "Is leis an iar-PM Pinto Balsemão Impresa (SIC, Expresso)",
+      "slapp": "319 cás SLAPP in aghaidh iriseoirí san Eoraip (2024)",
+      "violence": "Ceannairí páirtí Chega cúisithe as iriseoirí bagairt (Samhain 2024)",
+      "result": "Titim 23% ar iriseoirí gairmiúla ó 2009 i leith",
+      "strike": "Chuaigh 40+ eagraíocht meán ar stailc stairiúil"
+    },
+    "pressure": {
+      "title": "An Brú Sistéamach",
+      "directors": "tuairiscíonn iriseoirí brú ó stiúrthóirí",
+      "superiors": "brú ó fheisteoirí eagarthóireachta a thuairisciú",
+      "ranking": "Thit an Phortaingéil in iolrachas meáin an AE"
+    },
+    "notCriticism": {
+      "title": "Ní Cáineadh é seo ar Iriseoirí",
+      "quote": "\"Tá tionchar ollmhór ag neamhchruinneas ar neamhspleáchas iriseoirí... Bíonn iarmhairtí ag an meath seo ar neamhspleáchas polaitiúil, ar chinntí eagarthóireachta na meán.\"",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Cén Fáth a bhfuil Taighde Neamhspleách Riachtanach",
+      "intro": "Ní úsáideann an t-imscrúdú seo ach foinsí oifigiúla atá ar fáil go poiblí - na doiciméid chéanna a bhféadfadh aon seomra nuachta rochtain a fháil orthu. An difríocht:",
+      "noAdvertisers": "Níl aon fhógróirí chun tarraingt siar ioncaim a bhagairt",
+      "noOwners": "Uimh úinéirí a bhfuil naisc pholaitiúla a chosaint",
+      "noEditors": "Gan eagarthóirí chun teanga a mhaolú ar mhaithe le leasanna cumhachtacha",
+      "noPrecarity": "Níl aon fhostaíocht neamhbhuana ag éileamh ciúnas",
+      "stance": "Seasann an t-imscrúdú seo in aice le hiriseoirí na Portaingéile, ní ina gcoinne."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Cosaint Bhunreachtúil",
+    "title": "Cosaint Pinsin: Urghabhadh, Ar ais, Urghabhadh Arís",
+    "intro": "Cuireann Airteagal 30 den Bhunreacht cosc ​​ar chaillteanas uathoibríoch ceart ar chiontú. Coinníonn polaiteoirí ciontaithe a bpinsin trí achomhairc gan deireadh.",
+    "vara": {
+      "conviction": "Ciontaíodh: 5 bliana as peddling tionchair",
+      "status": "3x Urghabhadh, 2x ar ais"
+    },
+    "pinho": {
+      "conviction": "Ciontaíodh: 10 mbliana + fíneáil €4.9M",
+      "status": "Cuireadh pianbhreith 10 mbliana sa BAILE"
+    },
+    "socrates": {
+      "status": "Triail ar siúl (11+ bliain)",
+      "prescribed": "167 de 189 muirear",
+      "expired": "Forordaithe cheana féin (88%)",
+      "never": "Never seized",
+      "confirmed": "Deimhnithe go bhfuarthas fóirdheontas (SIC 2022)"
+    },
+    "conclusion": "Airteagal Bunreachtúil 30 + Córas Achomharc = Cosaint Pinsean Éiginnte",
+    "conclusionDetail": "Gan fhorghéilleadh uathoibríoch. Teastaíonn ordú breithiúnach le haghaidh gach urghabháil. Is féidir achomharc a dhéanamh ar gach ordú. Tógann gach achomharc blianta. Coinníonn an cosantóir pinsean le linn an phróisis."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Cinntí Cartlainne: \"Parco Detalhe\" (Mionsonraí Neamhleor)",
+    "intro": "Le hAirteagal 246º n.º 6 CPP ceadaítear d'ionchúisitheoirí imscrúdú a dhiúltú ar bhonn \"mionsonraí neamhleor\" — fiú le fianaise dhoiciméadaithe.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "Ardaíodh díolúine:",
+    "montenegro": {
+      "desc": "Conarthaí poiblí le cuideachta teaghlaigh (Spinumviva) agus MP",
+      "outcome": "Fanann PM le clúdach íosta sna meáin"
+    },
+    "mendes": {
+      "desc": "Táillí comhairleoireachta san áireamh. €360K ó ACA áirgiúlachta uisce",
+      "irony": "Iarann: d'éiligh sé Montainéagró \"gach rud a shoiléiriú\""
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 cosantóir, 463 coire",
+      "outcome": "Gearradh 60 duine eile, cuireadh figiúirí ardphróifíle i gcartlann"
+    },
+    "pattern": {
+      "title": "An Patrún: Airteagal 246º n.º 6 CPP",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Conas is féidir \"tásca\" a bhunú gan imscrúdú? Éilíonn an caighdeán fianaise roimh an imscrúdú a bhaileodh fianaise.",
+      "effect": "Éifeacht: Cros ionchúisimh ar chásanna atá íogair ó thaobh na polaitíochta de"
+    }
+  }
+}

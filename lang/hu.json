@@ -1,0 +1,3252 @@
+{
+  "nav": {
+    "logo": "A Büntetlenség Architektúrája",
+    "thesis": "A Tézis",
+    "cases": "Ügyek",
+    "loopholes": "Jogi Kiskapuk",
+    "blocking": "Blokkolási Minta",
+    "euRewards": "EU Jutalmak",
+    "solution": "Megoldás",
+    "eliteLaws": "Az Elit Törvényei",
+    "euLabor": "EU Munka",
+    "brand": "A Büntetlenség Architektúrája",
+    "odds": "Esély",
+    "database": "Adatbázis",
+    "sources": "Források",
+    "timeline": "Idővonal",
+    "stats": "Statisztika",
+    "dashboard": "Műszerfal",
+    "forum": "Fórum",
+    "donate": "Adományoz",
+    "sign": "ALÁÍRÁS",
+    "mediaMachine": "Média",
+    "goldenParachute": "Nyugdíjak",
+    "home": "Kezdőlap",
+    "signPetition": "Aláírás petíció",
+    "convicted": "Elítéltek",
+    "judicial": "Bírói",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"NEM ÁLLNAK FELETTÜNK\"",
+    "title": "A BÜNTETLENSÉG ARCHITEKTÚRÁJA",
+    "subtitle": "Hogyan Tervezték az Európai Politikai Rendszert a Korruptak Védelmére",
+    "subtext": "A politikusok közSZOLGÁK, nem közURak. Úgy kell élniük mint az állampolgárok, úgy kell ellenőrizni őket mint az állampolgárokat, és úgy kell szembenézniük az igazságszolgáltatással mint az állampolgároknak.",
+    "stat1": "TI Korrupciós Index 2024",
+    "stat2": "Évek: Az Ügy Időtartama",
+    "stat3": "Állampolgárok Hiszik hogy a Kormány Korrupt",
+    "scroll": "Görgessen a Kezdéshez",
+    "declaration": "Állampolgárok által vezetett vizsgálat a portugáliai politikai korrupcióról",
+    "begin": "Vizsgálat indítása"
+  },
+  "parts": {
+    "one": "I. Rész",
+    "two": "II. Rész",
+    "three": "III. Rész",
+    "four": "IV. Rész",
+    "five": "V. Rész",
+    "six": "VI. Rész",
+    "seven": "VII. Rész",
+    "eight": "VIII. Rész",
+    "eleven": "XI. rész",
+    "twelve": "XII. rész",
+    "nine": "IX. rész",
+    "ten": "X. rész",
+    "thirteen": "XIII. Rész"
+  },
+  "signature": {
+    "title": "Írja alá az Európai polgári kezdeményezést",
+    "subtitle": "Európai Polgári Kezdeményezés a Politikai Elszámoltathatóságért",
+    "firstName": "Keresztnév",
+    "lastName": "Vezetéknév",
+    "country": "Ország",
+    "idNumber": "Személyi Szám",
+    "submit": "Aláírás",
+    "verify": "Ellenőrzés",
+    "count": "Aláírások",
+    "goal": "Cél: 1.000.000",
+    "verified": "EU Infrastruktúra által Ellenőrizve",
+    "eci": {
+      "title": "Európai polgári kezdeményezés",
+      "regulation": "A 2019/788 EU-rendelet alapján",
+      "security": "Kriptográfiailag ellenőrzött és hamisításbiztos"
+    },
+    "euInfrastructure": "EU infrastruktúra integráció",
+    "selectCountry": "Válassza ki országát",
+    "consent": "Megerősítem, hogy uniós állampolgár vagyok, és hozzájárulok ahhoz, hogy adataimat az EU adatvédelmi szabályozásának megfelelően kezeljék.",
+    "merkleLabel": "Merkle gyökér:",
+    "merkleCalculating": "Számító...",
+    "merkleNoSigs": "Még nincsenek aláírások",
+    "formFooter": "Aláírását kriptográfiailag kivonatolja, és hozzáadja egy hamisításbiztos lánchoz.",
+    "success": "Aláírás rögzítve!",
+    "invalidFormat": "Érvénytelen azonosító formátum a következőhöz:",
+    "integrityVerified": "A lánc integritása ellenőrizve",
+    "integrityIssues": "Integritási problémák észlelve",
+    "eciTitle": "Európai polgári kezdeményezés",
+    "eciReg": "A 2019/788 EU-rendelet alapján",
+    "verification": {
+      "title": "Hamisításbiztos ellenőrzés",
+      "intro": "Ez a rendszer iparági szabványos kriptográfiai technikákat használ az aláírás integritásának biztosítására:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "SHA-256 kivonatolás",
+        "text": "Minden aláírást egyedi 256 bites ujjlenyomattá alakítanak át az SHA-256 algoritmus segítségével – ugyanazt a szabványt, amelyet a Bitcoin és a TLS/SSL tanúsítványok is használnak. Bármilyen manipuláció teljesen megváltoztatja a hash-t.",
+        "source": "Szabvány: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Merkle fa",
+        "text": "A Merkle-fa (hash-fa) egy adatstruktúra, amelyet Ralph Merkle kriptográfus talált fel 1979-ben. Egyetlen \"gyökér-kivonatot\" hoz létre, amely ellenőrzi az ÖSSZES aláírás integritását – ha bármelyik aláírás megváltozik, a gyökér megváltozik.",
+        "source": "Használja: Bitcoin, Git, IPFS, Certificate Transparency"
+      },
+      "audit": {
+        "title": "Ellenőrzési nyomvonal",
+        "text": "Minden művelet (aláírás, ellenőrzés, exportálás) időbélyegekkel kerül naplózásra az ellenőrzési nyomvonal szabványok szerint. Ez teljes átláthatóságot és elszámoltathatóságot biztosít az összes rendszerművelethez.",
+        "source": "Megfelelés: GDPR 30. cikk"
+      },
+      "euId": {
+        "title": "EU-azonosító érvényesítés",
+        "text": "Minden EU-országnak saját azonosító formátuma van (Portugália: Cartão de Cidadão, Németország: Personalausweis stb.). A rendszer az európai polgári kezdeményezésről szóló 2019/788 számú EU-rendelet alapján az azonosítószámokat az országspecifikus minták alapján ellenőrzi.",
+        "source": "Keretrendszer: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "EU infrastruktúra integráció",
+      "text": "Ezt a kezdeményezést úgy tervezték, hogy integrálódjon a hivatalos EU rendszerekkel:",
+      "eciPortal": "Hivatalos ECI portál – a végső benyújtáshoz",
+      "eidas": "eIDAS – Elektronikus azonosítási szabványok",
+      "gdpr": "GDPR-kompatibilis - Az adatvédelem garantált"
+    }
+  },
+  "common": {
+    "source": "Forrás",
+    "readMore": "Tovább Olvas",
+    "evidence": "Bizonyítékok",
+    "convicted": "Elítélt",
+    "ongoing": "Folyamatban",
+    "archived": "Archivált",
+    "keyInsight": "KEY INSIGHT",
+    "declined": "A vizsgálatot elutasították",
+    "views": "nézetek",
+    "likes": "kedveli",
+    "share": "részesedés",
+    "close": "Közeli"
+  },
+  "mediaMachine": {
+    "part": "XI. rész",
+    "title": "Elfoglalták a negyedik birtokot",
+    "subtitle": "Hogyan szolgálja a portugál média a hatalmat az igazság helyett?",
+    "intro": "A korrupciót leleplező médiának ugyanannak a rendszernek a tulajdona, amelyet ki kellene vizsgálnia.",
+    "ownership": {
+      "title": "Ki irányítja a híreket",
+      "subtitle": "5 csoport szabályozza, hogy 10 millió ember mit lát és olvas",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "Volt miniszterelnök (PSD, 1981-83)",
+        "note": "Egy volt kormányfő irányít egy nagy tévéhálózatot"
+      },
+      "rtp": {
+        "name": "RTP (nyilvános TV)",
+        "owner": "portugál állam",
+        "connection": "A parlament által kinevezett testület",
+        "note": "A kormány ellenőrzi a kinevezéseket és a költségvetést"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "A részvényesek közé tartoznak az államilag letétbe helyezett bankok",
+        "note": "Pénzügyi függés az állami intézményektől"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Sonae csoport",
+        "connection": "Állami szerződésektől függő kiskereskedelmi birodalom",
+        "note": "Tartalmazza a tulajdonos nyereségét befolyásoló szabályozásokat"
+      },
+      "globalMedia": {
+        "connection": "Angolai/makaói kapcsolatokkal rendelkező befektetők vásárolták meg 2020-ban. Kevin Ho hátterében a kaszinó- és az építőiparhoz kötődik. A csoport 4 nagy újságot irányít + Portugália 2. leghallgatottabb rádióállomását.",
+        "name": "Global Media Group",
+        "note": "Vezérli a DN, JN, TSF, O Jogo-t - jelentős sajtóhatás",
+        "owner": "Magánbefektetők (Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "A forgóajtó",
+      "subtitle": "A politikusok kommentátorokká válnak, a kommentátorok megvédik a politikusokat",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Márques Mendes",
+        "path": "A PSD volt vezetője → SIC politikai kommentátor. Jelenleg az államtanács tagja. Soha nem azonosítja az összeférhetetlenséget a műsorban.",
+        "role": "SIC politikai kommentátor",
+        "background": "A PSD korábbi vezetője (2005-2007)",
+        "scandal": "700 000 €+ tanácsadói díj az államtól függő cégektől",
+        "coverage": "A SIC minimális tudósítást adott saját kommentátora botrányának",
+        "outcome": "A PGR elutasította a vizsgálatot – 2025. december 19"
+      }
+    },
+    "techniques": {
+      "title": "\"Vezető\" újságírási technikák",
+      "subtitle": "Hogyan alakítja a média a felfogást, mint egy ügyvéd, tanút vezet",
+      "framing": {
+        "title": "Címsor keretezése",
+        "description": "Ugyanazok a tettek, más szavak a politikai igazodás alapján",
+        "example1": "PS-botrány: „Bűnözői tervek”, „korrupciós hálózat”",
+        "example2": "PSD-botrány: „Vitatott szerződések”, „szabálytalanságok”"
+      },
+      "timing": {
+        "title": "Időzítési manipuláció",
+        "description": "Pénteken és ünnepnapokon jelentek meg rossz hírek a szövetségesek számára",
+        "example": "2025. december: Három ügyarchívum karácsony előtt csoportosult"
+      },
+      "omission": {
+        "title": "Stratégiai mulasztás",
+        "description": "Amit nem jelentenek, az ugyanolyan fontos, mint az, amit tesznek",
+        "example": "A 18 éves reformblokkoló mintát soha nem szintetizálták"
+      },
+      "balance": {
+        "title": "Hamis egyensúly",
+        "description": "Az okirati bizonyítékokat és a tagadást egyformán érvényesnek kell tekinteni",
+        "example": "A tények és a politikai pörgés egyenértékű álláspontként való kezelése"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Állami reklám: A pénzügyi póráz",
+      "total": "6,45 millió euró",
+      "hidden": "3,7 millió euró",
+      "hiddenNote": "a címzetteket NEM hozták nyilvánosságra",
+      "mechanism": "Média pénzügyi válságban → Állami hirdetésektől függ → Csökkenti a kritikus tudósításokat → Kevésbé vizsgálják a korrupciót",
+      "increase": "+1,29 millió euró növekedés (2024)"
+    },
+    "precarity": {
+      "title": "Újságírói bizonytalanság = Öncenzúra",
+      "noContract": "33,4%",
+      "noContractLabel": "hivatalos szerződések nélkül dolgozni",
+      "pressure": "23,8%",
+      "pressureLabel": "jelentse a testületek nyomását",
+      "belief": "90%",
+      "beliefLabel": "hisz a karrier egyre bizonytalanabbá válik",
+      "strike": "2024. március: 40+ év óta az első újságírói sztrájk"
+    },
+    "comparison": {
+      "title": "Portugália kontra funkcionális demokráciák",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "A negyedik birtokot az első és a második birtok foglalja el. A büntetlenség architektúrája magában foglalja azt a médiát, amelynek le kell fednie azt.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Az állami média piaci részesedése",
+      "risk": "MAGAS",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Dokumentált differenciálfedezet",
+      "case1": {
+        "title": "Montenegró vs. Sócrates",
+        "montenegro": "Montenegró (PSD): Spinumviva-botrány, 410 000 €+, míg MP – Rövid tudósítás, korlátozott nyomon követés",
+        "socrates": "Sócrates (PS): kiterjedt, tartós lefedettség hónapokig",
+        "pattern": "Ugyanaz a típus (pénzügyi szabálytalanság), jelentősen eltérő intenzitású"
+      },
+      "case2": {
+        "title": "Marques Mendes (2025. december)",
+        "revealed": "Kiderült: 700 000 €+ tanácsadói díj, miközben SIC kommentátor",
+        "coverage": "SIC lefedettség: Minimális - saját konnektor lekicsinyli a botrányt",
+        "pattern": "Klasszikus tulajdonosi hatás – védje meg sajátját"
+      },
+      "case3": {
+        "title": "Arc Oculta elnyomás",
+        "attempt": "Kísérlet: A lefedettség korlátozására irányuló nyomás, késlelteti a közzétételt",
+        "result": "Eredmény: Végül látható, de jelentős késéssel",
+        "pattern": "Rendszeres nyomást mutat az újságírókra"
+      }
+    },
+    "framingPatterns": {
+      "title": "Hogyan különbözik a keretezés pártonként",
+      "aspect": "Vonatkozás",
+      "psScandal": "PS botrány tudósítás",
+      "psdScandal": "PSD-botrány lefedettsége",
+      "language": "Használt nyelv",
+      "psLanguage": "\"Bűnözői tervek\", \"Korrupciós hálózat\"",
+      "psdLanguage": "\"Vitatott szerződések\", \"Szabálytalanságok\"",
+      "duration": "Lefedettség időtartama",
+      "psDuration": "Hetek/hónapok, folyamatos nyomon követés",
+      "psdDuration": "Napok, rövid említés, semmi nyomon követés",
+      "placement": "Címsor elhelyezése",
+      "psPlacement": "Címlap, főműsoridőben",
+      "psdPlacement": "Belső oldalak, csúcsidőn kívül",
+      "accountability": "Az elszámoltathatóság keretezése",
+      "psAccountability": "Megnevezett személyek, pártfelelősség",
+      "psdAccountability": "„Mindkét oldal”, rendszerszintű problémák",
+      "note": "Forrás: A 2015-2022 közötti portugál választási tudósítást elemző tudományos tanulmányok"
+    },
+    "newsDeserts": {
+      "title": "Hírek Sivatagok: Ahol a korrupciót nem jelentik be",
+      "municipalities": "308 településből hírsivatag",
+      "percentage": "Portugáliából hiányoznak a helyi hírek",
+      "atRisk": "veszélyeztetett települések (csak 1 üzlet)",
+      "impact": "Ahol nincs újságírás, ott nincs elszámoltatás sem. A helyi korrupció virágzik a hírsivatagok árnyékában."
+    },
+    "pressFreedom": {
+      "title": "A sajtószabadság hanyatlása",
+      "ranking": "Portugália a<strong class=\"text-good\">7.</strong>ről a <strong class=\"text-bad\">13.</strong> helyre esett vissza a Médiapluralizmus Monitorban (2024→2025)",
+      "trust": "• A hírekbe vetett bizalom: 54% (a 2015-ös 66%-hoz képest)",
+      "concentration": "• Médiakoncentrációs kockázat: 79%",
+      "independence": "• A szerkesztői függetlenség nagy kockázattal jár",
+      "pattern": "A MINTÁZAT:",
+      "explanation": "Ahogy a média tulajdonlása koncentrálódik, az újságírók bizonytalansága nő, és az állami reklámok mentőövvé válnak – a kritikus újságírás szerkezetileg lehetetlenné válik."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "XII. rész",
+    "title": "Az Arany ejtőernyő",
+    "subtitle": "Korrupcióért elítélték? Tartsa meg nyugdíját örökre",
+    "intro": "Portugáliában milliók ellopásáért elítélt politikusok megtartják az adófizetők által finanszírozott nyugdíjukat. Nincs törvény, amely megakadályozná őket.",
+    "question": "Mi történik, ha egy portugál politikust elítélnek korrupcióért?",
+    "answer": "MINDENT MEGŐriznek.",
+    "cases": {
+      "title": "Dokumentált esetek",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "José Sócrates",
+        "crime": "34 millió eurós korrupciós vád",
+        "sentence": "A próba 11+ éve folyik",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "Volt miniszterelnök (2005-2011)",
+        "status": "PRÓBÁBAN",
+        "description": "Korrupcióval, pénzmosással, okirat-hamisítással vádolják. 10+ év után továbbra is nyugdíjban részesül. Az ügy 2014 óta folyamatban van."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Volt PS miniszterhelyettes, CGD adminisztrátor"
+      },
+      "pinho": {
+        "name": "Manuel Pinho",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Elítélt: passzív korrupció, pénzmosás (10 év)",
+        "note": "4,5 millió euró kenőpénzt kapott az EDP-től",
+        "houseArrest": "🏠 Otthoni szolgálat: 10 év büntetés ellenére 2021 óta saját lakóhelyén tölti szolgálatát"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Elítélt: adócsalás, pénzmosás",
+        "note": "Letöltötte a büntetést, majd ÚJRA VÁLASZTOTT Oeiras polgármesterévé"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Teljes előny már EGY ciklus után",
+      "pmBenefits": "Autó, sofőr, személyzet, életbiztonság",
+      "ministerBenefits": "Bőkezű nyugdíj a szolgálati időtől függetlenül"
+    },
+    "noLaw": {
+      "title": "A törvény: Nincs",
+      "text": "Portugáliában NINCS olyan törvény, amely a büntetőítélet utáni nyugdíjelvonást írja elő.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Portugália nyugdíjpótlási rátája",
+        "euAverage": "71%",
+        "euAverageLabel": "EU átlag",
+        "productivity": "73%",
+        "productivityLabel": "Portugália termelékenysége az EU-val szemben"
+      },
+      "translation": "A legbőkezűbb nyugdíjak + a leggyengébb elszámoltathatóság + a legalacsonyabb termelékenység = a kudarcok jutalmazására tervezett rendszer.",
+      "country": "Ország",
+      "rule": "Elkobzási szabály",
+      "applies": "Erre vonatkozik"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "GLOBÁLISAN NEM KELLETT",
+      "recommendations": "28",
+      "partial": "18 részben végrehajtva",
+      "notImplemented": "10 NINCS végrehajtva",
+      "lobbying": "Lobbizás: NEM SZABÁLYOZOTT",
+      "assets": "Vagyonnyilatkozatok: GYENGE VÉGREHAJTÁS",
+      "verdict": "Az Európa Tanács korrupcióellenes testülete többször is felhívta a figyelmet arra, hogy Portugália nem hajtott végre érdemi szankciókat a korrupt tisztviselőkkel szemben. A nyugdíjvédelmi rendszer aláássa az elrettentést, és jelzi, hogy a politikai bűnözésnek nincs tartós következménye."
+    },
+    "referendum": {
+      "title": "Javasolt népszavazási kérdések",
+      "q7": {
+        "number": "7. kérdés",
+        "text": "A korrupciós bűncselekményekért elítélt politikusok automatikusan elveszítsék az adófizetők által finanszírozott nyugdíjukat?"
+      },
+      "q8": {
+        "number": "8. kérdés",
+        "text": "Kell-e kötelezni a médiát, hogy felfedje a tulajdonosok és a főrészvényesek politikai kapcsolatait?"
+      }
+    },
+    "conclusion": "A büntetlenség architektúrája túlmutat a tárgyalóteremen. Még akkor is, ha ez a ritka meggyőződés megtörténik, az arany ejtőernyő kényelmes leszállást biztosít. A rendszer nemcsak megvédi a politikusokat az igazságszolgáltatástól, hanem egy életre jutalmazza őket.",
+    "scandal": {
+      "title": "Az elfogadhatatlan valóság",
+      "description": "A korrupció, csalás és hatalommal való visszaélés miatt elítélt portugál politikusok továbbra is adófizetők által finanszírozott nyugdíjakat kapnak. NINCS automatikus elkobzás. Míg a hétköznapi polgárok kisebb bűncselekmények miatt veszítenek állást és otthont, a politikai osztály olyan rendszert alakított ki, amelyben a bűnözés szó szerint kifizetődik."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Franciaországnak, Spanyolországnak és Olaszországnak AZONOS alkotmányos védelme van, de sikeresen végrehajtották a nyugdíjelkobzásról szóló törvényeket. Bíróságaik alkotmányosnak találták az elkobzást. Portugália ellenállása politikai döntés, nem jogi szükségszerűség.",
+        "title": "Más EU-országok"
+      },
+      "portugal": {
+        "text": "Az Alkotmánybíróság ezt úgy értelmezi, hogy a nyugdíjat NEM LEHET automatikusan elveszíteni. A reformkísérletek kétszer (2012, 2015) blokkolva. Eredmény: az elítélt politikusok megtartják a teljes nyugdíjat.",
+        "title": "Portugália értelmezése"
+      },
+      "quote": "\"Semmilyen büntetés nem járhat szükség szerint polgári, szakmai vagy politikai jogok elvesztésével\"",
+      "source": "– A portugál alkotmány 30. cikke",
+      "title": "Az alkotmányos pajzs: a CRP 30. cikke"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Fizetés+év szolgálati idő alapján. Vannak, akik életük végéig a végső fizetésük 80%-át+ kapják. Meghaladhatja a 20 000 €/hónapot a legjobb pozíciókért.",
+        "title": "Hogyan számítják ki"
+      },
+      "contrast": "KONTRASZT: A bűncselekményekért elítélt rendes munkavállalók elveszítik állásukat, nyugdíjukat és jövőbeli ügyeiket. A sokkal súlyosabb bűncselekményekért elítélt politikusok havi 10 000-26 000 eurójukat életük végéig megtartják.",
+      "created": {
+        "text": "A 4/85-ös törvény élethosszig tartó támogatást hozott létre a PM, a miniszterek, a képviselők és a bírák számára. Eredetileg a „közszolgálat” díjazására tervezték.",
+        "title": "Létrehozva 1984-ben"
+      },
+      "description": "Portugáliában egyedülálló \"Subvenção Vitalícia\" (élettartamra szóló támogatás) rendszer működik, amely a volt politikusok számára élethosszig tartó, állandó havi kifizetést biztosít – a rendszeres nyugdíjtól függetlenül és azon felül. Ez nem járulékfizetéssel szerzett nyugdíj; ez a törvény által biztosított kiváltság.",
+      "protected": {
+        "text": "Még ha hivatalban elkövetett bűncselekményekért el is ítélik, a támogatás továbbra is fennáll. A lefoglaláshoz külön polgári bírósági eljárásra van szükség – és gyakran sikertelen a fellebbezés során.",
+        "title": "Jogilag védett"
+      },
+      "title": "A Subvenção Vitalícia rendszer"
+    }
+  },
+  "meta": {
+    "title": "A büntetlenség architektúrája – Portugália politikai védelmi rendszere",
+    "description": "Hogyan tervezték Portugália politikai rendszerét a korruptok védelmére"
+  },
+  "accessibility": {
+    "skipToContent": "Ugrás a fő tartalomhoz",
+    "toggleNav": "A navigációs menü váltása",
+    "changeLang": "Nyelv módosítása",
+    "mainNav": "Fő navigáció",
+    "infoIcon": "Információ",
+    "closeBanner": "Közlemény banner bezárása"
+  },
+  "legal": {
+    "title": "Jogi nyilatkozat:",
+    "text": "Minden említett személyt megilleti az ártatlanság vélelme mindaddig, amíg bűnösségét be nem bizonyítják. Ez a dokumentum nyilvánosan elérhető információkat tartalmaz hivatalos forrásokból, bírósági dokumentumokból és jó hírű médiából. Az elemzés dokumentálja az európai politikai és jogi rendszerek mintázatait."
+  },
+  "thesis": {
+    "title": "A Pavlovi Politikai Osztály",
+    "intro": "A portugál politikai rendszer a klasszikus kondicionálási elvek alapján működik",
+    "cycle": {
+      "title": "A Kondicionálási Ciklus",
+      "formula": "INGER → VÁLASZ → JUTALOM → ISMÉTLÉS",
+      "entry": {
+        "title": "BELÉPÉS",
+        "trigger": "Csatlakozz a párthoz, mutass hűséget",
+        "reward": "→ Pozíció a választási listán"
+      },
+      "service": {
+        "title": "SZOLGÁLAT",
+        "trigger": "Szavazz ahogy mondják, védd a kollégákat",
+        "reward": "→ Kiváltságok (autók, sofőrök, személyzet, költségek)"
+      },
+      "scandal": {
+        "title": "BOTRÁNY",
+        "trigger": "Nyomozás bejelentése",
+        "reward": "→ Mentelmi jog aktiválva, bírósági titok, kezdődnek a késleltetések"
+      },
+      "rescue": {
+        "title": "MEGMENTÉS",
+        "trigger": "Maradj csendben, ne leplezz le másokat",
+        "reward": "→ Utolsó pillanatos jogi kiskapu megment"
+      },
+      "promotion": {
+        "title": "ELŐLÉPTETÉS",
+        "trigger": "Bizonyított hűség válságon keresztül",
+        "reward": "→ EU POZÍCIÓ (a végső jutalom)"
+      }
+    },
+    "keyInsight": {
+      "title": "«Nem Állnak Felettünk» — De Magukat Felénk Helyezték",
+      "point1": "A politikusok párhuzamos társadalmat hoztak létre olyan kiváltságokkal, amelyekhez a polgárok nem férhetnek hozzá",
+      "point2": "A rendszer pontosan azt a viselkedést termeli ki, amit jutalmaz: engedelmes politikusokat, akik védik egymást",
+      "point3": "Belülről lehetetlen a reform: olyan, mintha Pavlov kutyáit kérnénk, hogy válasszák le a csengőt az ételről",
+      "parallel": "A politikusok párhuzamos társadalmat hoztak létre olyan kiváltságokkal, amelyekhez a polgárok nem férhetnek hozzá",
+      "rewards": "A rendszer pontosan azt a viselkedést termeli ki, amit jutalmaz: engedelmes politikusokat, akik védik egymást",
+      "reform": "Belülről lehetetlen a reform: olyan, mintha Pavlov kutyáit kérnénk, hogy válasszák le a csengőt az ételről"
+    },
+    "selfReinforcing": {
+      "title": "Az Önmegerősítő Hurok",
+      "intro": "A rendszer önfenntartó. Minden politikus generáció az előzőtől tanul:",
+      "observe": {
+        "title": "MEGFIGYELÉS",
+        "text": "A fiatalabb politikusok figyelik, ahogy az idősebbek túlélik a botrányokat"
+      },
+      "learn": {
+        "title": "TANULÁS",
+        "text": "Megtanulják a szabályokat: hűség = védelem"
+      },
+      "replicate": {
+        "title": "MÁSOLÁS",
+        "text": "Amikor eljön az idejük, ugyanazt várva védik a többieket"
+      },
+      "teach": {
+        "title": "TANÍTÁS",
+        "text": "Ők lesznek az idősebbek, akiket a fiatalabbak figyelnek"
+      },
+      "conclusion": "A politikusoknak nem kell külön mondani, hogy védjék a kollégákat. Automatikusan teszik, tudván, hogy a rendszer cserébe megvédi őket. A kondicionálás generációkon átívelő.",
+      "howLoop": "Hogyan Működik a Hurok:",
+      "whyFails": "Miért Bukik Meg Mindig a Belső Reform:",
+      "trapTitle": "A Csapda:",
+      "trapText": "A rendszer nem hibás — pontosan úgy működik, ahogy tervezték.",
+      "loopSteps": {
+        "step1": {
+          "title": "Fiatal politikusok megfigyelik:",
+          "text": "A magas rangú személyiségek bűncselekményeket követnek el → szembenéznek a nyomozással → megszöknek → előléptetik"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "\"A rendszer megvédi a sajátját. Ha hűséges vagyok, én is védve leszek.\""
+        },
+        "step3": {
+          "title": "Korrigált viselkedés:",
+          "text": "A kiskapuk fenntartására, a kollégák védelmére, a reform blokkolására szavaznak"
+        },
+        "step4": {
+          "title": "Megszilárdult a várakozás:",
+          "text": "Amikor jön a saját botrányuk, ugyanazt a védelmet várják és kapják"
+        },
+        "step5": {
+          "title": "A következő generáció megfigyeli:",
+          "text": "A ciklus megerősített várakozásokkal ismétlődik"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Tiltott illegális gazdagodás:",
+          "text": "A politikusok nem szavaznak saját menekülési nyílásuk eltávolítására"
+        },
+        "lobby": {
+          "title": "Lobbi szabályozás blokkolva:",
+          "text": "A PSD KÉTSZER blokkolta (2019, 2024) – fenyegeti a jutalmazási rendszert"
+        },
+        "immunity": {
+          "title": "Fenntartott immunitás:",
+          "text": "A parlament nem szavazza meg a mentelmi jog feloldását – szükségük lehet rá"
+        },
+        "prescription": {
+          "title": "A recept változatlan:",
+          "text": "A hosszú késések a rendszert szolgálják, így a rendszer karbantartja azokat"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "Az Elit Védelmi Minta",
+      "intro": "A nagy nyilvánosságú ügyek elemzése konzisztens háromszintű mintát tár fel:",
+      "investigate": {
+        "title": "NYOMOZÁS",
+        "text": "Média leleplezi a botrányt → Ügyészek nyomozást jelentenek be → Közvélemény felháborodása csitítva"
+      },
+      "delay": {
+        "title": "KÉSLELTETÉS",
+        "text": "Évek eljárási bonyolultsággal → Bírósági titok hivatkozva → Bizonyítékok öregednek → Tanúk emlékei halványulnak"
+      },
+      "archiveOrReward": {
+        "title": "IRATTÁRBA HELYEZÉS VAGY JUTALOM",
+        "text": "Az ügyet 'bizonyíték hiányában' irattárba helyezik VAGY a politikust magasabb pozícióba léptetik elő, miközben nyomozás alatt áll"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "A svéd kontraszt",
+        "source": "Forrás: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Vonatkozás",
+        "officialCars": "Hivatalos autók",
+        "mpOffices": "Képviselői irodák",
+        "immunity": "Immunitás",
+        "salaryRaises": "Fizetésemelés",
+        "localCouncillors": "Helyi tanácsosok",
+        "transparency": "Átláthatóság",
+        "cpiScore": "TI CPI pontszám",
+        "swedenValues": {
+          "cars": "Csak a PM-nek van autója (biztonsági). Mindenki más: busz/vonat",
+          "offices": "7 m²-es irodák; A képviselők maguk kezelik a menetrendeket",
+          "immunity": "Egyik sem. Bíróság elé állították, mint minden állampolgárt",
+          "salary": "Független bizottság dönt",
+          "councillors": "Önkéntes, fizetés nélkül, otthoni munka",
+          "transparency": "1766 óta minden adóbevallás nyilvános",
+          "cpi": "85/100 (Top 5) - STABIL"
+        },
+        "portugalValues": {
+          "cars": "A PM-nek 11 sofőrje van",
+          "offices": "Teljes személyzet, titkárok, nagy költségvetés",
+          "immunity": "Nem lehet őrizetbe venni parlamenti szavazás nélkül",
+          "salary": "A politikusok saját kárpótlásról szavaznak",
+          "councillors": "Fizetett állások személyzettel",
+          "transparency": "A Segredo de justiça évekig rejtegeti az eseteket",
+          "cpi": "57/100 (43.) - CSÖKKENŐ"
+        },
+        "quote": "Mi hétköznapi állampolgárok vagyunk. Nincs értelme külön kiváltságokat adni a parlamenti képviselőknek, hiszen a mi feladatunk a polgárok képviselete és a valóság megismerése, amelyben az emberek élnek.",
+        "quoteCite": "– Per-Arne Håkansson, svéd képviselő",
+        "sourceLabel": "Forrás: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "A svájci modell: Közvetlen demokrácia akcióban",
+        "intro": "Svájc bebizonyította, hogy a polgárok kötelező érvényű népszavazásokon keresztül közvetlenül irányíthatják politikusaikat. A svájciak évente körülbelül 4 alkalommal szavaznak átlagosan 15 szövetségi kérdésről.",
+        "popularInitiative": {
+          "title": "Népszerű kezdeményezés",
+          "requirement": "100.000 aláírás",
+          "text": "Alkotmánymódosítási szavazás – az állampolgárok javaslatot tehetnek az alkotmány módosítására"
+        },
+        "optionalReferendum": {
+          "title": "Választható népszavazás",
+          "requirement": "50.000 aláírás",
+          "text": "A törvény elfogadását követő 100 napon belül megvétózhat minden törvényt"
+        },
+        "mandatoryReferendum": {
+          "title": "Kötelező népszavazás",
+          "requirement": "Automatikus",
+          "text": "MINDEN alkotmánymódosítást népszavazáson KELL elvégezni"
+        },
+        "facts": {
+          "nonProfessional": "Nem hivatásos politikusok: a képviselőknek nincs teljes állami fizetésük – elvárják, hogy fenntartsák a rendes munkahelyüket",
+          "referendums": "1848-2024 között: 517 népszavazást tartottak",
+          "cpi": "TI CPI helyezés: globálisan 3. (holtversenyben Svédországgal és Szingapúrral)"
+        },
+        "quote": "A nép szava a legfőbb.",
+        "quoteCite": "— Svájci demokratikus elv",
+        "stats": "A legfontosabb svájci statisztikák:"
+      }
+    },
+    "portugalReality": {
+      "title": "Portugália valóság",
+      "drivers": {
+        "number": "11",
+        "label": "António Costa miniszterelnök sofőrjei",
+        "detail": "Mindegyik 2121 eurót keres havonta"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Kabinet tagjai",
+        "detail": "Átlag: 2 794 € | Tanárok: 1705 € | Minimális bér: 820 euró"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Pontcsökkenés a TI CPI 2024-ben",
+        "detail": "Pontszám: 57/100 | Rang: 43. a 180 ország közül"
+      }
+    },
+    "citizensKnow": "A polgárok tudják, hogy a rendszer korrupt:"
+  },
+  "cases": {
+    "title": "A bizonyítékok: Teljes akták",
+    "intro": "Dokumentált esetek, amelyek bemutatják a védelmi rendszer működését",
+    "timelineLabel": "Idővonal",
+    "status": {
+      "ongoing": "Próba folyamatban",
+      "trialOngoing": "Próba folyamatban",
+      "euCouncilPresident": "EU Tanács elnöke",
+      "euPromoted": "EU Tanács elnöke",
+      "archived": "Archivált",
+      "declined": "A vizsgálatot elutasították",
+      "arguido": "Hivatalos gyanúsított (arguido)",
+      "pgrDeclined": "A PGR elutasította a vizsgálatot",
+      "formalSuspect": "Hivatalos gyanúsított (arguido)",
+      "convictedServing": "ELÍTÉLTETT – Szolgál",
+      "convictedAppealing": "ELÍTÉLTETT – Fellebbező",
+      "convictedRearrested": "ELÍTÉLTETETT (2010) – Újra letartóztatták 2022-ben",
+      "convictedMultiple": "ELÍTÉLTETT TÖBBET",
+      "formalSuspectArguido": "FORMÁLIS GYANÚSÍTÁS (arguido)",
+      "arrestedJan2024": "LEtartóztatva (2024. január)",
+      "neverProsecuted": "SOHA NEM VEZETETT BEJEGYZÉS",
+      "neverDefendant": "Soha nem vádlott",
+      "convictedUnpaid": "ELÍTÉLTETT – tartozás kifizetetlen",
+      "convictedMultipleJurisdictions": "ELÍTÉLTETT – Portugália és Brazília",
+      "convictedSuspended": "ELÍTÉLTETT – Felfüggesztett büntetés",
+      "convictedHouseArrest": "ELÍTÉLTETT – házi őrizet"
+    },
+    "tableStatus": {
+      "onTrial": "Próba alatt",
+      "underInvestigation": "Vizsgálat alatt",
+      "convicted": "ELÍTÉLT",
+      "convictedX2": "ELÍTÉLTETT x2",
+      "arguido": "Arguido",
+      "archived": "Archivált",
+      "declined": "Elutasítva",
+      "arrested": "LETARTÓZTATOTT",
+      "neverProsecuted": "Soha nem indítottak eljárást",
+      "neverDefendant": "Soha nem vádlott*",
+      "convictedSuspended": "ELÍTÉLTETETT (FÜGY.)"
+    },
+    "charges": {
+      "passiveCorruption": "Passzív korrupció",
+      "moneyLaundering": "Pénzmosás",
+      "documentFalsification": "Irathamisítás",
+      "taxFraud": "Súlyosított adócsalás"
+    },
+    "conditioningLesson": "Kondicionáló lecke",
+    "theFacts": "A Tények",
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Operação Marquês",
+      "party": "PS – Szocialista Párt",
+      "position": "miniszterelnök (2005-2011)",
+      "timeline": {
+        "arrested": "Letartóztatták a lisszaboni repülőtéren",
+        "detained": "Őrizetben az Évora börtönben",
+        "accusation": "Hivatalos vád (28 bűncselekmény)",
+        "trial": "25 bűncselekményt indítottak bíróság elé",
+        "ongoing": "A próba még folyamatban van – 11+ ÉVE",
+        "instruction": "Oktató határozat - 25 bûncselekményt küldtek bíróság elé",
+        "current": "A próba még folyamatban van – 11+ ÉVE"
+      },
+      "charges": {
+        "title": "Vádak (összesen 22 bűncselekmény)",
+        "corruption": "A politikai tisztségviselők passzív korrupciója",
+        "laundering": "Pénzmosás",
+        "falsification": "Irathamisítás",
+        "fraud": "Súlyosított adócsalás"
+      },
+      "amounts": {
+        "switzerland": "Svájc (2006-2009)",
+        "total": "Összesen 3 társaságtól",
+        "prescribed": "Előírt díjak"
+      },
+      "keyFacts": {
+        "title": "Főbb tények a hivatalos vádból",
+        "switzerland": "Svájcban felhalmozott (2006-2009)",
+        "total": "Összesen állítólag három vállalattól érkezett",
+        "sources": "A kenőpénzek forrásai: Grupo LENA (építőipar), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (golfüdülő), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Kondicionáló lecke",
+        "text": "Az ügyek korlátlanul halogathatók. Még a volt miniszterelnököknek sem kell egy évtizedig semmilyen következménye. Minden fellebbezés visszaállítja a határidőket."
+      },
+      "coAccused": {
+        "apartment": "Párizsi lakás",
+        "description": "Sócrates közeli barátja és állítólagos „finanszírozója”. Üzletember, aki állítólag milliókat juttatott el a volt miniszterelnökhöz ingatlanvásárlással, autófizetéssel és lakásfelújítással. 9 rendbeli pénzmosással vádolják.",
+        "expenses": "Megélhetési költségek",
+        "renovations": "Felújítások",
+        "sources": "Források: DCIAP vádirat, portugál sajtóértesülések",
+        "title": "Legfontosabb vádlott-társ: Carlos Santos Silva",
+        "vehicles": "Járművek"
+      },
+      "prescription": {
+        "title": "⏱️ Elévülési válság",
+        "text": "Az eredetileg 189 állítólagos bűncselekményből 167 már előírt (lejárt) eljárási késedelmek miatt. Csak 22 töltés marad aktív 11+ év után."
+      }
+    },
+    "costa": {
+      "name": "António Costa",
+      "operation": "Operação Influencer",
+      "party": "PS – Szocialista Párt",
+      "position": "Miniszterelnök (2015-2023) → EU Tanács elnöke (2024-)",
+      "timeline": {
+        "raid": "A rendőrség razzia a São Bento palotában",
+        "resigns": "Costa azonnal lemond",
+        "elected": "Az EU vezetői Costát VÁLASZTÁK elnökké",
+        "takesOffice": "Az EU Tanácsának elnökeként lép hivatalba",
+        "ongoing": "MÉG vizsgálat alatt",
+        "resignation": "Costa azonnal lemond",
+        "euElection": "Az EU vezetői Costát az Európai Tanács elnökévé VÁLASZTÁK",
+        "current": "MINDIG vizsgálat alatt áll, MÉG ELNÖKSÉG az EU-ban"
+      },
+      "keyFacts": {
+        "title": "A Tények",
+        "cash": "Könyvekbe és borosdobozokba rejtett készpénzt találtak a személyzeti főnök irodájában",
+        "relates": "A vizsgálat a következőkre vonatkozik: lítiumbányászat, zöld hidrogén, adatközponti projektek Sinesben",
+        "arrests": "Legfontosabb letartóztatások: Vítor Escária (vezérkari főnök – letartóztatták), Nuno Mascarenhas (Sines polgármestere – letartóztatták), Diogo Lacerda Machado (üzletember – letartóztatták)",
+        "galamba": "Összeesküvőtársak: João Galamba (infrastruktúra-miniszter – hivatalos arguido) – állítólag lítium-hidrogén-projektekkel kapcsolatos befolyással üzérkedésben vett részt; Costa lemondásáig kormányon maradt"
+      },
+      "lesson": {
+        "title": "Kondicionáló lecke",
+        "text": "Maximális hűség = EU-s promóció. A bűnügyi nyomozás nem akadálya a legmagasabb uniós pozíciók betöltésének. A végső csemege a leghűségesebb kutyának."
+      },
+      "quote": "2024. június 27-én az EU vezetői António Costát választották az Európai Tanács elnökévé. 2024. december 1-jén lépett hivatalba.",
+      "quoteCite": "— Az Európai Tanács hivatalos honlapja"
+    },
+    "montenegro": {
+      "name": "Luís Montenegró",
+      "operation": "Spinumviva-ügy",
+      "party": "PSD – Szociáldemokrata Párt",
+      "position": "Miniszterelnök (2024-től napjainkig)",
+      "amounts": {
+        "family": "410 000+ € családi vállalkozásban",
+        "solverde": "4500 €/hó tanácsadás szerencsejáték-társaság számára"
+      },
+      "loopholeTitle": "A kiskapu, amely megmentette:",
+      "loophole": {
+        "notFormal": "Formálisan nem vádoltak – csak az ügyben megnevezték",
+        "preliminary": "Az előzetes vizsgálatot (averiguação) vádemelés nélkül lezárták",
+        "archived": "Az ügy archiválva: 2025. december 17"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "SIC politikai kommentátor",
+      "party": "PSD – Szociáldemokrata Párt",
+      "position": "A PSD korábbi vezetője (2005-2007), az államtanács tagja",
+      "amounts": {
+        "consultant": "700 000 €+ nem közölt tanácsadói díjak",
+        "aca": "5000 €/hó az ACA-M-től (állami vállalkozó)"
+      },
+      "keyFacts": {
+        "aca": "Évente 60 000 eurót kapott az ACA-M-től, miközben több mint 400 millió euróval rendelkezett állami szerződésekben",
+        "irony": "A SIC kommentátoraként anélkül nyilatkozik a korrupcióról, hogy felfedné saját pénzügyi érdekeit"
+      },
+      "loopholeTitle": "A kiskapu, amely megmentette:",
+      "loophole": {
+        "complaint": "Névtelen feljelentés",
+        "pgr": "PGR elutasítva \"parco detalhe\" miatt (nem kellő részlet)",
+        "noInvestigation": "Soha nem indult nyomozás",
+        "destroyed": "A bizonyítékokat hatékonyan megsemmisíti a cselekvés hiánya"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Operação Ab Initio",
+      "party": "PSD – Szociáldemokrata Párt",
+      "position": "Madeira regionális kormányának elnöke",
+      "timeline": {
+        "searches": "2024. január: Rendőrségi házkutatás a kormányhivatalokban",
+        "crimes": "8 állítólagos bűncselekmény: passzív korrupció, hatalommal való visszaélés",
+        "censure": "2024. március: A bizalmatlansági indítvány sikertelen",
+        "reelection": "2024. május: ÚJRA VÁLASZTOTTAK, miközben vizsgálat alatt áll"
+      },
+      "relatedArrest": "Kapcsolódó letartóztatás:",
+      "calado": {
+        "text": "Pedro Caladót (a PSD alelnökét) 2024 januárjában tartóztatták le korrupció miatt"
+      },
+      "lesson": {
+        "text": "A formális vizsgálat nem akadálya az újraválasztásnak. A rendszer védi a sajátját."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado",
+      "charges": "Többféle ítélet: BES összeomlása, EDP korrupció",
+      "note": "Alzheimer-kórban szenved, hogy elkerülje a börtönt. Még mindig bankár nyugdíjat kap."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Az Operação Influencer (lítium/hidrogén korrupció) hivatalos gyanúsítottja",
+      "note": "Costa miniszterelnök lemondásáig az infrastrukturális miniszter maradt"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Letartóztatták korrupció, közbeszerzési szerződések összejátszása miatt",
+      "note": "Madeira alelnöke, 2024 januárjában letartóztatták"
+    },
+    "barroso": {
+      "name": "José Manuel Barroso",
+      "charges": "Tengeralattjáró-botrányban nevezték el. Soha nem indítottak eljárást.",
+      "note": "Az EU Bizottság elnöke (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "További elítélt/vádolt politikusok",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3,5 év: Minősített csalás, vagyonelosztás. 900 millió euró feletti tartozás a CGD állami bank felé",
+      "note": "Több mint 500 millió euró értékű műgyűjtemény a lefoglalás előtt alapítványokhoz került. A Legfelsőbb Bíróság 4 évre meghosszabbította az ítéletet (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 év (PT) + 25 év (BR): csalás (BPN), Rosalina Ribeiro meggyilkolása Brazíliában",
+      "note": "A PSD korábbi képviselője (1987-2008). Az áldozat ügyfele vagyonának örököse volt. A brazil ítélet a kiadatás előtt áll"
+    },
+    "loureiro": {
+      "name": "Valentin Loureiro",
+      "charges": "2 év felfüggesztett: Apito Dourado futballkorrupció. Rögzítés, játékvezetők megvesztegetése",
+      "note": "Gondomar polgármestere (1976-2013). A Boavista FC elnöke. Soha nem töltötte börtönbüntetését"
+    }
+  },
+  "eliteLaws": {
+    "title": "Az elit védelmére tervezett törvények",
+    "intro": "Hogyan blokkolta szisztematikusan az Alkotmánybíróság és a Parlament az elszámoltatást",
+    "cc": {
+      "title": "Az Alkotmánybíróság: a büntetlenség őre",
+      "intro": "A portugál alkotmánybíróság (Tribunal Constitucional) KÉTSZER (2012-ben és 2015-ben) semmisítette meg a tiltott gazdagodásról szóló törvényeket, míg a parlament 18 év alatt több mint 22 jogalkotási kísérletet blokkolt. Portugália továbbra is az EGYETLEN EU-ország, ahol a megmagyarázhatatlan gazdagság nem büntethető.",
+      "timelineTitle": "A blokkolt reform 18 éve (2007-2025)"
+    },
+    "ruling2012": {
+      "badge": "LETÖRVE",
+      "title": "Acórdão 179/2012",
+      "date": "2012. április 4",
+      "claimedReason": "Állított ok:",
+      "claimedText": "Sérti az ártatlanság vélelmét (CRP 32º. cikk)",
+      "reality": "Valóság:",
+      "realityText": "Franciaország, Spanyolország, Olaszország és több mint 45 ország rendelkezik hasonló törvényekkel, amelyek alkotmányos felülvizsgálaton mentek keresztül.",
+      "paradox": "A paradoxon:",
+      "paradoxText": "A bíróság védi az \"ártatlanság vélelmét\" a vagyoni magyarázatok miatt, miközben eltűri a 11 éves tárgyalási késedelmet, amely ugyanezt a jogot sérti."
+    },
+    "ruling2015": {
+      "badge": "LETÖLTÉS (Egyhangú)",
+      "title": "Acórdão 377/2015",
+      "date": "2015. július 27",
+      "response": "A parlament válasza:",
+      "responseText": "A 2012-es aggodalmak kezelésére átdolgozott törvény – hozzáadta a követelményt, hogy az ügyészségnek először bizonyítania kell a vagyon növekedését.",
+      "tcResponse": "TC válasza:",
+      "tcResponseText": "Ismét leütötték azonos indokok alapján – egyhangúlag.",
+      "message": "Üzenet:",
+      "messageText": "A tiltott gazdagodásról szóló törvény egyetlen változata sem fogadható el."
+    },
+    "euComparison": {
+      "title": "EU-összehasonlítás: Miért csak Portugália?",
+      "country": "Ország",
+      "law": "A tiltott gazdagodásról szóló törvény",
+      "status": "Alkotmányos állapot",
+      "approved": "jóváhagyott",
+      "note": "Ezen országok mindegyike azonos alkotmányos védelmet biztosít az ártatlanság vélelmére vonatkozóan. Csak a portugál TC tartja „alkotmányellenesnek” a tiltott gazdagodást."
+    },
+    "bipartisan": {
+      "title": "A kétpárti blokkológép",
+      "intro": "18 éve (2007-2025) a PS és a PSD felváltva blokkolja a korrupcióellenes reformokat – függetlenül attól, hogy ki van hatalmon."
+    },
+    "subtitle": "Hogyan blokkolta szisztematikusan az Alkotmánybíróság és a Parlament az elszámoltatást",
+    "acordao179": {
+      "title": "Acórdão 179/2012",
+      "date": "2012. április 4"
+    },
+    "acordao377": {
+      "title": "Acórdão 377/2015",
+      "date": "2015. július 27"
+    },
+    "immunityComparison": {
+      "title": "Parlamenti mentelmi jog: EU-összehasonlítás"
+    },
+    "prescription": {
+      "title": "Elévülési idők: EU-s összehasonlítás"
+    },
+    "prescriptionNote": "Megjegyzés: Portugáliában van a leghosszabb átlagos eset időtartam, ÉS széles körű immunitást tart fenn – ez a legrosszabb kombináció.",
+    "euScorecard": {
+      "title": "EU Korrupcióellenes Scorecard",
+      "note": "Portugália folyamatosan a nyugat-európai demokráciák legalján áll."
+    }
+  },
+  "loopholes": {
+    "title": "A jogi architektúra: tervezett menekülőnyílások",
+    "subtitle": "Ezek nem hibák, hanem szolgáltatások",
+    "anonymousComplaint": {
+      "title": "Névtelen panaszok elutasítva",
+      "text": "A CPP 246.º n.º 6. cikke lehetővé teszi az ügyészek számára, hogy a „parco detalhe” (nem kellő részletesség) miatt utasítsák el a névtelen panaszokat, még akkor is, ha bizonyítékot szolgáltatnak."
+    },
+    "immunity": {
+      "title": "Parlamenti mentelmi jog",
+      "text": "A CRP 157.º cikkelye megakadályozza, hogy a képviselőket a Parlament engedélye nélkül őrizetbe vegyék – amit politikai szövetségesek számára soha nem adnak meg."
+    },
+    "averiguacao": {
+      "title": "Előzetes vizsgálati szakasz",
+      "subtitle": "Averiguação előzetes",
+      "text": "A nyomozás előtti szakasz, amely évekig tarthat hivatalos vádemelés nélkül, lehetővé téve a politikusok számára, hogy azt állítsák, „nem folyik vizsgálat”."
+    },
+    "segredo": {
+      "title": "Bírósági titok",
+      "text": "A CPP 86.º n.º 3. cikke lehetővé teszi a \"segredo de justiça\" számára, hogy évekig eltitkolja a nyomozást – miközben a politikusok továbbra is hivatalban maradnak és előléptetik."
+    },
+    "prescription": {
+      "title": "Elévülési szabály",
+      "articles": "CP 118-122. cikk",
+      "text": "A bonyolult korrupciós ügyek elodázhatók, amíg előírják (lejárnak). Az átlagos eset 8-12 évig tart; a recept 10-15 év."
+    },
+    "constitutionalCourt": {
+      "title": "Alkotmánybíróság Vétó",
+      "subtitle": "Tribunal Constitucional",
+      "text": "A TC KÉTSZER (2012-ben, 2015-ben) hatályon kívül helyezte a tiltott gazdagodási törvényeket, és több népszavazási kísérletet is blokkolt."
+    },
+    "immunityComparison": {
+      "title": "Parlamenti mentelmi jog: EU-összehasonlítás",
+      "scope": "Az immunitás hatálya",
+      "canBlock": "Blokkolja a nyomozást?",
+      "note": "Portugália mentelmi joga a legszélesebb körű az EU-ban a hasonló alkotmányos keretek ellenére. A képviselőket nem lehet őrizetbe venni parlamenti szavazás nélkül – amit politikai szövetségesek soha nem kapnak meg."
+    },
+    "prescriptionComparison": {
+      "title": "Elévülési idők: EU-s összehasonlítás",
+      "period": "Időszak",
+      "suspension": "Felfüggesztették a vizsgálat alatt?",
+      "avgDuration": "Az eset átlagos időtartama",
+      "critical": "Kritikus megállapítás:",
+      "finding": "Operação Marquês: 167 vádemelés a 189-ből (88%-át \"túl későn\" utasították el). A bíró elismerte a bizonyítékot, de úgy ítélte meg, hogy \"lejárt az idő\".",
+      "stat": "A portugál ügyészek 73%-a szerint az elévülési idő nem elegendő. (Forrás: Transparency International)"
+    },
+    "article246": {
+      "title": "A 246º-os cikk paradoxona",
+      "mechanism": "A mechanizmus:",
+      "explanation": "A CPP 246.º n.º 6. cikke előírja, hogy az ügyészek a nyomozás ELŐTT találják meg a bűncselekmény „indícióit” (jelzéseit). De hogyan lehet jeleket megállapítani vizsgálat nélkül? A törvény tökéletes fogást hoz létre-22.",
+      "cases": "Esetekre vonatkozó alkalmazások:",
+      "montenegro": "410 000 € dokumentált kifizetések → \"elégtelen\"",
+      "mendes": "700 000 € banknyilvántartás → \"kevés részlet\"",
+      "verdict": "\"Eljárási biztosítéknak álcázott tervezési jellemző.\""
+    },
+    "inconsistency": {
+      "title": "Alkotmánybíróság: Szelektív alkalmazás",
+      "permitted": "✓ ENGEDÉLYEZVE Portugáliában",
+      "prohibited": "✗ TILTOTT a TC",
+      "p1": "• Az ügyészek a dokumentumok ellenére elutasítják a nyomozást (Montenegró, Mendes)",
+      "p2": "• 11 éves tárgyalási késedelem (Sócrates)",
+      "p3": "• Parlamenti mentelmi joggal kapcsolatos vizsgálatok",
+      "p4": "• 26 000 €/hó nyugdíj az elítélt miniszterek számára",
+      "n1": "• A tisztviselőktől megkövetelik, hogy magyarázzák el a vagyon dokumentált növekedését",
+      "n2": "• A megmagyarázhatatlan gazdagodás kriminalizálása a növekedés bizonyítása után",
+      "n3": "• Bizonyítási teher hárítása azokra a tisztviselőkre, akik kizárólagosan rendelkeznek bizonyítékkal",
+      "n4": "• Illegális gazdagodási törvények (megsemmisítve 2012-ben, 2015-ben)",
+      "note": "Franciaország, Spanyolország és Olaszország azonos alkotmányos védelmet biztosít az ártatlanság vélelmére vonatkozóan – mégis fenntartják a tiltott gazdagodásra vonatkozó törvényeket. Csak a portugál TC találja ezeket \"alkotmányellenesnek\"."
+    },
+    "intro": "Portugália jogrendszere speciális mechanizmusokat tartalmaz, amelyek lehetővé teszik a politikai osztály büntetlenségét."
+  },
+  "blocking": {
+    "title": "A blokkoló minta: 18 év szándékos kudarc",
+    "subtitle": "Minden reformkísérletet blokkoltak, meggyengítettek vagy megsemmisítettek",
+    "timeline": {
+      "title": "Az illegális gazdagodás blokkolásának idővonala (2007-2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Lobby szabályozás blokkolása"
+    },
+    "symbiosis": {
+      "title": "A PS/PSD szimbiózis: két kutya, egy kennel",
+      "psTitle": "PS (Szocialista Párt)",
+      "psdTitle": "PSD (szociáldemokraták)",
+      "ps": {
+        "noProsecute": "Nem indít eljárást a PSD-tagok ellen",
+        "loopholes": "Fenntartja a jogi kiskapukat, amelyek mindkét fél számára előnyösek",
+        "blocksReforms": "Ellenzékben blokkolja a korrupcióellenes reformokat"
+      },
+      "psd": {
+        "noProsecute": "Nem indít eljárást a PS tagjai ellen",
+        "loopholes": "Fenntartja a jogi kiskapukat, amelyek mindkét fél számára előnyösek",
+        "blocksReforms": "Ellenzékben blokkolja a korrupcióellenes reformokat"
+      }
+    },
+    "quote": {
+      "text": "\"O PCP apresentou projetos de lei para kriminalizar o enriquecimento ilícito. Foram semper rejeitados pelo PS e pelo PSD.\"",
+      "translation": "\"A PCP törvényjavaslatokat nyújtott be a tiltott gazdagodás kriminalizálására. A PS és a PSD mindig elutasította őket.\""
+    },
+    "otherParties": {
+      "title": "Egyéb pártok: Az impotens ellenzék",
+      "proposedReforms": "Javasolt reformok (minden elutasítva):",
+      "reforms": {
+        "pcp1": "PCP Project 726/X (2009) – Illegális gazdagodás",
+        "pcp2": "PCP Project 25/XI (2009) – Illegális gazdagodás",
+        "chega": "Chega (2021) – Illegális gazdagodás",
+        "be": "BE – Több átláthatósági javaslat"
+      },
+      "chegaVote": {
+        "title": "A Chega javaslatát MINDEN fél elutasította (2021)",
+        "text": "Amikor Chega 2021-ben tiltott gazdagodást javasolt, <strong>minden párt ellene szavazott</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> – NEM",
+        "psd": "• <span class=\"text-psd\">PSD</span> – NEM",
+        "be": "• <span class=\"text-pink-500\">BE</span> – NEM (\"forrás\" miatt tartózkodott)",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> – NEM (\"forrás\" okokból tartózkodik)",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> – NEM",
+        "note": "A baloldali pártok nem voltak hajlandók a szélsőjobboldalra szavazni, még az általuk támogatott reformra sem"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "A paradoxon:",
+      "paradoxText": "A korrupcióellenes reformot nyilvánosan támogató pártok mások javaslatára ellene szavaznak."
+    },
+    "intro": "Minden reformkísérletet blokkoltak, gyengítettek vagy elutasítottak",
+    "visual": {
+      "title": "18 év blokkolás",
+      "attempts": "Reformkísérletek",
+      "years": "Évek késedelemmel",
+      "laws": "Gyengített törvények"
+    }
+  },
+  "euRewards": {
+    "title": "Az EU jutalmazási rendszere: A hűséges kutyák csemegéket kapnak",
+    "subtitle": "Vizsgálat → EU-promóció",
+    "costaTimeline": {
+      "title": "A Costa idővonal – Végső kondicionálási bizonyíték"
+    },
+    "december": {
+      "title": "A 2025. decemberi Trifecta"
+    },
+    "trifecta": {
+      "title": "A 2025. decemberi Trifecta",
+      "subtitle": "Három politikus megúszta az elszámoltatást egyetlen hónap alatt:"
+    },
+    "broaderPicture": {
+      "title": "A tágabb kép"
+    },
+    "observation": "Észrevétel: Az EU a hűséget jutalmazza, nem az integritást.",
+    "intro": "Nyomozás → EU-előléptetés",
+    "table": {
+      "title": "Portugál politikusok → EU-álláspontok",
+      "patternNote": "Ez a táblázat azt a mintát dokumentálja, hogy a politikusok a viták ellenére uniós pozíciókat kaptak. A korreláció nem bizonyítja az ok-okozati összefüggést vagy a koordinációt – de a gyakoriság indokolja a vizsgálatot."
+    },
+    "revolvingDoor": {
+      "title": "A forgóajtó: Brüsszel → Magánszektor"
+    }
+  },
+  "solution": {
+    "title": "Az egyetlen megoldás: Külső erő",
+    "subtitle": "Miért lehetetlen a belső reform – és mit tehetnek a polgárok?",
+    "impossibility": {
+      "title": "Miért lehetetlen a belső reform?"
+    },
+    "mechanisms": {
+      "title": "A külső mechanizmusok"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "1. kérdés"
+      },
+      "q2": {
+        "title": "2. kérdés"
+      },
+      "q3": {
+        "title": "3. kérdés"
+      },
+      "q4": {
+        "title": "4. kérdés"
+      },
+      "q5": {
+        "title": "5. kérdés"
+      }
+    },
+    "whyImpossible": {
+      "title": "Miért lehetetlen a belső reform?"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Polgári Népszavazási Kezdeményezés",
+        "subtitle": "aláírások szükségesek",
+        "text": "A polgárok kötelező érvényű népszavazást javasolhatnak bármely nemzeti jelentőségű ügyben."
+      },
+      "legislativa": {
+        "title": "Polgári jogalkotási kezdeményezés",
+        "subtitle": "aláírások szükségesek",
+        "text": "A polgárok közvetlenül a parlamentnek tehetnek javaslatot jogszabályra."
+      },
+      "european": {
+        "title": "Európai Polgári Kezdeményezés",
+        "subtitle": "aláírásra van szükség 7+ EU-országban",
+        "text": "Az egész EU-ra kiterjedő mechanizmus az Európai Bizottságnak szóló jogszabályjavaslatokhoz."
+      }
+    },
+    "damningRecord": {
+      "title": "A Damning Record",
+      "text": "Portugália népszavazási története azt mutatja, hogy a rendszert úgy tervezték, hogy megbukjon:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Digitális kirekesztés: Az idősek elhallgattatása",
+      "usageByAge": "Internethasználat korcsoportonként (Portugália, 2024)",
+      "keyStats": "Főbb statisztikák:"
+    },
+    "proposedQuestions": {
+      "title": "Javasolt népszavazási kérdések"
+    },
+    "intro": "Miért lehetetlen a belső reform — és mit tehetnek a polgárok",
+    "tradeoffs": {
+      "title": "Őszinte kompromisszumok: az általunk javasoltnak vannak kockázatai",
+      "intro": "Az átláthatóság jegyében elismerjük, hogy a közvetlen demokrácia mechanizmusainak (például a svájci típusú népszavazásoknak) valódi kihívásai vannak:",
+      "challenges": {
+        "title": "Ismert kihívások",
+        "engagement": "• <strong>Szavazói fáradtság:</strong> A svájci részvételi arány átlagosan 40-50%. A gyakori szavazás kimerítheti a polgárokat.",
+        "complexity": "• <strong>Bonyolultság csökkentése:</strong> Az árnyalt irányelvek igen/nem értékre csökkennek. Az egyszerűsítés kockázatai.",
+        "populism": "• <strong>Populista manipuláció:</strong> A jól finanszírozott kampányok megingathatják a rosszul tájékozott szavazókat.",
+        "minority": "• <strong>Kisebbségi jogok:</strong> A többség szavazhat a kisebbségek ellen (svájci minarettilalom, 2009).",
+        "corruption": "• <strong>Nem korrupciómentes:</strong> Svájc a 7. helyen áll a fogyasztói árindex alapján – jó, de nem tökéletes."
+      },
+      "whyStill": {
+        "title": "Miért ajánljuk még mindig?",
+        "accountability": "• <strong>Elszámoltathatóság:</strong> tökéletlen elszámoltathatóság > nulla elszámoltathatóság.",
+        "binding": "• <strong>Kötelező eredmények:</strong> A politikusok nem hagyhatják figyelmen kívül az eredményeket, mint ahogy a petíciókat.",
+        "deterrent": "• <strong>Elrettentő hatás:</strong> Ha tudjuk, hogy a szavazók felülbírálhatják, az válaszkészségre ösztönöz.",
+        "culture": "• <strong>Kultúraváltás:</strong> A rendszeres részvétel idővel növeli az állampolgári elkötelezettséget.",
+        "track": "• <strong>Előremutató:</strong> 1848 óta több mint 700 svájci népszavazás. A rendszer nem működik tökéletesen."
+      },
+      "conclusion": "<strong class=\"text-white\">Álláspontunk:</strong> Nem állítjuk, hogy a közvetlen demokrácia tökéletes. Azt állítjuk, hogy jobb, mint egy olyan rendszer, amelyben a politikusok saját fizetésükről, mentelmi jogukról és elszámoltathatóságukról szavaznak – és következetesen úgy döntenek, hogy megvédik magukat. A kérdés nem az, hogy \"tökéletes-e a közvetlen demokrácia?\" de \"Jobb, mint amink van?\" A bizonyítékok arra utalnak, hogy igen."
+    }
+  },
+  "euLabor": {
+    "title": "A munkások elleni háború: az EU munkajogainak felszámolása",
+    "subtitle": "Hogyan gyengítette az európai integráció a munkavállalók védelmét Portugáliában",
+    "germany": {
+      "title": "Németország: Hartz IV reformok",
+      "benefits": "Az előnyök minimális szintre csökkennek",
+      "duration": "A munkanélküli segély 12 hónapra korlátozódik",
+      "dependent": "Létrehozták a \"dolgozó szegények\" új osztályát"
+    },
+    "france": {
+      "title": "Franciaország: El Khomri és nyugdíjreform",
+      "elKhomri": "El Khomri törvény (2016): Meggyengült munkavédelem",
+      "pension": "Nyugdíjreform (2023): A tömeges tiltakozások ellenére megemelték a nyugdíjkorhatárt",
+      "yellowVests": "A sárgamellény mozgalmat leverte a rendőri erőszak"
+    },
+    "uk": {
+      "title": "Egyesült Királyság: Megszorítások",
+      "welfare": "A jóléti rendszert kibelezték a \"megszorítások\" alatt",
+      "universalCredit": "Univerzális hitel: Az előnyök megtagadására tervezték",
+      "sanctioned": "2,5 millió alkalmazott szankció (2012-2018)"
+    },
+    "italy": {
+      "title": "Olaszország: Meloni kormány",
+      "citizenIncome": "A Reddito di Cittadinanza (polgári jövedelem) megszűnt",
+      "prison": "6 évig terjedő börtönbüntetés a forgalmat akadályozó sztrájk szervezéséért",
+      "strikes": "A sztrájkjog egyre inkább kriminalizálódik"
+    },
+    "pattern": {
+      "title": "A minta az egész EU-ban"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "A digitális kizárási réteg",
+      "description": "Azt a generációt, amely a teljes 50 éves korrupciós mintát tapasztalta, szisztematikusan kizárják a csak digitálisan használható népszavazási aláírási rendszerből."
+    },
+    "explanation": "A modern népszavazási kezdeményezésekhez digitális aláírásra van szükség, ami gyakorlatilag kizárja azokat az idősebb generációkat, akik kevésbé használják az internetet.",
+    "usageSource": "Forrás: Eurostat (2024)",
+    "stats": {
+      "65to74": "A 65-74 évesek 38,9%-a digitálisan kirekesztett",
+      "75plus": "A 75 év felettiek ~70%-a digitálisan kizárt",
+      "never": "Sokan soha nem használták az internetet",
+      "population": "Ez több mint 2 millió portugál állampolgárt jelent"
+    },
+    "warning": "A kegyetlen irónia:"
+  },
+  "conclusion": {
+    "notDemocracy": "Ez nem demokrácia korrupciós problémákkal",
+    "byDesign": "Ez Tervezett",
+    "euComplicit": "Az EU bűnrészes",
+    "choice": "A választás",
+    "byDesignText": "A rendszer nem romlott el. Így tervezték.",
+    "choiceText1": "Ezt a dokumentumot aláírta",
+    "choiceSignatures": "állampolgárok",
+    "choiceText2": "változást követel.",
+    "choiceThatsYou": "Ez TE vagy.",
+    "euComplicitText": "Az uniós intézmények a vizsgálat alatt álló tisztviselőket a vezető pozíciókba helyezik elő.",
+    "notDemocracyText": "Az az ország, ahol az állampolgárok nem tarthatnak népszavazást, nem teljes körű demokrácia.",
+    "choiceText": "Ezt a dokumentumot változtatást követelő polgárok írták alá."
+  },
+  "dashboard": {
+    "title": "Portugál Korrupciós Műszerfal",
+    "intro": "Hivatalos adatok a Transparency International, DGPJ, Eurostat és GRECO forrásokból",
+    "kpi": {
+      "cpi": {
+        "label": "TI CPI Pontszám 2024",
+        "trend": "-4 a 2023-as évhez képest"
+      },
+      "trust": {
+        "label": "Polgárok: «A Kormány Korrupt»",
+        "source": "Eurobarométer 2024"
+      },
+      "blocked": {
+        "label": "Blokkolt Jogalkotási Kísérletek",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Évek: Sócrates-ügy",
+        "trend": "Még mindig folyamatban van"
+      }
+    },
+    "charts": {
+      "cpi": "Korrupciós észlelési index (2012-2024)",
+      "duration": "Az eset átlagos időtartama (hónap)",
+      "euComparison": "EU-összehasonlítás: CPI-pontszám vs. tiltott gazdagodási törvény"
+    },
+    "sources": "Adatforrások:"
+  },
+  "forum": {
+    "title": "EU Polgári Fórum",
+    "intro": "Ossza meg véleményét a politikai elszámoltathatóságról",
+    "stats": "az uniós polgárok hozzájárulásai",
+    "form": {
+      "name": "Név (nem kötelező)",
+      "namePlaceholder": "Névtelen",
+      "country": "Ország",
+      "message": "Az Ön üzenete",
+      "messagePlaceholder": "Ossza meg gondolatait az EU politikai elszámoltathatóságáról...",
+      "submit": "Hozzászólás közzététele",
+      "note": "URL-ek nem engedélyezettek. A megjegyzéseket helyben tároljuk és moderáljuk."
+    },
+    "noComments": "Legyen Ön az első, aki megosztja álláspontját a politikai elszámoltathatóságról.",
+    "errors": {
+      "tooShort": "A megjegyzésnek legalább 10 karakterből kell állnia",
+      "tooLong": "A megjegyzésnek 1000 karakternél rövidebbnek kell lennie",
+      "prohibited": "A megjegyzés tiltott tartalmat tartalmaz"
+    },
+    "success": "A megjegyzés sikeresen hozzáadva",
+    "time": {
+      "justNow": "Éppen most",
+      "minutesAgo": "m ezelőtt",
+      "hoursAgo": "h ezelőtt",
+      "daysAgo": "d ezelőtt"
+    }
+  },
+  "donate": {
+    "title": "Támogassa az elfogulatlan kutatást",
+    "intro": "A teljes függetlenség megőrzése érdekében donoronként legfeljebb 2 euró",
+    "principles": {
+      "max": {
+        "title": "Maximum 2 €",
+        "text": "A nagy adományozók hiánya azt jelenti, hogy nincs befolyás. Mindenkinek egyforma hangja van."
+      },
+      "allParties": {
+        "title": "Minden fél dokumentált",
+        "text": "PS, PSD, CDS, PCP, BE, Chega – egyetlen párt sem mentesül az ellenőrzés alól."
+      },
+      "official": {
+        "title": "Csak hivatalos források",
+        "text": "Bírósági iratok, vádiratok, Alkotmánybírósági határozatok."
+      },
+      "transparency": {
+        "title": "Teljes átláthatóság",
+        "text": "Minden adat ellenőrizhető, minden forrásra hivatkozunk."
+      }
+    },
+    "stats": {
+      "raised": "Összesen emelt",
+      "donors": "Adományozók"
+    },
+    "whyMax": "Miért maximum 2 €?",
+    "whyMaxText": "A nagy adományok kötelezettségeket teremtenek. Polgárok ezreitől származó mikroadományok biztosítják, hogy ez a kutatás a közérdeket szolgálja, nem pedig politikai vagy üzleti célokat.",
+    "modal": {
+      "title": "Támogassa az elfogulatlan kutatást",
+      "purpose": "Az Ön mikroadománya támogatja a politikai elszámoltathatóság független kutatását az EU-ban.",
+      "principlesTitle": "Elveink:",
+      "maxDonor": "Maximum 2 €/adományozó – Nincsenek nagy adományozók, nincs befolyás",
+      "allPartiesDoc": "Minden fél dokumentált - PS, PSD, CDS, PCP, BE, Chega - minden benne van",
+      "officialOnly": "Csak hivatalos források – Bírósági dokumentumok, vádiratok",
+      "fullTransparency": "Teljes átláthatóság – Minden adat ellenőrizhető",
+      "paymentMethods": "Fizetési módok hamarosan:",
+      "simulateBtn": "Adományozás szimulációja (demó)",
+      "demoNote": "Ez egy demonstráció. A valódi fizetési integráció háttérbeállítást igényel."
+    },
+    "errors": {
+      "invalidAmount": "Adjon meg egy érvényes összeget",
+      "maxAmount": "A kutatás függetlenségének megőrzése érdekében a maximális adomány összege {{max}} €"
+    },
+    "success": "Köszönöm! {{amount}} € adomány rögzítve."
+  },
+  "footer": {
+    "legalTitle": "Jogi közlemény",
+    "legalNotice": "Jogi közlemény",
+    "legalNotice.text": "All individuals mentioned are entitled to the presumption of innocence. This document presents publicly available information from official sources, court documents, and verified media reports that the investigator considers essential for public awareness and democratic accountability.",
+    "legalText": "Az ebben a dokumentumban említett valamennyi személy jogosult az ártatlanság vélelmére mindaddig, amíg bűnösségét a bíróság be nem bizonyosodik. Ez a dokumentum hivatalos forrásokból, bírósági dokumentumokból és jó hírű médiából származó, nyilvánosan elérhető információkat tartalmaz. Az elemzés dokumentált mintákat mutat be a portugál jogi és politikai rendszerben.",
+    "prepared": "Készített dokumentum:",
+    "verified": "Minden forrás ellenőrizve a megjelenés időpontjában",
+    "legalNoticeText": "Minden bemutatott információ hivatalos bírósági dokumentumokból, parlamenti iratokból és jó hírű médiából származik. Az említett személyeket mindaddig ártatlannak tekintik, amíg bűnösségüket be nem bizonyítják."
+  },
+  "countries": {
+    "PT": "Portugália",
+    "ES": "Spanyolország",
+    "FR": "Franciaország",
+    "DE": "Németország",
+    "IT": "Olaszország",
+    "NL": "Hollandia",
+    "BE": "Belgium",
+    "AT": "Ausztria",
+    "PL": "Lengyelország",
+    "RO": "Románia",
+    "EL": "Görögország",
+    "CZ": "Csehország",
+    "HU": "Magyarország",
+    "SE": "Svédország",
+    "DK": "Dánia",
+    "FI": "Finnország",
+    "IE": "Írország",
+    "BG": "Bulgária",
+    "HR": "Horvátország",
+    "SK": "Szlovákia",
+    "SI": "Szlovénia",
+    "LT": "Litvánia",
+    "LV": "Lettország",
+    "EE": "Észtország",
+    "CY": "Ciprus",
+    "MT": "Málta",
+    "LU": "Luxemburg",
+    "EU": "EU-polgár"
+  },
+  "investigative": {
+    "badge": "Vizsgálati jelentés",
+    "title": "Mit tár fel ez a vizsgálat",
+    "intro": "A bírósági dokumentumok, parlamenti jegyzőkönyvek, alkotmánybírósági határozatok, GRECO-értékelések, Transparency International jelentések, Eurobarométer felmérések és 50 évnyi portugál médiaarchívum áttekintése után egy aggasztó minta rajzolódik ki: Portugália politikai rendszere nem törött meg – pontosan úgy működik, ahogyan eltervezték.",
+    "evidenceTitle": "A bizonyítékok azt mutatják:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Nemzetközi eredmények:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "Ez nem összeesküvés-elmélet. Ez dokumentált tény. A jelentésben szereplő minden állítás hivatalos dokumentumokból, bírósági határozatokból vagy jó hírű nemzetközi szervezetekből származik. A büntetlenség architektúrája nem rejtett – nyilvános, legális, és azok tartják fenn szándékosan, akiket véd.",
+    "evidence": {
+      "banking": "Több mint 20 milliárd eurót loptak el bankok összeomlása miatt (BPN, BES, CGD)",
+      "casaPia": "100+ gyereket bántalmaztak a Casa Piában, miközben az elit 20 éven át titkolta",
+      "pms": "2 miniszterelnök ellen nyomozott, 0 elítélt",
+      "reforms": "9+ korrupcióellenes reform, amelyet a PS/PSD blokkolt 1983 óta",
+      "referendums": "0 kötelező népszavazás a demokrácia 50 évében",
+      "suspended": "A korrupciós ügyek 75%-a felfüggesztett börtönbüntetéssel végződik"
+    },
+    "findings": {
+      "greco": "GRECO: A 15 korrupcióellenes ajánlás közül csak 1 került teljes mértékben végrehajtásra",
+      "ti": "Transparency International: Portugália a 25. helyről a 33. helyre esett vissza (2012-2024)",
+      "eurobarometer": "Eurobarométer: a portugálok 88%-a úgy gondolja, hogy a kormány korrupt",
+      "euAverage": "EU-átlag: 10 év átlagos vádemelési idő, szemben Portugáliában a 11 év felettiekkel",
+      "uncac": "UNCAC: 18 év az elkötelezettség óta, még mindig nincs tiltott gazdagodási törvény",
+      "euRuleOfLaw": "Az EU jogállamisága 2025: 81 ügy, 16 ítélet 2024-ben – átlagos vádemelési idő: 6,8 év"
+    }
+  },
+  "greco": {
+    "badge": "Az Európa Tanács értékelése",
+    "title": "GRECO: 1/15 ajánlás végrehajtva",
+    "subtitle": "Korrupcióellenes államok csoportja",
+    "intro": "A Korrupció Elleni Államok Csoportja (GRECO) többször is bírálta Portugália előrehaladásának hiányát",
+    "implemented": {
+      "number": "1",
+      "title": "Teljesen megvalósítva",
+      "subtitle": "15 ajánlás közül",
+      "text": "Csak egy, a politikai pártok finanszírozásának átláthatóságára vonatkozó ajánlást vették teljes mértékben figyelembe."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Részben megvalósítva",
+      "subtitle": "még a befejezés előtt áll",
+      "text": "Tartalmazza: MP magatartási kódexek, vagyonnyilatkozatok, összeférhetetlenség kezelése, lobbi átláthatóság."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Nincs megvalósítva",
+      "subtitle": "figyelmen kívül hagyják vagy elutasítják",
+      "text": "Tartalmazza: A tiltott gazdagodás bűncselekménnyé nyilvánítását, a visszaélést bejelentő személyek védelmét, a miniszterek megfontolási időszakait."
+    },
+    "criticismsTitle": "A GRECO legfontosabb kritikái (2023-as jelentés):",
+    "criticisms": {
+      "noCode": "Nincs kötelező magatartási kódex a képviselők számára",
+      "assets": "A vagyonnyilatkozatok független ellenőrzése nem történt meg",
+      "lobbyists": "Nincs lobbisták nyilvántartása",
+      "coolingOff": "A magánszektorba belépő miniszterek számára nincs megfontolási időszak",
+      "whistleblower": "A bejelentők védelméről szóló törvényben még mindig vannak hiányosságok",
+      "conflicts": "Az összeférhetetlenségi szabályokat rosszul hajtják végre",
+      "prosecution": "A vádemelési idő meghaladja az ésszerű határokat",
+      "immunity": "A politikai mentelmi jog túl tág szabályokat tartalmaz"
+    },
+    "source": "Forrás: GRECO Fifth Evaluation Round – Portugália",
+    "sourceLabel": "Forrás: GRECO Fifth Evaluation Round – Portugália",
+    "scorecard": {
+      "title": "10 éves meg nem felelés idővonala (2015-2025)",
+      "fourthRound": "NEGYEDIK FORDULÓ (2015)",
+      "fifthRound": "ÖTÖDIK FORDULÓ (2024)",
+      "focusMPs": "Képviselők, bírák, ügyészek",
+      "focusExec": "Kormányzat és rendfenntartás",
+      "implemented": "Implemented",
+      "fullyImplemented": "Teljesen megvalósítva",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "EU-átlag: 59% | Portugália: 33%",
+      "partial": "18 Részleges | 10 Nincs végrehajtva",
+      "ongoing": "Megfelelés Folyamatban"
+    },
+    "menac": {
+      "title": "MENAC: Nemzeti Korrupcióellenes Mechanizmus",
+      "staffed": "Staffed",
+      "detail": "A 27 engedélyezett állás közül csak 12 töltött be. 2023 júniusában „működőképesnek” nyilvánították, de a GRECO azt mondja: „nem teljesen működőképes”"
+    }
+  },
+  "whistleblower": {
+    "title": "Whistleblower Protection: The Missing Shield",
+    "subtitle": "Akik leleplezik a korrupciót, megtorlással néznek szembe, a korruptak pedig védelemmel",
+    "ruiPinto": {
+      "title": "A Rui Pinto-ügy",
+      "text": "Portugál hacker, aki leleplezte a \"Football Leaks\" botrányt, felfedve a korrupciót Európa legnagyobb klubjainál és Portugália igazságügyi rendszerében. Kiszivárogtatásai hozzájárultak az Operation Lex-hez (korrupt bírák) és a Luanda Leaks-hez.",
+      "outcomeTitle": "EREDMÉNY:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: Letartóztatták, kiadták Magyarországról",
+      "convicted": "Pinto: Hacker-bűncselekményekért elítélték",
+      "officials": "Korrupt tisztviselők, akiket leleplezett: Néhányan tárgyalás alatt állnak, többségük ingyenes"
+    },
+    "comparison": {
+      "title": "EU-összehasonlítás: A visszaélést bejelentő törvények",
+      "headers": {
+        "country": "Ország",
+        "protection": "Védelmi szint",
+        "status": "Állapot"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Erős",
+          "status": "Névtelen bejelentés + jogsegély"
+        },
+        "ireland": {
+          "protection": "Erős",
+          "status": "Átfogó 2014. évi törvény"
+        },
+        "france": {
+          "protection": "Erős",
+          "status": "Sapin II. törvény (2016)"
+        },
+        "germany": {
+          "protection": "Közepes",
+          "status": "Megvalósítása 2023"
+        },
+        "portugal": {
+          "protection": "Gyenge",
+          "status": "GRECO szerint maradnak hiányosságok"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "Két Ruis története",
+      "subtitle": "Két Rui nevű férfi, akik fel merték leplezni az igazságot. Mindkettőt megbüntették. A korrupt? Többnyire ingyenes."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "A <a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a> alapítója, egy WikiLeaks által ihletett portugál platform (2010), amely kormányzati dokumentumokat és biztonsági réseket tár fel. Az egyetlen webhely, amely Portugália \"politikai nyomásgyakorló csoportjai\" alatt szerepel a CIA World Factbookban.",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Az internetről kitiltva</strong> 8 hónapig",
+      "gagged": "• A bírósági <strong>öklendezési végzés</strong> függvénye",
+      "fired": "• <strong>Elbocsátották</strong> a PT Comunicaçõesnél",
+      "active": "• <span class=\"text-good\">2025-ben is aktív Tugaleaks</span>",
+      "source": "Forrás: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRI (Európai digitális jogok)</a>"
+    }
+  },
+  "media": {
+    "title": "A kondicionáló gép: Médiatulajdon",
+    "subtitle": "Kié a portugál média, és miért számít ez?",
+    "ownershipTitle": "Koncentrált tulajdonjog",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão – volt miniszterelnök (PSD)",
+      "cofina": "A fő részvényesek közé tartoznak az állam által megmentett bankok",
+      "mediaCapital": "Nemrég eladták, gyakran változik a tulajdonos",
+      "globalMedia": "Különféle érdekeltségű befektetők tulajdonában van",
+      "rtp": "Állami tulajdonú, a kormány által kinevezett testület"
+    },
+    "conditioningTitle": "A kondicionáló hatás",
+    "conditioningIntro": "Ha a médiatulajdonosok politikai pártokhoz kötődnek, vagy állami hirdetésektől függenek:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "AZ EREDMÉNY:",
+    "resultText": "A portugál polgárok tudják, hogy létezik korrupció (88% mondja ezt), de úgy érzik, hogy tehetetlenek változtatni rajta. A média botrányokkal foglalkozik, de ritkán kapcsolja össze azokat a rendszervédelmi architektúrával.",
+    "conditioning": {
+      "selfCensorship": "Az öncenzúra normalizálódik",
+      "underfunded": "Az oknyomozó újságírás alulfinanszírozott",
+      "forgotten": "A botrányok rövid ideig fedték, majd feledésbe merültek",
+      "bothSides": "\"Mindkét oldal\" hamis egyenértékűsége a korrupcióval kapcsolatban",
+      "personalities": "A személyiségekre összpontosítson, ne a rendszerszintű problémákra"
+    }
+  },
+  "eciCritique": {
+    "title": "Az ECI tervezési hibája: 12 hónapos ellenmobilizáció",
+    "problem": "A Bizottságnak 12 hónap áll rendelkezésére a válaszadásra – ideje ellenállást szervezni, lobbizni a végrehajtás ellen, vagy egyszerűen csak késlekedni, amíg a nyilvánosság figyelme elhalványul.",
+    "tacticsTitle": "Az intézmények számára elérhető ellenintézkedések:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Történelmi ECI-hibák:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "Az alternatíva:",
+    "alternativeText": "Ezért javasolunk KÖZVETLEN népszavazási mechanizmusokat, mint például Svájc, nem pedig petíción alapuló európai polgári kezdeményezéseket, amelyeket figyelmen kívül lehet hagyni. A svájci népszavazások KÖTELEZŐK – a politikusok nem várhatják ki őket.",
+    "comparisonTitle": "ECI kontra svájci népszavazás:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Teljes korrupciós adatbázis",
+    "subtitle": "Több mint 25 fő botrány nyilvánosságra került (1980-2025)",
+    "intro": "Minden nagyobb korrupciós eset összegekkel, kimenetelekkel és forrásokkal dokumentálva",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "Portugália történetének legnagyobb csalása. 700 millió €+ mérlegen kívüli veszteség fedezett fel. A bankot államosították.",
+        "sources": "Források: RTP, Público, Bírósági dokumentumok"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "Az EDP kapcsolat:",
+        "edpText": "Salgadót elítélték Manuel Pinho gazdasági miniszter 4,5 millió eurós megvesztegetése miatt kedvező EDP-döntések miatt.",
+        "sources": "Források: Observador, Bírósági dokumentumok, BdP jelentések",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado - vezérigazgató (1991-2014) - Több próba, egészségügyi késések",
+          "ricciardi": "José Maria Ricciardi - BES Investment - ELÍTÉLTETT",
+          "pires": "Amílcar Morais Pires - pénzügyi igazgató - ELÍTÉLTETT",
+          "cruz": "Machado da Cruz – kockázati igazgató – tárgyalás alatt"
+        },
+        "fraudStructure": {
+          "title": "A csalási struktúra:",
+          "hiddenLosses": "4,9 milliárd eurónyi fel nem tárt veszteség, amelyet offshore járművek rejtettek el",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPV-k (luxemburgi shell cégek)",
+          "mechanisms": "Kapcsolt felek kölcsönei, körgaranciák, rejtett kötelezettségek, fiktív eszközök, angolai műveletek (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgado lesz a vezérigazgató (23 éves kormányzás)",
+          "problems": "2013: A belső auditok problémákat mutatnak ki (családi ismeretek)",
+          "collapse": "2014–2018: 3,6 milliárd eurós veszteség, bank felfüggesztése, 4,9 milliárd eurós mentőcsomag",
+          "prosecution": "2015-2025: Több próbatétel, lassú haladás, a vezérigazgató soha nem került börtönbe"
+        },
+        "monteBlanco": {
+          "name": "Monte Branco-per",
+          "defendants": "18 vádlott, köztük Salgado",
+          "status": "Folyamatban 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Sócrates állítólag havi 15 000 eurót kapott Salgadótól",
+          "pinho": "Pinho miniszter 4,9 millió eurót kapott Salgadótól (10 évre elítélve)"
+        },
+        "regulatoryFailure": "A Bank of Portugal évekig hiányzott a figyelmeztető jelekről. A könyvvizsgálók aláírták a csaló számlákat."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Az állami tulajdonú bank a portugál történelem legnagyobb mentőcsomagját követeli meg.",
+        "interferenceTitle": "Politikai beavatkozás:",
+        "interferenceText": "A parlamenti vizsgálat több kormányra kiterjedő \"politikai beavatkozást\" és \"párti kinevezéseket\" talál.",
+        "sources": "Források: RTP, parlamenti vizsgálati jelentés"
+      }
+    },
+    "politicians": {
+      "title": "Miniszterelnökök és vezető politikusok",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Korrupciós források:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Svájci számlák: 24 millió eurót fedeztek fel"
+        },
+        "otherScandalsTitle": "Egyéb kapcsolódó botrányok:",
+        "other": {
+          "freeport": "Freeport: Környezetvédelmi mentesítési vádak",
+          "parqueEscolar": "Parque Escolar: Iskolafelújítási csalás",
+          "cgd": "CGD: A banki döntések állítólagos befolyásolása"
+        },
+        "sources": "Források: DCIAP Accusation, Bírósági dokumentumok",
+        "charges": {
+          "title": "A vényköteles botrány:",
+          "original": "189 vádemelés (31 bűncselekmény)",
+          "prescribed": "167 töltés ELŐRE ELŐRE (lejárt)",
+          "remaining": "Csak 22 vádemelés kerül tárgyalásra",
+          "judge": "Ivo Rosa bíró (2021. április): A legtöbb bűncselekmény „elévült”",
+          "ruling": "A bíró úgy ítélte meg, hogy Sócrates „megrongálódott”, de a bűnözés „elmúlt”"
+        },
+        "timeline": {
+          "arrested": "2014. 11. 21.: Letartóztatták a lisszaboni repülőtéren",
+          "prison": "2014-2015: 9 hónap az Évora Börtönben",
+          "houseArrest": "2015: Házi őrizet, majd teljesen szabadlábon",
+          "ongoing": "2025: 11+ év után még mindig nincs ítélet"
+        },
+        "pension": {
+          "title": "Védett a vádlott alatt:",
+          "amount": "30 000 €/év „életre szóló támogatás” (subvenção vitalícia)",
+          "legal": "Nyugdíj felhasználása a jogi védelem finanszírozására",
+          "lifestyle": "Fenntartja a párizsi lakást, életmódot"
+        },
+        "recovery": "0 € behajtva a portugál állam számára",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Védelmi pozíció:",
+        "defense": "Sócrates azt állítja, hogy a 34 millió euró baráti kölcsön volt, nem kenőpénz. Védelme médiaüldözést és szelektív vádemelést állít. A próbaverzió 2025 júliusában folytatódott, több mint 11 éves késés után."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "A végső irónia:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "The Raid (2023. november 7.):",
+          "cash": "78 000 euró készpénzt találtak a vezérkari főnök irodájában",
+          "arrests": "Vítor Escária (vezérkari főnök) és Lacerda Machado (üzletember) letartóztatták",
+          "resignation": "Costa még aznap este lemondott"
+        },
+        "investigation": {
+          "title": "Operação Befolyásoló:",
+          "lithium": "Lítiumbányászati ​​koncessziók (Európa legnagyobb készletei)",
+          "hydrogen": "Zöld hidrogén projektek (többmilliárdos beruházások)",
+          "allegation": "Állítólag kedvező engedélyezési döntések kifizetések fejében"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária – vezérkari főnök – Letartóztatták, szabadon engedték",
+          "machado": "Lacerda Machado – üzletember közvetítő – Letartóztatták",
+          "galamba": "João Galamba – Energiaügyi államtitkár – Vizsgálat alatt"
+        },
+        "euPromotion": {
+          "date": "2024. június 27.: az EU Tanácsának elnökévé választották",
+          "start": "2024. december 1.: Hivatalba lép",
+          "status": "A nyomozás még folyamatban van – vádat nem emeltek"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especiais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Costa ellen soha nem emeltek vádat, és továbbra sem „arguido” (formális gyanúsított). 2025. november: A Legfelsőbb Bíróság úgy döntött, hogy a lehallgatásokat megfelelő engedély nélkül hajtották végre. A nyomozás folyamatban van, de hivatalos vádak nincsenek."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Források: Bírósági dokumentumok",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Az állami árvaházakat használó elit pedofil hálózat. TV-műsorvezető, UNESCO-nagykövet, Casa Pia kormányzója az elítéltek között.",
+        "coverupTitle": "Az elfedés:",
+        "coverupText": "Az első jelentések az 1980-as években jelentek meg. A rendőrség megszüntette a nyomozást. A tisztviselők megsemmisítették a dokumentumokat. Teljes expozíció csak 2002-ben.",
+        "sources": "Források: France 24, Bírósági dokumentumok"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17 vádlott, köztük vezető bírók, akiket kedvező ítéletek eladásával vádolnak.",
+        "failureTitle": "Szisztémás kudarc:",
+        "failureText": "A bírák, akiknek be kellene tartaniuk a korrupcióellenes törvényeket, maguk is korruptak voltak.",
+        "sources": "Források: Observador, Bírósági jegyzőkönyvek"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Tancos fegyverlopás (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "A katonai bázis biztonságának megsértése. Fegyvereket loptak el, majd a szakaszos helyreállítás során \"találtak\".",
+        "convicted": "A katonai személyzetet elítélték",
+        "acquitted": "Azeredo Lopes védelmi minisztert felmentették",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "A légierő tisztviselői több mint 10 millió euróval megemelték az élelmiszerárakat.",
+        "hiring": "A shell cégek korábban átirányították a pénzeszközöket",
+        "justified": "\"Működési szükségességként\" indokolt"
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "A német Ferrostaal cég 6,4 millió eurót fizetett a portugál tisztviselőknek a tengeralattjáró-szerződésért.",
+        "germans": "Német vezetők: elítélték Németországban",
+        "portuguese": "Portugál tisztviselők: MINDENKIT MENTESÍTETTEK",
+        "documents": "A legfontosabb dokumentumok \"eltűntek\" a védelmi minisztériumból"
+      },
+      "police": {
+        "2004": "2004: Euro 2004 biztonsági korrupció",
+        "2007": "2007: Leonor Cipriano-ügy – kínzásért elítélt tisztek",
+        "2019": "2019: A fekete polgárok elleni brutális támadást forgatták",
+        "2021": "2021: A PSP-tiszteket testi sértésért elítélték",
+        "2025": "2025: Leleplezték a rendőrségi kereskedőgyűrűt",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Portugália-szerte több polgármestert ítéltek el, vagy ellen folyik vizsgálat korrupció miatt.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Több polgármesteres korrupciós hálózat",
+        "description": "A vizsgálat feltárt egy korrupciós hálózatot, amelyben Santo Tirso és Barcelos polgármesterei, valamint az IPO Porto igazgatója érintett közbeszerzési szerződésekben és csúszópénzekben.",
+        "santo": "• Santo Tirso polgármestere: Vizsgálják",
+        "barcelos": "• Barcelos polgármestere: Vizsgálják",
+        "ipo": "• IPO Porto igazgatója: Kivizsgálták",
+        "pattern": "• Minta: Pártokon átívelő önkormányzati korrupció"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Két espinhoi polgármester vizsgálat alatt áll",
+        "description": "Espinho település jelenlegi és volt polgármesterei ellen közbeszerzési szerződésekkel és önkormányzati döntésekkel kapcsolatos korrupció miatt folyik vizsgálat.",
+        "current": "• Jelenlegi polgármester: Vizsgálat alatt áll",
+        "former": "• Volt polgármester: Vizsgálat alatt áll",
+        "pattern": "• Minta: Adminisztrációkon átívelő korrupció"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Polgármester + labdarúgó-elnök elítélt",
+        "description": "Gondomar polgármesterét és a Boavista FC elnökét elítélték hatalmas játékvezetői korrupciós botrány miatt. 171 személy érintett, 13-at elítéltek. Felfüggesztett büntetés = nincs börtön.",
+        "sentence": "• Elítélt: 3 év 2 hónap FELFÜGG",
+        "prison": "• Kiszolgált börtönidő: NULLA",
+        "son": "• Fia átvette a Boavista FC irányítását (4 éves eltiltás)",
+        "pinto": "• Pinto da Costa: készpénz + prostituáltak a játékvezetőknek"
+      },
+      "maestro": {
+        "name": "Operação Maestro (2024)",
+        "subtitle": "39 millió eurós uniós alapokkal kapcsolatos csalás",
+        "description": "2024. március: PJ razzia 78 helyen. Manuel Serrão üzletembert azzal vádolják, hogy 39 millió eurót vont el az EU regionális fejlesztési alapjából. Két államtitkárt vizsgálnak.",
+        "raids": "• 78 helyszínen razziát tartottak, 6-ot őrizetbe vettek",
+        "officials": "• 2 államtitkárt vizsgáltak",
+        "companies": "• A csalásért felelős shell cégek hálózata",
+        "status": "• Állapot: A vizsgálat folyamatban van"
+      },
+      "overview": {
+        "description": "A helyi korrupció virágzik a \"hírsivatagokban\", ahol egyetlen újságíró sem figyeli az önkormányzati szerződéseket, a várostervezést és a közmunkákat. Gyakori sémák: felfújt szerződések, csúszópénzek, jóváhagyások \"sürgősségi díjai\", politikai szövetségesek állása.",
+        "investigated": "A polgármesterek megvizsgálták (2010-2025)",
+        "municipalities": "portugál önkormányzatok",
+        "officials": "Helyi tisztviselők esetekkel (2025. december)",
+        "suspended": "Felfüggesztett büntetést kap",
+        "title": "Az önkormányzati korrupció mértéke"
+      },
+      "trifecta": {
+        "convicted": "5 polgármester elítélve",
+        "description": "2024 decemberében Albergaria-a-Velha, Oliveira de Azeméis, Estarreja és a környező települések 5 jelenlegi/volt polgármestere soha nem látott ítéletet hozott. Valamennyien elítélték a közbeszerzési szerződésekkel kapcsolatos korrupciót, civakodást és hatalommal való visszaélést. A legtöbben felfüggesztett szabadságvesztést kaptak.",
+        "name": "2024. december: A Trifecta",
+        "pattern": "Minden felfüggesztett büntetés",
+        "prison": "0 börtönben",
+        "subtitle": "5 polgármestert ítéltek el egyetlen hét alatt"
+      }
+    },
+    "football": {
+      "title": "Futballkorrupció",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "A Pinto da Costa csapata, az FC Porto játékvezetői vesztegetési rendszerben vesz részt.",
+        "costa": "Pinto da Costa: Felmentették a technikai okokból",
+        "points": "Pontok levonva, később vissza",
+        "boavista": "Ehelyett a Boavista (rivális) kiesett",
+        "uefa": "Az UEFA nem tett semmit"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "Hatalmas korrupciós botrány, amely magában foglalja a mérkőzések eredményét, az adócsalást és a sikkasztást.",
+        "vieira": "Luís Filipe Vieira: 2021-ben letartóztatták, tárgyalás alatt",
+        "goncalves": "Paulo Gonçalves: Volt jogi igazgató, elítélték",
+        "ban": "Vieirát eltiltották a futballtól",
+        "pinto": "Kitette: Rui Pinto (Football Leaks)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "A PSD volt parlamenti vezetőjét egy brazil ügyfél meggyilkolásával vádolják Rióban.",
+        "bpn": "Bankjogászként kapcsolódik a BPN-botrányhoz",
+        "murder": "Áldozat: Rosalina Ribeiro, autóban lőtték le Rio de Janeiróban",
+        "untouchable": "A portugál hatóságok évekig megtagadták a kiadatást"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Golden Visa Botrány (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "11 tisztviselőt tartóztattak le ingatlanárak felemelése és kenőpénz felvétele miatt.",
+        "macedo": "Paiva Nunes SEF igazgató: Letartóztatták",
+        "figueiredo": "Több tisztviselőt elítéltek",
+        "chinese": "Kínai és orosz befektetők érintettek"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "Az állami légitársaságok vezetői hatalmas végkielégítéseket kaptak.",
+        "reis": "Christine Ourmieres-Widener: 500 000 euró végkielégítés",
+        "santos": "Ramiro Sequeira: Ellentmondásos kilépési csomag",
+        "galamba": "Galamba miniszter felügyelte a kinevezéseket",
+        "laptop": "A parlamenti vizsgálat dokumentumokat követelt"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "Endemikus nepotizmus a portugál politikában.",
+        "president": "Marcelo rokonai kulcspozíciókban",
+        "law": "Nincs értelmes nepotizmusellenes jogszabály",
+        "hodgepodge": "A családi kapcsolatok minden nagyobb pártra kiterjednek"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Csalásoktól hemzsegő Sócrates-korszak iskolafelújítási programja.",
+        "notAudited": "492 millió eurót megfelelő auditálás nélkül költöttek el",
+        "investigation": "A nyomozás megindult, de elakadt",
+        "noConvictions": "A mai napig nincs ítélet"
+      }
+    },
+    "pattern": {
+      "title": "A büntetlenség mintája: a számok szerint",
+      "stats": {
+        "banking": "Banki veszteségek (BPN+BES+CGD+Novo Banco)",
+        "pms": "A PM-ek megvizsgálták",
+        "socrates": "Évek: Sócrates ügy időtartama",
+        "suspended": "Felfüggesztett ítélettel végződő ügyek",
+        "served": "Az elítéltekről, akik ténylegesen letöltötték az időt",
+        "casaPia": "Casa Pia áldozatai",
+        "judges": "Bírák tárgyalás alatt (Op Lex)",
+        "submarine": "Portugál tisztviselőket elítéltek (tengeralattjáró)",
+        "novoBanco": "Novo Banco megmentési költsége (0 ítélet)",
+        "chargesDropped": "A Sócrates-díjak csökkentek (88%)",
+        "blocking": "A reformjavaslatok blokkolva (2007-2025)",
+        "enrichment": "Elfogadták a tiltott gazdagodási törvényeket",
+        "admiral": "Admiral helyreállítási hadművelet (EPPO)",
+        "arrests": "Admirális letartóztatás 3 napon belül",
+        "prosecutors": "Az ügyészek bizonytalan szerződésekkel néznek szembe",
+        "lima": "Duarte Lima gyilkossági ügyének késedelme"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Casa Pia gyermekbántalmazási botrány",
+        "date": "2002 (visszaélés az 1980-as évek óta)",
+        "amount": "100+ gyermekáldozat",
+        "description": "Az állami árvaházakat használó elit pedofil hálózat. Az elítéltek között Carlos Cruz tévéműsorvezető, Jorge Ritto diplomata, a Casa Pia kormányzója, Manuel Abrantes.",
+        "outcome": "7 elítélt (2010), büntetés 5-18 év",
+        "source": "Franciaország 24"
+      },
+      "bpn": {
+        "title": "BPN – Banco Português de Negócios",
+        "date": "2008",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "José Oliveira e Costa: 14 év (fellebbezéskor csökkentve)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES – Banco Espírito Santo",
+        "date": "2014",
+        "amount": "11,8 milliárd eurós veszteség",
+        "description": "Portugália legnagyobb magánbankja összeomlott. Ricardo Salgado családi birodalma összeomlik. Az állam óriási költségekkel hozza létre a Novo Bancót.",
+        "outcome": "Salgado: 6→8 év (egy eset), 6y3m (EDP ügy). Alzheimer-kórt állít.",
+        "source": "Megfigyelő"
+      },
+      "cgd": {
+        "title": "CGD – Caixa Geral de Depósitos",
+        "date": "2016",
+        "amount": "4,9 milliárd eurós mentőcsomag",
+        "description": "Az állami tulajdonú bank a portugál történelem legnagyobb mentőcsomagját követeli meg. A parlamenti vizsgálat „politikai beavatkozást”, „párti kinevezéseket” állapít meg. 7 év figyelmen kívül hagyott csalási figyelmeztetések.",
+        "outcome": "NULLA meggyőződés",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "8+ milliárd euró közpénz",
+        "description": "„Jó bank” a BES összeomlásából. Eladva a Lone Starnak (2017), 3,89 milliárd eurós állami garanciával. 2021-re: 7,9 milliárd eurót injektáltak. A parlamenti vizsgálat „felelőtlenséget” állapít meg.",
+        "outcome": "NULLA meggyőződés. Nincs személyes felelősség.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Német tengeralattjáró kenőpénz",
+        "date": "2004",
+        "amount": "6,4 millió euró kenőpénzt",
+        "description": "A Ferrostaal 833 millió eurós tengeralattjáró-szerződésért fizetett portugál tisztviselőknek. 1 millió €+ a CDS-PP partinak. A dokumentumok „eltűnnek” a védelmi minisztériumból.",
+        "outcome": "Német vezetők: ELÍTÉLTETT. Minden portugál: FELTÉTLENÜL (2014)",
+        "source": "Korrupciókövető"
+      },
+      "freeport": {
+        "title": "Szabadkikötő",
+        "date": "2002",
+        "amount": "Nem titkolt",
+        "description": "José Sócrates környezetvédelmi miniszter állítólag elengedte azokat a környezetvédelmi korlátozásokat, amelyek a brit vállalat számára bevásárlóközpontot építhetnek védett területen.",
+        "outcome": "2010-ben törölve – senkit sem lehet hibáztatni",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Golden Visa botrány",
+        "date": "2014",
+        "amount": "40+ millió euró kenőpénz",
+        "description": "11 tisztviselőt tartóztattak le ingatlanárak felduzzasztása miatt, és kenőpénzt vettek le tartózkodási engedélyért. Kínai és orosz befektetők érintettek.",
+        "outcome": "Néhány meggyőződés, a program folytatódik",
+        "source": "Megfigyelő"
+      },
+      "tancos": {
+        "title": "Tancos fegyverlopás",
+        "date": "2017",
+        "amount": "Katonai fegyverek gyorsítótár",
+        "description": "1450 töltény, 150 kézigránát, 44 páncéltörő gránát, 264 műanyag robbanóanyag lopott. A biztonsági kamerák hetekig „nem működnek”. Azeredo Lopes miniszter lemond.",
+        "outcome": "A tárgyalás folyamatban van, több vádlott",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Teljes korrupciós adatbázis",
+    "fullIntro": "Minden nagyobb korrupciós eset összegekkel, kimenetelekkel és forrásokkal dokumentálva",
+    "additional": {
+      "title": "Az igazságügyi rendszer botrányai",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Az ügyész több mint 700 000 € kenőpénzt vett fel",
+        "description": "Orlando Figueira ügyész kenőpénzt fogadott el Manuel Vicente angolai alelnöktől a korrupciós nyomozás lezárása érdekében. Magán az ügyészségen belüli korrupciót mutat be.",
+        "orlando": "• Orlando Figueira (ügyész): ELÍTÉLTETETT",
+        "vicente": "• Manuel Vicente (Angola alelnök): Diplomáciai mentelmi jog védi",
+        "pattern": "• Minta: Azok, akik vádat emelnek a korrupció miatt, korrupt"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (Oeiras polgármestere)",
+        "subtitle": "\"A korrupt polgármester, akit imádnak\"",
+        "description": "Adócsalásért, pénzmosásért elítélték. 7 évre ítélték → fellebbezés alapján 2 évre csökkentették. 14 hónapig szolgált. 2017-ben és 2021-ben újraválasztották polgármesternek. Ma is szolgálatot teljesít.",
+        "conviction": "• 2009: 7 évre ítélték → 2010: 2 évre csökkentették",
+        "prison": "• 2013–2014: 14 hónapot töltött a Carregueira börtönben",
+        "reelected": "• 2017, 2021: ÚJRA VÁLASZTVA polgármesternek",
+        "new": "• 2022: Új vádemelés a PPP-vel kapcsolatos visszaélés miatt"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "Áfa-körhintacsalás több országra kiterjedően. Az EPPO eljárást indított a portugál hatóságok helyett. 10 elítélt, büntetés 7-8 év. Ez történik, amikor az EU átveszi a vádemelést.",
+        "lesson": "TANULSÁG: Az EPPO működik. A nemzeti rendszer nem.",
+        "name": "Admiral hadművelet (2025)",
+        "subtitle": "2,9 milliárd euró – A valaha volt legnagyobb uniós csalás"
+      },
+      "context": {
+        "admiral": "Admirális csalás (egyetlen eset)",
+        "description": "Portugália 1986 óta több mint 60 milliárd eurót kapott az EU strukturális alapjaiból. Ennek ellenére Portugália továbbra is Nyugat-Európa egyik legszegényebb országa. Hová lett a pénz? A könyvvizsgálók rendszeresen találnak szabálytalanságokat, de a büntetőeljárások ritkán fordulnak elő.",
+        "eppo": "Az EPPO portugál ügyésze",
+        "prr": "PRR helyreállítási terv (2021–2026)",
+        "received": "Kapott uniós források (1986-2024)",
+        "title": "A 60 milliárd eurós kérdés"
+      },
+      "patterns": {
+        "invoices": "• Hamis számlák nem létező szolgáltatásokról",
+        "kickbacks": "• Visszarúgás a jóváhagyó tisztviselőknek",
+        "monitoring": "• Gyenge felügyelet az IGCP/IGAC által",
+        "prescription": "• A tárgyalás előtt előírt esetek",
+        "projects": "• „Szellemprojektek” – jóváhagyva, de soha nem fejeződött be",
+        "shell": "• Shell cégek azért jöttek létre, hogy pénzt kapjanak",
+        "title": "Ismétlődő csalási minták"
+      },
+      "title": "EU-alapok csalása"
+    },
+    "disclaimer": {
+      "title": "Fontos jogi megjegyzés",
+      "presumption": "• Az ártatlanság vélelme: Minden személyt ártatlannak kell tekinteni mindaddig, amíg bűnösségét a jogerős bírósági ítélet meg nem állapítja. A „vizsgálás alatt” vagy „arguido” állapot nem jelenti a bűnösséget.",
+      "status": "• Az ügy állapota: Minden bejegyzés az aktuális jogi státusszal van ellátva (Elítélt, Tárgyalás alatt, Vizsgálat alatt, Archiválva, Felmentve). Az állapotok az ügyek előrehaladtával frissülnek.",
+      "sources": "• Források: Minden információ hivatalos bírósági dokumentumokból, DCIAP bejelentésekből, parlamenti vizsgálatokból vagy jó hírű portugál médiából (RTP, Público, Observador) származik.",
+      "defense": "• Védelmi pozíciók: A vádlottak tagadták a vádakat vagy magyarázatot adtak. Jogi álláspontjukat fel kell tüntetni, ahol nyilvánosan elérhető."
+    }
+  },
+  "operations": {
+    "title": "Rendőrségi műveleti lista",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "José Sócrates (PM)",
+      "status": "A próba 11+ éve folyik",
+      "crimes": "22 bűncselekmény: korrupció, pénzmosás, csalás"
+    },
+    "influencer": {
+      "name": "Operação Influencer",
+      "target": "António Costa (PM)",
+      "status": "Vizsgálat alatt → EU-elnök",
+      "crimes": "Korrupció, sikkasztás"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "target": "Bírák Rangel, Galante, Vaz das Neves",
+      "status": "A próbaidőszak 2025 októberében kezdődött",
+      "crimes": "17 vádlott, 21+ bűncselekmény"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "Orlando Figueira ügyész",
+      "status": "6 év nyolc hónapra elítélt (2021)",
+      "crimes": "700 000 € kenőpénz Angola alelnöktől"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, Barcelos polgármesterei",
+      "status": "A próbafolyamat 2025",
+      "crimes": "50+ bűncselekmény, 1,8 millió eurós szabálytalanság"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 Espinho polgármester (PS + PSD)",
+      "status": "A tárgyalás folyamatban van",
+      "crimes": "Városi korrupció, \"sürgősségi díjak\""
+    },
+    "babel": {
+      "name": "Operação Babel",
+      "target": "Gaia alelnök, Patrocínio Azevedo",
+      "status": "A próbaidőszak 2025 januárjában kezdődik",
+      "crimes": "40M € előny, 300M € ingatlan"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "A lisszaboni egyházközség elnökei",
+      "status": "A vád teljes",
+      "crimes": "60 vádlott, 463 bűncselekmény, 580 ezer euró"
+    },
+    "maestro": {
+      "name": "Operação Maestro",
+      "target": "Manuel Serrão",
+      "status": "A nyomozás folyamatban",
+      "crimes": "39 millió eurós uniós forrásból származó csalás"
+    },
+    "admiral": {
+      "name": "Admiral hadművelet (EPPO)",
+      "target": "ÁFA csaló hálózat",
+      "status": "10 elítélt (2025. május)",
+      "crimes": "2,9 milliárd eurós kár – a valaha volt legnagyobb uniós csalás"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 éves korrupció: A teljes idővonal",
+    "pageSubtitle": "Minden lelepleződött botrány → Minden reform blokkolva → A büntetlenség szisztematikus mintája feltárult",
+    "legend": {
+      "corruption": "Korrupció/botrány",
+      "blocked": "Reform blokkolt/gyenge válasz",
+      "conviction": "Elmarasztaló ítélet/reform"
+    },
+    "summaryTitle": "50 év: A pontszám",
+    "summary": {
+      "bankingLosses": {
+        "value": "25 milliárd euró+",
+        "label": "Banki veszteségek (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "A reformkísérletek blokkolva"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Kötelező népszavazások"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "A PM-eket elítélték"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Az igazságszolgáltatás előtt álló politikusok (2017 óta)"
+      },
+      "socratesDuration": {
+        "value": "11 év",
+        "label": "Sókratész letartóztatás→per"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "Casa Pia áldozatai"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Op Lex vádlottak (bírók+)"
+      },
+      "admiralFraud": {
+        "value": "2,9 milliárd euró",
+        "label": "ÁFA-csalás (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Miniszterek a börtönben (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "A minta látható",
+    "patternIntro": "Minden nagyobb botrányt követ:",
+    "pattern": {
+      "step1": "1. <strong>Felháborodás</strong> → médiavisszhang, közharag",
+      "step2": "2. <strong>Reformjavaslat</strong> → Ellenzéki vagy kispártok részéről",
+      "step3": "3. <strong>Blokkolás</strong> → PS vagy PSD ellenszavazat (230 helyből 150+ van)",
+      "step4": "4. <strong>Késleltetés</strong> → Az ügy évekig húzódik az orvosi rendelvényig",
+      "step5": "5. <strong>Felmentő ítélet vagy felfüggesztett büntetés</strong> → az esetek 75%-a",
+      "step6": "6. <strong>Előléptetés</strong> → Costa az EU Tanácsába, Barroso az EU Bizottságába"
+    },
+    "patternQuote": "\"Csak a szegények és az ismeretlenek kerülnek börtönbe.\"",
+    "footerSource": "Minden információ hivatalos bírósági dokumentumokból, portugál médiából és nemzetközi szervezetekből származik.",
+    "years": {
+      "y1974": "1974",
+      "y1980s": "1980-as évek",
+      "y1989": "1989",
+      "y1997": "1997",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004",
+      "y2005_09": "2005-09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010",
+      "y2012": "2012",
+      "y2014": "2014",
+      "y2015": "2015",
+      "y2016": "2016",
+      "y2017": "2017",
+      "y2019": "2019",
+      "y2021": "2021",
+      "y2022": "2022",
+      "y2023": "2023",
+      "y2024": "2024",
+      "y2025": "2025"
+    },
+    "badges": {
+      "democracyRestored": "A DEMOKRÁCIA VISSZAÁLLÍTOTT",
+      "designFlaw": "TERVEZÉSI HIBA",
+      "abuseBegins": "KEZDŐDIK A VISSZÉRZÉS",
+      "reformBlocked": "A REFORM BLOKKOLVA",
+      "reformSabotaged": "A REFORM ELSZABOTÁLT",
+      "tcBlocks": "TC BLOKKOK",
+      "sabotaged": "ELSZABOTÁZOTT",
+      "centralizationPreserved": "CENTRALIZÁCIÓ MEGŐRZETVE",
+      "scandalErupts": "BOTRÁNY KITÖR",
+      "freeportAllegations": "SZABADKIKÖTŐI ÁLLÍTÁSOK",
+      "footballCorruption": "LABDARÚGÁS KORRUPCIÓ",
+      "submarineBribery": "TENGERALATI VEZETÉK",
+      "euro2004Stadiums": "EURO 2004 STADIONOK",
+      "corruptionMachine": "KORRUPCIÓS GÉP",
+      "faceOculta": "ARC OCULTA",
+      "commitmentMade": "KÖTELEZETTSÉGET TÉVE",
+      "nonBinding": "NEM KÖTELEZŐ",
+      "policeCorruption": "RENDŐRSÉGI KORRUPCIÓ",
+      "bankingCollapse": "BANKSZOLGÁLTATÁS",
+      "cgdFraudIgnored": "A CGD CSALÁSRA VONATKOZÓ FIGYELMEZTETÉSEK FIGYELMEZTETVE",
+      "murderAllegation": "GYILKOSSÁG ÁLLÍTÁSA",
+      "rareConvictions": "RITKA MEGGYŐZŐDÉSEK",
+      "tcBlocksReform": "TC BLOKK REFORM",
+      "noEuVote": "NINCS EU-SZAVAZÁS",
+      "pmArrested": "PM LEtartóztatva",
+      "goldenVisaScandal": "ARANY VÍZUMBOTRÁNY",
+      "tcBlocksAgain": "TC ÚJRA BLOKKOL (EGYHANGÚAN)",
+      "prosecutorCorruption": "ÜGYÉSZSÉGI KORRUPCIÓ",
+      "benficaEmails": "BENFICA E-MAILEK",
+      "novoBancoBlackHole": "NOVO BANCO FEKETE LYUK",
+      "militaryScandal": "KATONAI BOTRÁNY",
+      "bpnConvictions": "BPN MEGGYŐZŐDÉSEK",
+      "autarquiaCorruption": "AUTARQUIA KORRUPCIÓ",
+      "joeBerado": "JOE BERARDO BOTRÁNY",
+      "varaConvicted": "VARA ELÍTÉLTETT",
+      "policeBrutality": "RENDŐRSÉGBRUTALITÁS",
+      "nepotismScandal": "NEPOTISZMUS-BOTRÁNY",
+      "policeMurder": "RENDŐRGYILKOSSÁG",
+      "weakLawPassed": "GYENGE TÖRVÉNY ELFOGADTA",
+      "varaReleased": "A VARA KIADVA (COVID)",
+      "allPartiesBlock": "MINDEN PART BLOCK",
+      "judgesOnTrial": "BÍRÁK ELŐÍRÁSÁNAK",
+      "tapScandal": "TAP BOTRÁNY",
+      "tancosConvictions": "TANCOS MEGGYŐZŐDÉSEK",
+      "espinhoMayorsArrested": "ESPINHO POLGÁRMESTEREKET LEtartóztatták",
+      "lisbonParishCorruption": "LISSZABON PLÉBÁNIA KORRUPCIÓ",
+      "governmentFalls": "A KORMÁNY BUKÁSA",
+      "tapContinues": "Érintse tovább",
+      "edpConvictions": "EDP ​​ELŐZÉSEK",
+      "euFundsFraud": "39 millió eurós EU-ALAPOK CSALÁSA",
+      "gaiaRealEstateRing": "GAIA INGATLANGYŰRŰ",
+      "defendants65": "65 VÉDŐ",
+      "euReward": "EU JUTALOM",
+      "reformBlockedAgain": "A REFORM ÚJRA BLOKKOLVA",
+      "euBiggestVatFraud": "AZ EU LEGNAGYOBB ÁFA-CSALÁSI ELŐZTETÉSEI",
+      "judgesFinally": "A BÍRÁK VÉGRE PRÓBÁBAN",
+      "policeTrafficking": "RENDŐRSÉGI CSEREGYŰRŐ",
+      "varaReturns": "VARA VISSZA A BÖRTÖNÖBE",
+      "benficaFraudTrial": "BENFICA CSALÁS PER",
+      "politicians191": "191 POLITIKUS",
+      "decemberTrifecta": "A DECEMBER TRIFECTA",
+      "stillNoLaw": "51 ÉVVEL KÉSŐBB"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Szegfű-forradalom",
+        "desc": "A 48 éves Salazar/Caetano diktatúra vége. Új demokratikus korszak kezdődik."
+      },
+      "noReferendums": {
+        "title": "Nem volt népszavazás az 1976-os alkotmányban",
+        "desc": "Az alkotmányozó nemzetgyűlés szándékosan kizárja a közvetlen demokráciát. A pártok a népszavazást Salazar népszavazásaihoz kötik.",
+        "note": "A védelmi rendszer a születéskor kezdődik."
+      },
+      "casaPiaFirstReported": {
+        "title": "A Casa Pia visszaélést először jelentették",
+        "desc": "Megjelentek az első jelentések a gyermekek szexuális zaklatásáról az állami árvaházakban. A rendőrség megszünteti a nyomozást. A tisztviselők megsemmisítik a dokumentumokat.",
+        "note": "Elkezdődik az eltakarás. 20+ évig bírja."
+      },
+      "pcpFirstProposal": {
+        "title": "A PCP először korrupcióellenes törvényeket javasol",
+        "desc": "A Kommunista Párt (PCP) tiltott gazdagodásról szóló törvényt javasol.",
+        "result": "PS + PSD blokk"
+      },
+      "referendumsPoisonPill": {
+        "title": "Népszavazások hozzáadva - Méregtablettával",
+        "desc": "Az alkotmánymódosítás népszavazási mechanizmust ad hozzá.",
+        "catch": "50%-os részvételi küszöb + Alkotmánybírósági vétó = bukásra tervezték",
+        "note": "Következő 35 év: 0 kötelező érvényű népszavazást sikerült elérni."
+      },
+      "amsterdamBlocked": {
+        "title": "Az Amszterdami Szerződés népszavazása blokkolva",
+        "desc": "Az Alkotmánybíróság elutasította az EU-szerződésről szóló népszavazást – „félrevezető kérdés”",
+        "note": "Portugália SOHA nem szavaz az EU-integrációról."
+      },
+      "casaPiaExposed": {
+        "title": "Leleplezték a Casa Pia visszaélési botrányát",
+        "desc": "Az újságíró megtöri a történetet: elit pedofil hálózat állami árvaházakat használva. TV-műsorvezető, UNESCO-nagykövet, Casa Pia kormányzója a vádlottak között.",
+        "note": "100+ gyereket bántalmaztak. A próba 5+ évig tart."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates és Freeport bevásárlóközpont",
+        "desc": "José Sócrates környezetvédelmi miniszter állítólag lemond a környezetvédelmi korlátozásokról, hogy a brit vállalat védett területen építsen bevásárlóközpontot.",
+        "outcome": "2010-ben törölték – \"senkit nem lehet hibáztatni\""
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Statisztikák és források",
+    "pageSubtitle": "Minden adat hivatalos és jó hírű nemzetközi forrásból",
+    "ti": {
+      "title": "Transparency International",
+      "subtitle": "Korrupciós észlelési index (CPI)",
+      "score2024": {
+        "value": "57",
+        "label": "Portugália CPI-pontszáma 2024",
+        "trend": "-4 pont 2023-tól"
+      },
+      "rank": {
+        "value": "43",
+        "label": "Globális rangsor",
+        "detail": "180 országból"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Az ügyészek szerint a határidők nem elegendőek",
+        "source": "TI felmérés"
+      },
+      "tableTitle": "EU CPI-összehasonlítás (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobarométer",
+      "subtitle": "Különleges Eurobarométer a korrupcióról (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "A portugálok úgy vélik, hogy a korrupció széles körben elterjedt",
+        "euAvg": "EU átlag: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Hidd el, hogy korrupció létezik a nemzeti kormányzatban",
+        "euAvg": "EU átlag: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Tegyük fel, hogy a megvesztegetés a közszolgáltatások megszerzésének legegyszerűbb módja",
+        "euAvg": "EU átlag: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Digitális megosztottság",
+      "subtitle": "Internethasználat korcsoportonként (Portugália, 2024)",
+      "keyInsight": "Azt a generációt, amely a teljes 50 éves korrupciós mintát tapasztalta (65 év feletti), rendszeresen kizárják a CSAK DIGITÁLIS népszavazás aláírási rendszeréből",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99,1%",
+          "excluded": "0,9%"
+        },
+        "35-44": {
+          "usage": "98,6%",
+          "excluded": "1,4%"
+        },
+        "45-54": {
+          "usage": "94,9%",
+          "excluded": "5,1%"
+        },
+        "55-64": {
+          "usage": "82,5%",
+          "excluded": "17,5%"
+        },
+        "65-74": {
+          "usage": "61,1%",
+          "excluded": "38,9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "~70%"
+        }
+      }
+    },
+    "summaryTitle": "Összegzés: Mit mutatnak az adatok",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "a portugálok széles körben elterjedt korrupciót látnak",
+        "source": "Eurobarométer 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "A GRECO ajánlásait végrehajtották",
+        "source": "Európa Tanács 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "pont CPI csökkenés egy év alatt",
+        "source": "Transparency International 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "ügyészek szerint az elévülési idő nem elegendő",
+        "source": "TI-felmérés 2023"
+      }
+    },
+    "footer": "Minden statisztika hivatalos forrásból. Utolsó frissítés: 2025. december."
+  },
+  "tables": {
+    "headers": {
+      "name": "Név",
+      "party": "Párt",
+      "status": "Állapot",
+      "charges": "Díjak/Állapot",
+      "chargesSentence": "Díjak/Büntetés",
+      "chargesStatus": "Díjak/Állapot",
+      "amount": "Összeg",
+      "year": "Év",
+      "initiative": "Kezdeményezés",
+      "result": "Eredmény",
+      "whoBlocked": "Ki blokkolta",
+      "country": "Ország",
+      "score": "Pontszám",
+      "rank": "Rang",
+      "change": "Változás",
+      "ageGroup": "Korcsoport",
+      "internetUsage": "Internethasználat",
+      "excluded": "Kizárva",
+      "impact": "Hatás",
+      "aspect": "Vonatkozás",
+      "sentence": "Mondat",
+      "allegations": "Állítások/Elítélések",
+      "protectionLevel": "Védelmi szint",
+      "sweden": "Svédország",
+      "portugal": "Portugália",
+      "position": "Pozíció",
+      "illicitEnrichment": "Illegális gazdagodás",
+      "lobbyRegulation": "lobbiszabályozás",
+      "endImmunity": "Vége az immunitásnak",
+      "notableActions": "Figyelemre méltó akciók",
+      "politician": "Politikus",
+      "scandal": "Botrány",
+      "euReward": "EU jutalom",
+      "date": "Dátum",
+      "subject": "Téma",
+      "turnout": "Részvételi arány",
+      "binding": "Kötelező?",
+      "illicitEnrichmentLaw": "A tiltott gazdagodásról szóló törvény",
+      "constitutionalStatus": "Alkotmányos állapot",
+      "immunityScope": "Az immunitás hatálya",
+      "parliamentBlocks": "A parlament blokkolja a nyomozást?",
+      "tiCpi": "TI CPI",
+      "prescription": "Recept",
+      "avgTime": "Átl. Idő",
+      "immunity": "Immunitás",
+      "role": "Szerep",
+      "municipality": "Község",
+      "controversy": "Vita/Kontextus"
+    },
+    "status": {
+      "convicted": "ELÍTÉLT",
+      "convictedServing": "ELÍTÉLTETT – Szolgál",
+      "convictedAppealing": "ELÍTÉLTETT – Fellebbező",
+      "onTrial": "Próba alatt",
+      "underInvestigation": "Vizsgálat alatt",
+      "arguido": "Arguido",
+      "arrested": "LETARTÓZTATOTT",
+      "archived": "Archivált",
+      "declined": "A vizsgálatot elutasították",
+      "neverProsecuted": "Soha nem emeltek vádat",
+      "acquitted": "MENTESÍTETT",
+      "euPromoted": "EU Tanács elnöke"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega",
+      "livre": "Livre",
+      "pan": "PÁN",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "Az Ön esélyei és az esélyeik",
+    "subtitle": "Ha az igazságszolgáltatás lottó lenne, a számok ezt mondják nekünk",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Ha állampolgár vagy:"
+    },
+    "politician": {
+      "title": "Ha politikus vagy:"
+    }
+  },
+  "sources": {
+    "title": "Teljes forráslista",
+    "subtitle": "Minden adat hivatalos és ellenőrzött forrásból",
+    "constitutionalCourt": "Alkotmánybíróság",
+    "prosecutionService": "Ügyészség",
+    "europeanUnion": "Európai Unió",
+    "internationalOrgs": "Nemzetközi szervezetek",
+    "eurobarometer": "Eurobarométer",
+    "portugueseLegislation": "portugál törvényhozás",
+    "parliamentaryRecords": "Parlamenti iratok",
+    "internationalComparisons": "Nemzetközi összehasonlítások",
+    "mediaSources": "Médiaforrások",
+    "laborHumanRights": "Munkaügyi/Emberi Jogok",
+    "cryptographicStandards": "Kriptográfiai szabványok",
+    "digitalStatistics": "Digitális statisztika"
+  },
+  "verdict": {
+    "title": "Az ítélet",
+    "subtitle": "50 év dokumentált bizonyíték"
+  },
+  "backToMain": "← Vissza a fő jelentéshez",
+  "duopoly": {
+    "bothProtect": "Mindkét fél védi egymást",
+    "coordinatedTheater": "A PS és a PSD látszólagos ellentéte az összehangolt színház. Amikor ez számít – a reform blokkolása –, együtt szavaznak."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Forrás: Eurobarometer 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "A sikertelen népszavazások mintája",
+      "text": "A portugál történelem során minden népszavazás vagy nem érte el a részvételi küszöböt, vagy nem volt kötelező érvényű.",
+      "sources": "Forrás: Portugál Választási Bizottság"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Forrás: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "A legfontosabb svájci demokráciastatisztikák:"
+  },
+  "roadmap": {
+    "title": "A Vizsgálat",
+    "subtitle": "Strukturált utazás Portugália büntetlenségi architektúráján keresztül",
+    "part1": {
+      "title": "A Rendszer",
+      "desc": "Hogyan védi a pavlovi politikai osztály a sajátjait"
+    },
+    "part2": {
+      "title": "Az Ügyek",
+      "desc": "Miniszterelnökök, miniszterek és a büntetlenséget meghatározó ügyek"
+    },
+    "part3": {
+      "title": "A Kiskapuk",
+      "desc": "Jogi mechanizmusok, amelyek biztosítják, hogy a korrupció büntetlenül maradjon"
+    },
+    "part4": {
+      "title": "A Blokkolás",
+      "desc": "Hogyan blokkolja szisztematikusan a PS/PSD a reformokat"
+    },
+    "part5": {
+      "title": "EU Jutalmak",
+      "desc": "Hová kerülnek a vádlott politikusok: Brüsszel"
+    },
+    "part6": {
+      "title": "A Megoldás",
+      "desc": "Mit tehetnek a polgárok a kör megtöréséért"
+    },
+    "conclusion": "A polgári etikától a konkrét cselekvésig—minden rész feltár egy újabb réteget a korruptak védelmére tervezett rendszerből."
+  },
+  "journalism": {
+    "badge": "Miért létezik ez a vizsgálat",
+    "title": "Az álom, amely nem tudta túlélni a rendszert",
+    "subtitle": "A portugál újságírás rendszerszerű megfogás alatt",
+    "intro": "Minden újságíró ugyanazzal az álommal indul: mutasd meg az embereknek az igazságot, dokumentáld, ami számít, változtasd meg a világot. Portugáliában ez az álom ütközik egy olyan rendszerrel, amelyet pontosan ennek megakadályozására terveztek.",
+    "medicine": {
+      "title": "Orvostudomány",
+      "oath": "Először is, ne árts."
+    },
+    "journalismEthics": {
+      "title": "Újságírás",
+      "oath": "Először is, ne tévessz meg."
+    },
+    "doctors": {
+      "title": "Orvosok",
+      "diagnose": "Bizonyítékok, nem hiedelmek alapján diagnosztizálnak",
+      "wellbeing": "A beteg jólétét az ideológia vagy a profit elé helyezik",
+      "bound": "Nyomás alatt is kötve vannak az etikához",
+      "lose": "Elveszítik a legitimitást, ha tudatosan kárt okoznak"
+    },
+    "journalists": {
+      "title": "Újságírók",
+      "report": "Ellenőrizhető tények, nem napirend alapján tudósítanak",
+      "rightToKnow": "A közönség tájékozódáshoz való jogát a politikai hovatartozás elé helyezik",
+      "bound": "Etikailag kötve vannak még a tulajdonosok, államok vagy közönség nyomása alatt is",
+      "lose": "Elveszítik a legitimitást, ha tudatosan torzítják a valóságot"
+    },
+    "broken": {
+      "title": "Amikor az eskü megszakad",
+      "doctorMalpractice": "Az orvos, aki ideológiát gyakorol orvostudomány helyett, műhibát követ el",
+      "journalistMalpractice": "Az újságíró, aki ideológiát gyakorol igazság helyett, polgári műhibát követ el",
+      "consequences": "A következmények társadalmiak:",
+      "consequence1": "Polarizáció",
+      "consequence2": "Dezinformáció",
+      "consequence3": "A bizalom eróziója",
+      "consequence4": "Demokratikus hanyatlás"
+    },
+    "distinction": {
+      "title": "A világos megkülönböztetés",
+      "text": "Az újságírók, akárcsak az orvosok, emberek, és vannak személyes értékeik. Az etikát nem az értékek birtoklása sérti meg, hanem az, ha hagyjuk, hogy ezek az értékek helyettesítsék az ellenőrzést, a bizonyítékokat és az elszámoltathatóságot."
+    },
+    "quote": "Az orvos, aki hazudik a betegnek, műhibát követ el. Az újságíró, aki hazudik a közönségnek, polgári műhibát követ el."
+  },
+  "convicted": {
+    "badge": "Rendszer eredménye",
+    "title": "Elítélt, de védett",
+    "subtitle": "Ezek nem vádak. Ezek meggyőződések. A rendszer azonban biztosítja, hogy megtartsák nyugdíjukat, visszatérjenek hivatalba, vagy teljesen elkerüljék a következményeket.",
+    "status": {
+      "convicted": "ELÍTÉLT",
+      "reelected": "ELÍTÉLTETT → ÚJRA VÁLASZTOTT",
+      "murder": "GYILKOSSÁGGAL VÁDODOLT",
+      "unpaid": "980 millió EUR KIFIZETÉS nélkül",
+      "zeroPrison": "8 milliárd EUR ELVESZTETT, NULLA BÖRTÖN",
+      "eppoSuccess": "EPPO SIKER"
+    },
+    "labels": {
+      "operation": "Művelet:",
+      "crime": "Bűncselekmény:",
+      "sentence": "Mondat:",
+      "served": "Kiszolgált idő:",
+      "amount": "Összeg:",
+      "currentStatus": "Jelenlegi:",
+      "victim": "Áldozat:",
+      "date": "Dátum:",
+      "trialStart": "Próba kezdete:",
+      "borrowed": "Kölcsönözve:",
+      "repaid": "Visszafizetve:",
+      "artCollection": "Művészeti gyűjtemény:",
+      "publicCost": "Közköltség:",
+      "resolution": "Felbontás:",
+      "convictions": "Megítélések:"
+    },
+    "pensionBattle": "A nyugdíjcsata:",
+    "suedProsecutor": "Beperelte az ügyészt:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "PS államtitkár, miniszter, CGD igazgatóság",
+      "crime": "Árazás befolyásolása (3 szám)",
+      "pension": "8 551 €/hó nyugdíj lefoglalva, fellebbezés alapján KÉTSZER visszaadták. Minta: lefoglalás → fellebbezés → visszaadás → ismétlés."
+    },
+    "pinho": {
+      "name": "Manuel Pinho",
+      "position": "PS gazdasági miniszter (2005-2009)",
+      "crime": "Passzív korrupció, adócsalás, pénzmosás",
+      "sued": "8 551 €/hó nyugdíj lefoglalva, 2x visszaadva. Beperelték az ügyészt és Carlos Alexandre bírót a nyugdíjak lefoglalása miatt.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "A PSD Oeiras polgármestere (1985-2009, 2017-től napjainkig)",
+      "crime": "Adócsalás, pénzmosás, hatalommal való visszaélés",
+      "current": "MÉG POLGÁRMESTER (2025)",
+      "quoteTitle": "Nyilvános becenév:",
+      "quote": "„A korrupt polgármester, akit a portugálok imádnak” – ÚJRA VÁLASZTOTTÁK 2017-ben és 2021-ben. 2022-ben új vádakat emeltek.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "PSD képviselő, jogász",
+      "crime": "GYILKOSSÁG Brazíliában",
+      "victim": "Rosalina Ribeiro (ügyfél)",
+      "shieldTitle": "A pajzs:",
+      "shield": "Portugália és Brazília között nincs kiadatási szerződés. 16 évig \"érinthetetlen\" maradt Portugáliában, mielőtt végre elkezdődött a per.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Üzletember, műgyűjtő",
+      "repaid": "Közel nulla",
+      "quoteTitle": "A parlamentbe:",
+      "quote": "„Elfelejtettem” – amikor a 980 millió eurós adósságról kérdeztek. Megfenyegették a képviselőket tanúvallomás közben. Nincs következménye."
+    },
+    "novoBanco": {
+      "name": "Novo Banco botrány",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "NULLA",
+      "outcomeTitle": "Parlamenti vizsgálat:",
+      "outcome": "„Politikai felelőtlenséget” találtak – de büntetőjogi felelősséget nem. Magánprofit, állami veszteség. A minta folytatódik.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especiais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "The Lone Star Deal (2017):",
+        "salePrice": "Lone Star fizetett: 1 milliárd eurót",
+        "guarantee": "Állami garancia: 3,89 milliárd euró veszteség",
+        "result": "Az állam visel minden kockázatot, a vevőt kap minden fejjel"
+      },
+      "injections": {
+        "title": "Beadott állami pénz:",
+        "y2014": "2014: 4,9 milliárd euró (szanálási alap)",
+        "y2018": "2018: 792 millió euró (függő tőke)",
+        "y2019": "2019: 1,15 milliárd euró (függő tőke)",
+        "y2020": "2020: 1,04 milliárd euró (függő tőke)",
+        "y2021": "2021: 598 millió euró (függő tőke)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa – Portugál Bank kormányzója – Felügyeleti eladás",
+        "centeno": "Mário Centeno – pénzügyminiszter – Jóváhagyott garanciák"
+      },
+      "inquiryQuote": "\"Az eladási feltételek rendkívül kedvezőek voltak a vevő számára, a portugál állam aránytalanul nagy kockázatot vállalt.\" – Parlamenti vizsgálat, 2021",
+      "whyNoAccountability": {
+        "title": "Miért nincs vádemelés:",
+        "discretion": "„Szakmai döntések” kategóriába sorolt ​​értékesítési feltételek",
+        "noEnrichment": "A döntéshozók személyesen nem profitáltak",
+        "immunity": "A szabályozók intézményes védelmet élveznek",
+        "bipartisan": "A PS és a PSD egyaránt bűnrészesek – nem indítanak vádat egymás ellen"
+      },
+      "sale2025": {
+        "title": "2025-ös frissítés: Lone Star Exit",
+        "text": "2025. október: A francia BPCE bank 8 milliárd euróért megvásárolja a Novo Bancót. A Lone Star hatalmas haszonnal száll ki 8,5 milliárd euró állami injekció után. Nulla ítélet az összeomlásért. Zéró veszteségvisszatérítés."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "A Novo Banco 8 milliárd euróért eladta a francia BPCE banknak (2025. október). A Lone Star nyereséggel lép ki, miután 3,89 milliárd eurós állami garanciát kapott. Az adófizetők soha nem kaptak vissza 10,4 milliárd eurónyi közpénzt. Az értékesítésből származó bevétel a szanálási alapba kerül, nem a kincstárba."
+    },
+    "admiral": {
+      "name": "Admiral hadművelet",
+      "subtitle": "A valaha volt legnagyobb uniós csalási ügy",
+      "damage": "Teljes kár",
+      "convicted": "Elítélt (2025. május)",
+      "prosecutor": "EU-ügyész",
+      "type": "Körhintacsalás",
+      "lesson": "A tanulság: Amikor az EU ügyésze kezeli az ügyeket a nemzeti rendszerek helyett, akkor ítéletek születnek."
+    },
+    "pattern": {
+      "title": "A minta egyértelmű",
+      "pension": "Nyugdíj védve",
+      "delay": "Gyilkosság a tárgyalásig",
+      "lost": "Elveszett, nulla börtön",
+      "reelected": "Elítélés után",
+      "conclusion": "A meggyőződés nem jelent következményt. A rendszer védi a sajátját – a próba előtt, alatt és után."
+    }
+  },
+  "judicial": {
+    "badge": "Rendszerhiba",
+    "title": "Igazságügyi korrupció: The Rotten Core",
+    "subtitle": "Amikor a bírák eladják a határozatokat, az ügyészek pedig kenőpénzt vesznek fel, az egész korrupcióellenes rendszer összeomlik. Ezek az esetek megmagyarázzák, hogy miért nem sikerül a politikai vádemelés.",
+    "status": {
+      "judgesCorrupt": "A BÍRÁK KORRUPT",
+      "prosecutorBribed": "ÜGYÉSZ MEGVESZTETT",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Főbb ábrák:",
+      "defendants": "Összes vádlott:",
+      "exposed": "Exponálta:",
+      "timeline": "Idővonal:",
+      "amount": "Vesztegetés összege:",
+      "outcome": "Eredmény:",
+      "year": "Év:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "CSM fegyelmi határozat:",
+      "defensePosition": "Védelmi pozíció:",
+      "convicted": "Convicted:",
+      "coconspirator": "Áthelyezett ügy:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Fellebbezés megerősítve:",
+      "tcReject": "TC fellebbezés elutasítva:"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "subtitle": "Bírák értékesítési határozatok",
+      "rangel": "Fellebbviteli Bíróság bírája",
+      "galante": "Bíró (Rangel felesége)",
+      "neves": "Bírósági elnök",
+      "chargesTitle": "Díjak:",
+      "charges": "Bírósági határozatok értékesítése, vesztegetés, befolyással üzérkedés, korrupció. A bírák, akiknek korrupt politikusokat kellett volna elítélniük, maguk is korruptak voltak.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db861d103e",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "A próbaverzió folyamatban van (2025)",
+      "exposedBy": "Football Leaks / Rui Pinto",
+      "allegations": "Kedvező ítéletek értékesítése, ügy kimenetelének rögzítése, befolyással üzérkedés, igazságszolgáltatás akadályozása, összehangolt igazságügyi hálózat",
+      "significance": "A visszaélést bejelentő (Rui Pinto) ellen büntetőeljárás indult, míg a korrupt bírák tárgyalását 7 évet elhalasztották. A rendszer megvédi magát.",
+      "otherDefendants": "Ügyvédek, üzletemberek és bírósági tisztviselők, akik részt vettek a korrupciós hálózatban",
+      "vieira": "A Benfica volt elnöke",
+      "csm": "Rui Rangelt a Conselho Superior da Magistratura (CSM) 2020-ban kizárta az igazságszolgáltatásból az üggyel kapcsolatos fegyelmi megsértések miatt.",
+      "defense": "Minden vádlott tagadja a vádakat. Rangel kijelentette, hogy a vádak alaptalanok és politikai indíttatásúak."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Az ügyész az ügyek lezárásáért fizetett",
+      "figueira": "portugál ügyész",
+      "vicente": "Angola alelnöke",
+      "convicted": "Ügyész ELÍTÉLTETT",
+      "significanceTitle": "Jelentőség:",
+      "significance": "Egy ügyésznek több mint 700 000 eurót fizettek azért, hogy lezárja az angolai elit elleni nyomozást. Ha meg lehet vásárolni az ügyészeket, milyen esélyei vannak a korrupciós ügyeknek?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Bemutatja, hogy Angolából származó olajpénz korrumpálja a portugál igazságszolgáltatást",
+      "outcome": "Az ügyészt elítélték, de az ügy rendszerszintű sebezhetőséget mutatott ki a külföldi korrupcióval szemben",
+      "defense": "Figueira a per során végig tagadta a vádakat, és az Alkotmánybírósághoz fordult, amely 2022 decemberében elutasította fellebbezését."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Ki figyeli az őröket? Amikor a bírák eladják a határozatokat, az ügyészek pedig kenőpénzt vesznek fel, az egész elszámoltathatósági rendszer összeomlik.",
+    "stat": {
+      "defendants": "A Lex vádlottjai",
+      "bribe": "Ügyészi megvesztegetés",
+      "delay": "A vád a bíróság elé (Lex)"
+    },
+    "disclaimer": "Az összes alábbi információ hivatalos bírósági jegyzőkönyvekből, DCIAP-vádokból, CSM fegyelmi határozatokból és ellenőrzött hírforrásokból származik. A folyamatban lévő eljárások vádlottjai a jogerős elmarasztalásig fenntartják az ártatlanság vélelmét.",
+    "impact": {
+      "title": "Miért fontosak ezek az esetek a korrupcióellenesség szempontjából?",
+      "fizzTitle": "Operação Fizz hatás:",
+      "fizz1": "• A DCIAP ügyésze – a magas szintű korrupciót vizsgáló egység – maga is korrupt volt.",
+      "fizz2": "• A kenőpénz miatt archiválták az angolai elit elleni ügyeket",
+      "fizz3": "• Manuel Vicente, a megvesztegető soha nem került bíróság elé – ügyét áthelyezték Angolába",
+      "lexTitle": "Operação Lex Impact:",
+      "lex1": "• Ha bebizonyosodik, a fellebbviteli bírósági szintű bírák eladták a határozatokat",
+      "lex2": "• Az elsőfokú korrupciós ítéleteket felülvizsgáló bíróság maga is veszélybe kerülne",
+      "lex3": "• Az ügy több mint 7 év telt el a vádemeléstől (2018) a tárgyalás kezdetéig (2025)"
+    },
+    "sources": {
+      "title": "Hivatalos források:"
+    }
+  },
+  "methodology": {
+    "badge": "Független Kutatás",
+    "title": "Kutatási módszertan",
+    "sources": {
+      "title": "Vizsgált források",
+      "tc": "• Alkotmánybírósági határozatok (Acórdãos)",
+      "dciap": "• DCIAP (ügyészség) hatósági vádak",
+      "parliament": "• Parlamenti vizsgálati jelentések (CGD, BES, Novo Banco)",
+      "greco": "• GRECO 4. és 5. értékelési kör jelentései",
+      "tdc": "• Tribunal de Contas (Számvevőszék) banki jelentések",
+      "eu": "• Az EU-bizottság jogállamisági jelentései (2024, 2025)",
+      "eurobarometer": "• Eurobarométer korrupciós felmérések (2023, 2025)",
+      "ti": "• Transparency International CPI (2012-2024)",
+      "media": "• Főbb portugál médiák: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Befogadási kritériumok",
+      "judicial": "• Hivatalos bírósági eljárások (elítélés, vádemelés, hivatalos nyomozás)",
+      "parliamentary": "• Parlamenti vizsgálatok közzétett jelentésekkel",
+      "international": "• Nemzetközi ellenőrző szerv értékelései",
+      "financial": "• A Számvevőszék által dokumentált pénzügyi veszteségek"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Ellenőrizetlen állítások hatósági eljárás nélkül",
+      "speculation": "• Dokumentumokkal nem alátámasztott spekuláció vagy vélemény",
+      "anonymous": "• Névtelen források megerősítés nélkül"
+    },
+    "disclaimer": "Minden említett személy fenntartja ártatlanságának vélelmét. A „Vizsgálat alatt” vagy „Arguido” állapot felmentést eredményezhet. Az esetek állapota egyértelműen meg van jelölve. Ez a vizsgálat csak nyilvánosan elérhető, hivatalosan dokumentált forrásokat használ.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Külső források ellenőrizve",
+      "official": "56%",
+      "officialLabel": "Hivatalos forrásokból",
+      "years": "50",
+      "yearsLabel": "Dokumentált évek (1974-2025)",
+      "cases": "40+",
+      "casesLabel": "Kereszthivatkozású esetek"
+    },
+    "limitations": {
+      "title": "Kutatási korlátok",
+      "estimates": "• Egyes pénzügyi adatok hivatalos forrásokból (Tribunal de Contas, INE) származó becslések.",
+      "media": "• A médiajelentések pontatlanságokat tartalmazhatnak; a hivatalos dokumentumokat részesítjük előnyben",
+      "appeals": "• Az ügy kimenetele a fellebbezés során változhat; az állapotok a legfrissebb ellenőrzött információkat tükrözik",
+      "ongoing": "• A folyamatban lévő nyomozás felmentést vagy archiválást eredményezhet",
+      "incomplete": "• Lehetséges, hogy ez a kutatás kihagyott releváns eseteket vagy adatokat; minden kihagyás nem szándékos",
+      "corrections": "<strong class=\"text-warning\">Üdvözöljük a javításokat:</strong> Ha hibákat, hiányzó eseteket vagy elavult információkat észlel, kérjük, küldje be a javításokat megbízható hivatalos forrásokból. Elkötelezettek vagyunk a pontosság mellett, és ennek megfelelően frissítjük az adatokat."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "Amit mondanak vs amit a dokumentumok mutatnak",
+      "claimsTitle": "Amit a politikusok állítanak",
+      "claim1": "• „Ártatlan vagyok, ez politikai üldözés”",
+      "claim2": "• \"A pénz baráti kölcsön volt\"",
+      "claim3": "• \"Portugáliában erős korrupcióellenes törvények vannak\"",
+      "claim4": "• \"Az igazságszolgáltatás működik\"",
+      "claim5": "• „Minden uniós ajánlást végrehajtottunk”",
+      "factsTitle": "Amit a hivatalos dokumentumok mutatnak",
+      "fact1": "• DCIAP vádak több mint 56 000 oldalnyi bizonyítékkal",
+      "fact2": "• A banki nyilvántartások 34 millió eurós megmagyarázhatatlan átutalásokat mutatnak be",
+      "fact3": "• A TC KÉTSZER hatályon kívül helyezte a tiltott gazdagodási törvényeket",
+      "fact4": "• 74,7% korrupciós ítéletek = felfüggesztett büntetés",
+      "fact5": "• GRECO: 0/28 ajánlás teljes mértékben végrehajtva",
+      "note": "Ez a vizsgálat hivatalos dokumentumokra támaszkodik, nem követelésekre. Minden statisztika a forráshoz kapcsolódik."
+    },
+    "why": {
+      "title": "Miért létezik ez a projekt",
+      "description": "Az itt közölt összes információ nyilvánosan elérhető hivatalos forrásokból származik: bírósági határozatok, parlamenti vizsgálatok, uniós jelentések és kormányzati statisztikák. Az információk eléréséhez azonban bonyolult bürokratikus labirintusokban kell eligazodni – amelyek több tucat intézményi webhelyen vannak szétszórva, PDF-dokumentumokba temetve, gyakran jogi szaknyelven, és ritkán hivatkoznak rájuk. A legtöbb polgárnak nincs ideje, tudása vagy türelme ahhoz, hogy összeállítsa ezt a töredezett képet.",
+      "purpose": "Ez a projekt leegyszerűsíti a már meglévő adatokhoz való hozzáférést. Nem hozunk létre új információkat – összesítjük, ellenőrizzük és bemutatjuk a hivatalos rekordokat egyszerűsített, hozzáférhető formátumban, teljes forráshivatkozással. Minden követelés visszavezethető az eredeti dokumentumra."
+    },
+    "editorial": {
+      "title": "Szerkesztői átláthatóság",
+      "description": "Ez ok<strong class=\"text-white\">oknyomozó érdekérvényesítő újságírás</strong>, nem semleges tudósítás. Világos perspektívánk van: Portugália politikai rendszere olyan strukturális jellemzőket tartalmaz, amelyek megvédik a hatalmasokat az elszámoltathatóságtól. Ez a perspektíva határozza meg az információk bemutatását.",
+      "commitment": "Elkötelezettek vagyunk azonban a tények pontossága mellett. Minden állítás forrása. Különbséget teszünk a dokumentált tények és a minták mikénti értelmezése között. Elfogadjuk az alternatív magyarázatokat. Az olvasóknak értékelniük kell bizonyítékainkat, és le kell vonniuk a saját következtetéseiket.",
+      "invitation": "Üdvözöljük az egyet nem értést. Ha úgy gondolja, hogy értelmezésünk helytelen, forduljon közvetlenül a forrásokhoz. A dokumentumok nyilvánosak."
+    },
+    "evidenceTypes": {
+      "title": "Hogyan osztályozzuk a bizonyítékokat",
+      "intro": "A vizsgálat során három típusú követelést különböztetünk meg:",
+      "fact": "Közvetlenül bírósági ítéletekből, hivatalos jelentésekből, kormányzati statisztikákból. Hivatkozott forrásokon keresztül ellenőrizhető.",
+      "pattern": "Több dokumentált eset is összefüggésre utal. Nem bizonyítja az okozati összefüggést vagy a koordinációt.",
+      "analysis": "Az adatok értelmezése. Az értelmes emberek nem értenek egyet ezekkel a következtetésekkel."
+    },
+    "counterArguments": {
+      "title": "Alternatív magyarázatok, amelyeket elismerünk",
+      "intro": "Az intellektuális őszinteség érdekében íme jogos alternatív magyarázatok néhány általunk dokumentált mintára:",
+      "delays": {
+        "title": "Miért tartanak 11+ évig a korrupciós ügyek?",
+        "legit1": "• Az igazságszolgáltatás súlyosan alulfinanszírozott és létszámhiányos",
+        "legit2": "• Az összetett pénzügyi bűncselekmények kiterjedt nyomozást igényelnek",
+        "legit3": "• A védelemnek joga van a bizonyítékok megtámadására",
+        "legit4": "• Az alkotmányos védelem jó okkal létezik",
+        "response": "Még ha a késések nem szándékosak is, ennek <em>hatása</em> büntetlenség. Más uniós országok gyorsabban indítanak büntetőeljárást hasonló bűncselekményekért. Portugália átlaga 6,8 év, szemben a 3-4 éves uniós normával. A szándék kevésbé számít, mint az eredmény."
+      },
+      "euJobs": {
+        "title": "Az uniós kinevezések valóban „jutalmak”?",
+        "legit1": "• A politikusok olyan tapasztalattal rendelkeznek, amely képesíti őket",
+        "legit2": "• Az uniós pozíciók versenyképesek és érdemeken alapulnak",
+        "legit3": "• Korreláció ≠ okozati összefüggés vagy összeesküvés",
+        "legit4": "• Sok képzett politikus soha nem kap EU állást",
+        "response": "Nem állítunk összeesküvést. Olyan mintát figyelünk meg, ahol a vizsgálatok ritkán blokkolják az előléptetéseket. Függetlenül attól, hogy ez „jutalmat” vagy az elszámoltathatóság iránti közömbösséget tükrözi, az eredmény minket is ugyanúgy érint."
+      },
+      "bothParties": {
+        "title": "Miért dokumentálják mindkét nagy párt eseteit?",
+        "crit1": "• \"Ez hamis egyenértékűség\"",
+        "crit2": "• \"Lehet, hogy az egyik fél korruptabb, mint a másik\"",
+        "crit3": "• \"Kis pártokban is van korrupció\"",
+        "response": "Az eseteket a bizonyítékokkal arányosan dokumentáljuk. A PS és a PSD 50 éve váltakozva működik; mindkettőnek vannak dokumentált esetei. Nem állítjuk az egyenértékűséget – megmutatjuk, hogy a rendszer megvédi <em>akárkit, aki hatalmon van</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "Miért létezik ez a vizsgálat",
+    "subtitle": "Az álom, amely nem tudta túlélni a rendszert",
+    "journalism": {
+      "title": "A portugál újságírás rendszerszerű megfogás alatt",
+      "intro": "Minden újságíró ugyanazzal az álommal indul: mutasd meg az embereknek az igazságot, dokumentáld, ami számít, változtasd meg a világot. Portugáliában ez az álom ütközik egy olyan rendszerrel, amelyet pontosan ennek megakadályozására terveztek."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "az újságírók havi 1000 eurónál kevesebbet keresnek",
+      "groups": "4",
+      "groupsLabel": "médiacsoportok irányítják a privát műsorszórást",
+      "lusa": "95.9%",
+      "lusaLabel": "nemzeti hírügynökség (Lusa) ma már állami tulajdonban van",
+      "independence": "53%",
+      "independenceLabel": "szerkesztői függetlenség kockázata (25%-ról felfelé)"
+    },
+    "kills": {
+      "title": "Mi megöli az álmot",
+      "poverty": "15% minimálbér alatt keres, vagy semmit",
+      "ownership": "Pinto Balsemão volt miniszterelnök az Impresa (SIC, Expresso) tulajdonában volt",
+      "slapp": "319 SLAPP-ügy újságírók ellen Európában (2024)",
+      "violence": "A Chega párt vezetőit újságírók fenyegetésével vádolják (2024. november)",
+      "result": "23%-kal csökkent a hivatásos újságírók száma 2009 óta",
+      "strike": "Több mint 40 médiaszervezet kezdett történelmi sztrájkot"
+    },
+    "pressure": {
+      "title": "A szisztémás nyomás",
+      "directors": "az újságírók többsége igazgatók nyomásáról számol be",
+      "superiors": "jelentsen nyomást a szerkesztőség felettesei részéről",
+      "ranking": "Portugália visszaesett az EU médiapluralizmusában"
+    },
+    "notCriticism": {
+      "title": "Ez nem az újságírók kritikája",
+      "quote": "\"A bizonytalanság óriási hatással van az újságírók függetlenségére... Ennek a romlásnak következményei vannak a politikai függetlenségre, a média szerkesztői döntéseire.\"",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Miért van szükség független kutatásra?",
+      "intro": "Ez a vizsgálat csak nyilvánosan elérhető hivatalos forrásokat használ – ugyanazokat a dokumentumokat, amelyekhez bármelyik hírszolgálat hozzáférhet. A különbség:",
+      "noAdvertisers": "Nincsenek hirdetők, akik bevételkivonással fenyegetnék",
+      "noOwners": "Nincsenek politikai kapcsolatokkal rendelkező tulajdonosok, akiket meg kell védeni",
+      "noEditors": "Nincsenek szerkesztők, akik erős érdekek érdekében lágyítanák a nyelvet",
+      "noPrecarity": "Nincs bizonytalan munka, amely csendet követel",
+      "stance": "Ez a vizsgálat a portugál újságírók mellett áll, nem ellenük."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Alkotmányvédelem",
+    "title": "Nyugdíjvédelem: lefoglalva, visszaküldve, újra lefoglalva",
+    "intro": "Az Alkotmány 30. cikke megakadályozza, hogy elítéléskor automatikusan elveszítsenek jogokat. Az elítélt politikusok végtelen fellebbezésekkel tartják meg nyugdíjukat.",
+    "vara": {
+      "conviction": "Elítélték: 5 év befolyással üzérkedés miatt",
+      "status": "3x lefoglalva, 2x visszaküldve"
+    },
+    "pinho": {
+      "conviction": "Elítélt: 10 év + 4,9 millió euró pénzbüntetés",
+      "status": "10 év büntetés OTTHON letöltött"
+    },
+    "socrates": {
+      "status": "A próbaverzió folyamatban van (11+ év)",
+      "prescribed": "167/189 töltés",
+      "expired": "Már felírták (88%)",
+      "never": "Never seized",
+      "confirmed": "Támogatás megerősítve (SIC 2022)"
+    },
+    "conclusion": "Alkotmányos 30. cikk + Fellebbezési Rendszer = Végtelen nyugdíjvédelem",
+    "conclusionDetail": "Nincs automatikus jogvesztés. Minden lefoglaláshoz bírói végzés szükséges. Minden végzés fellebbezhető. Minden fellebbezés évekig tart. Az alperes az eljárás során megtartja a nyugdíjat."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Archív határozatok: \"Parco Detalhe\" (nem elegendő részlet)",
+    "intro": "A CPP 246º n.º 6. cikke lehetővé teszi az ügyészek számára, hogy elutasítsák a nyomozást „elégtelen részletesség” alapján – még dokumentált bizonyítékok esetén is.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "A mentelmi jog megszűnt:",
+    "montenegro": {
+      "desc": "Közbeszerzési szerződések családi céggel (Spinumviva), míg MP",
+      "outcome": "Továbbra is PM minimális médiavisszhanggal"
+    },
+    "mendes": {
+      "desc": "Tanácsadási díjak 360 000 € az ACA víziközműtől",
+      "irony": "Irónia: Azt követelte Montenegrótól, hogy \"mindent tisztázzon\""
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 vádlott, 463 bűncselekmény",
+      "outcome": "60 másik személy vádlott, nagy horderejű alakok archiválva"
+    },
+    "pattern": {
+      "title": "A minta: CPP 246º n.º 6. cikk",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Hogyan lehet „jelzéseket” megállapítani vizsgálat nélkül? A szabvány olyan bizonyítékokat követel meg a vizsgálat előtt, amelyek bizonyítékokat gyűjtenek.",
+      "effect": "Hatás: Ügyészi vétó a politikailag kényes ügyekben"
+    }
+  }
+}

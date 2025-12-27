@@ -1,0 +1,3252 @@
+{
+  "nav": {
+    "logo": "Architektúra Beztrestnosti",
+    "thesis": "Téza",
+    "cases": "Prípady",
+    "loopholes": "Právne Medzery",
+    "blocking": "Vzor Blokovania",
+    "euRewards": "Odmeny EÚ",
+    "solution": "Riešenie",
+    "eliteLaws": "Zákony Elity",
+    "euLabor": "Práca EÚ",
+    "brand": "Architektúra Beztrestnosti",
+    "odds": "Odds",
+    "database": "Databáza",
+    "sources": "Zdroje",
+    "timeline": "Časová os",
+    "stats": "Stats",
+    "dashboard": "Dashboard",
+    "forum": "Forum",
+    "donate": "Donate",
+    "sign": "PODPÍSAŤ",
+    "mediaMachine": "Médiá",
+    "goldenParachute": "Dôchodky",
+    "home": "Domov",
+    "signPetition": "Podpísať petíciu",
+    "convicted": "Odsúdení",
+    "judicial": "Súdnictvo",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"NIE SÚ NAD NAMI\"",
+    "title": "ARCHITEKTÚRA BEZTRESTNOSTI",
+    "subtitle": "Ako Je Európsky Politický Systém Navrhnutý na Ochranu Skorumpovaných",
+    "subtext": "Politici sú verejní SLUŽOBNÍCI, nie verejní PÁNI. Mali by žiť ako občania, byť kontrolovaní ako občania a čeliť spravodlivosti ako občania.",
+    "stat1": "Index Korupcie TI 2024",
+    "stat2": "Roky: Trvanie Prípadu",
+    "stat3": "Občania Veria že Vláda Je Skorumpovaná",
+    "scroll": "Posuňte pre Začiatok",
+    "declaration": "Občianske vyšetrovanie politickej korupcie v Portugalsku",
+    "begin": "Začať vyšetrovanie"
+  },
+  "parts": {
+    "one": "Časť I",
+    "two": "Časť II",
+    "three": "Časť III",
+    "four": "Časť IV",
+    "five": "Časť V",
+    "six": "Časť VI",
+    "seven": "Časť VII",
+    "eight": "Časť VIII",
+    "eleven": "Časť XI",
+    "twelve": "Časť XII",
+    "nine": "Part IX",
+    "ten": "Part X",
+    "thirteen": "Časť XIII"
+  },
+  "signature": {
+    "title": "Podpíšte Európsku občiansku iniciatívu",
+    "subtitle": "Európska Občianska Iniciatíva za Politickú Zodpovednosť",
+    "firstName": "Meno",
+    "lastName": "Priezvisko",
+    "country": "Krajina",
+    "idNumber": "Rodné Číslo",
+    "submit": "Podpísať",
+    "verify": "Overiť",
+    "count": "Podpisy",
+    "goal": "Cieľ: 1.000.000",
+    "verified": "Overené Infraštruktúrou EÚ",
+    "eci": {
+      "title": "Európska občianska iniciatíva",
+      "regulation": "Podľa nariadenia EÚ 2019/788",
+      "security": "Kryptograficky overené a odolné voči falšovaniu"
+    },
+    "euInfrastructure": "Integrácia infraštruktúry EÚ",
+    "selectCountry": "Vyberte svoju krajinu",
+    "consent": "Potvrdzujem, že som občan EÚ a súhlasím so spracovaním mojich údajov v súlade s nariadeniami EÚ o ochrane údajov.",
+    "merkleLabel": "Merkle Root:",
+    "merkleCalculating": "Calculating...",
+    "merkleNoSigs": "Zatiaľ bez podpisov",
+    "formFooter": "Váš podpis bude kryptograficky zahašovaný a pridaný do reťazca odolného voči falšovaniu.",
+    "success": "Podpis zaznamenaný!",
+    "invalidFormat": "Neplatný formát ID pre",
+    "integrityVerified": "Integrita reťaze overená",
+    "integrityIssues": "Zistené problémy s integritou",
+    "eciTitle": "Európska občianska iniciatíva",
+    "eciReg": "Podľa nariadenia EÚ 2019/788",
+    "verification": {
+      "title": "Overenie odolné voči neoprávnenej manipulácii",
+      "intro": "Tento systém využíva štandardné kryptografické techniky na zabezpečenie integrity podpisu:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "SHA-256 Hashing",
+        "text": "Každý podpis sa prevedie na jedinečný 256-bitový odtlačok pomocou algoritmu SHA-256 – rovnakého štandardu, aký používajú certifikáty Bitcoin a TLS/SSL. Akákoľvek manipulácia úplne zmení hash.",
+        "source": "Štandard: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Merkle Tree",
+        "text": "Merkle strom (hash tree) je dátová štruktúra, ktorú vynašiel kryptograf Ralph Merkle v roku 1979. Vytvára jeden „root hash“, ktorý overuje integritu VŠETKÝCH podpisov – ak sa ktorýkoľvek podpis zmení, koreň sa zmení.",
+        "source": "Používa: Bitcoin, Git, IPFS, Transparentnosť certifikátov"
+      },
+      "audit": {
+        "title": "Audit Trail",
+        "text": "Každá akcia (podpis, overenie, export) je zaznamenaná s časovými pečiatkami podľa štandardov audit trail. To poskytuje úplnú transparentnosť a zodpovednosť za všetky operácie systému.",
+        "source": "Súlad: GDPR článok 30"
+      },
+      "euId": {
+        "title": "Overenie EÚ ID",
+        "text": "Každá krajina EÚ má špecifické formáty ID (Portugalsko: Cartão de Cidadão, Nemecko: Personalausweis atď.). Systém overuje identifikačné čísla podľa vzorov špecifických pre jednotlivé krajiny podľa nariadenia EÚ 2019/788 o Európskej občianskej iniciatíve.",
+        "source": "Rámec: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "Integrácia infraštruktúry EÚ",
+      "text": "Táto iniciatíva je navrhnutá tak, aby sa integrovala s oficiálnymi systémami EÚ:",
+      "eciPortal": "Oficiálny portál ECI – na konečné predloženie",
+      "eidas": "eIDAS – Štandardy elektronickej identifikácie",
+      "gdpr": "V súlade s GDPR – ochrana údajov zaručená"
+    }
+  },
+  "common": {
+    "source": "Zdroj",
+    "readMore": "Čítať Viac",
+    "evidence": "Dôkazy",
+    "convicted": "Odsúdený",
+    "ongoing": "Prebiehajúce",
+    "archived": "Archivované",
+    "keyInsight": "KEY INSIGHT",
+    "declined": "Vyšetrovanie odmietnuté",
+    "views": "views",
+    "likes": "likes",
+    "share": "share",
+    "close": "Close"
+  },
+  "mediaMachine": {
+    "part": "Part XI",
+    "title": "Štvrtý statok dobytý",
+    "subtitle": "Ako portugalské médiá slúžia moci namiesto pravdy",
+    "intro": "Médiá, ktoré by mali odhaľovať korupciu, vlastní ten istý systém, aký by mal vyšetrovať.",
+    "ownership": {
+      "title": "Kto ovláda správy",
+      "subtitle": "5 skupín kontroluje, čo vidí a číta 10 miliónov ľudí",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "bývalý predseda vlády (PSD, 1981-83)",
+        "note": "Bývalý šéf vlády ovláda veľkú televíznu sieť"
+      },
+      "rtp": {
+        "name": "RTP (Public TV)",
+        "owner": "portugalský štát",
+        "connection": "Rada menovaná parlamentom",
+        "note": "Vláda kontroluje menovania a rozpočet"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "Akcionármi sú aj štátom ručené banky",
+        "note": "Finančná závislosť od štátnych inštitúcií"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Sonae Group",
+        "connection": "Maloobchodné impérium závislé od štátnych zákaziek",
+        "note": "Zahŕňa predpisy, ktoré ovplyvňujú zisky vlastníka"
+      },
+      "globalMedia": {
+        "connection": "Získané v roku 2020 investormi s prepojením na Angolsko/Macao. Pozadie Kevina Ho zahŕňa prepojenia na kasíno a stavebníctvo. Skupina ovláda 4 hlavné noviny + 2. najpočúvanejšiu rozhlasovú stanicu v Portugalsku.",
+        "name": "Globálna mediálna skupina",
+        "note": "Kontroly DN, JN, TSF, O Jogo - hlavný vplyv tlače",
+        "owner": "Súkromní investori (Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "Otočné dvere",
+      "subtitle": "Politici sa stávajú komentátormi, komentátori chránia politikov",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Marques Mendes",
+        "path": "Bývalý líder PSD → politický komentátor SIC. Teraz člen Štátnej rady. Nikdy neidentifikuje konflikty záujmov vo vzduchu.",
+        "role": "Politický komentátor SIC",
+        "background": "bývalý líder PSD (2005-2007)",
+        "scandal": "700 000 EUR+ na poplatkoch za poradenstvo od spoločností dotovaných vládou",
+        "coverage": "SIC sa minimálne venovala škandálu vlastného komentátora",
+        "outcome": "PGR odmietla vyšetrovanie – 19. decembra 2025"
+      }
+    },
+    "techniques": {
+      "title": "\"Popredné\" novinárske techniky",
+      "subtitle": "Ako médiá formujú vnímanie ako právnik vedie svedok",
+      "framing": {
+        "title": "Orámovanie nadpisu",
+        "description": "Rovnaké činy, rôzne slová na základe politickej orientácie",
+        "example1": "PS škandál: „zločinecké plány“, „sieť korupcie“",
+        "example2": "Škandál PSD: „Kontroverzné zmluvy“, „nezrovnalosti“"
+      },
+      "timing": {
+        "title": "Manipulácia s načasovaním",
+        "description": "Zlé správy pre spojencov zverejnené počas piatkov a sviatkov",
+        "example": "December 2025: Pred Vianocami sa zhromaždili tri archívy prípadov"
+      },
+      "omission": {
+        "title": "Strategické vynechanie",
+        "description": "To, čo nehlásia, je rovnako dôležité ako to, čo robia",
+        "example": "18-ročný vzorec blokovania reforiem nebol nikdy syntetizovaný"
+      },
+      "balance": {
+        "title": "False Balance",
+        "description": "Listinné dôkazy vs. odmietnutie považované za rovnako platné",
+        "example": "Zaobchádzanie s faktami a politickou rotáciou ako s rovnocennými postojmi"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Štátna reklama: Finančné vodítko",
+      "total": "€6.45 million",
+      "hidden": "€3.7 million",
+      "hiddenNote": "príjemcovia NIE sú verejne zverejnení",
+      "mechanism": "Médiá vo finančnej kríze → Závisia od štátnych reklám → Zjemňujú kritické spravodajstvo → Korupcia menej kontrolovaná",
+      "increase": "+ zvýšenie o 1,29 milióna EUR (2024)"
+    },
+    "precarity": {
+      "title": "Novinárska neistota = autocenzúra",
+      "noContract": "33.4%",
+      "noContractLabel": "pracovať bez formálnych zmlúv",
+      "pressure": "23.8%",
+      "pressureLabel": "hlásiť tlak z radov",
+      "belief": "90%",
+      "beliefLabel": "verí, že kariéra sa stáva neistejšou",
+      "strike": "Marec 2024: Prvý štrajk novinárov za viac ako 40 rokov"
+    },
+    "comparison": {
+      "title": "Portugalsko vs. funkčné demokracie",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "Štvrtý stav je zachytený prvým a druhým stavom. Architektúra beztrestnosti zahŕňa médiá, ktoré by ju mali odhaľovať.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Podiel na trhu štátnych médií",
+      "risk": "HIGH",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Zdokumentované diferenciálne pokrytie",
+      "case1": {
+        "title": "Čierna Hora verzus Sócrates",
+        "montenegro": "Čierna Hora (PSD): škandál Spinumviva, 410 000 EUR a viac, zatiaľ čo MP – stručné pokrytie, obmedzené sledovanie",
+        "socrates": "Sócrates (PS): Rozsiahle, trvalé pokrytie niekoľko mesiacov",
+        "pattern": "Rovnaký typ (finančná nezrovnalosť), výrazne odlišná intenzita"
+      },
+      "case2": {
+        "title": "Marques Mendes (december 2025)",
+        "revealed": "Odhalené: 700 000 EUR+ v poplatkoch za poradenstvo, zatiaľ čo komentátor SIC",
+        "coverage": "Pokrytie SIC: Minimálne - vlastný outlet bagatelizovaný škandál",
+        "pattern": "Klasický vlastnícky efekt – chráňte svoje vlastné"
+      },
+      "case3": {
+        "title": "Potlačenie tvárového okultu",
+        "attempt": "Pokus: Tlak na obmedzenie pokrytia, oneskorenie zverejnenia",
+        "result": "Výsledok: Nakoniec odhalený, ale s výrazným oneskorením",
+        "pattern": "Ukazuje systémový tlak na novinárov"
+      }
+    },
+    "framingPatterns": {
+      "title": "Ako sa rámovanie líši podľa strany",
+      "aspect": "Aspect",
+      "psScandal": "PS Scandal Coverage",
+      "psdScandal": "Pokrytie škandálu PSD",
+      "language": "Language Used",
+      "psLanguage": "\"Zločinecké plány\", \"Sieť korupcie\"",
+      "psdLanguage": "\"Kontroverzné zmluvy\", \"Nezrovnalosti\"",
+      "duration": "Trvanie pokrytia",
+      "psDuration": "Týždne/mesiace, nepretržité sledovanie",
+      "psdDuration": "Dni, krátka zmienka, žiadne sledovanie",
+      "placement": "Umiestnenie nadpisu",
+      "psPlacement": "Predná strana, hlavný vysielací čas",
+      "psdPlacement": "Vnútorné strany, mimo špičky",
+      "accountability": "Rámovanie zodpovednosti",
+      "psAccountability": "Menované osoby, zodpovednosť strany",
+      "psdAccountability": "\"Obe strany\", systémové problémy",
+      "note": "Zdroj: Akademické štúdie analyzujúce pokrytie portugalských volieb v rokoch 2015 – 2022"
+    },
+    "newsDeserts": {
+      "title": "Spravodajské púšte: Kam sa korupcia nehlási",
+      "municipalities": "z 308 obcí sú spravodajské púšte",
+      "percentage": "Portugalska nemá miestne spravodajstvo",
+      "atRisk": "ohrozené obce (iba 1 predajňa)",
+      "impact": "Kde nie je žurnalistika, tam nie je ani zodpovednosť. Miestna korupcia prekvitá v tieni spravodajských púští."
+    },
+    "pressFreedom": {
+      "title": "Sloboda tlače klesá",
+      "ranking": "Portugalsko kleslo z <strong class=\"text-good\">7.</strong> na <strong class=\"text-bad\">13</strong> miesto v Monitore plurality médií (2024→2025)",
+      "trust": "• Dôvera v správy: 54 % (pokles zo 66 % v roku 2015)",
+      "concentration": "• Riziko koncentrácie médií: 79 %",
+      "independence": "• Redakčná nezávislosť pri vysokom riziku",
+      "pattern": "THE PATTERN:",
+      "explanation": "Ako sa vlastníctvo médií sústreďuje, zvyšuje sa neistota novinárov a štátna reklama sa stáva záchranným financovaním – kritická žurnalistika sa stáva štrukturálne nemožnou."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "Part XII",
+    "title": "Zlatý padák",
+    "subtitle": "Odsúdený za korupciu? Udržujte svoj dôchodok navždy",
+    "intro": "V Portugalsku si politici usvedčení z krádeže miliónov ponechávajú svoje dôchodky financované daňovými poplatníkmi. Neexistuje žiadny zákon, ktorý by ich zastavil.",
+    "question": "Čo sa stane, keď je portugalský politik odsúdený za korupciu?",
+    "answer": "VŠETKO SI DRŽAJÚ.",
+    "cases": {
+      "title": "Zdokumentované prípady",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "José Sócrates",
+        "crime": "Poplatky za korupciu vo výške 34 miliónov eur",
+        "sentence": "Trial ongoing 11+ years",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "bývalý premiér (2005-2011)",
+        "status": "ON TRIAL",
+        "description": "Charged with corruption, money laundering, document forgery. After 10+ years, still receiving pension. Case ongoing since 2014."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Bývalý námestník ministra PS, správca CGD"
+      },
+      "pinho": {
+        "name": "Manuel Pinho",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Odsúdený: pasívna korupcia, pranie špinavých peňazí (10 rokov)",
+        "note": "Dostal 4,5 milióna EUR v úplatkoch od EDP",
+        "houseArrest": "🏠 Služba doma: Napriek 10-ročnému trestu slúži od roku 2021 vo vlastnom bydlisku"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Odsúdený: daňové podvody, pranie špinavých peňazí",
+        "note": "Odpykal si trest, potom ZNOVU ZVOLEN za starostu Oeiras"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Plné výhody už po JEDNOM období",
+      "pmBenefits": "Auto, vodič, personál, istota na celý život",
+      "ministerBenefits": "Štedrý dôchodok bez ohľadu na odslúžený čas"
+    },
+    "noLaw": {
+      "title": "Zákon: Žiadny neexistuje",
+      "text": "Portugalsko NEMÁ ŽIADNY zákon vyžadujúci prepadnutie dôchodku po odsúdení za trestný čin.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Miera náhrady dôchodkov v Portugalsku",
+        "euAverage": "71%",
+        "euAverageLabel": "EU average",
+        "productivity": "73%",
+        "productivityLabel": "Produktivita Portugalska vs EÚ"
+      },
+      "translation": "Najštedrejšie dôchodky + najslabšia zodpovednosť + najnižšia produktivita = systém určený na odmeňovanie zlyhania.",
+      "country": "Country",
+      "rule": "Forfeiture Rule",
+      "applies": "Applies To"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "GLOBÁLNE NESPOKOJNÉ",
+      "recommendations": "28",
+      "partial": "18 čiastočne realizovaný",
+      "notImplemented": "10 NIE JE implementované",
+      "lobbying": "Lobovanie: NEREGULOVANÉ",
+      "assets": "Majetkové priznania: SLABÉ VYMÁHANIE",
+      "verdict": "Protikorupčný orgán Rady Európy opakovane zaznamenal neschopnosť Portugalska zaviesť zmysluplné sankcie pre skorumpovaných úradníkov. Systém dôchodkovej ochrany podkopáva odstrašovanie a signalizuje, že politická kriminalita nemá žiadne trvalé následky."
+    },
+    "referendum": {
+      "title": "Navrhované otázky referenda",
+      "q7": {
+        "number": "Question 7",
+        "text": "Mali by politici odsúdení za korupčné zločiny automaticky prísť o dôchodky financované daňovými poplatníkmi?"
+      },
+      "q8": {
+        "number": "Question 8",
+        "text": "Mali by byť médiá povinné zverejňovať politické prepojenia vlastníkov a hlavných akcionárov?"
+      }
+    },
+    "conclusion": "Architektúra beztrestnosti presahuje súdnu sieň. Aj keď dôjde k vzácnemu presvedčeniu, zlatý padák zaistí pohodlné pristátie. Systém nielenže chráni politikov pred spravodlivosťou, ale odmeňuje ich na celý život.",
+    "scandal": {
+      "title": "Neprijateľná realita",
+      "description": "Portugalskí politici odsúdení za korupciu, podvody a zneužívanie moci naďalej poberajú dôchodky financované daňovými poplatníkmi. Automatická prepadnutie neexistuje. Zatiaľ čo bežní občania strácajú prácu a domov pre menšie priestupky, politická trieda navrhla systém, kde sa za zločin doslova platí."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Francúzsko, Španielsko a Taliansko majú IDENTIFIKÁCIU ústavnej ochrany, ale zákony o prepadnutí dôchodkov úspešne implementovali. Ich súdy uznali prepadnutie veci za ústavné. Odpor Portugalska je politická voľba, nie právna nevyhnutnosť.",
+        "title": "Ostatné krajiny EÚ"
+      },
+      "portugal": {
+        "text": "Ústavný súd to vykladá tak, že dôchodky NEMÔŽU automaticky prepadnúť. Pokusy o reformu boli dvakrát zablokované (2012, 2015). Výsledok: odsúdeným politikom zostávajú plné dôchodky.",
+        "title": "Výklad Portugalska"
+      },
+      "quote": "\"Žiadny rozsudok nesmie zahŕňať podľa potreby stratu akýchkoľvek občianskych, profesionálnych alebo politických práv.\"",
+      "source": "— Článok 30 portugalskej ústavy",
+      "title": "Ústavný štít: článok 30 RPR"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Na základe platu + odpracovaných rokov. Niektorí dostávajú 80 %+ svojho posledného platu po celý život. Môže presiahnuť 20 000 €/mesiac na najvyšších pozíciách.",
+        "title": "Ako sa to počíta"
+      },
+      "contrast": "KONTRAST: Bežní pracovníci odsúdení za zločiny strácajú prácu, dôchodky a budúcnosť. Politici odsúdení za oveľa horšie zločiny si nechávajú doživotne svojich 8 500 – 26 000 eur mesačne.",
+      "created": {
+        "text": "Zákon 4/85 vytvoril doživotné dotácie pre premiéra, ministrov, poslancov a sudcov. Pôvodne bol navrhnutý tak, aby odmeňoval „verejnú službu“.",
+        "title": "Created in 1984"
+      },
+      "description": "Portugalsko má jedinečný systém „Subvenção Vitalícia“ (doživotné dotácie), ktorý bývalým politikom poskytuje trvalú mesačnú platbu doživotne – oddelene od akéhokoľvek bežného dôchodku a navyše k nemu. Nejde o dôchodok získaný z príspevkov; je to privilégium udelené zákonom.",
+      "protected": {
+        "text": "Aj v prípade odsúdenia za trestné činy spáchané vo funkcii dotácia pokračuje. Zabavenie si vyžaduje samostatné konanie občianskeho súdu – a pri odvolaní často zlyhá.",
+        "title": "Právne chránené"
+      },
+      "title": "Systém Subvenção Vitalícia"
+    }
+  },
+  "meta": {
+    "title": "Architektúra beztrestnosti – portugalský systém politickej ochrany",
+    "description": "Ako je portugalský politický systém navrhnutý na ochranu skorumpovaných"
+  },
+  "accessibility": {
+    "skipToContent": "Preskočiť na hlavný obsah",
+    "toggleNav": "Prepnúť navigačnú ponuku",
+    "changeLang": "Change language",
+    "mainNav": "Main navigation",
+    "infoIcon": "Information",
+    "closeBanner": "Zavrieť banner s upozornením"
+  },
+  "legal": {
+    "title": "Právne upozornenie:",
+    "text": "Všetky uvedené osoby majú právo na prezumpciu neviny, kým sa nepreukáže ich vina. Tento dokument predstavuje verejne dostupné informácie z oficiálnych zdrojov, súdnych dokumentov a renomovaných médií. Analýza dokumentuje vzorce v európskych politických a právnych systémoch."
+  },
+  "thesis": {
+    "title": "Pavlovovská Politická Trieda",
+    "intro": "Portugalský politický systém funguje na klasických princípoch podmieňovania",
+    "cycle": {
+      "title": "Cyklus Podmieňovania",
+      "formula": "PODNET → REAKCIA → ODMENA → OPAKOVAŤ",
+      "entry": {
+        "title": "VSTUP",
+        "trigger": "Vstup do strany, prejavenie lojality",
+        "reward": "→ Pozícia na kandidátke"
+      },
+      "service": {
+        "title": "SLUŽBA",
+        "trigger": "Hlasuj ako ti povedia, chráň kolegov",
+        "reward": "→ Výhody (autá, šoféri, personál, výdavky)"
+      },
+      "scandal": {
+        "title": "ŠKANDÁL",
+        "trigger": "Oznámené vyšetrovanie",
+        "reward": "→ Imunita aktivovaná, súdne tajomstvo, začínajú prieťahy"
+      },
+      "rescue": {
+        "title": "ZÁCHRANA",
+        "trigger": "Mlč, neprezrádzaj ostatných",
+        "reward": "→ Právna medzera ťa zachráni na poslednú chvíľu"
+      },
+      "promotion": {
+        "title": "POVÝŠENIE",
+        "trigger": "Preukázaná lojalita počas krízy",
+        "reward": "→ POZÍCIA V EÚ (najvyššia odmena)"
+      }
+    },
+    "keyInsight": {
+      "title": "«Nie Sú Nad Nami» — Ale Postavili Sa Nad Nás",
+      "point1": "Politici vytvorili paralelnú spoločnosť s privilégiami, ku ktorým občania nemajú prístup",
+      "point2": "Systém produkuje presne také správanie, aké odmeňuje: poslušných politikov, ktorí sa navzájom chránia",
+      "point3": "Reforma zvnútra je nemožná: je to ako žiadať Pavlovove psy, aby odpojili zvonček od jedla",
+      "parallel": "Politici vytvorili paralelnú spoločnosť s privilégiami, ku ktorým občania nemajú prístup",
+      "rewards": "Systém produkuje presne také správanie, aké odmeňuje: poslušných politikov, ktorí sa navzájom chránia",
+      "reform": "Reforma zvnútra je nemožná: je to ako žiadať Pavlovove psy, aby odpojili zvonček od jedla"
+    },
+    "selfReinforcing": {
+      "title": "Samoposilňujúca Slučka",
+      "intro": "Systém sa udržiava sám. Každá generácia politikov sa učí od predchádzajúcej:",
+      "observe": {
+        "title": "POZOROVAŤ",
+        "text": "Mladší politici sledujú, ako starší prežívajú škandály"
+      },
+      "learn": {
+        "title": "UČIŤ SA",
+        "text": "Učia sa pravidlá: lojalita = ochrana"
+      },
+      "replicate": {
+        "title": "OPAKOVAŤ",
+        "text": "Keď príde ich čas, chránia ostatných a očakávajú to isté"
+      },
+      "teach": {
+        "title": "UČIŤ",
+        "text": "Stávajú sa staršími, ktorých pozorujú mladší"
+      },
+      "conclusion": "Politici nepotrebujú byť výslovne nabádaní chrániť kolegov. Robia to automaticky, pretože vedia, že systém ich na oplátku ochráni. Podmieňovanie je medzigeneračné.",
+      "howLoop": "Ako Slučka Funguje:",
+      "whyFails": "Prečo Vnútorná Reforma Vždy Zlyháva:",
+      "trapTitle": "Pasca:",
+      "trapText": "Systém nie je pokazený — funguje presne tak, ako bol navrhnutý.",
+      "loopSteps": {
+        "step1": {
+          "title": "Mladí politici poznamenávajú:",
+          "text": "Vyššie osobnosti páchajú zločiny → čelia vyšetrovaniu → útek → povýšenie"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "\"Systém chráni svojich vlastných. Ak budem lojálny, budem chránený aj ja.\""
+        },
+        "step3": {
+          "title": "Upravené správanie:",
+          "text": "Hlasujú za udržiavanie medzier, ochranu kolegov, blokovanie reformy"
+        },
+        "step4": {
+          "title": "Očakávanie upevnené:",
+          "text": "Keď príde ich vlastný škandál, očakávajú a dostanú rovnakú ochranu"
+        },
+        "step5": {
+          "title": "Ďalšia generácia si všíma:",
+          "text": "Cyklus sa opakuje s posilnenými očakávaniami"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Zablokované nezákonné obohacovanie:",
+          "text": "Politici nebudú hlasovať za odstránenie vlastného únikového prielezu"
+        },
+        "lobby": {
+          "title": "Regulácia lobby zablokovaná:",
+          "text": "PSD to zablokovalo DVAKRÁT (2019, 2024) – ohrozuje systém odmeňovania"
+        },
+        "immunity": {
+          "title": "Imunita zachovaná:",
+          "text": "Parlament nebude hlasovať za zrušenie imunity – možno ju bude potrebovať"
+        },
+        "prescription": {
+          "title": "Predpis nezmenený:",
+          "text": "Dlhé oneskorenia slúžia systému, takže systém ich udržiava"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "Vzorec Ochrany Elity",
+      "intro": "Analýza prominentných prípadov odhaľuje konzistentný trojstupňový vzorec:",
+      "investigate": {
+        "title": "VYŠETROVANIE",
+        "text": "Médiá odhalia škandál → Prokurátori oznámia vyšetrovanie → Verejné pobúrenie je potlačené"
+      },
+      "delay": {
+        "title": "PRIEŤAHY",
+        "text": "Roky procesnej zložitosti → Súdne tajomstvo uplatnené → Dôkazy starnú → Spomienky svedkov blednú"
+      },
+      "archiveOrReward": {
+        "title": "ARCHIVÁCIA ALEBO ODMENA",
+        "text": "Prípad je archivovaný pre 'nedostatok dôkazov' ALEBO politik je povýšený na vyššiu pozíciu, zatiaľ čo je vyšetrovaný"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "Švédsky kontrast",
+        "source": "Zdroj: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Aspect",
+        "officialCars": "Official Cars",
+        "mpOffices": "MP Offices",
+        "immunity": "Immunity",
+        "salaryRaises": "Salary Raises",
+        "localCouncillors": "Miestni poslanci",
+        "transparency": "Transparency",
+        "cpiScore": "TI CPI Score",
+        "swedenValues": {
+          "cars": "Len PM má auto (zabezpečenie). Všetci ostatní: autobus/vlak",
+          "offices": "kancelárie 7m²; Poslanci si riadia svoj vlastný harmonogram",
+          "immunity": "žiadne. Súdený ako každý občan",
+          "salary": "Rozhoduje nezávislý výbor",
+          "councillors": "Dobrovoľník, bez platu, práca z domu",
+          "transparency": "Všetky daňové priznania sú verejné od roku 1766",
+          "cpi": "85/100 (Top 5) - STABILNÉ"
+        },
+        "portugalValues": {
+          "cars": "PM má 11 vodičov",
+          "offices": "Plný personál, sekretárky, veľké rozpočty",
+          "immunity": "Nemôže byť zadržaný bez hlasovania parlamentu",
+          "salary": "Politici hlasujú o vlastnej kompenzácii",
+          "councillors": "Platené pozície so zamestnancami",
+          "transparency": "Segredo de justiça roky skrýva prípady",
+          "cpi": "57/100 (43.) - klesajúci"
+        },
+        "quote": "Sme obyčajní občania. Nemá zmysel dávať poslancom osobitné privilégiá, keďže našou úlohou je zastupovať občanov a poznať realitu, v ktorej ľudia žijú.",
+        "quoteCite": "— Per-Arne Håkansson, švédsky poslanec",
+        "sourceLabel": "Zdroj: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "Švajčiarsky model: Priama demokracia v praxi",
+        "intro": "Švajčiarsko dokazuje, že občania môžu priamo kontrolovať svojich politikov prostredníctvom záväzných referend. Švajčiari hlasujú približne 4-krát ročne v priemere o 15 federálnych otázkach.",
+        "popularInitiative": {
+          "title": "Populárna iniciatíva",
+          "requirement": "100 000 podpisov",
+          "text": "Hlasovanie o zmene ústavy – občania môžu navrhovať zmeny ústavy"
+        },
+        "optionalReferendum": {
+          "title": "Voliteľné referendum",
+          "requirement": "50 000 podpisov",
+          "text": "Vetovať akýkoľvek zákon do 100 dní od schválenia"
+        },
+        "mandatoryReferendum": {
+          "title": "Povinné referendum",
+          "requirement": "Automatic",
+          "text": "VŠETKY ústavné zmeny MUSIA prejsť na ľudové hlasovanie"
+        },
+        "facts": {
+          "nonProfessional": "Neprofesionálni politici: Poslanci nemajú plný štátny plat – od nich sa očakáva, že si udržia riadne pracovné miesta",
+          "referendums": "V rokoch 1848-2024 sa uskutočnilo viac ako 700 referend",
+          "cpi": "Poradie TI CPI: 3. globálne (zhodné so Švédskom a Singapurom)"
+        },
+        "quote": "Slovo ľudu je najvyššie.",
+        "quoteCite": "— Švajčiarsky demokratický princíp",
+        "stats": "Kľúčové švajčiarske štatistiky:"
+      }
+    },
+    "portugalReality": {
+      "title": "Portugalsko Realita",
+      "drivers": {
+        "number": "11",
+        "label": "Ovládače pre PM António Costa",
+        "detail": "Každý zarába 2 121 €/mesiac"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Cabinet Members",
+        "detail": "Priemer: 2 794 EUR | Učitelia: 1 705 € | Minimálna mzda: 820€"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Pokles bodu v TI CPI 2024",
+        "detail": "Skóre: 57/100 | Poradie: 43. zo 180 krajín"
+      }
+    },
+    "citizensKnow": "Občania vedia, že systém je skorumpovaný:"
+  },
+  "cases": {
+    "title": "Dôkazy: Kompletné spisy",
+    "intro": "Zdokumentované prípady demonštrujúce ochranný systém v akcii",
+    "timelineLabel": "Timeline",
+    "status": {
+      "ongoing": "Trial Ongoing",
+      "trialOngoing": "Trial Ongoing",
+      "euCouncilPresident": "predseda Rady EÚ",
+      "euPromoted": "predseda Rady EÚ",
+      "archived": "Archived",
+      "declined": "Vyšetrovanie odmietnuté",
+      "arguido": "Formálny podozrivý (arguido)",
+      "pgrDeclined": "PGR odmietla vyšetrovanie",
+      "formalSuspect": "Formálny podozrivý (arguido)",
+      "convictedServing": "ODsúdený - slúžiaci",
+      "convictedAppealing": "ODSÚDENÝ - Odvolanie",
+      "convictedRearrested": "ODsúdený (2010) – Opätovne zatknutý v roku 2022",
+      "convictedMultiple": "VIACNÁSOBNE ODsúdených",
+      "formalSuspectArguido": "FORMÁLNE PODOZRIVÝ (arguido)",
+      "arrestedJan2024": "ZAŤAŽENÍ (január 2024)",
+      "neverProsecuted": "NIKDY NESTIHNUTÉ",
+      "neverDefendant": "Nikdy nie Obžalovaný",
+      "convictedUnpaid": "ODsúdený – dlh nezaplatený",
+      "convictedMultipleJurisdictions": "ODsúdený - Portugalsko a Brazília",
+      "convictedSuspended": "ODSVEDČENÝ – podmienečná veta",
+      "convictedHouseArrest": "ODsúdený - domáce väzenie"
+    },
+    "tableStatus": {
+      "onTrial": "On Trial",
+      "underInvestigation": "V rámci vyšetrovania",
+      "convicted": "CONVICTED",
+      "convictedX2": "CONVICTED x2",
+      "arguido": "Arguido",
+      "archived": "Archived",
+      "declined": "Declined",
+      "arrested": "ARRESTED",
+      "neverProsecuted": "Nikdy trestne stíhaný",
+      "neverDefendant": "Nikdy nie obžalovaný*",
+      "convictedSuspended": "ODSÚDENÝ (podozrenie)"
+    },
+    "charges": {
+      "passiveCorruption": "Pasívna korupcia",
+      "moneyLaundering": "Pranie špinavých peňazí",
+      "documentFalsification": "Falšovanie dokladov",
+      "taxFraud": "Závažné daňové podvody"
+    },
+    "conditioningLesson": "Kondičná lekcia",
+    "theFacts": "The Facts",
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Operação Marquês",
+      "party": "PS - Socialistická strana",
+      "position": "predseda vlády (2005-2011)",
+      "timeline": {
+        "arrested": "Zatknutý na letisku v Lisabone",
+        "detained": "Zadržaný vo väznici Évora",
+        "accusation": "Formálne obvinenie (28 trestných činov)",
+        "trial": "Pred súd poslali 25 zločinov",
+        "ongoing": "Skúška STÁLE prebieha – 11+ ROKOV",
+        "instruction": "Inštruktážne rozhodnutie - 25 trestných činov zaslaných na súd",
+        "current": "Skúška STÁLE prebieha – 11+ ROKOV"
+      },
+      "charges": {
+        "title": "Obvinenia (celkom 22 trestných činov)",
+        "corruption": "Pasívna korupcia držiteľa politickej funkcie",
+        "laundering": "Pranie špinavých peňazí",
+        "falsification": "Falšovanie dokladov",
+        "fraud": "Závažné daňové podvody"
+      },
+      "amounts": {
+        "switzerland": "Švajčiarsko (2006-2009)",
+        "total": "Spolu od 3 spoločností",
+        "prescribed": "Predpísané poplatky"
+      },
+      "keyFacts": {
+        "title": "Kľúčové fakty z oficiálneho obvinenia",
+        "switzerland": "Akumulované vo Švajčiarsku (2006-2009)",
+        "total": "Celkom údajne dostal od troch korporácií",
+        "sources": "Zdroje úplatkov: Grupo LENA (stavebníctvo), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (golfový rezort), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Kondičná lekcia",
+        "text": "Prípady možno odkladať na neurčito. Dokonca ani bývalí premiéri už desaťročie nečelia žiadnym následkom. Každé odvolanie resetuje časové osi."
+      },
+      "coAccused": {
+        "apartment": "Paris apartment",
+        "description": "Sócratov blízky priateľ a údajný „finančník“. Podnikateľ, ktorý údajne priviedol milióny ex-premiérovi prostredníctvom nákupov nehnuteľností, platieb za autá a renovácií domov. Obvinený z 9 prípadov prania špinavých peňazí.",
+        "expenses": "Living expenses",
+        "renovations": "Renovations",
+        "sources": "Zdroje: Obžaloba DCIAP, správy portugalskej tlače",
+        "title": "Hlavný spoluobvinený: Carlos Santos Silva",
+        "vehicles": "Vehicles"
+      },
+      "prescription": {
+        "title": "⏱️ Kríza premlčania",
+        "text": "Z pôvodných 189 údajných trestných činov je už 167 predpísaných (premlčaných) z dôvodu procesných prieťahov. Po 11+ rokoch zostáva aktívnych iba 22 nabíjaní."
+      }
+    },
+    "costa": {
+      "name": "António Costa",
+      "operation": "Operação Influencer",
+      "party": "PS - Socialistická strana",
+      "position": "Predseda vlády (2015-2023) → Predseda Rady EÚ (2024-)",
+      "timeline": {
+        "raid": "Policajná razia v paláci São Bento",
+        "resigns": "Costa okamžite rezignuje",
+        "elected": "Lídri EÚ Zvolili Costu za prezidenta",
+        "takesOffice": "Ujíma sa funkcie predsedu Rady EÚ",
+        "ongoing": "STÁLE v štádiu vyšetrovania",
+        "resignation": "Costa okamžite rezignuje",
+        "euElection": "Lídri EÚ Zvolili Costu za predsedu Európskej rady",
+        "current": "STÁLE vo vyšetrovaní, STÁLE predsedá EÚ"
+      },
+      "keyFacts": {
+        "title": "The Facts",
+        "cash": "Hotovosť nájdená ukrytá v knihách a škatuliach od vína v kancelárii vedúceho personálu",
+        "relates": "Vyšetrovanie sa týka: ťažby lítia, zeleného vodíka, projektov dátových centier v Sines",
+        "arrests": "Kľúčové zatknutia: Vítor Escária (náčelník štábu – zatknutý), Nuno Mascarenhas (starosta Sines – zatknutý), Diogo Lacerda Machado (podnikateľ – zatknutý)",
+        "galamba": "Spolusprisahanci menovaní: João Galamba (minister infraštruktúry – formálny argument) – údajne zapojený do ovplyvňovania projektov s lítiom a vodíkom; zostal vo vláde až do Costovej rezignácie"
+      },
+      "lesson": {
+        "title": "Kondičná lekcia",
+        "text": "Maximálna lojalita = propagácia EÚ. Byť vyšetrovaný v trestnom konaní nie je prekážkou pre najvyššie pozície EÚ. Dokonalá pochúťka pre najvernejšieho psa."
+      },
+      "quote": "Lídri EÚ zvolili 27. júna 2024 Antónia Costu za predsedu Európskej rady. Do funkcie nastúpil 1. decembra 2024.",
+      "quoteCite": "— Oficiálna internetová stránka Európskej rady"
+    },
+    "montenegro": {
+      "name": "Luís Montenegro",
+      "operation": "Aféra Spinumviva",
+      "party": "PSD – sociálnodemokratická strana",
+      "position": "predseda vlády (2024 – súčasnosť)",
+      "amounts": {
+        "family": "410 000 €+ v rodinných obchodoch",
+        "solverde": "4 500 €/mesiac poradenstvo pre hazardnú spoločnosť"
+      },
+      "loopholeTitle": "Medzera, ktorá ho zachránila:",
+      "loophole": {
+        "notFormal": "Nie je formálne obvinený – iba menovaný v prípade",
+        "preliminary": "Predbežné vyšetrovanie (averiguação) sa skončilo bez poplatkov",
+        "archived": "Prípad bol archivovaný 17. decembra 2025"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "Politický komentátor SIC",
+      "party": "PSD – sociálnodemokratická strana",
+      "position": "Bývalý vodca PSD (2005-2007), člen Štátnej rady",
+      "amounts": {
+        "consultant": "700 000 EUR+ v nezverejnených poplatkoch za poradenstvo",
+        "aca": "5 000 €/mesiac od ACA-M (štátny dodávateľ)"
+      },
+      "keyFacts": {
+        "aca": "Získal 60 000 EUR ročne od ACA-M, zatiaľ čo mal v štátnych zákazkách viac ako 400 miliónov EUR",
+        "irony": "Ako komentátor SIC sa vyjadruje ku korupcii bez toho, aby prezradil svoje vlastné finančné záujmy"
+      },
+      "loopholeTitle": "Medzera, ktorá ho zachránila:",
+      "loophole": {
+        "complaint": "Podaná anonymná sťažnosť",
+        "pgr": "PGR zamietnuté pre „parco detalhe“ (nedostatočné podrobnosti)",
+        "noInvestigation": "Nikdy sa nezačalo žiadne vyšetrovanie",
+        "destroyed": "Nekonaním účinne zničené dôkazy"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Operação Ab Initio",
+      "party": "PSD – sociálnodemokratická strana",
+      "position": "Predseda regionálnej vlády Madeiry",
+      "timeline": {
+        "searches": "Január 2024: Polícia pátra na úradoch vlády",
+        "crimes": "8 údajných trestných činov: pasívna korupcia, zneužívanie moci",
+        "censure": "Marec 2024: Návrh na vyslovenie nedôvery zlyhal",
+        "reelection": "Máj 2024: ZNOVU ZVOLENÍ počas vyšetrovania"
+      },
+      "relatedArrest": "Related Arrest:",
+      "calado": {
+        "text": "Pedro Calado (viceprezident, PSD) zatknutý v januári 2024 za korupciu"
+      },
+      "lesson": {
+        "text": "Byť vo formálnom vyšetrovaní nie je prekážkou opätovného zvolenia. Systém si chráni svoje."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado",
+      "charges": "Viacnásobné odsúdenia: kolaps BES, korupcia EDP",
+      "note": "Tvrdí, že Alzheimer sa vyhýba väzeniu. Stále poberám bankový dôchodok."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Formálny podozrivý z Operação Influencer (korupcia lítia/vodíka)",
+      "note": "Ministrom infraštruktúry zostal až do rezignácie premiéra Costu"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Zatknutý za korupciu, tajné dohody pri verejných zákazkách",
+      "note": "Viceprezident Madeiry, zatknutý v januári 2024"
+    },
+    "barroso": {
+      "name": "José Manuel Barroso",
+      "charges": "Pomenovaný v ponorkovom škandále. Nikdy trestne stíhaný.",
+      "note": "Predseda Európskej komisie (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "Ďalší odsúdení/obvinení politici",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3,5 roka: Kvalifikovaný podvod, disipácia majetku. Dlh vo výške 900 miliónov eur + dlh voči štátnej banke CGD",
+      "note": "Umelecká zbierka v hodnote 500 miliónov EUR + prevedená do nadácií pred zabavením. Najvyšší súd predĺžil trest na 4 roky (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 rokov (PT) + 25 rokov (BR): podvod (BPN), vražda Rosaliny Ribeiro v Brazílii",
+      "note": "Bývalý poslanec za PSD (1987-2008). Obeť bola dedičkou majetku jeho klienta. Brazílsky trest čaká na vydanie"
+    },
+    "loureiro": {
+      "name": "Valentim Loureiro",
+      "charges": "2 roky suspendovaný: Apito Dourado futbalová korupcia. Ovplyvňovanie zápasov, podplácanie rozhodcov",
+      "note": "Starosta Gondomara (1976-2013). Prezident FC Boavista. Nikdy neodsedel vo väzení"
+    }
+  },
+  "eliteLaws": {
+    "title": "Zákony určené na ochranu elity",
+    "intro": "Ako Ústavný súd a parlament systematicky blokovali zodpovednosť",
+    "cc": {
+      "title": "Ústavný súd: Strážca beztrestnosti",
+      "intro": "Portugalský ústavný súd (Tribunal Constitucional) zrušil zákony o nezákonnom obohacovaní DVAKRÁT (2012 a 2015), zatiaľ čo parlament zablokoval viac ako 22 legislatívnych pokusov počas 18 rokov. Portugalsko zostáva JEDINOU krajinou EÚ, kde nevysvetliteľné bohatstvo nemožno kriminalizovať.",
+      "timelineTitle": "18 rokov zablokovanej reformy (2007 – 2025)"
+    },
+    "ruling2012": {
+      "badge": "STRUCK DOWN",
+      "title": "Acórdão 179/2012",
+      "date": "4 April 2012",
+      "claimedReason": "Claimed Reason:",
+      "claimedText": "Porušuje prezumpciu neviny (článok 32º CRP)",
+      "reality": "Reality:",
+      "realityText": "Francúzsko, Španielsko, Taliansko a 45+ krajín majú podobné zákony, ktoré prešli ústavnou kontrolou.",
+      "paradox": "The Paradox:",
+      "paradoxText": "Súd chráni „prezumpciu neviny“ pri vysvetľovaní majetku a zároveň toleruje 11-ročné prieťahy v prípravnom konaní, ktoré porušujú rovnaké právo."
+    },
+    "ruling2015": {
+      "badge": "ZRUŠENÉ (jednomyseľne)",
+      "title": "Acórdão 377/2015",
+      "date": "27 July 2015",
+      "response": "Odpoveď parlamentu:",
+      "responseText": "Revidovaný zákon na riešenie obáv z roku 2012 – pridaná požiadavka, že trestné stíhanie musí najprv dokázať nárast bohatstva.",
+      "tcResponse": "TC's Response:",
+      "tcResponseText": "Znova zraziť na základe rovnakých dôvodov – jednomyseľne.",
+      "message": "Message:",
+      "messageText": "Žiadna verzia zákona o nezákonnom obohacovaní sa nikdy nebude akceptovaná."
+    },
+    "euComparison": {
+      "title": "Porovnanie EÚ: Prečo len Portugalsko?",
+      "country": "Country",
+      "law": "Zákon o nezákonnom obohacovaní",
+      "status": "Ústavný stav",
+      "approved": "approved",
+      "note": "Všetky tieto krajiny majú rovnakú ústavnú ochranu prezumpcie neviny. Iba portugalská TC považuje nezákonné obohacovanie sa za „protiústavné“."
+    },
+    "bipartisan": {
+      "title": "Dvojstranný blokovací stroj",
+      "intro": "PS a PSD sa 18 rokov (2007-2025) striedali v blokovaní protikorupčných reforiem – bez ohľadu na to, kto je pri moci."
+    },
+    "subtitle": "Ako Ústavný súd a parlament systematicky blokovali zodpovednosť",
+    "acordao179": {
+      "title": "Acórdão 179/2012",
+      "date": "4 April 2012"
+    },
+    "acordao377": {
+      "title": "Acórdão 377/2015",
+      "date": "27 July 2015"
+    },
+    "immunityComparison": {
+      "title": "Parlamentná imunita: porovnanie EÚ"
+    },
+    "prescription": {
+      "title": "Premlčacie lehoty: Porovnanie EÚ"
+    },
+    "prescriptionNote": "Poznámka: Portugalsko má najdlhšie priemerné trvanie prípadov A udržiava si širokú imunitu – najhoršiu kombináciu.",
+    "euScorecard": {
+      "title": "Hodnotenie boja proti korupcii v EÚ",
+      "note": "Portugalsko sa neustále radí na spodnú priečku západoeurópskych demokracií."
+    }
+  },
+  "loopholes": {
+    "title": "Právna architektúra: Navrhnuté únikové prielezy",
+    "subtitle": "Toto nie sú chyby – sú to funkcie",
+    "anonymousComplaint": {
+      "title": "Anonymné sťažnosti zamietnuté",
+      "text": "Článok 246.º č.º 6 CPP umožňuje prokurátorom odmietnuť anonymné sťažnosti pre „parco detalhe“ (nedostatočné podrobnosti), a to aj vtedy, keď sú predložené dôkazy."
+    },
+    "immunity": {
+      "title": "Parlamentná imunita",
+      "text": "Článok 157.º CRP zabraňuje zadržiavaniu poslancov bez súhlasu parlamentu – čo sa politickým spojencom nikdy neudeľuje."
+    },
+    "averiguacao": {
+      "title": "Fáza predbežného vyšetrovania",
+      "subtitle": "Predbežný zápas Averiguação",
+      "text": "Fáza pred vyšetrovaním, ktorá môže trvať roky bez formálnych obvinení, čo umožňuje politikom tvrdiť, že „nie sú predmetom vyšetrovania“."
+    },
+    "segredo": {
+      "title": "Súdne tajomstvo",
+      "text": "Článok 86.º n.º 3 CPP umožňuje „segredo de justiça“ roky skrývať vyšetrovanie – kým politici pokračujú vo funkcii a sú povýšení."
+    },
+    "prescription": {
+      "title": "Premlčacia lehota",
+      "articles": "Články 118 – 122 CP",
+      "text": "Zložité korupčné kauzy možno odložiť, kým neordinujú (vypršia). Priemerný prípad trvá 8-12 rokov; predpis je 10-15 rokov."
+    },
+    "constitutionalCourt": {
+      "title": "Veto ústavného súdu",
+      "subtitle": "Ústavný tribunál",
+      "text": "TC zrušila zákony o nezákonnom obohacovaní DVAKRÁT (2012, 2015) a zablokovala viaceré pokusy o referendum."
+    },
+    "immunityComparison": {
+      "title": "Parlamentná imunita: porovnanie EÚ",
+      "scope": "Immunity Scope",
+      "canBlock": "Môže blokovať vyšetrovanie?",
+      "note": "Portugalská imunita je NAJŠIRŠIA v EÚ napriek podobným ústavným rámcom. Poslanci nemôžu byť zadržaní bez hlasovania parlamentu – čo politickým spojencom nikdy nie je umožnené."
+    },
+    "prescriptionComparison": {
+      "title": "Premlčacie lehoty: Porovnanie EÚ",
+      "period": "Period",
+      "suspension": "Pozastavené počas vyšetrovania?",
+      "avgDuration": "Priem. trvanie prípadu",
+      "critical": "Kritické zistenie:",
+      "finding": "Operação Marquês: 167 zo 189 predpísaných poplatkov (88 % bolo zamietnutých ako „príliš neskoro“). Sudca uznal dôkaz, ale rozhodol, že „čas vypršal“.",
+      "stat": "73 % portugalských prokurátorov tvrdí, že premlčacie lehoty sú nedostatočné. (Zdroj: Transparency International)"
+    },
+    "article246": {
+      "title": "Paradox článku 246º",
+      "mechanism": "The Mechanism:",
+      "explanation": "Článok 246.º č.º 6 CPP vyžaduje, aby prokurátori našli „indícios“ (indikácie) trestného činu PRED vyšetrovaním. Ale ako zistiť indikácie bez vyšetrovania? Zákon vytvára dokonalý úlovok-22.",
+      "cases": "Aplikácie prípadu:",
+      "montenegro": "410 000 EUR zdokumentované platby → „nedostatočné“",
+      "mendes": "700 000 EUR bankové záznamy → \"nedostatok detailov\"",
+      "verdict": "\"Dizajnový prvok maskujúci sa ako procesná ochrana.\""
+    },
+    "inconsistency": {
+      "title": "Ústavný súd: selektívna aplikácia",
+      "permitted": "✓ POVOLENÉ v Portugalsku",
+      "prohibited": "✗ ZAKÁZANÉ TC",
+      "p1": "• Prokurátori odmietajú vyšetrovanie napriek dokumentom (Čierna Hora, Mendes)",
+      "p2": "• 11-ročné predsúdne prieťahy (Sócrates)",
+      "p3": "• Vyšetrovanie blokovania parlamentnej imunity",
+      "p4": "• 26 tis. EUR mesačne dôchodky pre odsúdených ministrov",
+      "n1": "• Požadovať od úradníkov, aby vysvetlili zdokumentovaný nárast bohatstva",
+      "n2": "• Kriminalizácia nevysvetliteľného obohatenia po preukázaní zvýšenia",
+      "n3": "• Uloženie dôkazného bremena na úradníkov, ktorí majú jedinečne dôkazy",
+      "n4": "• Zákony o nezákonnom obohacovaní (zrušené v rokoch 2012, 2015)",
+      "note": "Francúzsko, Španielsko a Taliansko majú identickú ústavnú ochranu prezumpcie neviny – no dodržiavajú zákony o nezákonnom obohacovaní sa. Iba portugalský TC ich považuje za „protiústavné“."
+    },
+    "intro": "Portugalský právny systém obsahuje špecifické mechanizmy, ktoré umožňujú beztrestnosť politickej triedy."
+  },
+  "blocking": {
+    "title": "Vzorec blokovania: 18 rokov úmyselného zlyhania",
+    "subtitle": "Každý pokus o reformu bol zablokovaný, oslabený alebo zničený",
+    "timeline": {
+      "title": "Časová os blokovania nezákonného obohatenia (2007 – 2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Blokovanie regulácie lobby"
+    },
+    "symbiosis": {
+      "title": "Symbióza PS/PSD: Dve strany, jeden systém",
+      "psTitle": "PS (socialistická strana)",
+      "psdTitle": "PSD (sociálni demokrati)",
+      "ps": {
+        "noProsecute": "Nestíha členov PSD",
+        "loopholes": "Zachováva právne medzery, ktoré sú prospešné pre obe strany",
+        "blocksReforms": "V opozícii blokuje protikorupčné reformy"
+      },
+      "psd": {
+        "noProsecute": "Nestíha príslušníkov PS",
+        "loopholes": "Zachováva právne medzery, ktoré sú prospešné pre obe strany",
+        "blocksReforms": "V opozícii blokuje protikorupčné reformy"
+      }
+    },
+    "quote": {
+      "text": "\"O PCP apresentou projetos de lei para crimeizar o enriquecimento ilícito. Foram semper rejeitados pelo PS e pelo PSD.\"",
+      "translation": "\"PCP predložila návrhy zákonov na kriminalizáciu nezákonného obohacovania sa. PS a PSD ich vždy odmietli.\""
+    },
+    "otherParties": {
+      "title": "Iné strany: Impotentná opozícia",
+      "proposedReforms": "Navrhované reformy (všetky zamietnuté):",
+      "reforms": {
+        "pcp1": "Projekt PCP 726/X (2009) – Nedovolené obohacovanie",
+        "pcp2": "Projekt PCP 25/XI (2009) – Nedovolené obohacovanie",
+        "chega": "Chega (2021) – Nedovolené obohacovanie",
+        "be": "BE - Viacnásobné návrhy transparentnosti"
+      },
+      "chegaVote": {
+        "title": "Návrh Chega zamietnutý všetkými stranami (2021)",
+        "text": "Keď Chega v roku 2021 navrhol nezákonné obohacovanie, <strong>každá jedna strana hlasovala proti</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> — NIE",
+        "psd": "• <span class=\"text-psd\">PSD</span> – NIE",
+        "be": "• <span class=\"text-pink-500\">BYŤ</span> – NIE (zdržal sa hlasovania z dôvodu „zdroja“)",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> – NIE (zdržal sa hlasovania z dôvodu „zdroja“)",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> – NIE",
+        "note": "Ľavicové strany odmietli hlasovať s krajnou pravicou, dokonca aj za reformu, ktorú podporujú"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "The Paradox:",
+      "paradoxText": "Strany, ktoré verejne podporujú protikorupčnú reformu, hlasujú proti nej, keď ju navrhnú iní."
+    },
+    "intro": "Každý pokus o reformu bol zablokovaný, oslabený alebo zamietnutý",
+    "visual": {
+      "title": "18 rokov blokovania",
+      "attempts": "Pokusy o reformu",
+      "years": "Roky oneskorenia",
+      "laws": "Zákony oslabené"
+    }
+  },
+  "euRewards": {
+    "title": "The EU Reward System: Loyal Dogs Get Treats",
+    "subtitle": "Vyšetrovanie → Propagácia EÚ",
+    "costaTimeline": {
+      "title": "Časová os Costa — dokonalý dôkaz o kondicionovaní"
+    },
+    "december": {
+      "title": "Trifecta z decembra 2025"
+    },
+    "trifecta": {
+      "title": "Trifecta z decembra 2025",
+      "subtitle": "Traja politici unikli zodpovednosti za jediný mesiac:"
+    },
+    "broaderPicture": {
+      "title": "The Broader Picture"
+    },
+    "observation": "Observation: The EU rewards loyalty, not integrity.",
+    "intro": "Vyšetrovanie → Povýšenie v EÚ",
+    "table": {
+      "title": "Portugalskí politici → Pozície EÚ",
+      "patternNote": "Táto tabuľka dokumentuje vzorec politikov, ktorí dostávajú pozície EÚ napriek sporom. Korelácia nedokazuje príčinnú súvislosť alebo koordináciu – ale frekvencia si vyžaduje kontrolu."
+    },
+    "revolvingDoor": {
+      "title": "Otáčavé dvere: Brusel → Súkromný sektor"
+    }
+  },
+  "solution": {
+    "title": "Jediné riešenie: Vonkajšia sila",
+    "subtitle": "Prečo je vnútorná reforma nemožná – a čo môžu urobiť občania",
+    "impossibility": {
+      "title": "Prečo je vnútorná reforma nemožná"
+    },
+    "mechanisms": {
+      "title": "Vonkajšie mechanizmy"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "Question 1"
+      },
+      "q2": {
+        "title": "Question 2"
+      },
+      "q3": {
+        "title": "Question 3"
+      },
+      "q4": {
+        "title": "Question 4"
+      },
+      "q5": {
+        "title": "Question 5"
+      }
+    },
+    "whyImpossible": {
+      "title": "Prečo je vnútorná reforma nemožná"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Iniciatíva občianskeho referenda",
+        "subtitle": "potrebné podpisy",
+        "text": "Občania môžu navrhnúť záväzné referendá o akejkoľvek záležitosti celoštátneho významu."
+      },
+      "legislativa": {
+        "title": "Občianska legislatívna iniciatíva",
+        "subtitle": "potrebné podpisy",
+        "text": "Občania môžu navrhovať právne predpisy priamo parlamentu."
+      },
+      "european": {
+        "title": "Európska občianska iniciatíva",
+        "subtitle": "požadované podpisy vo viac ako 7 krajinách EÚ",
+        "text": "Celoeurópsky mechanizmus na navrhovanie legislatívy Európskej komisii."
+      }
+    },
+    "damningRecord": {
+      "title": "The Damning Record",
+      "text": "História referend v Portugalsku ukazuje, že systém je navrhnutý tak, aby zlyhal:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Digitálne vylúčenie: Umlčanie starších",
+      "usageByAge": "Používanie internetu podľa vekových skupín (Portugalsko, 2024)",
+      "keyStats": "Key Statistics:"
+    },
+    "proposedQuestions": {
+      "title": "Navrhované otázky referenda"
+    },
+    "intro": "Prečo je vnútorná reforma nemožná — a čo môžu občania urobiť",
+    "tradeoffs": {
+      "title": "Čestné kompromisy: To, čo navrhujeme, má riziká",
+      "intro": "V duchu transparentnosti uznávame, že mechanizmy priamej demokracie (ako sú referendá švajčiarskeho typu) majú skutočné výzvy:",
+      "challenges": {
+        "title": "Známe výzvy",
+        "engagement": "• <strong>Únava voličov:</strong> Účasť vo Švajčiarsku je v priemere 40 – 50 %. Časté hlasovanie môže občanov vyčerpať.",
+        "complexity": "• <strong>Zníženie zložitosti:</strong> Odlišná politika sa zredukuje na áno/nie. Riziká zjednodušenia.",
+        "populism": "• <strong>Populistická manipulácia:</strong> Dobre financované kampane môžu ovplyvniť nedostatočne informovaných voličov.",
+        "minority": "• <strong>Práva menšín:</strong> Väčšina môže hlasovať proti menšinám (Zákaz švajčiarskych minaretov, 2009).",
+        "corruption": "• <strong>Nie je bez korupcie:</strong> Švajčiarsko je na 7. mieste v indexe CPI – dobré, ale nie dokonalé."
+      },
+      "whyStill": {
+        "title": "Prečo to stále navrhujeme",
+        "accountability": "• <strong>Existuje zodpovednosť:</strong> nedokonalá zodpovednosť > nulová zodpovednosť.",
+        "binding": "• <strong>Záväzné výsledky:</strong> Politici nemôžu ignorovať výsledky tak, ako ignorujú petície.",
+        "deterrent": "• <strong>Odstrašujúci účinok:</strong> Vedomie, že voliči môžu prepísať, vytvára stimul pre reakciu.",
+        "culture": "• <strong>Kultúrny posun:</strong> Pravidelná účasť v priebehu času buduje občiansku angažovanosť.",
+        "track": "• <strong>Rekordy:</strong> Viac ako 700 švajčiarskych referend od roku 1848. Systém funguje nedokonale."
+      },
+      "conclusion": "<strong class=\"text-white\">Náš postoj:</strong> Netvrdíme, že priama demokracia je dokonalá. Tvrdíme, že je to lepšie ako systém, kde politici hlasujú o svojich vlastných platoch, imunite a zodpovednosti – a dôsledne sa rozhodnú chrániť sa. Otázka neznie: \"Je priama demokracia dokonalá?\" ale \"Je to lepšie ako to, čo máme?\" Dôkazy naznačujú, že áno."
+    }
+  },
+  "euLabor": {
+    "title": "Vojna proti pracovníkom: Zrušenie pracovných práv v EÚ",
+    "subtitle": "Ako európska integrácia oslabila ochranu pracovníkov v Portugalsku",
+    "germany": {
+      "title": "Nemecko: Reformy Hartz IV",
+      "benefits": "Výhody znížené na minimálnu úroveň",
+      "duration": "Dávky v nezamestnanosti obmedzené na 12 mesiacov",
+      "dependent": "Vytvorila sa nová trieda „chudobných pracujúcich“"
+    },
+    "france": {
+      "title": "Francúzsko: El Khomri a dôchodková reforma",
+      "elKhomri": "Zákon El Khomri (2016): Oslabená pracovná ochrana",
+      "pension": "Dôchodková reforma (2023): Zvýšený vek odchodu do dôchodku napriek masovým protestom",
+      "yellowVests": "Hnutie žltých viest rozdrvené policajným násilím"
+    },
+    "uk": {
+      "title": "Spojené kráľovstvo: Austerity",
+      "welfare": "Sociálny systém zničený pod „úsporami“",
+      "universalCredit": "Univerzálny kredit: Navrhnutý tak, aby popieral výhody",
+      "sanctioned": "2,5 milióna uplatnených sankcií (2012 – 2018)"
+    },
+    "italy": {
+      "title": "Taliansko: vláda Meloni",
+      "citizenIncome": "Reddito di Cittadinanza (príjmy občanov) zrušené",
+      "prison": "Až 6 rokov väzenia za organizovanie štrajkov, ktoré blokujú dopravu",
+      "strikes": "Právo na štrajk je čoraz viac kriminalizované"
+    },
+    "pattern": {
+      "title": "Vzor v celej EÚ"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "Vrstva digitálneho vylúčenia",
+      "description": "Generácia, ktorá bola svedkom celého 50-ročného vzoru korupcie, je systematicky vylúčená zo systému digitálneho podpisovania referenda."
+    },
+    "explanation": "Moderné referendové iniciatívy si vyžadujú digitálne podpisy, čím sa účinne vylučujú staršie generácie, u ktorých je menej pravdepodobné, že budú používať internet.",
+    "usageSource": "Zdroj: Eurostat (2024)",
+    "stats": {
+      "65to74": "Digitálne vylúčených je 38,9 % ľudí vo veku 65 – 74 rokov",
+      "75plus": "Približne 70 % ľudí vo veku 75+ je digitálne vylúčených",
+      "never": "Mnohí internet nikdy nepoužili",
+      "population": "To predstavuje viac ako 2 milióny portugalských občanov"
+    },
+    "warning": "Krutá irónia:"
+  },
+  "conclusion": {
+    "notDemocracy": "Toto nie je demokracia s problémami korupcie",
+    "byDesign": "Toto je podľa návrhu",
+    "euComplicit": "EÚ je spoluvinníkom",
+    "choice": "The Choice",
+    "byDesignText": "Systém nie je rozbitý. Bol navrhnutý týmto spôsobom.",
+    "choiceText1": "Tento dokument podpísal",
+    "choiceSignatures": "citizens",
+    "choiceText2": "náročné zmeny.",
+    "choiceThatsYou": "That's YOU.",
+    "euComplicitText": "Inštitúcie EÚ povyšujú vyšetrovaných úradníkov na najvyššie pozície.",
+    "notDemocracyText": "Krajina, kde občania nemôžu konať referendá, nie je úplná demokracia.",
+    "choiceText": "Tento dokument podpísali občania požadujúci zmenu."
+  },
+  "dashboard": {
+    "title": "Portugalský Panel Korupcie",
+    "intro": "Oficiálne údaje z Transparency International, DGPJ, Eurostat a GRECO",
+    "kpi": {
+      "cpi": {
+        "label": "Skóre TI CPI 2024",
+        "trend": "-4 oproti 2023"
+      },
+      "trust": {
+        "label": "Občania: „Vláda je skorumpovaná“",
+        "source": "Eurobarometer 2024"
+      },
+      "blocked": {
+        "label": "Blokované legislatívne pokusy",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Roky: Prípad Sócrates",
+        "trend": "Still ongoing"
+      }
+    },
+    "charts": {
+      "cpi": "Index vnímania korupcie (2012 – 2024)",
+      "duration": "Priemerné trvanie prípadu (mesiace)",
+      "euComparison": "Porovnanie EÚ: Skóre CPI vs. zákon o nezákonnom obohacovaní"
+    },
+    "sources": "Data Sources:"
+  },
+  "forum": {
+    "title": "Fórum občanov EÚ",
+    "intro": "Podeľte sa o svoj pohľad na politickú zodpovednosť",
+    "stats": "príspevky od občanov EÚ",
+    "form": {
+      "name": "Name (optional)",
+      "namePlaceholder": "Anonymous",
+      "country": "Country",
+      "message": "Your message",
+      "messagePlaceholder": "Podeľte sa o svoj názor na politickú zodpovednosť v EÚ...",
+      "submit": "Post Comment",
+      "note": "Nie sú povolené žiadne adresy URL. Komentáre sa ukladajú lokálne a sú moderované."
+    },
+    "noComments": "Buďte prvý, kto sa podelí o svoj pohľad na politickú zodpovednosť.",
+    "errors": {
+      "tooShort": "Komentár musí mať aspoň 10 znakov",
+      "tooLong": "Komentár musí mať menej ako 1000 znakov",
+      "prohibited": "Komentár obsahuje zakázaný obsah"
+    },
+    "success": "Komentár bol úspešne pridaný",
+    "time": {
+      "justNow": "Just now",
+      "minutesAgo": "m ago",
+      "hoursAgo": "h ago",
+      "daysAgo": "d ago"
+    }
+  },
+  "donate": {
+    "title": "Podporte nezaujatý výskum",
+    "intro": "Maximálne 2 eurá na darcu, aby sa zachovala úplná nezávislosť",
+    "principles": {
+      "max": {
+        "title": "Maximum €2",
+        "text": "Žiadny veľký darca neznamená žiadny vplyv. Každý má rovnaký hlas."
+      },
+      "allParties": {
+        "title": "Všetky strany zdokumentované",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — žiadna strana nie je oslobodená od kontroly."
+      },
+      "official": {
+        "title": "Len oficiálne zdroje",
+        "text": "Súdne dokumenty, záznamy o obžalobe, nálezy ústavného súdu."
+      },
+      "transparency": {
+        "title": "Úplná transparentnosť",
+        "text": "Všetky údaje sú overiteľné, všetky zdroje sú citované."
+      }
+    },
+    "stats": {
+      "raised": "Total Raised",
+      "donors": "Donors"
+    },
+    "whyMax": "Why €2 maximum?",
+    "whyMaxText": "Veľké dary vytvárajú záväzky. Mikrodary od tisícok občanov zabezpečujú, že tento výskum slúži verejnému záujmu, nie akejkoľvek politickej alebo obchodnej agende.",
+    "modal": {
+      "title": "Podporte nezaujatý výskum",
+      "purpose": "Váš mikrodar podporuje nezávislý výskum politickej zodpovednosti v celej EÚ.",
+      "principlesTitle": "Our Principles:",
+      "maxDonor": "Maximálne 2 €/darca – Žiadni veľkí darcovia, žiadny vplyv",
+      "allPartiesDoc": "Všetky strany zdokumentované - PS, PSD, CDS, PCP, BE, Chega - všetko v cene",
+      "officialOnly": "Len oficiálne zdroje – súdne dokumenty, záznamy o obžalobe",
+      "fullTransparency": "Úplná transparentnosť – všetky údaje sú overiteľné",
+      "paymentMethods": "Spôsoby platby už čoskoro:",
+      "simulateBtn": "Simulovať darovanie (ukážka)",
+      "demoNote": "Toto je ukážka. Skutočná integrácia platieb vyžaduje nastavenie backendu."
+    },
+    "errors": {
+      "invalidAmount": "Zadajte platnú sumu",
+      "maxAmount": "Maximálny dar je {{max}} EUR na zachovanie nezávislosti výskumu"
+    },
+    "success": "dakujem! Zaznamenaný dar vo výške {{amount}} EUR."
+  },
+  "footer": {
+    "legalTitle": "Legal Notice",
+    "legalNotice": "Legal Notice",
+    "legalNotice.text": "All individuals mentioned are entitled to the presumption of innocence. This document presents publicly available information from official sources, court documents, and verified media reports that the investigator considers essential for public awareness and democratic accountability.",
+    "legalText": "Všetky osoby uvedené v tomto dokumente majú nárok na prezumpciu neviny, kým sa ich vina nepreukáže na súde. Tento dokument predstavuje verejne dostupné informácie z oficiálnych zdrojov, súdnych dokumentov a renomovaných médií. Analýza predstavuje zdokumentované vzory v portugalskom právnom a politickom systéme.",
+    "prepared": "Pripravený dokument:",
+    "verified": "Všetky zdroje overené k dátumu vydania",
+    "legalNoticeText": "Všetky prezentované informácie pochádzajú z oficiálnych súdnych dokumentov, parlamentných záznamov a renomovaných médií. Uvedené osoby sa považujú za nevinných, kým sa nepreukáže ich vina."
+  },
+  "countries": {
+    "PT": "Portugal",
+    "ES": "Spain",
+    "FR": "France",
+    "DE": "Germany",
+    "IT": "Italy",
+    "NL": "Netherlands",
+    "BE": "Belgium",
+    "AT": "Austria",
+    "PL": "Poland",
+    "RO": "Romania",
+    "EL": "Greece",
+    "CZ": "Czechia",
+    "HU": "Hungary",
+    "SE": "Sweden",
+    "DK": "Denmark",
+    "FI": "Finland",
+    "IE": "Ireland",
+    "BG": "Bulgaria",
+    "HR": "Croatia",
+    "SK": "Slovakia",
+    "SI": "Slovenia",
+    "LT": "Lithuania",
+    "LV": "Latvia",
+    "EE": "Estonia",
+    "CY": "Cyprus",
+    "MT": "Malta",
+    "LU": "Luxembourg",
+    "EU": "EU Citizen"
+  },
+  "investigative": {
+    "badge": "Vyšetrovacia správa",
+    "title": "Čo toto vyšetrovanie odhaľuje",
+    "intro": "Po preskúmaní súdnych dokumentov, parlamentných záznamov, rozhodnutí ústavného súdu, hodnotení GRECO, správ Transparency International, prieskumov Eurobarometra a 50 rokov portugalských mediálnych archívov sa objaví znepokojujúci vzorec: portugalský politický systém nie je narušený – funguje presne tak, ako bol navrhnutý.",
+    "evidenceTitle": "Dôkazy ukazujú:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Medzinárodné zistenia:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "Toto nie je konšpiračná teória. Toto je zdokumentovaná skutočnosť. Každý nárok v tejto správe pochádza z oficiálnych dokumentov, súdnych rozhodnutí alebo renomovaných medzinárodných organizácií. Architektúra beztrestnosti nie je skrytá – je verejná, legálna a zámerne udržiavaná tými, ktorých chráni.",
+    "evidence": {
+      "banking": "20+ miliárd eur ukradnutých prostredníctvom bankových kolapsov (BPN, BES, CGD)",
+      "casaPia": "100+ detí zneužívaných v Casa Pia, zatiaľ čo elity to 20 rokov kryli",
+      "pms": "2 premiéri vyšetrovaní, 0 odsúdených",
+      "reforms": "9+ protikorupčných reforiem blokovaných PS/PSD od roku 1983",
+      "referendums": "0 záväzných referend za 50 rokov demokracie",
+      "suspended": "75 % prípadov korupcie sa končí podmienečným trestom"
+    },
+    "findings": {
+      "greco": "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "ti": "Transparency International: Portugalsko kleslo z 25. na 43. miesto (2012-2024)",
+      "eurobarometer": "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "euAverage": "Priemer EÚ: priemerná dĺžka trestného stíhania 10 rokov v porovnaní s viac ako 11 rokmi v Portugalsku",
+      "uncac": "UNCAC: 18 rokov od záväzku, stále neexistuje zákon o nezákonnom obohacovaní",
+      "euRuleOfLaw": "Právny štát EÚ 2025: 81 prípadov, 16 odsúdení v roku 2024 – priemerná dĺžka trestného stíhania: 6,8 roka"
+    }
+  },
+  "greco": {
+    "badge": "Hodnotenie Rady Európy",
+    "title": "GRECO: 1 of 15 Recommendations Implemented",
+    "subtitle": "Skupina štátov proti korupcii",
+    "intro": "The Group of States Against Corruption (GRECO) has repeatedly criticized Portugal's lack of progress",
+    "implemented": {
+      "number": "1",
+      "title": "Plne implementované",
+      "subtitle": "out of 15 recommendations",
+      "text": "Only one recommendation on transparency of political party financing has been fully addressed."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Čiastočne implementované",
+      "subtitle": "stále čaká na dokončenie",
+      "text": "Includes: MP codes of conduct, asset declarations, conflicts of interest management, lobbying transparency."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Not Implemented",
+      "subtitle": "ignorované alebo odmietnuté",
+      "text": "Includes: Illicit enrichment criminalization, whistleblower protection, cooling-off periods for ministers."
+    },
+    "criticismsTitle": "Kľúčové kritiky skupiny GRECO (správa z roku 2023):",
+    "criticisms": {
+      "noCode": "Žiadny povinný kódex správania pre poslancov",
+      "assets": "Majetkové priznania nie sú nezávisle overené",
+      "lobbyists": "Žiadny register lobistov",
+      "coolingOff": "Žiadne obdobie na rozmyslenie pre ministrov vstupujúcich do súkromného sektora",
+      "whistleblower": "Zákon o ochrane oznamovateľov korupcie má stále medzery",
+      "conflicts": "Nedostatočne presadzované pravidlá o konflikte záujmov",
+      "prosecution": "Trvanie trestného stíhania prekračuje primerané hranice",
+      "immunity": "Pravidlá politickej imunity sú príliš široké"
+    },
+    "source": "Zdroj: GRECO Piate hodnotiace kolo – Portugalsko",
+    "sourceLabel": "Zdroj: GRECO Piate hodnotiace kolo – Portugalsko",
+    "scorecard": {
+      "title": "10-ročná lehota nesúladu (2015 – 2025)",
+      "fourthRound": "ŠTVRTÉ KOLO (2015)",
+      "fifthRound": "PIATE KOLO (2024)",
+      "focusMPs": "Poslanci, sudcovia, prokurátori",
+      "focusExec": "Vláda a presadzovanie práva",
+      "implemented": "Implemented",
+      "fullyImplemented": "Plne implementované",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "Priemer EÚ: 59 % | Portugalsko: 33 %",
+      "partial": "18 Čiastočné | 10 Neimplementované",
+      "ongoing": "Súlad prebieha"
+    },
+    "menac": {
+      "title": "MENAC: Národný protikorupčný mechanizmus",
+      "staffed": "Staffed",
+      "detail": "Len 12 z 27 oprávnených pozícií je obsadených. Vyhlásené za „funkčné“ v júni 2023, ale GRECO hovorí: „nie je plne funkčné“"
+    }
+  },
+  "whistleblower": {
+    "title": "Ochrana oznamovateľov: The Missing Shield",
+    "subtitle": "Tí, ktorí odhaľujú korupciu, čelia odplate, kým skorumpovaní čelia ochrane",
+    "ruiPinto": {
+      "title": "The Rui Pinto Case",
+      "text": "Portugalský hacker, ktorý odhalil škandál „Football Leaks“ a odhalil korupciu v najväčších európskych kluboch a v portugalskom justičnom systéme. Jeho úniky prispeli k operáciám Lex (skorumpovaní sudcovia) a Luanda Leaks.",
+      "outcomeTitle": "OUTCOME:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: Arrested, extradited from Hungary",
+      "convicted": "Pinto: Convicted of hacking crimes",
+      "officials": "Corrupt officials he exposed: Some on trial, most free"
+    },
+    "comparison": {
+      "title": "Porovnanie EÚ: Zákony o oznamovateľoch",
+      "headers": {
+        "country": "Country",
+        "protection": "Úroveň ochrany",
+        "status": "Status"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Strong",
+          "status": "Anonymné nahlasovanie + právna pomoc"
+        },
+        "ireland": {
+          "protection": "Strong",
+          "status": "Komplexný zákon z roku 2014"
+        },
+        "france": {
+          "protection": "Strong",
+          "status": "Zákon Sapin II (2016)"
+        },
+        "germany": {
+          "protection": "Medium",
+          "status": "Implementované v roku 2023"
+        },
+        "portugal": {
+          "protection": "Weak",
+          "status": "Na GRECO zostávajú medzery"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "Príbeh dvoch Ruisov",
+      "subtitle": "Dvaja muži menom Rui, ktorí sa odvážili odhaliť pravdu. Obaja potrestaní. Skorumpovaní? Väčšinou zadarmo."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "Zakladateľ <a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a>, portugalskej platformy inšpirovanej WikiLeaks (od roku 2010), ktorá odhaľuje vládne dokumenty a bezpečnostné chyby. Jediná webová stránka uvedená v CIA World Factbook pod portugalskými „politickými nátlakovými skupinami“.",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Zákaz prístupu na internet</strong> na 8 mesiacov",
+      "gagged": "• Podlieha súdnemu <strong>príkazu o dávení</strong>",
+      "fired": "• <strong>Prepustený</strong> z práce v PT Comunicações",
+      "active": "• <span class=\"text-good\">Tugaleaks je stále aktívny aj v roku 2025</span>",
+      "source": "Zdroj: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRi (Európske digitálne práva)</a>"
+    }
+  },
+  "media": {
+    "title": "Klimatizačný stroj: Vlastníctvo médií",
+    "subtitle": "Kto vlastní portugalské médiá a prečo na tom záleží?",
+    "ownershipTitle": "Koncentrované vlastníctvo",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão - bývalý premiér (PSD)",
+      "cofina": "Medzi hlavných akcionárov patria banky zachraňované štátom",
+      "mediaCapital": "Nedávno predaný, vlastníctvo sa často mení",
+      "globalMedia": "Vlastnené investormi s rôznymi záujmami",
+      "rtp": "Štátne, predstavenstvo menované vládou"
+    },
+    "conditioningTitle": "Kondicionačný efekt",
+    "conditioningIntro": "Keď vlastníci médií majú väzby na politické strany alebo závisia od štátnej reklamy:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "THE RESULT:",
+    "resultText": "Portuguese citizens know corruption exists (88% say so) but feel powerless to change it. The media covers scandals but rarely connects them to the systemic protection architecture.",
+    "conditioning": {
+      "selfCensorship": "Autocenzúra sa normalizuje",
+      "underfunded": "Investigatívna žurnalistika je podfinancovaná",
+      "forgotten": "Škandály nakrátko prekryté, potom zabudnuté",
+      "bothSides": "\"Obe strany\" falošná ekvivalencia o korupcii",
+      "personalities": "Zamerajte sa na osobnosti, nie na systémové problémy"
+    }
+  },
+  "eciCritique": {
+    "title": "Chyba dizajnu ECI: 12 mesiacov protimobilizácie",
+    "problem": "Komisia má 12 mesiacov na odpoveď – čas na organizáciu odporu, lobovanie proti implementácii alebo jednoducho oddialenie, kým pozornosť verejnosti nezmizne.",
+    "tacticsTitle": "Protiopatrenia dostupné pre inštitúcie:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Historické zlyhania ECI:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "Alternatíva:",
+    "alternativeText": "To je dôvod, prečo navrhujeme PRIAMY mechanizmus referenda ako Švajčiarsko, nie ECI založené na petíciách, ktoré možno ignorovať. Švajčiarske referendá sú ZÁVÄZNÉ – politici ich nemôžu jednoducho čakať.",
+    "comparisonTitle": "ECI vs švajčiarske referendum:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Kompletná databáza korupcie",
+    "subtitle": "25+ odhalených veľkých škandálov (1980 – 2025)",
+    "intro": "Každý veľký korupčný prípad zdokumentovaný sumami, výsledkami a zdrojmi",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "Najväčší podvod v portugalskej histórii. Zistené podsúvahové straty vo výške 700 miliónov EUR+. Banka znárodnená.",
+        "sources": "Zdroje: RTP, Público, Súdne dokumenty"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "Pripojenie EDP:",
+        "edpText": "Salgado bol odsúdený za podplácanie ministra hospodárstva Manuela Pinha sumou 4,5 milióna eur za priaznivé rozhodnutia v rámci postupu pri nadmernom deficite.",
+        "sources": "Zdroje: Observador, súdne dokumenty, správy BdP",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado - CEO (1991-2014) - Viaceré pokusy, zdravotné oneskorenia",
+          "ricciardi": "José Maria Ricciardi – BES Investment – ​​ODsúdený",
+          "pires": "Amílcar Morais Pires – finančný riaditeľ – ODsúdený",
+          "cruz": "Machado da Cruz – riaditeľ pre riziká – na súde"
+        },
+        "fraudStructure": {
+          "title": "Štruktúra podvodu:",
+          "hiddenLosses": "4,9 miliardy eur v nezverejnených stratách skrytých cez offshore vozidlá",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPV (Luxemburské fiktívne spoločnosti)",
+          "mechanisms": "Pôžičky od spriaznených strán, obehové záruky, skryté záväzky, fiktívne aktíva, operácie v Angole (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgado sa stal generálnym riaditeľom (23 rokov vlády)",
+          "problems": "2013: Interné audity poukazujú na problémy (vedomé v rodine)",
+          "collapse": "2014-08: Hlási stratu 3,6 miliardy EUR, pozastavenie činnosti banky, pomoc vo výške 4,9 miliardy EUR",
+          "prosecution": "2015-2025: Viacnásobné súdne procesy, pomalý pokrok, generálny riaditeľ nikdy neuväznený"
+        },
+        "monteBlanco": {
+          "name": "Súd Monte Branco",
+          "defendants": "18 obžalovaných vrátane Salgada",
+          "status": "Prebieha 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Sócrates údajne dostával od Salgada 15 000 eur mesačne",
+          "pinho": "Minister Pinho dostal 4,9 milióna eur od Salgada (odsúdený na 10 rokov)"
+        },
+        "regulatoryFailure": "Bank of Portugal roky minula varovné signály. Audítori podpísali podvodné účty."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Štátna banka potrebuje najväčšiu záchranu v histórii Portugalska.",
+        "interferenceTitle": "Politické zasahovanie:",
+        "interferenceText": "Parlamentné vyšetrovanie zistilo, že „politické zasahovanie“ a „stranické menovania“ zahŕňajúce viaceré vlády.",
+        "sources": "Zdroje: RTP, parlamentná vyšetrovacia správa"
+      }
+    },
+    "politicians": {
+      "title": "Premiéri a najvyšší politici",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Zdroje korupcie:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Švajčiarske účty: objavených 24 miliónov EUR"
+        },
+        "otherScandalsTitle": "Ďalšie súvisiace škandály:",
+        "other": {
+          "freeport": "Freeport: Obvinenia z environmentálnej výnimky",
+          "parqueEscolar": "Parque Escolar: Podvod pri renovácii školy",
+          "cgd": "CGD: Údajný vplyv na rozhodnutia bánk"
+        },
+        "sources": "Zdroje: Obvinenie DCIAP, súdne dokumenty",
+        "charges": {
+          "title": "Škandál s predpismi:",
+          "original": "189 vznesených obvinení (31 trestných činov)",
+          "prescribed": "167 PREDPÍSANÝCH poplatkov (platnosť vypršala)",
+          "remaining": "Len 22 obvinení pokračuje v procese",
+          "judge": "Sudca Ivo Rosa (apríl 2021): Rozhodol, že väčšina zločinov „prepadla“",
+          "ruling": "Sudca rozhodol, že Sócrates bol „skazený“, ale zločin „prepadol“"
+        },
+        "timeline": {
+          "arrested": "2014-11-21: Zatknutý na letisku v Lisabone",
+          "prison": "2014-2015: 9 mesiacov vo väznici Évora",
+          "houseArrest": "2015: domáce väzenie, potom úplná sloboda",
+          "ongoing": "2025: Po 11+ rokoch stále žiadne odsúdenie"
+        },
+        "pension": {
+          "title": "Chránený počas obvinenia:",
+          "amount": "30 000 EUR ročne „doživotná podpora“ (subvenção vitalícia)",
+          "legal": "Použitie dôchodku na financovanie právnej obrany",
+          "lifestyle": "Udržiava parížsky byt, životný štýl"
+        },
+        "recovery": "Portugalský štát získal späť 0 €",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Obranná pozícia:",
+        "defense": "Sócrates tvrdí, že 34 miliónov eur boli pôžičky od priateľov, nie úplatky. Jeho obhajoba tvrdí, že mediálne prenasledovanie a selektívne stíhanie. Pojednávanie bolo obnovené v júli 2025 po viac ako 11 rokoch odkladov."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "Najvyššia irónia:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "The Raid (7. novembra 2023):",
+          "cash": "V kancelárii náčelníka štábu sa našla hotovosť 78 000 eur",
+          "arrests": "Vítor Escária (náčelník štábu) a Lacerda Machado (podnikateľ) zatknutí",
+          "resignation": "Costa odstúpil v ten istý večer"
+        },
+        "investigation": {
+          "title": "Operação Influencer:",
+          "lithium": "Koncesie na ťažbu lítia (najväčšie zásoby v Európe)",
+          "hydrogen": "Projekty zeleného vodíka (viacmiliardové investície)",
+          "allegation": "Údajné priaznivé licenčné rozhodnutia výmenou za platby"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária - náčelník štábu - zatknutý, prepustený",
+          "machado": "Lacerda Machado - Sprostredkovateľ obchodníka - Zatknutý",
+          "galamba": "João Galamba – štátny tajomník pre energetiku – pod drobnohľadom"
+        },
+        "euPromotion": {
+          "date": "27. 6. 2024: zvolený za predsedu Rady EÚ",
+          "start": "1. decembra 2024: Ujíma sa úradu",
+          "status": "Vyšetrovanie stále prebieha - nebolo vznesené žiadne obvinenie"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especiais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Costa nebol nikdy obvinený a nie je „arguido“ (formálny podozrivý). november 2025: Najvyšší súd rozhodol, že odpočúvania boli vykonané BEZ riadneho povolenia. Vyšetrovanie prebieha, ale žiadne formálne obvinenia."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Zdroje: Súdne dokumenty",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Elitná pedofilná sieť využívajúca štátne sirotince. Televízny moderátor, veľvyslanec UNESCO, guvernér Casa Pia medzi odsúdenými.",
+        "coverupTitle": "The Cover-Up:",
+        "coverupText": "Prvé správy sa objavili v osemdesiatych rokoch minulého storočia. Polícia zastavila vyšetrovanie. Úradníci zničili dokumenty. Úplná expozícia až v roku 2002.",
+        "sources": "Zdroje: France 24, Súdne dokumenty"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17 obžalovaných vrátane vyšších sudcov bolo obvinených z predaja priaznivých rozsudkov.",
+        "failureTitle": "Systémové zlyhanie:",
+        "failureText": "Sudcovia, ktorí by mali presadzovať protikorupčné zákony, boli sami skorumpovaní.",
+        "sources": "Zdroje: Observador, Súdne záznamy"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Krádež zbraní Tancos (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "Narušenie bezpečnosti vojenskej základne. Zbrane boli ukradnuté a potom \"nájdené\" pri postupnom zotavovaní.",
+        "convicted": "Vojenský personál odsúdený",
+        "acquitted": "Minister obrany Azeredo Lopes bol oslobodený",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "Predstavitelia vzdušných síl zvýšili ceny potravín o 10 miliónov EUR+.",
+        "hiring": "Spoločnosti Shell používali na presmerovanie prostriedkov",
+        "justified": "Odôvodnené ako „prevádzková nevyhnutnosť“"
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "Nemecká spoločnosť Ferrostaal zaplatila portugalským predstaviteľom za kontrakt na ponorku 6,4 milióna eur.",
+        "germans": "Nemeckí vedúci pracovníci: ODsúdení v Nemecku",
+        "portuguese": "Portugalskí predstavitelia: VŠETCI OSVOBOzení",
+        "documents": "Z ministerstva obrany „zmizli“ kľúčové dokumenty"
+      },
+      "police": {
+        "2004": "2004: Euro 2004 bezpečnostná korupcia",
+        "2007": "2007: Prípad Leonor Cipriano – policajti odsúdení za mučenie",
+        "2019": "2019: Natočený brutálny útok na černochov",
+        "2021": "2021: Dôstojníci PSP odsúdení za napadnutie",
+        "2025": "2025: Policajný priekupnícky kruh odhalený",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Viacero starostov v Portugalsku bolo odsúdených alebo vyšetrovaných za korupciu.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Viacstarostová korupčná sieť",
+        "description": "Vyšetrovanie odhalilo korupčnú sieť zahŕňajúcu starostov Santo Tirso a Barcelos a riaditeľa IPO Porto v zmanipulovaných verejných zákazkách a províziách.",
+        "santo": "• Starosta Santo Tirso: Vyšetrované",
+        "barcelos": "• Starosta Barcelos: Vyšetrované",
+        "ipo": "• Riaditeľ IPO Porto: Vyšetrované",
+        "pattern": "• Vzor: Komunálna korupcia medzi stranami"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Dvaja starostovia Espinho sú vyšetrovaní",
+        "description": "Súčasní a bývalí starostovia obce Espinho sú vyšetrovaní pre korupciu v súvislosti s verejnými zákazkami a rozhodnutiami samosprávy.",
+        "current": "• Súčasný starosta: V štádiu vyšetrovania",
+        "former": "• Bývalý starosta: V štádiu vyšetrovania",
+        "pattern": "• Vzor: Korupcia medzi správami"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Starosta + predseda futbalu Odsúdený",
+        "description": "Starosta Gondomaru a predseda FC Boavista odsúdený za rozsiahly škandál s korupciou rozhodcov. Zapojených 171 ľudí, 13 odsúdených. Podmienečný trest = žiadne väzenie.",
+        "sentence": "• Odsúdený: 3 roky 2 mesiace POZASTAVENÝ",
+        "prison": "• Odpykaný čas vo väzení: NULA",
+        "son": "• Syn prevzal Boavista FC (4-ročný zákaz činnosti)",
+        "pinto": "• Pinto da Costa: hotovosť + prostitútky pre rozhodcov"
+      },
+      "maestro": {
+        "name": "Operação Maestro (2024)",
+        "subtitle": "Podvod s eurofondami v hodnote 39 miliónov eur",
+        "description": "Marec 2024: PJ vykonal razie na 78 miestach. Podnikateľ Manuel Serrão obvinil zo zneužitia 39 miliónov eur z fondu regionálneho rozvoja EÚ. Vyšetrovaní dvaja štátni tajomníci.",
+        "raids": "• Razia na 78 miestach, 6 zadržaných",
+        "officials": "• Vyšetrovaní 2 štátni tajomníci",
+        "companies": "• Sieť fiktívnych spoločností pre podvody",
+        "status": "• Stav: Prebieha vyšetrovanie"
+      },
+      "overview": {
+        "description": "Miestna korupcia prekvitá v „spravodajských púšťach“, kde žiadni novinári nemonitorujú komunálne zákazky, urbanizmus a verejné práce. Bežné schémy: nafúknuté zmluvy, provízie, „poplatky za urgenciu“ za schválenie, pracovné miesta pre politických spojencov.",
+        "investigated": "Vyšetrovaní starostovia (2010 – 2025)",
+        "municipalities": "portugalské samosprávy",
+        "officials": "Miestni úradníci s prípadmi (december 2025)",
+        "suspended": "Dostávať podmienečné tresty",
+        "title": "Mierka miestnej korupcie"
+      },
+      "trifecta": {
+        "convicted": "5 starostov OSVEDČENÝCH",
+        "description": "V decembri 2024 bolo bezprecedentne odsúdených 5 súčasných/bývalých starostov z Albergaria-a-Velha, Oliveira de Azeméis, Estarreja a okolitých obcí. Všetci odsúdení za korupciu, špekulácie a zneužívanie právomocí v súvislosti s verejnými zákazkami. Väčšina dostala podmienečné tresty.",
+        "name": "December 2024: Trifecta",
+        "pattern": "Všetky podmienečné tresty",
+        "prison": "0 in prison",
+        "subtitle": "5 starostov odsúdených za jediný týždeň"
+      }
+    },
+    "football": {
+      "title": "Futbalová korupcia",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "FC Porto z Pinto da Costa zapletené do úplatku rozhodcov.",
+        "costa": "Pinto da Costa: Ospravedlnený z technických príčin",
+        "points": "Body odpočítané, neskôr obnovené",
+        "boavista": "Namiesto toho zostúpil Boavista (súperi).",
+        "uefa": "UEFA nepodnikla žiadne kroky"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "Masívny korupčný škandál zahŕňajúci ovplyvňovanie výsledkov zápasov, daňové podvody a spreneveru.",
+        "vieira": "Luís Filipe Vieira: Zatknutý v roku 2021, pred súdom",
+        "goncalves": "Paulo Gonçalves: Bývalý právny riaditeľ, odsúdený",
+        "ban": "Vieira dostal zákaz futbalu",
+        "pinto": "Odhalil Rui Pinto (Futbalové úniky)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "Bývalý predseda parlamentu PSD obvinený z vraždy brazílskeho klienta v Riu.",
+        "bpn": "Ako bankový právnik spojený so škandálom BPN",
+        "murder": "Obeť: Rosalina Ribeiro, zastrelená v aute v Rio de Janeiro",
+        "untouchable": "Portugalské úrady roky odmietali vydanie"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Škandál so zlatými vízami (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "11 úradníkov zatknutých za nafúknutie cien nehnuteľností a branie úplatkov.",
+        "macedo": "Riaditeľ SEF Paiva Nunes: Zatknutý",
+        "figueiredo": "Odsúdení viacerí úradníci",
+        "chinese": "Zapojení čínski a ruskí investori"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "Manažéri štátnych aerolínií dostali masívne odstupné.",
+        "reis": "Christine Ourmieres-Widener: odstupné 500 000 eur",
+        "santos": "Ramiro Sequeira: Kontroverzný výstupný balík",
+        "galamba": "Na vymenovania dohliadal minister Galamba",
+        "laptop": "Parlamentné vyšetrovanie si vyžiadalo dokumenty"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "Endemický nepotizmus v portugalskej politike.",
+        "president": "Marcelovi príbuzní na kľúčových pozíciách",
+        "law": "Žiadna zmysluplná legislatíva proti nepotizmu",
+        "hodgepodge": "Rodinné vzťahy zahŕňajú všetky hlavné strany"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Program renovácie školy počas Sókratovej éry je plný podvodov.",
+        "notAudited": "492 miliónov eur vynaložených bez riadneho auditu",
+        "investigation": "Vyšetrovanie sa otvorilo, ale zastavilo sa",
+        "noConvictions": "Dodnes žiadne odsúdenia"
+      }
+    },
+    "pattern": {
+      "title": "Vzor beztrestnosti: Podľa čísel",
+      "stats": {
+        "banking": "Bankové straty (BPN+BES+CGD+Novo Banco)",
+        "pms": "PM vyšetrovaní",
+        "socrates": "Roky: Trvanie prípadu Sócrates",
+        "suspended": "Prípady končiace podmienečným trestom",
+        "served": "Odsúdených, ktorí si skutočne odsedeli",
+        "casaPia": "Obete Casa Pia",
+        "judges": "Súdni sudcovia (Op Lex)",
+        "submarine": "Portugalskí predstavitelia odsúdení (ponorka)",
+        "novoBanco": "Náklady na záchranu Novo Banco (0 odsúdení)",
+        "chargesDropped": "Obvinenia Sócrates klesli (88 %)",
+        "blocking": "Návrhy reforiem zablokované (2007 – 2025)",
+        "enrichment": "Prijali sa zákony o nezákonnom obohacovaní",
+        "admiral": "Operácia Admiral Recovery (EPPO)",
+        "arrests": "Admirál zatknutý o 3 dni",
+        "prosecutors": "Prokurátori čelia neistým zákazkám",
+        "lima": "Odklad prípadu vraždy Duarte Lima"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Škandál so zneužívaním detí Casa Pia",
+        "date": "2002 (zneužívanie od 80. rokov 20. storočia)",
+        "amount": "100+ detských obetí",
+        "description": "Elitná pedofilná sieť využívajúca štátne sirotince. Medzi odsúdenými je aj televízny moderátor Carlos Cruz, diplomat Jorge Ritto, guvernér Casa Pia Manuel Abrantes.",
+        "outcome": "7 odsúdených (2010), tresty 5-18 rokov",
+        "source": "France 24"
+      },
+      "bpn": {
+        "title": "BPN – Banco Português de Negócios",
+        "date": "2008",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "José Oliveira e Costa: 14 rokov (skrátené po odvolaní)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES - Banco Espírito Santo",
+        "date": "2014",
+        "amount": "€11.8 billion loss",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes. State creates Novo Banco at huge cost.",
+        "outcome": "Salgado: 6→8 years (one case), 6y3m (EDP case). Claims Alzheimer's.",
+        "source": "Observador"
+      },
+      "cgd": {
+        "title": "CGD - Caixa Geral de Depósitos",
+        "date": "2016",
+        "amount": "Záchrana 4,9 miliardy eur",
+        "description": "Štátna banka potrebuje najväčšiu záchranu v histórii Portugalska. Parlamentné vyšetrovanie zistilo „politické zasahovanie“, „stranické menovania“. 7 rokov ignorovaných upozornení na podvody.",
+        "outcome": "NULOVÉ presvedčenie",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "€8+ billion public money",
+        "description": "'Good bank' from BES collapse. Sold to Lone Star (2017) with €3.89B state guarantee. By 2021: €7.9B injected. Parliamentary inquiry finds 'irresponsibility.'",
+        "outcome": "ZERO convictions. No personal liability.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Úplatky z nemeckých ponoriek",
+        "date": "2004",
+        "amount": "6,4 milióna eur na úplatkoch",
+        "description": "Ferrostaal zaplatil portugalským predstaviteľom za kontrakt na ponorku v hodnote 833 miliónov eur. 1 milión EUR+ na CDS-PP party. Dokumenty „zmiznú“ z ministerstva obrany.",
+        "outcome": "Nemeckí vedúci pracovníci: ODsúdený. Celá portugalčina: ACQUITTED (2014)",
+        "source": "Sledovač korupcie"
+      },
+      "freeport": {
+        "title": "Freeport",
+        "date": "2002",
+        "amount": "Undisclosed",
+        "description": "Minister životného prostredia José Sócrates sa údajne vzdal environmentálnych obmedzení pre britskú spoločnosť, aby mohla postaviť nákupné centrum na chránenom území.",
+        "outcome": "Vymazané v roku 2010 – „nikto nie je na vine“",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Škandál so zlatými vízami",
+        "date": "2014",
+        "amount": "40+ miliónov eur na úplatkoch",
+        "description": "11 úradníkov zatknutých za nafúknutie cien nehnuteľností, branie úplatkov za povolenia na pobyt. Zapojení čínski a ruskí investori.",
+        "outcome": "Niektoré presvedčenia, program pokračuje",
+        "source": "Observador"
+      },
+      "tancos": {
+        "title": "Krádež zbraní Tancos",
+        "date": "2017",
+        "amount": "Cache vojenských zbraní",
+        "description": "Ukradnutých 1 450 nábojov, 150 ručných granátov, 44 protitankových granátov, 264 plastických trhavín. Bezpečnostné kamery „nefungujú“ niekoľko týždňov. Minister Azeredo Lopes podal demisiu.",
+        "outcome": "Súdny proces prebieha, viacerí obžalovaní",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Kompletná databáza korupcie",
+    "fullIntro": "Každý veľký korupčný prípad zdokumentovaný sumami, výsledkami a zdrojmi",
+    "additional": {
+      "title": "Škandály justičného systému",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Prokurátor vzal na úplatkoch viac ako 700 000 eur",
+        "description": "Prokurátor Orlando Figueira prijal úplatky od angolského viceprezidenta Manuela Vicenteho, aby uzavrel vyšetrovanie korupcie. Preukazuje korupciu v rámci samotnej prokuratúry.",
+        "orlando": "• Orlando Figueira (prokurátor): ODsúdený",
+        "vicente": "• Manuel Vicente (VP Angoly): Chránený diplomatickou imunitou",
+        "pattern": "• Vzor: Tí, ktorí stíhajú korupciu, skorumpovaní"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (starosta Oeiras)",
+        "subtitle": "\"Skorumpovaný starosta, ktorého zbožňujú\"",
+        "description": "Odsúdený za daňové podvody, pranie špinavých peňazí. Odsúdený na 7 rokov → po odvolaní znížený na 2 roky. Podávané 14 mesiacov. Znovuzvolený za starostu v rokoch 2017 a 2021. Vo funkcii dodnes.",
+        "conviction": "• 2009: odsúdenie na 7 rokov → 2010: zníženie na 2 roky",
+        "prison": "• 2013-2014: Slúžil 14 mesiacov vo väznici Carregueira",
+        "reelected": "• 2017, 2021: OPÄTOVNE ZVOLEN za primátora",
+        "new": "• 2022: Nové obvinenia za porušenie PPP"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "kolotočové podvody s DPH vo viacerých krajinách. Namiesto portugalských orgánov stíhaná EPPO. 10 odsúdených, tresty 7-8 rokov. To sa stane, keď EÚ prevezme trestné stíhanie.",
+        "lesson": "POUČENIE: EPPO funguje. Národný systém nie.",
+        "name": "Operácia Admirál (2025)",
+        "subtitle": "2,9 miliardy EUR – najväčší podvod v EÚ EVER"
+      },
+      "context": {
+        "admiral": "Admirál podvod (jediný prípad)",
+        "description": "Portugalsko dostalo od roku 1986 viac ako 60 miliárd eur zo štrukturálnych fondov EÚ. Napriek tomu Portugalsko zostáva jednou z najchudobnejších krajín západnej Európy. Kam sa podeli peniaze? Audítori neustále nachádzajú nezrovnalosti, ale trestné stíhania sú zriedkavé.",
+        "eppo": "Portugalský prokurátor EPPO",
+        "prr": "Plán obnovy PRR (2021 – 2026)",
+        "received": "Prijaté prostriedky EÚ (1986 – 2024)",
+        "title": "Otázka 60 miliárd eur"
+      },
+      "patterns": {
+        "invoices": "• Falošné faktúry za neexistujúce služby",
+        "kickbacks": "• Spätné úplatky schvaľujúcim úradníkom",
+        "monitoring": "• Slabé monitorovanie zo strany IGCP/IGAC",
+        "prescription": "• Prípady predpísané pred súdnym konaním",
+        "projects": "• „Ghost projekty“ – schválené, ale nikdy nedokončené",
+        "shell": "• Shell spoločnosti vytvorené na prijímanie finančných prostriedkov",
+        "title": "Opakujúce sa vzory podvodov"
+      },
+      "title": "EU Funds Fraud"
+    },
+    "disclaimer": {
+      "title": "Dôležité právne upozornenie",
+      "presumption": "• Prezumpcia neviny: Všetci jednotlivci sa považujú za nevinných, kým sa ich vina nepreukáže konečným rozsudkom súdu. Stav „vyšetrovaný“ alebo „arguido“ neznamená vinu.",
+      "status": "• Stav prípadu: Každý záznam je označený aktuálnym právnym stavom (Odsúdený, Na súde, Vyšetrovaný, Archivovaný, Oslobodený). Stavy sa aktualizujú podľa postupu prípadov.",
+      "sources": "• Zdroje: Všetky informácie pochádzajú z oficiálnych súdnych dokumentov, oznámení DCIAP, parlamentných vyšetrovaní alebo renomovaných portugalských médií (RTP, Público, Observador).",
+      "defense": "• Obranné pozície: Obžalovaní odmietli obvinenia alebo poskytli vysvetlenia. Ich právne postavenie je uvedené tam, kde je verejne dostupné."
+    }
+  },
+  "operations": {
+    "title": "Zoznam policajných operácií",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "José Sócrates (premiér)",
+      "status": "Skúška prebieha 11+ rokov",
+      "crimes": "22 trestných činov: korupcia, pranie špinavých peňazí, podvody"
+    },
+    "influencer": {
+      "name": "Operação Influencer",
+      "target": "António Costa (PM)",
+      "status": "Vyšetruje sa → prezident EÚ",
+      "crimes": "Korupcia, sprenevera"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "target": "Rozhodcovia Rangel, Galante, Vaz das Neves",
+      "status": "Súdny proces sa začal v októbri 2025",
+      "crimes": "17 obžalovaných, 21+ trestných činov"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "Prokurátor Orlando Figueira",
+      "status": "Odsúdený vo veku 6 rokov 8 m (2021)",
+      "crimes": "Úplatok 700 000 EUR od viceprezidenta Angoly"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, starostovia Barcelony",
+      "status": "Súdny proces prebieha v roku 2025",
+      "crimes": "50+ trestných činov, nezrovnalosti vo výške 1,8 milióna EUR"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 starostovia Espinho (PS + PSD)",
+      "status": "Trial ongoing",
+      "crimes": "Mestská korupcia, „naliehavé poplatky“"
+    },
+    "babel": {
+      "name": "Operação Babel",
+      "target": "Viceprezident Gaia Patrocínio Azevedo",
+      "status": "Skúška sa začína v januári 2025",
+      "crimes": "Výhody 40 mil. eur, nehnuteľnosť 300 mil. eur"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "prezidenti lisabonských farností",
+      "status": "Obvinenie dokončené",
+      "crimes": "60 obžalovaných, 463 trestných činov, 580 tis. eur"
+    },
+    "maestro": {
+      "name": "Operação Maestro",
+      "target": "Manuel Serrão",
+      "status": "Prebieha vyšetrovanie",
+      "crimes": "Podvod s eurofondami vo výške 39 miliónov eur"
+    },
+    "admiral": {
+      "name": "Operation Admirál (EPPO)",
+      "target": "sieť podvodov s DPH",
+      "status": "10 odsúdených (máj 2025)",
+      "crimes": "Škoda vo výške 2,9 miliardy EUR – najväčší podvod v celej EÚ"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 rokov korupcie: Kompletná časová os",
+    "pageSubtitle": "Každý odhalený škandál → Každá reforma zablokovaná → Odhalený systematický vzor beztrestnosti",
+    "legend": {
+      "corruption": "Korupcia/Škandál",
+      "blocked": "Reforma zablokovaná/slabá odozva",
+      "conviction": "Odsúdenie/reforma prešla"
+    },
+    "summaryTitle": "50 rokov: skóre",
+    "summary": {
+      "bankingLosses": {
+        "value": "€25B+",
+        "label": "Bankové straty (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Pokusy o reformu sú zablokované"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Záväzné referendá"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "PMs convicted"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Politici čeliaci spravodlivosti (od roku 2017)"
+      },
+      "socratesDuration": {
+        "value": "11 years",
+        "label": "Zatknutie Sókrata→súd"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "Obete Casa Pia"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Obžalovaní Op Lex (sudcovia+)"
+      },
+      "admiralFraud": {
+        "value": "€2.9B",
+        "label": "Podvody s DPH (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Ministri vo väzení (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "Odhalený vzor",
+    "patternIntro": "Po každom veľkom škandále nasleduje:",
+    "pattern": {
+      "step1": "1. <strong>Rozhorčenie</strong> → Medializácia, hnev verejnosti",
+      "step2": "2. <strong>Návrh reformy</strong> → Od opozície alebo malých strán",
+      "step3": "3. <strong>Blokovať</strong> → PS alebo PSD hlasujú proti (majú 150+ z 230 kresiel)",
+      "step4": "4. <strong>Oneskorenie</strong> → Puzdro sa ťahá roky až do predpisu",
+      "step5": "5. <strong>Oslobodenie alebo podmienečný trest</strong> → 75 % prípadov",
+      "step6": "6. <strong>Povýšenie</strong> → Costa do Rady EÚ, Barroso do Komisie EÚ"
+    },
+    "patternQuote": "\"Do väzenia idú len chudobní a neznámi.\"",
+    "footerSource": "Všetky informácie pochádzajú z oficiálnych súdnych dokumentov, portugalských médií a medzinárodných organizácií.",
+    "years": {
+      "y1974": "1974",
+      "y1980s": "1980s",
+      "y1989": "1989",
+      "y1997": "1997",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004",
+      "y2005_09": "2005-09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010",
+      "y2012": "2012",
+      "y2014": "2014",
+      "y2015": "2015",
+      "y2016": "2016",
+      "y2017": "2017",
+      "y2019": "2019",
+      "y2021": "2021",
+      "y2022": "2022",
+      "y2023": "2023",
+      "y2024": "2024",
+      "y2025": "2025"
+    },
+    "badges": {
+      "democracyRestored": "DEMOKRACIA OBNOVENÁ",
+      "designFlaw": "DESIGN FLAW",
+      "abuseBegins": "ABUSE BEGINS",
+      "reformBlocked": "REFORM BLOCKED",
+      "reformSabotaged": "SABOTOVANÁ REFORMA",
+      "tcBlocks": "TC BLOCKS",
+      "sabotaged": "SABOTAGED",
+      "centralizationPreserved": "CENTRALIZÁCIA ZACHOVANÁ",
+      "scandalErupts": "SCANDAL ERUPTS",
+      "freeportAllegations": "OBVINENIA FREEPORTU",
+      "footballCorruption": "FUTBALOVÁ KORUPCIA",
+      "submarineBribery": "PONORKOVÝ ÚPLATOK",
+      "euro2004Stadiums": "ŠTADIÓNY EURO 2004",
+      "corruptionMachine": "KORUPČNÝ STROJ",
+      "faceOculta": "FACE OCULTA",
+      "commitmentMade": "COMMITMENT MADE",
+      "nonBinding": "NON-BINDING",
+      "policeCorruption": "POLICAJNÁ KORUPCIA",
+      "bankingCollapse": "BANKOVNÝ KOLAPS",
+      "cgdFraudIgnored": "VAROVANIA NA PODVODY CGD IGNOROVANÉ",
+      "murderAllegation": "TVRDENIE Z VRAŽDY",
+      "rareConvictions": "ZRIEDKAVÉ PRESVEDČENIA",
+      "tcBlocksReform": "TC BLOKUJE REFORMU",
+      "noEuVote": "NO EU VOTE",
+      "pmArrested": "PM ARRESTED",
+      "goldenVisaScandal": "ZLATÝ VÍZOVÝ ŠKANDÁL",
+      "tcBlocksAgain": "TC OPÄŤ BLOKUJE (JEDNOMYSEĽNE)",
+      "prosecutorCorruption": "PROKURÁTOR KORUPCIA",
+      "benficaEmails": "BENFICA EMAILS",
+      "novoBancoBlackHole": "NOVO BANCO BLACK HOLE",
+      "militaryScandal": "VOJENSKÝ ŠKANDÁL",
+      "bpnConvictions": "BPN CONVICTIONS",
+      "autarquiaCorruption": "AUTARQUIA KORUPCIA",
+      "joeBerado": "ŠKANDÁL JOE BERARDO",
+      "varaConvicted": "VARA CONVICTED",
+      "policeBrutality": "POLICAJNÁ BRUTALITA",
+      "nepotismScandal": "NEPOTIZMUS ŠKANDÁL",
+      "policeMurder": "POLICE MURDER",
+      "weakLawPassed": "WEAK LAW PASSED",
+      "varaReleased": "VARA VYDANÁ (COVID)",
+      "allPartiesBlock": "VŠETKY STRANY BLOKUJÚ",
+      "judgesOnTrial": "JUDGES ON TRIAL",
+      "tapScandal": "TAP SCANDAL",
+      "tancosConvictions": "PRESVEDČENIA TANCOS",
+      "espinhoMayorsArrested": "ZATKNUTÍ STAROSTOVIA ESPINHA",
+      "lisbonParishCorruption": "KORUPCIA FARNOSTI LISABON",
+      "governmentFalls": "PADÁ VLÁDA",
+      "tapContinues": "TAP CONTINUES",
+      "edpConvictions": "EDP CONVICTIONS",
+      "euFundsFraud": "39 miliónov EUR PODVODY S FUNKCIAMI EÚ",
+      "gaiaRealEstateRing": "GAIA REAL ESTATE PRSTEŇ",
+      "defendants65": "65 DEFENDANTS",
+      "euReward": "EU REWARD",
+      "reformBlockedAgain": "REFORMA ZNOVA ZABLOKOVANÁ",
+      "euBiggestVatFraud": "NAJVÄČŠIE PRESvedčenia z EÚ o podvodoch s DPH",
+      "judgesFinally": "SUDCI KONEČNE PRED SÚDOM",
+      "policeTrafficking": "POLICAJNÝ PRUH PRE OBCHODOVANIE",
+      "varaReturns": "VARA SA VRACIA DO VÄZENIA",
+      "benficaFraudTrial": "BENFICA FRAUD TRIAL",
+      "politicians191": "191 POLITICIANS",
+      "decemberTrifecta": "DECEMBROVÝ TRIFECTA",
+      "stillNoLaw": "51 YEARS LATER"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Karafiátová revolúcia",
+        "desc": "Koniec 48 rokov diktatúry Salazar/Caetano. Začína sa nová demokratická éra."
+      },
+      "noReferendums": {
+        "title": "Žiadne referendá v ústave z roku 1976",
+        "desc": "Ústavodarné zhromaždenie zámerne vylučuje priamu demokraciu. Strany spájajú referendá so Salazarovými plebiscitmi.",
+        "note": "Ochranný systém začína narodením."
+      },
+      "casaPiaFirstReported": {
+        "title": "Prvýkrát nahlásené zneužívanie Casa Pia",
+        "desc": "Objavujú sa prvé správy o sexuálnom zneužívaní detí v štátnych sirotincoch. Polícia prerušuje vyšetrovanie. Úradníci ničia dokumenty.",
+        "note": "Začína sa zakrývanie. Vydrží 20+ rokov."
+      },
+      "pcpFirstProposal": {
+        "title": "PCP First navrhuje protikorupčné zákony",
+        "desc": "Komunistická strana (PCP) navrhuje zákon o nezákonnom obohacovaní.",
+        "result": "PS + PSD block"
+      },
+      "referendumsPoisonPill": {
+        "title": "Pridané referendá – s jedovatou tabletkou",
+        "desc": "Revízia ústavy pridáva mechanizmus referenda.",
+        "catch": "50 % hranica účasti + veto Ústavného súdu = navrhnuté na neúspech",
+        "note": "Ďalších 35 rokov: Dosiahnutých 0 záväzných referend."
+      },
+      "amsterdamBlocked": {
+        "title": "Referendum o Amsterdamskej zmluve bolo zablokované",
+        "desc": "Ústavný súd zamietol referendum o zmluve o EÚ – „zavádzajúca otázka“",
+        "note": "Portugalsko NIKDY nebude hlasovať o integrácii do EÚ."
+      },
+      "casaPiaExposed": {
+        "title": "Škandál zneužívania Casa Pia odhalený",
+        "desc": "Novinár prelomil príbeh: elitná sieť pedofilov využívajúca štátne sirotince. Televízna moderátorka, veľvyslanec UNESCO, guvernér Casa Pia medzi obvinenými.",
+        "note": "100+ týraných detí. Skúška bude trvať 5+ rokov."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates a Freeport Mall",
+        "desc": "Minister životného prostredia José Sócrates sa údajne vzdáva environmentálnych obmedzení pre britskú spoločnosť, aby mohla postaviť nákupné centrum na chránenom území.",
+        "outcome": "Vymazané v roku 2010 – „nikto nie je na vine“"
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Štatistiky a zdroje",
+    "pageSubtitle": "Všetky údaje z oficiálnych a renomovaných medzinárodných zdrojov",
+    "ti": {
+      "title": "Transparency International",
+      "subtitle": "Index vnímania korupcie (CPI)",
+      "score2024": {
+        "value": "57",
+        "label": "Skóre CPI Portugalska 2024",
+        "trend": "-4 body od roku 2023"
+      },
+      "rank": {
+        "value": "43rd",
+        "label": "Global Ranking",
+        "detail": "zo 180 krajín"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Prokurátori tvrdia, že lehoty sú nedostatočné",
+        "source": "TI Survey"
+      },
+      "tableTitle": "Porovnanie CPI v EÚ (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobarometer",
+      "subtitle": "Špeciálny Eurobarometer o korupcii (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "Portugalci veria, že korupcia je rozšírená",
+        "euAvg": "EU avg: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Verte, že korupcia existuje v národnej vláde",
+        "euAvg": "EU avg: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Povedzme, že úplatkárstvo je najjednoduchší spôsob, ako získať verejné služby",
+        "euAvg": "EU avg: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Digital Divide",
+      "subtitle": "Používanie internetu podľa vekových skupín (Portugalsko, 2024)",
+      "keyInsight": "Generácia, ktorá bola svedkom celého 50-ročného vzoru korupcie (65+), je systematicky vylúčená z LEN DIGITÁLNEHO systému podpisov referenda",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99.1%",
+          "excluded": "0.9%"
+        },
+        "35-44": {
+          "usage": "98.6%",
+          "excluded": "1.4%"
+        },
+        "45-54": {
+          "usage": "94.9%",
+          "excluded": "5.1%"
+        },
+        "55-64": {
+          "usage": "82.5%",
+          "excluded": "17.5%"
+        },
+        "65-74": {
+          "usage": "61.1%",
+          "excluded": "38.9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "~70%"
+        }
+      }
+    },
+    "summaryTitle": "Zhrnutie: Čo ukazujú dáta",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "Portugalcov vidieť rozšírenú korupciu",
+        "source": "Eurobarometer 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "Odporúčania skupiny GRECO boli implementované",
+        "source": "Council of Europe 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "bodový pokles CPI za jeden rok",
+        "source": "Transparency International 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "prokurátorov tvrdia, že premlčacie lehoty sú nedostatočné",
+        "source": "TI Survey 2023"
+      }
+    },
+    "footer": "Všetky štatistiky z oficiálnych zdrojov. Posledná aktualizácia: december 2025."
+  },
+  "tables": {
+    "headers": {
+      "name": "Meno",
+      "party": "Strana",
+      "status": "Stav",
+      "charges": "Charges/Status",
+      "chargesSentence": "Obvinenia/Veta",
+      "chargesStatus": "Charges/Status",
+      "amount": "Amount",
+      "year": "Year",
+      "initiative": "Initiative",
+      "result": "Výsledok",
+      "whoBlocked": "Who Blocked",
+      "country": "Krajina",
+      "score": "Score",
+      "rank": "Rank",
+      "change": "Change",
+      "ageGroup": "Age Group",
+      "internetUsage": "Internet Usage",
+      "excluded": "Excluded",
+      "impact": "Impact",
+      "aspect": "Aspect",
+      "sentence": "Sentence",
+      "allegations": "Obvinenia/Odsúdenia",
+      "protectionLevel": "Úroveň ochrany",
+      "sweden": "Sweden",
+      "portugal": "Portugalsko",
+      "position": "Position",
+      "illicitEnrichment": "Nezákonné obohacovanie",
+      "lobbyRegulation": "Regulácia lobby",
+      "endImmunity": "End Immunity",
+      "notableActions": "Notable Actions",
+      "politician": "Politician",
+      "scandal": "Scandal",
+      "euReward": "EU Reward",
+      "date": "Dátum",
+      "subject": "Subject",
+      "turnout": "Turnout",
+      "binding": "Binding?",
+      "illicitEnrichmentLaw": "Zákon o nezákonnom obohacovaní",
+      "constitutionalStatus": "Ústavný stav",
+      "immunityScope": "Immunity Scope",
+      "parliamentBlocks": "Parlament blokuje vyšetrovanie?",
+      "tiCpi": "TI CPI",
+      "prescription": "Prescription",
+      "avgTime": "Avg. Time",
+      "immunity": "Immunity",
+      "role": "Role",
+      "municipality": "Municipality",
+      "controversy": "Kontroverzia/kontext"
+    },
+    "status": {
+      "convicted": "CONVICTED",
+      "convictedServing": "ODsúdený - slúžiaci",
+      "convictedAppealing": "ODSÚDENÝ - Odvolanie",
+      "onTrial": "On Trial",
+      "underInvestigation": "V rámci vyšetrovania",
+      "arguido": "Arguido",
+      "arrested": "ARRESTED",
+      "archived": "Archived",
+      "declined": "Vyšetrovanie odmietnuté",
+      "neverProsecuted": "Nikdy trestne stíhaný",
+      "acquitted": "ACQUITTED",
+      "euPromoted": "predseda Rady EÚ"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega",
+      "livre": "Livre",
+      "pan": "PAN",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "Vaše šance verzus ich šance",
+    "subtitle": "Ak by spravodlivosť bola lotéria, tu je to, čo nám hovoria čísla",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Ak ste občan:"
+    },
+    "politician": {
+      "title": "Ak ste politik:"
+    }
+  },
+  "sources": {
+    "title": "Kompletný zoznam zdrojov",
+    "subtitle": "Všetky údaje z oficiálnych a overených zdrojov",
+    "constitutionalCourt": "Ústavný súd",
+    "prosecutionService": "prokuratúra",
+    "europeanUnion": "European Union",
+    "internationalOrgs": "medzinárodné organizácie",
+    "eurobarometer": "Eurobarometer",
+    "portugueseLegislation": "portugalská legislatíva",
+    "parliamentaryRecords": "Parlamentné záznamy",
+    "internationalComparisons": "Medzinárodné porovnania",
+    "mediaSources": "Media Sources",
+    "laborHumanRights": "Pracovné/Ľudské práva",
+    "cryptographicStandards": "Kryptografické štandardy",
+    "digitalStatistics": "Digitálna štatistika"
+  },
+  "verdict": {
+    "title": "Rozsudok",
+    "subtitle": "50 rokov zdokumentovaných dôkazov"
+  },
+  "backToMain": "← Späť na hlavnú správu",
+  "duopoly": {
+    "bothProtect": "Obe strany sa navzájom chránia",
+    "coordinatedTheater": "Zjavným protikladom medzi PS a PSD je koordinované divadlo. Keď na tom záleží – blokujú reformu – hlasujú spolu."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Zdroj: Eurobarometer 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "Vzor neúspešných referend",
+      "text": "Každé referendum v portugalskej histórii buď nedosiahlo hranicu účasti, alebo bolo nezáväzné.",
+      "sources": "Zdroj: Portugalská volebná komisia"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Zdroj: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "Kľúčové štatistiky švajčiarskej demokracie:"
+  },
+  "roadmap": {
+    "title": "Vyšetrovanie",
+    "subtitle": "Štruktúrovaná cesta architektúrou beztrestnosti v Portugalsku",
+    "part1": {
+      "title": "Systém",
+      "desc": "Ako pavlovovská politická trieda chráni svojich"
+    },
+    "part2": {
+      "title": "Prípady",
+      "desc": "Premiéri, ministri a prípady definujúce beztrestnosť"
+    },
+    "part3": {
+      "title": "Medzery",
+      "desc": "Právne mechanizmy zabezpečujúce, že korupcia zostane nepotrestaná"
+    },
+    "part4": {
+      "title": "Blokovanie",
+      "desc": "Ako sú reformy systematicky blokované PS/PSD"
+    },
+    "part5": {
+      "title": "Odmeny EÚ",
+      "desc": "Kam končia obvinení politici: Brusel"
+    },
+    "part6": {
+      "title": "Riešenie",
+      "desc": "Čo môžu občania urobiť na prerušenie cyklu"
+    },
+    "conclusion": "Od občianskej etiky ku konkrétnym činom—každá časť odhaľuje ďalšiu vrstvu systému navrhnutého na ochranu skorumpovaných."
+  },
+  "journalism": {
+    "badge": "Prečo toto vyšetrovanie existuje",
+    "title": "Sen, ktorý nedokázal prežiť systém",
+    "subtitle": "Portugalská žurnalistika pod systematickým zachytením",
+    "intro": "Každý novinár začína s rovnakým snom: ukázať ľuďom pravdu, zdokumentovať to, na čom záleží, zmeniť svet. V Portugalsku sa tento sen zráža so systémom, ktorý má presne tomu zabrániť.",
+    "medicine": {
+      "title": "Medicína",
+      "oath": "Najprv neublížiť."
+    },
+    "journalismEthics": {
+      "title": "Žurnalistika",
+      "oath": "Najprv nezavádzať."
+    },
+    "doctors": {
+      "title": "Lekári",
+      "diagnose": "Diagnostikujú na základe dôkazov, nie viery",
+      "wellbeing": "Kladú blaho pacienta nad ideológiu alebo zisk",
+      "bound": "Sú viazaní etikou aj pod tlakom",
+      "lose": "Strácajú legitimitu, keď vedome spôsobujú škodu"
+    },
+    "journalists": {
+      "title": "Novinári",
+      "report": "Informujú na základe overiteľných faktov, nie agendy",
+      "rightToKnow": "Kladú právo verejnosti na informácie nad politickú príslušnosť",
+      "bound": "Sú eticky viazaní aj pod tlakom vlastníkov, štátov alebo publika",
+      "lose": "Strácajú legitimitu, keď vedome skresľujú realitu"
+    },
+    "broken": {
+      "title": "Keď je prísaha porušená",
+      "doctorMalpractice": "Lekár, ktorý praktizuje ideológiu namiesto medicíny, sa dopúšťa zlej praxe",
+      "journalistMalpractice": "Novinár, ktorý praktizuje ideológiu namiesto pravdy, sa dopúšťa občianskej zlej praxe",
+      "consequences": "Dôsledky sú spoločenské:",
+      "consequence1": "Polarizácia",
+      "consequence2": "Dezinformácie",
+      "consequence3": "Erózia dôvery",
+      "consequence4": "Demokratický úpadok"
+    },
+    "distinction": {
+      "title": "Jasné rozlíšenie",
+      "text": "Novinári, podobne ako lekári, sú ľudia a majú osobné hodnoty. Etika je porušená nie tým, že človek má hodnoty, ale tým, že týmto hodnotám umožní nahradiť overovanie, dôkazy a zodpovednosť."
+    },
+    "quote": "Lekár, ktorý klame pacientovi, je vinný zo zlej praxe. Novinár, ktorý klame verejnosti, je vinný z občianskej zlej praxe."
+  },
+  "convicted": {
+    "badge": "System Outcome",
+    "title": "Odsúdený, ale chránený",
+    "subtitle": "Toto nie sú obvinenia. Toto sú presvedčenia. Systém však zaisťuje, že si ponechajú dôchodky, vrátia sa do úradu alebo sa úplne vyhnú následkom.",
+    "status": {
+      "convicted": "CONVICTED",
+      "reelected": "ODSÚDENÝ → ZNOVU ZVOLEN",
+      "murder": "MURDER ACCUSED",
+      "unpaid": "€980M UNPAID",
+      "zeroPrison": "STRATY 8 miliárd EUR, NULA VÄZENIA",
+      "eppoSuccess": "EPPO SUCCESS"
+    },
+    "labels": {
+      "operation": "Operation:",
+      "crime": "Crime:",
+      "sentence": "Sentence:",
+      "served": "Time Served:",
+      "amount": "Amount:",
+      "currentStatus": "Current:",
+      "victim": "Victim:",
+      "date": "Date:",
+      "trialStart": "Trial Start:",
+      "borrowed": "Borrowed:",
+      "repaid": "Repaid:",
+      "artCollection": "Art Collection:",
+      "publicCost": "Public Cost:",
+      "resolution": "Resolution:",
+      "convictions": "Convictions:"
+    },
+    "pensionBattle": "Bitka o penzión:",
+    "suedProsecutor": "Zažaloval prokurátora:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "Štátny tajomník PS, minister, Rada CGD",
+      "crime": "Ovplyvňovanie obchodovania (3 počty)",
+      "pension": "Dôchodok vo výške 8 551 €/mesiac zadržaný TRI-krát, po odvolaní vrátený DVARÁT. Vzor: zabavenie → odvolanie → vrátené → opakovať."
+    },
+    "pinho": {
+      "name": "Manuel Pinho",
+      "position": "Minister hospodárstva PS (2005-2009)",
+      "crime": "Pasívna korupcia, daňové podvody, pranie špinavých peňazí",
+      "sued": "26 000 €/mesiac dôchodok zadržaný 3x, vrátený 2x. ŽALOVANÝ prokurátor a sudca Carlos Alexandre za zabavenie dôchodkov.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "PSD starosta Oeiras (1985-2009, 2017-súčasnosť)",
+      "crime": "Daňové podvody, pranie špinavých peňazí, zneužívanie právomocí",
+      "current": "STÁLE STAROSTA (2025)",
+      "quoteTitle": "Verejná prezývka:",
+      "quote": "„Skorumpovaný starosta, ktorého Portugalci zbožňujú“ – ZNOVU ZVOLEN v rokoch 2017 a 2021. V roku 2022 boli vznesené nové obvinenia.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "PSD MP, Lawyer",
+      "crime": "VRAŽDA v Brazílii",
+      "victim": "Rosalina Ribeiro (klient)",
+      "shieldTitle": "The Shield:",
+      "shield": "Žiadna zmluva o vydávaní osôb medzi Portugalskom a Brazíliou. V Portugalsku zostal „nedotknuteľný“ 16 rokov, kým sa konečne začal súdny proces.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Podnikateľ, zberateľ umenia",
+      "repaid": "Near zero",
+      "quoteTitle": "To Parliament:",
+      "quote": "„Zabudol som“ – na otázku o dlhu 980 miliónov EUR. Vyhrážal sa poslancom počas svedectva. Žiadne následky."
+    },
+    "novoBanco": {
+      "name": "Škandál Novo Banco",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "ZERO",
+      "outcomeTitle": "Parlamentný prieskum:",
+      "outcome": "Zistila sa „politická nezodpovednosť“ – ale žiadna trestná zodpovednosť. Súkromné ​​zisky, verejné straty. Vzor pokračuje.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especiais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "The Lone Star Deal (2017):",
+        "salePrice": "Lone Star zaplatila: 1 miliardu eur",
+        "guarantee": "Štátna záruka: straty vo výške 3,89 miliardy EUR",
+        "result": "Štát nesie všetko riziko, kupujúci dostane všetko hore"
+      },
+      "injections": {
+        "title": "Vložené verejné peniaze:",
+        "y2014": "2014: 4,9 miliardy EUR (rezolučný fond)",
+        "y2018": "2018: 792 miliónov EUR (podmienený kapitál)",
+        "y2019": "2019: 1,15 miliardy EUR (podmienený kapitál)",
+        "y2020": "2020: 1,04 miliardy EUR (podmienený kapitál)",
+        "y2021": "2021: 598 miliónov EUR (podmienený kapitál)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa – guvernér portugalskej banky – dohliadal na predaj",
+        "centeno": "Mário Centeno - minister financií - Schválené záruky"
+      },
+      "inquiryQuote": "\"Podmienky predaja boli pre kupujúceho mimoriadne priaznivé, pričom portugalský štát na seba prevzal neprimerané riziko.\" — Parlamentný prieskum 2021",
+      "whyNoAccountability": {
+        "title": "Prečo žiadne trestné stíhanie:",
+        "discretion": "Podmienky predaja klasifikované ako „politické rozhodnutia“",
+        "noEnrichment": "Osoby s rozhodovacou právomocou osobne neprofitovali",
+        "immunity": "Regulačné orgány majú inštitucionálnu ochranu",
+        "bipartisan": "PS aj PSD sú spolupáchateľmi – nebudú sa navzájom stíhať"
+      },
+      "sale2025": {
+        "title": "Aktualizácia z roku 2025: Výstup osamelej hviezdy",
+        "text": "Október 2025: Francúzska banka BPCE získava Novo Banco za 8 miliárd eur. Lone Star odchádza s masívnym ziskom po 8,5 miliardy eur v štátnych injekciách. Nulové odsúdenia za kolaps. Nulové spätné získanie strát."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Novo Banco predalo francúzskej banke BPCE za 8 miliárd eur (október 2025). Lone Star odchádza so ziskom po prijatí 3,89 miliardy EUR v štátnych zárukách. Daňovníci nikdy nezískali späť 10,4 miliardy eur z verejných zdrojov. Výťažok z predaja ide do rezolučného fondu, nie do štátnej pokladnice."
+    },
+    "admiral": {
+      "name": "Operácia Admirál",
+      "subtitle": "Najväčší prípad podvodu v EÚ EVER",
+      "damage": "Total Damage",
+      "convicted": "Odsúdený (máj 2025)",
+      "prosecutor": "EU Prosecutor",
+      "type": "Carousel Fraud",
+      "lesson": "Ponaučenie: Keď prokurátor EÚ rieši prípady namiesto vnútroštátnych systémov, dochádza k odsúdeniam."
+    },
+    "pattern": {
+      "title": "Vzor je jasný",
+      "pension": "Dôchodky chránené",
+      "delay": "Murder to trial",
+      "lost": "Stratené, nulové väzenie",
+      "reelected": "Po odsúdení",
+      "conclusion": "Presvedčenie neznamená dôsledok. Systém chráni svoje vlastné – pred, počas a po skúške."
+    }
+  },
+  "judicial": {
+    "badge": "System Failure",
+    "title": "Súdna korupcia: prehnité jadro",
+    "subtitle": "Keď sudcovia predávajú rozhodnutia a prokurátori berú úplatky, celý protikorupčný systém skolabuje. Tieto prípady vysvetľujú, prečo politické stíhania zlyhávajú.",
+    "status": {
+      "judgesCorrupt": "JUDGES CORRUPT",
+      "prosecutorBribed": "PROKURÁTOR PODPLATNÝ",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Key Figures:",
+      "defendants": "Celkový počet obžalovaných:",
+      "exposed": "Exposed By:",
+      "timeline": "Timeline:",
+      "amount": "Bribe Amount:",
+      "outcome": "Outcome:",
+      "year": "Year:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "Disciplinárne rozhodnutie CSM:",
+      "defensePosition": "Obranná pozícia:",
+      "convicted": "Convicted:",
+      "coconspirator": "Prípad prevedený:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Odvolanie potvrdené:",
+      "tcReject": "Odvolanie TC zamietnuté:"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "subtitle": "Judges Selling Decisions",
+      "rangel": "Appeals Court Judge",
+      "galante": "Sudkyňa (Manželka Rangela)",
+      "neves": "Court President",
+      "chargesTitle": "Charges:",
+      "charges": "Selling judicial decisions, bribery, influence peddling, corruption. The judges who were supposed to convict corrupt politicians were themselves corrupt.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db41d34ed2016d4",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Skúška prebieha (2025)",
+      "exposedBy": "Futbalové úniky / Rui Pinto",
+      "allegations": "Predaj priaznivých rozhodnutí, oprava výsledkov prípadu, ovplyvňovanie, marenie spravodlivosti, koordinovaná justičná sieť",
+      "significance": "Informátor (Rui Pinto) bol stíhaný, zatiaľ čo proces so skorumpovanými sudcami bol odložený o 7 rokov. Systém sa chráni sám.",
+      "otherDefendants": "Právnici, podnikatelia a súdni úradníci, ktorí sa podieľali na korupčnej sieti",
+      "vieira": "Bývalý prezident Benfiky",
+      "csm": "Rui Rangel bol vylúčený zo súdnictva Conselho Superior da Magistratura (CSM) v roku 2020 za disciplinárne porušenia súvisiace s týmto prípadom.",
+      "defense": "Všetci obžalovaní obvinenia odmietajú. Rangel uviedol, že obvinenia sú nepodložené a politicky motivované."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Prosecutor Paid to Close Cases",
+      "figueira": "Portuguese Prosecutor",
+      "vicente": "Vice President of Angola",
+      "convicted": "Prokurátor ODsúdený",
+      "significanceTitle": "Significance:",
+      "significance": "A prosecutor was paid €700K+ to close investigations against Angolan elites. If prosecutors can be bought, what chance do corruption cases have?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Ukazuje, že ropné peniaze z Angoly korumpujú portugalský justičný systém",
+      "outcome": "Prokurátor bol odsúdený, ale prípad odhalil systémovú zraniteľnosť voči zahraničnej korupcii",
+      "defense": "Figueira počas celého procesu obvinenia odmietal a odvolal sa na Ústavný súd, ktorý jeho odvolanie v decembri 2022 zamietol."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Who watches the watchmen? When judges sell decisions and prosecutors take bribes, the entire system of accountability collapses.",
+    "stat": {
+      "defendants": "Defendants in Lex",
+      "bribe": "Prosecutor bribe",
+      "delay": "Obvinenie pred súdom (Lex)"
+    },
+    "disclaimer": "Všetky informácie uvedené nižšie sú odvodené z oficiálnych súdnych záznamov, obvinení DCIAP, disciplinárnych rozhodnutí CSM a overených spravodajských zdrojov. Obžalovaní v prebiehajúcom konaní až do právoplatného odsúdenia zachovávajú prezumpciu neviny.",
+    "impact": {
+      "title": "Prečo sú tieto prípady dôležité pre boj proti korupcii",
+      "fizzTitle": "Operação Fizz Impact:",
+      "fizz1": "• Prokurátor z DCIAP – jednotky, ktorá vyšetruje korupciu na vysokej úrovni – bol sám skorumpovaný",
+      "fizz2": "• Prípady proti angolským elitám boli archivované kvôli úplatku",
+      "fizz3": "• Úplatkár Manuel Vicente nebol nikdy súdený – jeho prípad bol presunutý do Angoly",
+      "lexTitle": "Operação Lex Vplyv:",
+      "lex1": "• Ak sa to preukáže, sudcovia na úrovni odvolacieho súdu predali rozhodnutia",
+      "lex2": "• Súd, ktorý posudzuje prvostupňové odsúdenia za korupciu, by bol ohrozený",
+      "lex3": "• Prípad od obvinenia (2018) po začiatok súdneho procesu (2025) trval viac ako 7 rokov"
+    },
+    "sources": {
+      "title": "Oficiálne zdroje:"
+    }
+  },
+  "methodology": {
+    "badge": "Nezávislý výskum",
+    "title": "Metodológia výskumu",
+    "sources": {
+      "title": "Zdroje preskúmané",
+      "tc": "• Rozhodnutia ústavného súdu (Acórdãos)",
+      "dciap": "• Oficiálne obvinenia DCIAP (štátna prokuratúra).",
+      "parliament": "• Správy z parlamentného vyšetrovania (CGD, BES, Novo Banco)",
+      "greco": "• Správy GRECO zo 4. a 5. kola hodnotenia",
+      "tdc": "• Bankové správy Tribunal de Contas (Dvor audítorov).",
+      "eu": "• Správy Európskej komisie o právnom štáte (2024, 2025)",
+      "eurobarometer": "• Prieskumy korupcie Eurobarometer (2023, 2025)",
+      "ti": "• Transparency International CPI (2012 – 2024)",
+      "media": "• Hlavné portugalské médiá: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Kritériá zaradenia",
+      "judicial": "• Oficiálne súdne konanie (odsúdenie, obžaloba, formálne vyšetrovanie)",
+      "parliamentary": "• Parlamentné vyšetrovanie so zverejnenými správami",
+      "international": "• Hodnotenie medzinárodných monitorovacích orgánov",
+      "financial": "• Finančné straty zdokumentované Dvorom audítorov"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Neoverené obvinenia bez úradného konania",
+      "speculation": "• Špekulácie alebo názory, ktoré nie sú podložené dokumentmi",
+      "anonymous": "• Anonymné zdroje bez potvrdenia"
+    },
+    "disclaimer": "Všetky uvedené osoby zachovávajú prezumpciu neviny. Stav „Vyšetruje sa“ alebo „arguido“ môže viesť k oslobodeniu spod obžaloby. Stavy prípadov sú jasne označené. Toto vyšetrovanie používa iba verejne dostupné, oficiálne zdokumentované zdroje.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Externé zdroje overené",
+      "official": "56%",
+      "officialLabel": "Z oficiálnych zdrojov",
+      "years": "50",
+      "yearsLabel": "Zdokumentované roky (1974 – 2025)",
+      "cases": "40+",
+      "casesLabel": "Prípady krížovo odkazované"
+    },
+    "limitations": {
+      "title": "Obmedzenia výskumu",
+      "estimates": "• Niektoré finančné údaje sú odhady z oficiálnych zdrojov (Tribunal de Contas, INE)",
+      "media": "• Správy v médiách môžu obsahovať nepresnosti; uprednostňujeme úradné dokumenty",
+      "appeals": "• Výsledky prípadu sa môžu po odvolaní zmeniť; stavy odrážajú najnovšie overené informácie",
+      "ongoing": "• Prebiehajúce vyšetrovanie môže viesť k oslobodeniu alebo archivácii",
+      "incomplete": "• Tento výskum mohol vynechať relevantné prípady alebo údaje; akékoľvek vynechanie je neúmyselné",
+      "corrections": "<strong class=\"text-warning\">Uvítame opravy:</strong> Ak zistíte chyby, chýbajúce prípady alebo zastarané informácie, odošlite opravy so spoľahlivými oficiálnymi zdrojmi. Zaviazali sme sa k presnosti a údaje podľa toho aktualizujeme."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "Čo hovoria a čo ukazujú dokumenty",
+      "claimsTitle": "Čo tvrdia politici",
+      "claim1": "• „Som nevinný, toto je politické prenasledovanie“",
+      "claim2": "• „Peniaze boli pôžičky od priateľov“",
+      "claim3": "• „Portugalsko má silné protikorupčné zákony“",
+      "claim4": "• „Súdny systém funguje“",
+      "claim5": "• „Implementovali sme všetky odporúčania EÚ“",
+      "factsTitle": "Čo ukazujú oficiálne dokumenty",
+      "fact1": "• Obvinenia DCIAP s viac ako 56 000 stranami dôkazov",
+      "fact2": "• Bankové záznamy uvádzajúce 34 miliónov EUR v nevysvetlených prevodoch",
+      "fact3": "• TC zrušila zákony o nezákonnom obohacovaní DVAKRÁT",
+      "fact4": "• 74,7 % odsúdení za korupciu = podmienečné tresty",
+      "fact5": "• GRECO: 0/28 odporúčaní plne implementovaných",
+      "note": "Toto vyšetrovanie sa opiera o oficiálne dokumenty, nie o tvrdenia. Každá štatistika odkazuje na svoj zdroj."
+    },
+    "why": {
+      "title": "Prečo tento projekt existuje",
+      "description": "Všetky tu uvedené informácie pochádzajú z verejne dostupných oficiálnych zdrojov: súdne rozhodnutia, parlamentné vyšetrovania, správy EÚ a vládne štatistiky. Prístup k týmto informáciám si však vyžaduje navigáciu v zložitých byrokratických labyrintoch – roztrúsených na desiatkach inštitucionálnych webových stránok, zahrabaných v dokumentoch PDF, často v odbornom právnom jazyku a zriedkavo s krížovými odkazmi. Väčšine občanov chýba čas, vedomosti alebo trpezlivosť na to, aby poskladali tento roztrieštený obraz.",
+      "purpose": "Tento projekt zjednodušuje prístup k už existujúcim údajom. Nevytvárame nové informácie – zhromažďujeme, overujeme a prezentujeme oficiálne záznamy v efektívnom a dostupnom formáte s úplnými odkazmi na zdroj. Každý nárok je možné vysledovať až k jeho pôvodnému dokumentu."
+    },
+    "editorial": {
+      "title": "Transparentnosť redakcie",
+      "description": "Ide o<strong class=\"text-white\">investigatívnu advokáciu</strong>, nie neutrálne spravodajstvo. Máme jasnú perspektívu: že portugalský politický systém obsahuje štrukturálne prvky, ktoré chránia mocných pred zodpovednosťou. Táto perspektíva formuje spôsob, akým prezentujeme informácie.",
+      "commitment": "Zaviazali sme sa však k faktickej presnosti. Každý nárok je zo zdroja. Rozlišujeme medzi zdokumentovanými faktami a našou interpretáciou vzorov. Uznávame alternatívne vysvetlenia. Čitatelia by mali vyhodnotiť naše dôkazy a dospieť k vlastným záverom.",
+      "invitation": "Vítame nesúhlas. Ak si myslíte, že naša interpretácia je nesprávna, obráťte sa priamo na zdroje. Dokumenty sú verejné."
+    },
+    "evidenceTypes": {
+      "title": "Ako klasifikujeme dôkazy",
+      "intro": "Počas tohto vyšetrovania rozlišujeme tri typy nárokov:",
+      "fact": "Priamo zo súdnych rozhodnutí, oficiálnych správ, vládnych štatistík. Overiteľné prostredníctvom prepojených zdrojov.",
+      "pattern": "Viaceré zdokumentované prípady naznačujú koreláciu. Nedokazuje príčinnú súvislosť alebo koordináciu.",
+      "analysis": "Naša interpretácia údajov. Rozumní ľudia môžu s týmito závermi nesúhlasiť."
+    },
+    "counterArguments": {
+      "title": "Alternatívne vysvetlenia, ktoré uznávame",
+      "intro": "V záujme intelektuálnej poctivosti uvádzame legitímne alternatívne vysvetlenia niektorých vzorcov, ktoré dokumentujeme:",
+      "delays": {
+        "title": "Prečo korupčné kauzy trvajú 11+ rokov?",
+        "legit1": "• Súdnictvo je vážne podfinancované a personálne poddimenzované",
+        "legit2": "• Komplexné finančné trestné činy si vyžadujú rozsiahle vyšetrovanie",
+        "legit3": "• Obhajoba má legitímne právo spochybňovať dôkazy",
+        "legit4": "• Ústavná ochrana existuje z dobrého dôvodu",
+        "response": "Aj keď sú oneskorenia neúmyselné, <em>účinkom</em> je beztrestnosť. Ostatné krajiny EÚ stíhajú podobné trestné činy rýchlejšie. Priemer v Portugalsku je 6,8 roka v porovnaní s normou EÚ 3-4 roky. Na zámere záleží menej ako na výsledku."
+      },
+      "euJobs": {
+        "title": "Sú menovania v EÚ skutočne „odmenou“?",
+        "legit1": "• Politici majú skúsenosti, ktoré ich kvalifikujú",
+        "legit2": "• Pozície EÚ sú konkurencieschopné a založené na zásluhách",
+        "legit3": "• Korelácia ≠ príčinná súvislosť alebo sprisahanie",
+        "legit4": "• Mnoho kvalifikovaných politikov nikdy nedostane prácu v EÚ",
+        "response": "Netvrdíme, že ide o sprisahanie. Pozorujeme model, keď vyšetrovania len zriedka blokujú propagáciu. Či už to odráža „odmenu“ alebo ľahostajnosť k zodpovednosti, výsledok sa nás týka rovnako."
+      },
+      "bothParties": {
+        "title": "Prečo dokumentovať prípady od oboch hlavných strán?",
+        "crit1": "• „Toto je falošná ekvivalencia“",
+        "crit2": "• „Jedna strana môže byť skorumpovanejšia ako druhá“",
+        "crit3": "• „Aj malé strany majú korupciu“",
+        "response": "Prípady dokumentujeme úmerne dôkazom. PS a PSD majú striedavý prúd už 50 rokov; obaja majú zdokumentované prípady. Nenárokujeme si rovnocennosť – ukazujeme, že systém chráni <em>ktokoľvek je pri moci</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "Prečo toto vyšetrovanie existuje",
+    "subtitle": "Sen, ktorý nedokázal prežiť systém",
+    "journalism": {
+      "title": "Portugalská žurnalistika pod systematickým zachytením",
+      "intro": "Každý novinár začína s rovnakým snom: ukázať ľuďom pravdu, zdokumentovať to, na čom záleží, zmeniť svet. V Portugalsku sa tento sen zráža so systémom, ktorý má presne tomu zabrániť."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "novinárov zarába menej ako 1 000 € mesačne",
+      "groups": "4",
+      "groupsLabel": "mediálne skupiny kontrolujú súkromné ​​vysielanie",
+      "lusa": "95.9%",
+      "lusaLabel": "národnej tlačovej agentúry (Lusa), ktorá je teraz vo vlastníctve štátu",
+      "independence": "53%",
+      "independenceLabel": "riziko nezávislosti redakcie (až 25 %)"
+    },
+    "kills": {
+      "title": "Čo zabíja sen",
+      "poverty": "15% zarába pod minimálnou mzdou alebo vôbec nič",
+      "ownership": "Impresu (SIC, Expresso) vlastnil bývalý premiér Pinto Balsemão",
+      "slapp": "319 prípadov SLAPP proti novinárom v Európe (2024)",
+      "violence": "Lídri strany Chega obvinení z vyhrážania sa novinárom (november 2024)",
+      "result": "23 % pokles počtu profesionálnych novinárov od roku 2009",
+      "strike": "Viac ako 40 mediálnych organizácií vstúpilo do historického štrajku"
+    },
+    "pressure": {
+      "title": "Systémový tlak",
+      "directors": "novinárov uvádza tlak zo strany riaditeľov",
+      "superiors": "hlásiť tlak zo strany nadriadených redakcie",
+      "ranking": "V Portugalsku klesla pluralita médií v EÚ"
+    },
+    "notCriticism": {
+      "title": "Toto nie je kritika novinárov",
+      "quote": "\"Neistota má obrovský vplyv na nezávislosť novinárov... Toto zhoršenie má dôsledky na politickú nezávislosť, na redakčné rozhodnutia médií.\"",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Prečo je nezávislý výskum potrebný",
+      "intro": "Toto vyšetrovanie používa iba verejne dostupné oficiálne zdroje – tie isté dokumenty, ku ktorým má prístup každá redakcia. Rozdiel:",
+      "noAdvertisers": "Žiadni inzerenti, ktorí by sa vyhrážali stiahnutím príjmov",
+      "noOwners": "Žiadni vlastníci s politickými kontaktmi, ktorých by bolo treba chrániť",
+      "noEditors": "Žiadni redaktori, ktorí by zmierňovali jazyk pre silné záujmy",
+      "noPrecarity": "Žiadne neisté zamestnanie vyžadujúce ticho",
+      "stance": "Toto vyšetrovanie stojí na strane portugalských novinárov, nie proti nim."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Ústavná ochrana",
+    "title": "Dôchodková ochrana: Zabavený, vrátený, znovu zabavený",
+    "intro": "Článok 30 ústavy zabraňuje automatickej strate práv pri odsúdení. Odsúdení politici si nechávajú dôchodky nekonečnými apelmi.",
+    "vara": {
+      "conviction": "Odsúdený: 5 rokov za ovplyvňovanie",
+      "status": "3x zabavené, 2x vrátené"
+    },
+    "pinho": {
+      "conviction": "Odsúdený: 10 rokov + pokuta 4,9 milióna eur",
+      "status": "10-ročný trest odpykaný DOMA"
+    },
+    "socrates": {
+      "status": "Skúška prebieha (11+ rokov)",
+      "prescribed": "167 zo 189 poplatkov",
+      "expired": "Už predpísané (88 %)",
+      "never": "Never seized",
+      "confirmed": "Potvrdený príjem dotácií (SIC 2022)"
+    },
+    "conclusion": "Ústavný článok 30 + odvolací systém = nekonečná dôchodková ochrana",
+    "conclusionDetail": "Žiadne automatické prepadnutie. Každé zabavenie si vyžaduje súdny príkaz. Proti každej objednávke sa možno odvolať. Každé odvolanie trvá roky. Žalovaný si počas konania ponecháva dôchodok."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Rozhodnutia o archíve: \"Parco Detalhe\" (nedostatočné podrobnosti)",
+    "intro": "Článok 246º č.º 6 CPP umožňuje prokurátorom odmietnuť vyšetrovanie na základe „nedostatočných podrobností“ – dokonca aj s doloženými dôkazmi.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "Imunita pozdvihnutá:",
+    "montenegro": {
+      "desc": "Verejné zákazky rodinnej firme (Spinumviva) zatiaľ čo MP",
+      "outcome": "Zostáva PM s minimálnou medializáciou"
+    },
+    "mendes": {
+      "desc": "Poplatky za poradenstvo vr. 360 000 EUR od vodárenskej spoločnosti ACA",
+      "irony": "Irónia: Požadoval, aby Čierna Hora „všetko objasnila“"
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 obžalovaných, 463 trestných činov",
+      "outcome": "Archivovalo sa 60 ďalších obvinených, významných osobností"
+    },
+    "pattern": {
+      "title": "Vzor: Článok 246º č.º 6 CPP",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Ako možno zistiť „indikácie“ bez vyšetrovania? Norma vyžaduje pred vyšetrovaním dôkazy, ktoré by zhromaždili dôkazy.",
+      "effect": "Účinok: Prokurátorské veto v politicky citlivých prípadoch"
+    }
+  }
+}

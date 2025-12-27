@@ -1,0 +1,3259 @@
+{
+  "nav": {
+    "logo": "L-Arkitettura tal-Impunità",
+    "thesis": "It-Teżi",
+    "cases": "Il-Każijiet",
+    "loopholes": "Lakuni Legali",
+    "blocking": "Mudell ta' Imblukkar",
+    "euRewards": "Premjijiet tal-UE",
+    "solution": "Soluzzjoni",
+    "eliteLaws": "Liġijiet tal-Élite",
+    "euLabor": "Xogħol tal-UE",
+    "brand": "Arkitettura tal-Impunità",
+    "odds": "Odds",
+    "database": "Bażi tad-Data",
+    "sources": "Sorsi",
+    "timeline": "Linja tal-Ħin",
+    "stats": "Stats",
+    "dashboard": "Dashboard",
+    "forum": "Forum",
+    "donate": "Donate",
+    "sign": "IFFIRMA",
+    "mediaMachine": "Midja",
+    "goldenParachute": "Pensjonijiet",
+    "home": "Paġna Ewlenija",
+    "signPetition": "Iffirma petizzjoni",
+    "convicted": "Ikkundannati",
+    "judicial": "Ġudizzjarju",
+    "methodology": "Methodology",
+    "nextPart": "Next:",
+    "conclusion": "Conclusion"
+  },
+  "hero": {
+    "manifesto": "\"MHUMIEX FUQNA\"",
+    "title": "L-ARKITETTURA TAL-IMPUNITÀ",
+    "subtitle": "Kif Is-Sistema Politika Ewropea Hija Ddisinjata Biex Tipproteġi Lill-Korrotti",
+    "subtext": "Il-politiċi huma QADDEJJA pubbliċi, mhux SIDIEN pubbliċi. Għandhom jgħixu bħala ċittadini, jiġu awditjati bħala ċittadini u jiffaċċjaw il-ġustizzja bħala ċittadini.",
+    "stat1": "Indiċi tal-Korruzzjoni TI 2024",
+    "stat2": "Snin: Tul tal-Każ",
+    "stat3": "Iċ-Ċittadini Jemmnu li l-Gvern Huwa Korrott",
+    "scroll": "Scroll Biex Tibda",
+    "declaration": "Investigazzjoni mmexxija miċ-ċittadini dwar il-korruzzjoni politika fil-Portugall",
+    "begin": "Ibda investigazzjoni"
+  },
+  "parts": {
+    "one": "Parti I",
+    "two": "Parti II",
+    "three": "Parti III",
+    "four": "Parti IV",
+    "five": "Parti V",
+    "six": "Parti VI",
+    "seven": "Parti VII",
+    "eight": "Parti VIII",
+    "eleven": "Parti XI",
+    "twelve": "Parti XII",
+    "nine": "Part IX",
+    "ten": "Part X",
+    "thirteen": "Parti XIII"
+  },
+  "signature": {
+    "title": "Iffirma l-Inizjattiva taċ-Ċittadini Ewropej",
+    "subtitle": "Inizjattiva taċ-Ċittadini Ewropej għall-Kontabilità Politika",
+    "firstName": "Isem",
+    "lastName": "Kunjom",
+    "country": "Pajjiż",
+    "idNumber": "Numru tal-ID",
+    "submit": "Iffirma",
+    "verify": "Ivverifika",
+    "count": "Firem",
+    "goal": "Għan: 1.000.000",
+    "verified": "Ivverifikat mill-Infrastruttura tal-UE",
+    "eci": {
+      "title": "Inizjattiva taċ-Ċittadini Ewropej",
+      "regulation": "Skont ir-Regolament tal-UE 2019/788",
+      "security": "Ivverifikat b'mod kriptografiku u kontra t-tbagħbis"
+    },
+    "euInfrastructure": "Integrazzjoni tal-Infrastruttura tal-UE",
+    "selectCountry": "Agħżel pajjiżek",
+    "consent": "Nikkonferma li jien ċittadin tal-UE u naqbel li d-dejta tiegħi tiġi pproċessata skont ir-regolamenti tal-UE dwar il-protezzjoni tad-dejta.",
+    "merkleLabel": "Merkle Root:",
+    "merkleCalculating": "Calculating...",
+    "merkleNoSigs": "Għadu l-ebda firem",
+    "formFooter": "Il-firma tiegħek se tkun hashed kriptografikament u miżjuda ma 'katina li ma tbagħbx.",
+    "success": "Firma Reġistrata!",
+    "invalidFormat": "Format tal-ID mhux validu għal",
+    "integrityVerified": "Integrità tal-Katina Vverifikata",
+    "integrityIssues": "Kwistjonijiet ta' Integrità Individwati",
+    "eciTitle": "Inizjattiva taċ-Ċittadini Ewropej",
+    "eciReg": "Skont ir-Regolament tal-UE 2019/788",
+    "verification": {
+      "title": "Verifika ta' Prova ta' Tbagħbis",
+      "intro": "Din is-sistema tuża tekniki kriptografiċi standard tal-industrija biex tiżgura l-integrità tal-firma:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "SHA-256 Hashing",
+        "text": "Kull firma tiġi kkonvertita f'marka tas-swaba' unika ta' 256 bit bl-użu tal-algoritmu SHA-256 — l-istess standard użat miċ-ċertifikati Bitcoin u TLS/SSL. Kwalunkwe tbagħbis jibdel il-hash kompletament.",
+        "source": "Standard: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Merkle Tree",
+        "text": "Siġra Merkle (siġra tal-hash) hija struttura tad-dejta ivvintata mill-kriptografu Ralph Merkle fl-1979. Toħloq \"root hash\" waħda li tivverifika l-integrità tal-firem KOLLHA - jekk xi firma tinbidel, l-għerq jinbidel.",
+        "source": "Użat minn: Bitcoin, Git, IPFS, Ċertifikat Trasparenza"
+      },
+      "audit": {
+        "title": "Audit Trail",
+        "text": "Kull azzjoni (firma, verifika, esportazzjoni) hija illoggjata b'timestamps li jsegwu l-istandards tal-verifika. Dan jipprovdi trasparenza sħiħa u responsabbiltà għall-operazzjonijiet kollha tas-sistema.",
+        "source": "Konformità: GDPR Artikolu 30"
+      },
+      "euId": {
+        "title": "Validazzjoni tal-ID tal-UE",
+        "text": "Kull pajjiż tal-UE għandu formati speċifiċi tal-ID (il-Portugall: Cartão de Cidadão, il-Ġermanja: Personalausweis, eċċ.). Is-sistema tivvalida n-numri tal-ID kontra mudelli speċifiċi għall-pajjiż skont ir-Regolament tal-UE 2019/788 dwar l-Inizjattiva taċ-Ċittadini Ewropej.",
+        "source": "Qafas: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "Integrazzjoni tal-Infrastruttura tal-UE",
+      "text": "Din l-inizjattiva hija mfassla biex tintegra mas-sistemi uffiċjali tal-UE:",
+      "eciPortal": "Portal Uffiċjali ECI - Għas-sottomissjoni finali",
+      "eidas": "eIDAS - Standards ta' identifikazzjoni elettronika",
+      "gdpr": "Konformi mal-GDPR - Protezzjoni tad-dejta garantita"
+    }
+  },
+  "common": {
+    "source": "Sors",
+    "readMore": "Aqra Aktar",
+    "evidence": "Evidenza",
+    "convicted": "Ikkundannat",
+    "ongoing": "Għaddej",
+    "archived": "Arkivjat",
+    "keyInsight": "KEY INSIGHT",
+    "declined": "Investigazzjoni Naqset",
+    "views": "views",
+    "likes": "likes",
+    "share": "share",
+    "close": "Close"
+  },
+  "mediaMachine": {
+    "part": "Part XI",
+    "title": "Ir-Raba’ Estate Maqbuda",
+    "subtitle": "Kif il-Midja Portugiża Taqdi l-Poter Minflok il-Verità",
+    "intro": "Il-midja li għandha tikxef il-korruzzjoni hija proprjetà tal-istess sistema li għandha tinvestiga.",
+    "ownership": {
+      "title": "Min Jikkontrolla l-Aħbarijiet",
+      "subtitle": "5 gruppi jikkontrollaw dak li jaraw u jaqraw 10 miljun ruħ",
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "Eks Prim Ministru (PSD, 1981-83)",
+        "note": "Eks kap tal-gvern jikkontrolla netwerk tat-TV maġġuri"
+      },
+      "rtp": {
+        "name": "RTP (Public TV)",
+        "owner": "Stat Portugiż",
+        "connection": "Bord maħtur mill-Parlament",
+        "note": "Il-Gvern jikkontrolla l-ħatriet u l-baġit"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "L-azzjonisti jinkludu banek salvati mill-istat",
+        "note": "Dipendenza finanzjarja fuq istituzzjonijiet statali"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Sonae Group",
+        "connection": "Imperu tal-bejgħ bl-imnut dipendenti fuq kuntratti tal-gvern",
+        "note": "Ikopri regolamenti li jaffettwaw il-profitti tas-sid"
+      },
+      "globalMedia": {
+        "connection": "Akkwist fl-2020 minn investituri b'konnessjonijiet bejn l-Angola/Makaw. L-isfond ta' Kevin Ho jinkludi links għas-setturi tal-każinò u tal-kostruzzjoni. Il-grupp jikkontrolla 4 gazzetti ewlenin + it-tieni stazzjon tar-radju l-aktar mismugħ tal-Portugall.",
+        "name": "Grupp tal-Midja Globali",
+        "note": "Jikkontrolla DN, JN, TSF, O Jogo - influwenza ewlenija tal-istampa",
+        "owner": "Investituri privati ​​(Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "Il-Bieb li jdur",
+      "subtitle": "Il-politiċi jsiru kummentaturi, il-kummentaturi jipproteġu lill-politiċi",
+      "mendes": {
+        "name": "Marques Mendes",
+        "role": "SIC Political Commentator",
+        "background": "Former PSD Leader (2005-2007)",
+        "scandal": "€700,000+ in consultancy fees from government-dependent companies",
+        "coverage": "SIC gave minimal coverage to its own commentator's scandal",
+        "outcome": "PGR declined investigation - December 19, 2025",
+        "path": "Former PSD leader → SIC political commentator. Now Council of State member. Never identifies conflicts of interest on air."
+      },
+      "mendesLuis": {
+        "name": "Marques Mendes",
+        "path": "Eks-mexxej tal-PSD → kummentatur politiku tas-SIC. Issa membru tal-Kunsill tal-Istat. Qatt ma tidentifika kunflitti ta' interess fuq l-ajru.",
+        "role": "Kummentatur Politiku tas-SIC",
+        "background": "Eks-Mexxej tal-PSD (2005-2007)",
+        "scandal": "€700,000+ f’miżati ta’ konsulenza minn kumpaniji dipendenti mill-gvern",
+        "coverage": "SIC ta kopertura minima għall-iskandlu tal-kummentatur tiegħu stess",
+        "outcome": "PGR irrifjutat l-investigazzjoni - 19 ta 'Diċembru, 2025"
+      }
+    },
+    "techniques": {
+      "title": "Tekniki tal-Ġurnaliżmu \"Leading\".",
+      "subtitle": "Kif il-midja tifforma l-perċezzjoni bħal avukat imexxi xhud",
+      "framing": {
+        "title": "Tfassil tal-Headline",
+        "description": "L-istess azzjonijiet, kliem differenti bbażati fuq allinjament politiku",
+        "example1": "Skandlu PS: 'Skemi kriminali', 'netwerk ta' korruzzjoni'",
+        "example2": "Skandlu PSD: 'Kuntratti kontroversjali', 'irregolaritajiet'"
+      },
+      "timing": {
+        "title": "Manipulazzjoni tal-Ħin",
+        "description": "Aħbar ħażina għall-alleati maħruġa nhar ta' Ġimgħa u vaganzi",
+        "example": "Diċembru 2025: Tliet arkivji tal-każijiet miġbura qabel il-Milied"
+      },
+      "omission": {
+        "title": "Omissjoni Strateġika",
+        "description": "Dak li ma jirrappurtawx huwa importanti daqs dak li jagħmlu",
+        "example": "Il-mudell ta 'imblukkar tar-riforma ta' 18-il sena qatt ma ġie sintetizzat"
+      },
+      "balance": {
+        "title": "False Balance",
+        "description": "Evidenza dokumentata vs ċaħda ttrattati bħala validi ugwalment",
+        "example": "It-trattament tal-fatti u l-ispin politiku bħala pożizzjonijiet ekwivalenti"
+      }
+    },
+    "stateAdvertising": {
+      "title": "Reklamar tal-Istat: Il-Leash Finanzjarju",
+      "total": "€6.45 million",
+      "hidden": "€3.7 million",
+      "hiddenNote": "riċevituri MHUX żvelati pubblikament",
+      "mechanism": "Midja fi kriżi finanzjarja → Jiddependi mir-reklami tal-istat → Ittaffi l-kopertura kritika → Korruzzjoni inqas skrutinizzata",
+      "increase": "+€1.29M żieda (2024)"
+    },
+    "precarity": {
+      "title": "Prekarjetà tal-Ġurnalisti = Awto-Ċensura",
+      "noContract": "33.4%",
+      "noContractLabel": "xogħol mingħajr kuntratti formali",
+      "pressure": "23.8%",
+      "pressureLabel": "rapport pressjoni mill-bordijiet",
+      "belief": "90%",
+      "beliefLabel": "jemmnu li l-karrieri jsiru aktar prekarji",
+      "strike": "Marzu 2024: L-ewwel strajk tal-ġurnalisti f'aktar minn 40 sena"
+    },
+    "comparison": {
+      "title": "Portugall vs Demokraziji Funzjonali",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "conclusion": "Ir-raba’ patrimonju jinqabad mill-ewwel u t-tieni patrimonju. L-arkitettura tal-impunità tinkludi l-midja li għandha tikxefha.",
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Sehem tas-suq tal-midja tal-istat",
+      "risk": "HIGH",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Kopertura Differenzjali Dokumentata",
+      "case1": {
+        "title": "Montenegro vs Sócrates",
+        "montenegro": "Montenegro (PSD): Skandlu Spinumviva, €410K+ filwaqt li MP - Kopertura qasira, segwitu limitat",
+        "socrates": "Sócrates (PS): Kopertura estensiva u sostnuta għal xhur",
+        "pattern": "L-istess tip (irregolarità finanzjarja), intensità ferm differenti"
+      },
+      "case2": {
+        "title": "Marques Mendes (Diċembru 2025)",
+        "revealed": "Kixfet: €700,000+ fi ħlasijiet ta’ konsulenza waqt li jkun kummentatur tas-SIC",
+        "coverage": "Kopertura SIC: Minima - skandlu skandlu żbokk stess",
+        "pattern": "Effett ta 'sjieda klassika - ipproteġi tiegħek"
+      },
+      "case3": {
+        "title": "Soppressjoni tal-Oculta tal-wiċċ",
+        "attempt": "Attentat: Pressjoni biex tiġi limitata l-kopertura, dewmien fil-pubblikazzjoni",
+        "result": "Riżultat: Eventwalment espost iżda b'dewmien sinifikanti",
+        "pattern": "Juri pressjoni sistemika fuq il-ġurnalisti"
+      }
+    },
+    "framingPatterns": {
+      "title": "Kif Tvarja l-Inkwadru skond il-Partit",
+      "aspect": "Aspect",
+      "psScandal": "PS Kopertura Skandlu",
+      "psdScandal": "Kopertura tal-Iskandlu tal-PSD",
+      "language": "Language Used",
+      "psLanguage": "\"Skemi kriminali\", \"Netwerk ta' korruzzjoni\"",
+      "psdLanguage": "\"Kuntratti kontroversjali\", \"Irregolaritajiet\"",
+      "duration": "Tul ta' Kopertura",
+      "psDuration": "Ġimgħat/xhur, segwitu sostnut",
+      "psdDuration": "Jiem, aċċenn fil-qosor, l-ebda segwitu",
+      "placement": "Pjazzament ta' l-Ewwel",
+      "psPlacement": "Faċċata, prime time",
+      "psdPlacement": "Ġewwa paġni, off-peak",
+      "accountability": "Tfassil ta' Responsabbiltà",
+      "psAccountability": "Individwi msemmija, responsabbiltà tal-partit",
+      "psdAccountability": "\"Iż-żewġ naħat\", problemi sistemiċi",
+      "note": "Sors: Studji akkademiċi li janalizzaw il-kopertura tal-elezzjoni Portugiża 2015-2022"
+    },
+    "newsDeserts": {
+      "title": "Aħbarijiet Deżerti: Fejn il-Korruzzjoni Tmur Mhux Irrappurtata",
+      "municipalities": "ta '308 muniċipalitajiet huma deżerti aħbarijiet",
+      "percentage": "tal-Portugall m'għandux kopertura tal-aħbarijiet lokali",
+      "atRisk": "muniċipalitajiet f'riskju (ħanut wieħed biss)",
+      "impact": "Fejn m’hemmx ġurnaliżmu, m’hemmx kontabbiltà. Il-korruzzjoni lokali tiffjorixxi fid-dell tad-deżerti tal-aħbarijiet."
+    },
+    "pressFreedom": {
+      "title": "Il-Libertà tal-Istampa Tnaqqis",
+      "ranking": "Il-Portugall niżel minn<strong class=\"text-good\">7</strong>għal<strong class=\"text-bad\">13</strong>post fil-Monitoraġġ tal-Pluraliżmu tal-Midja (2024→2025)",
+      "trust": "• Fiduċja fl-aħbarijiet: 54% (naqqas minn 66% fl-2015)",
+      "concentration": "• Riskju tal-konċentrazzjoni tal-midja: 79%",
+      "independence": "• Indipendenza editorjali f'riskju għoli",
+      "pattern": "THE PATTERN:",
+      "explanation": "Hekk kif is-sjieda tal-midja tikkonċentra, il-prekarjetà tal-ġurnalisti tiżdied, u r-reklamar tal-istat isir finanzjament tas-salvataġġ—ġurnaliżmu kritiku jsir strutturalment impossibbli."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "Part XII",
+    "title": "Il-Paraxut tad-Deheb",
+    "subtitle": "Instab ħati ta' Korruzzjoni? Żomm il-Pensjoni Tiegħek Għal Dejjem",
+    "intro": "Fil-Portugall, politiċi misjuba ħatja li serqu miljuni jżommu l-pensjonijiet tagħhom iffinanzjati mit-taxxi. M'hemm l-ebda liġi li twaqqafhom.",
+    "question": "X'jiġri meta politiku Portugiż jinstab ħati ta' korruzzjoni?",
+    "answer": "IŻOMMU KOLLOX.",
+    "cases": {
+      "title": "Każijiet Dokumentati",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ],
+      "socrates": {
+        "name": "José Sócrates",
+        "crime": "€34M akkużi ta’ korruzzjoni",
+        "sentence": "Trial ongoing 11+ years",
+        "pension": "Keeps ~€30,000/year lifelong subvention",
+        "role": "Eks Prim Ministru (2005-2011)",
+        "status": "ON TRIAL",
+        "description": "Charged with corruption, money laundering, document forgery. After 10+ years, still receiving pension. Case ongoing since 2014."
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "pension": "€26,000/month (seized and returned repeatedly)",
+        "role": "Former Minister & CGD Administrator",
+        "status": "CONVICTED",
+        "description": "Convicted of influence peddling (Operação Marquês). Sentenced to 5 years. Continued receiving politician pension throughout trial and appeals.",
+        "charges": "Convicted: influence peddling, money laundering (5 years)",
+        "roles": "Eks Deputat Ministru tal-PS, Amministratur tas-CGD"
+      },
+      "pinho": {
+        "name": "Manuel Pinho",
+        "crime": "Corruption",
+        "sentence": "10 years prison",
+        "pension": "€26,000/month despite seizure attempts",
+        "role": "Former Economy Minister",
+        "status": "CHARGED",
+        "description": "Accused of receiving €4.5M in bribes from EDP. Case related to energy sector corruption. Fled to Brazil initially. Pension rights intact.",
+        "charges": "Misjuba ħatja: korruzzjoni passiva, ħasil tal-flus (10 snin)",
+        "note": "Irċieva €4.5M f’tixħim mingħand EDP",
+        "houseArrest": "🏠 Jservi d-dar: Minkejja sentenza ta' 10 snin, iservi fir-residenza tiegħu stess mill-2021"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "crime": "Convicted",
+        "sentence": "Served 14 months",
+        "pension": "Returned as mayor, currently serving",
+        "role": "Former Mayor of Oeiras",
+        "status": "CONVICTED",
+        "description": "Convicted of tax fraud (7 years). After serving sentence, RE-ELECTED as mayor. Full pension rights restored. The system rewards persistence.",
+        "charges": "Misjuba ħatja: frodi tat-taxxa, ħasil tal-flus",
+        "note": "Serva sentenza, imbagħad RIELETTA bħala Sindku ta' Oeiras"
+      }
+    },
+    "amounts": {
+      "title": "What They Protect: Monthly Pension Amounts",
+      "president": "€11,718",
+      "presidentLabel": "President",
+      "pm": "€8,789",
+      "pmLabel": "Prime Minister",
+      "minister": "€7,617",
+      "ministerLabel": "Ministers",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "comparison": "Average Portuguese pension: €509/month. Politicians receive 15-23x more — even after criminal conviction.",
+      "presidentBenefits": "Benefiċċji sħaħ wara terminu WIEĦED biss",
+      "pmBenefits": "Karozza, sewwieq, persunal, sigurtà għall-ħajja",
+      "ministerBenefits": "Pensjoni ġeneruża irrispettivament mill-ħin moqdi"
+    },
+    "noLaw": {
+      "title": "Il-Liġi: M'hemm Xejn",
+      "text": "Il-Portugall M'GĦANDU L-EBDA liġi li teħtieġ it-telf tal-pensjoni wara kundanna kriminali.",
+      "attempts": [
+        "Chega proposed 25-75% cuts → Blocked by 'constitutional obstacles'",
+        "Constitutional Court interpretations prevent automatic penalties",
+        "Both PS and PSD benefit from status quo → No reform interest"
+      ]
+    },
+    "euComparison": {
+      "title": "EU Comparison: Portugal is an Outlier",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Ir-rata ta' sostituzzjoni tal-pensjoni tal-Portugall",
+        "euAverage": "71%",
+        "euAverageLabel": "EU average",
+        "productivity": "73%",
+        "productivityLabel": "Produttività tal-Portugall vs UE"
+      },
+      "translation": "L-aktar pensjonijiet ġenerużi + l-iktar responsabbiltà dgħajfa + l-inqas produttività = sistema mfassla biex tippremja l-falliment.",
+      "country": "Country",
+      "rule": "Forfeiture Rule",
+      "applies": "Applies To"
+    },
+    "greco": {
+      "title": "GRECO's Verdict on Portugal",
+      "status": "GLOBALMENT MHUX SODISFATTIBBLI",
+      "recommendations": "28",
+      "partial": "18 parzjalment implimentati",
+      "notImplemented": "10 MHUX implimentati",
+      "lobbying": "Lobbying: MHUX REGOLAT",
+      "assets": "Dikjarazzjonijiet tal-assi: INFURZAR DGĦAJF",
+      "verdict": "Il-korp kontra l-korruzzjoni tal-Kunsill tal-Ewropa ripetutament innota n-nuqqas tal-Portugall li jimplimenta sanzjonijiet sinifikanti għal uffiċjali korrotti. Is-sistema ta' protezzjoni tal-pensjoni ddgħajjef id-deterrenza u tindika li l-kriminalità politika m'għandhiex konsegwenzi dejjiema."
+    },
+    "referendum": {
+      "title": "Mistoqsijiet ta' Referendum proposti",
+      "q7": {
+        "number": "Question 7",
+        "text": "Għandhom il-politiċi misjuba ħatja ta’ reati ta’ korruzzjoni awtomatikament jitilfu l-pensjonijiet tagħhom iffinanzjati mit-taxxi?"
+      },
+      "q8": {
+        "number": "Question 8",
+        "text": "Il-mezzi tal-midja għandhom ikunu meħtieġa jiżvelaw konnessjonijiet politiċi tas-sidien u l-azzjonisti ewlenin?"
+      }
+    },
+    "conclusion": "L-arkitettura tal-impunità testendi lil hinn mill-awla. Anke meta sseħħ il-kundanna rari, il-paraxut tad-deheb jiżgura inżul komdu. Is-sistema mhux biss tipproteġi lill-politiċi mill-ġustizzja—hija tippremjahom għal għomorhom.",
+    "scandal": {
+      "title": "Ir-Realtà Inaċċettabbli",
+      "description": "Il-politiċi Portugiżi misjuba ħatja ta’ korruzzjoni, frodi, u abbuż ta’ poter ikomplu jirċievu pensjonijiet iffinanzjati mill-kontribwenti. M'hemm l-EBDA konfiska awtomatika. Filwaqt li ċ-ċittadini ordinarji jitilfu l-impjiegi u d-djar minħabba reati minuri, il-klassi politika fasslet sistema fejn il-kriminalità litteralment tħallas."
+    },
+    "constitutional": {
+      "eu": {
+        "text": "Franza, Spanja, l-Italja għandhom protezzjonijiet kostituzzjonali IDENTIKU għadhom implimentaw b'suċċess il-liġijiet ta' konfiska tal-pensjonijiet. Il-qrati tagħhom sabu l-konfiska kostituzzjonali. Ir-reżistenza tal-Portugall hija għażla politika, mhux ħtieġa legali.",
+        "title": "Pajjiżi oħra tal-UE"
+      },
+      "portugal": {
+        "text": "Il-Qorti Kostituzzjonali tinterpreta dan li jfisser li l-pensjonijiet MA JISTGĦUX jintilfu awtomatikament. Tentattivi ta' riforma mblukkati darbtejn (2012, 2015). Riżultat: politiċi kkundannati jżommu pensjonijiet sħaħ.",
+        "title": "Interpretazzjoni tal-Portugall"
+      },
+      "quote": "\"L-ebda sentenza ma għandha tinvolvi kif meħtieġ effett it-telf ta' kwalunkwe dritt ċivili, professjonali jew politiku\"",
+      "source": "— Artikolu 30, Kostituzzjoni Portugiża",
+      "title": "It-Tarka Kostituzzjonali: Artikolu 30 CRP"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Ibbażat fuq salarju + snin ta’ servizz. Xi wħud jirċievu 80% + tas-salarju finali tagħhom għal ħajjithom. Jista' jaqbeż l-€20,000/xahar għall-ogħla pożizzjonijiet.",
+        "title": "Kif Huwa Ikkalkulat"
+      },
+      "contrast": "Kuntrast: Ħaddiema regolari misjuba ħatja ta 'reati jitilfu l-impjieg tagħhom, pensjonijiet, u futuri. Il-politiċi misjuba ħatja ta’ reati ferm agħar iżommu €8,500-26,000/xahar tagħhom għal għomru.",
+      "created": {
+        "text": "Il-Liġi 4/85 ħolqot sussidji tul il-ħajja għall-PM, Ministri, MP, u Imħallfin. Oriġinarjament iddisinjat biex jippremja \"servizz pubbliku\".",
+        "title": "Created in 1984"
+      },
+      "description": "Il-Portugall għandu sistema unika ta' \"Subvenção Vitalícia\" (Sussidju għal tul il-ħajja) li tagħti lill-ex-politiċi ħlas permanenti fix-xahar għal għomru—separat minn u flimkien ma' kwalunkwe pensjoni regolari. Din mhix pensjoni li taqla’ permezz ta’ kontribuzzjonijiet; huwa privileġġ mogħti bil-liġi.",
+      "protected": {
+        "text": "Anke jekk jinstab ħati ta’ reati mwettqa fil-kariga, is-sussidju jkompli. Il-qbid jeħtieġ azzjoni separata tal-qorti ċivili—u ħafna drabi tonqos fl-appell.",
+        "title": "Legalment Protetti"
+      },
+      "title": "Is-Sistema Subvenção Vitalícia"
+    }
+  },
+  "meta": {
+    "title": "L-Arkitettura tal-Impunità - Is-Sistema ta' Protezzjoni Politika tal-Portugall",
+    "description": "Kif Is-Sistema Politika tal-Portugall Hija Mfassla biex Tħares lill-Korrotti"
+  },
+  "accessibility": {
+    "skipToContent": "Aqbeż għall-kontenut prinċipali",
+    "toggleNav": "Aqleb il-menu tan-navigazzjoni",
+    "changeLang": "Change language",
+    "mainNav": "Main navigation",
+    "infoIcon": "Information",
+    "closeBanner": "Banner ta' avviż mill-qrib"
+  },
+  "legal": {
+    "title": "Avviż Legali:",
+    "text": "L-individwi kollha msemmija huma intitolati għall-preżunzjoni tal-innoċenza sakemm jiġu ppruvati ħatja. Dan id-dokument jippreżenta informazzjoni disponibbli pubblikament minn sorsi uffiċjali, dokumenti tal-qorti, u midja ta’ fama. L-analiżi tiddokumenta xejriet fis-sistemi politiċi u legali Ewropej."
+  },
+  "thesis": {
+    "title": "Il-Klassi Politika Pavloviana",
+    "intro": "Is-sistema politika Portugiża topera fuq prinċipji ta’ kondizzjonament klassiku",
+    "cycle": {
+      "title": "Iċ-Ċiklu tal-Kundizzjonament",
+      "formula": "STIMULU → RISPONS → PREMJU → IRREpeti",
+      "entry": {
+        "title": "ENTRY",
+        "trigger": "Ingħaqad fil-partit, uri lealtà",
+        "reward": "→ Pożizzjoni fuq lista elettorali"
+      },
+      "service": {
+        "title": "SERVICE",
+        "trigger": "Ivvota kif qal, ipproteġi l-kollegi",
+        "reward": "→ Mordomias (karozzi, sewwieqa, persunal, spejjeż)"
+      },
+      "scandal": {
+        "title": "SCANDAL",
+        "trigger": "Investigazzjoni mħabbra",
+        "reward": "→ Immunità attivata, segredo de justiça, jibda d-dewmien"
+      },
+      "rescue": {
+        "title": "RESCUE",
+        "trigger": "Oqgħod kwiet, tesponix lil ħaddieħor",
+        "reward": "→ Il-lakuna legali tal-aħħar minuta ssalvak"
+      },
+      "promotion": {
+        "title": "PROMOTION",
+        "trigger": "Lealtà ppruvata permezz ta' kriżi",
+        "reward": "→ POŻIZZJONI UE (it-trattament aħħari)"
+      }
+    },
+    "keyInsight": {
+      "title": "\"Mhumiex Fuq Minna\" - Imma Huma Għamilna Lilhom infushom Fuq Minna",
+      "point1": "Il-politiċi ħolqu soċjetà parallela bi privileġġi li ċ-ċittadini ma jistgħux jaċċessaw",
+      "point2": "Is-sistema tipproduċi eżattament l-imġieba li tippremja: politiċi konformi li jipproteġu lil xulxin",
+      "point3": "Ir-riforma minn ġewwa hija impossibbli: bħal li titlob lill-klieb ta’ Pavlov biex jiskonnettjaw il-qanpiena mill-ikel",
+      "parallel": "Il-politiċi ħolqu soċjetà parallela bi privileġġi li ċ-ċittadini ma jistgħux jaċċessaw",
+      "rewards": "Is-sistema tipproduċi eżattament l-imġieba li tippremja: politiċi konformi li jipproteġu lil xulxin",
+      "reform": "Ir-riforma minn ġewwa hija impossibbli: bħal li titlob lill-klieb ta’ Pavlov biex jiskonnettjaw il-qanpiena mill-ikel"
+    },
+    "selfReinforcing": {
+      "title": "Il-Loop Awto-Rinfurzar",
+      "intro": "Is-sistema hija awto-perpetwa. Kull ġenerazzjoni ta’ politiċi titgħallem minn dik ta’ qabel:",
+      "observe": {
+        "title": "OBSERVE",
+        "text": "Politiċi junior jaraw anzjani jsalvaw skandli"
+      },
+      "learn": {
+        "title": "LEARN",
+        "text": "Huma jitgħallmu r-regoli: lealtà = protezzjoni"
+      },
+      "replicate": {
+        "title": "REPLICATE",
+        "text": "Meta jasal imisshom, huma jipproteġu lill-oħrajn jistennew l-istess"
+      },
+      "teach": {
+        "title": "TEACH",
+        "text": "Huma jsiru l-anzjani li josservaw iż-żgħar"
+      },
+      "conclusion": "Politicians don't need to be explicitly told to protect colleagues. They do it automatically, knowing the system will protect them in return. The conditioning is generational.",
+      "howLoop": "Kif jaħdem il-linja:",
+      "whyFails": "Why Internal Reform Always Fails:",
+      "trapTitle": "The Trap:",
+      "trapText": "The system is not broken—it is working exactly as designed.",
+      "loopSteps": {
+        "step1": {
+          "title": "Il-politiċi żgħażagħ josservaw:",
+          "text": "Figuri anzjani jikkommettu reati → jiffaċċjaw investigazzjoni → jaħarbu → jiġu promossi"
+        },
+        "step2": {
+          "title": "Lesson learned:",
+          "text": "\"Is-sistema tipproteġi tagħha stess. Jekk jien leali, inkun protett ukoll.\""
+        },
+        "step3": {
+          "title": "Imġieba aġġustata:",
+          "text": "Jivvutaw biex iżommu lakuni, jipproteġu l-kollegi, jimblukkaw ir-riforma"
+        },
+        "step4": {
+          "title": "L-istennija ssolidifikata:",
+          "text": "Meta jiġi l-iskandlu tagħhom stess, jistennew u jirċievu l-istess protezzjoni"
+        },
+        "step5": {
+          "title": "Il-ġenerazzjoni li jmiss tosserva:",
+          "text": "Iċ-ċiklu jirrepeti b'aspettattivi msaħħa"
+        }
+      },
+      "reformFails": {
+        "enrichment": {
+          "title": "Arrikkiment illeċitu imblukkat:",
+          "text": "Il-politiċi mhux se jivvutaw biex ineħħu l-bokkaport tal-ħarba tagħhom stess"
+        },
+        "lobby": {
+          "title": "Regolament tal-lobby imblukkat:",
+          "text": "PSD imblukkaha DARBA (2019, 2024) - thedded is-sistema ta 'premju"
+        },
+        "immunity": {
+          "title": "Immunità miżmuma:",
+          "text": "Il-Parlament mhux se jivvota biex titneħħa l-immunità – jista’ jkollhom bżonnha"
+        },
+        "prescription": {
+          "title": "Preskrizzjoni mhux mibdula:",
+          "text": "Dewmien twil iservi s-sistema, għalhekk is-sistema żżommhom"
+        }
+      }
+    },
+    "elitePattern": {
+      "title": "Il-Mudell ta' Protezzjoni Elite",
+      "intro": "Analiżi ta’ każijiet ta’ profil għoli turi mudell konsistenti ta’ tliet stadji:",
+      "investigate": {
+        "title": "INVESTIGATE",
+        "text": "Il-midja tesponi l-iskandlu → Il-prosekuturi jħabbru l-investigazzjoni → L-għadab pubbliku li jinsab"
+      },
+      "delay": {
+        "title": "DELAY",
+        "text": "Snin ta’ kumplessità proċedurali → Segredo de justiça invokat → Etajiet tal-provi → Il-memorji tax-xhieda jisparixxu"
+      },
+      "archiveOrReward": {
+        "title": "ARKIVJU JEW PREMJU",
+        "text": "Każ arkivjat għal 'nuqqas ta' evidenza' JEW politiku promoss għal pożizzjoni ogħla waqt li kien qed jiġi investigat"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "Il-Kuntrast Svediż",
+        "source": "Sors: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Aspect",
+        "officialCars": "Official Cars",
+        "mpOffices": "MP Offices",
+        "immunity": "Immunity",
+        "salaryRaises": "Salary Raises",
+        "localCouncillors": "Kunsilliera Lokali",
+        "transparency": "Transparency",
+        "cpiScore": "TI CPI Score",
+        "swedenValues": {
+          "cars": "PM biss għandu karozza (sigurtà). Kulħadd ieħor: xarabank/ferrovija",
+          "offices": "uffiċċji ta' 7m²; Il-MPs jimmaniġġjaw l-iskedi tagħhom stess",
+          "immunity": "Xejn. Ippruvat fil-qorti bħal kull ċittadin",
+          "salary": "Kumitat indipendenti jiddeċiedi",
+          "councillors": "Voluntiera, bla salarju, xogħol mid-dar",
+          "transparency": "Id-denunzji tat-taxxa kollha pubbliċi mill-1766",
+          "cpi": "85/100 (Top 5) - STABBIL"
+        },
+        "portugalValues": {
+          "cars": "PM għandu 11-il sewwieq",
+          "offices": "Staff sħiħ, segretarji, baġits kbar",
+          "immunity": "Ma jistax jinżamm mingħajr il-vot tal-Parlament",
+          "salary": "Il-politiċi jivvutaw fuq il-kumpens tagħhom stess",
+          "councillors": "Pożizzjonijiet imħallsa mal-persunal",
+          "transparency": "Segredo de justiça jaħbi każijiet għal snin sħaħ",
+          "cpi": "57/100 (43rd) - TNAQQAS"
+        },
+        "quote": "Aħna ċittadini ordinarji. M'hemm l-ebda sens li nagħtu privileġġi speċjali lill-parlamentari, peress li l-kompitu tagħna huwa li nirrappreżentaw liċ-ċittadini u nkunu nafu r-realtà li fiha jgħixu n-nies.",
+        "quoteCite": "— Per-Arne Håkansson, deputat Żvediż",
+        "sourceLabel": "Sors: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "Il-Mudell Żvizzeru: Demokrazija Diretta fl-Azzjoni",
+        "intro": "L-Isvizzera turi li ċ-ċittadini jistgħu jikkontrollaw direttament lill-politiċi tagħhom permezz ta’ referenda vinkolanti. L-Iżvizzeri jivvutaw madwar 4 darbiet fis-sena fuq medja ta' 15-il kwistjoni federali.",
+        "popularInitiative": {
+          "title": "Inizjattiva Popolari",
+          "requirement": "100,000 firma",
+          "text": "Vot ta' emenda kostituzzjonali - iċ-ċittadini jistgħu jipproponu bidliet fil-kostituzzjoni"
+        },
+        "optionalReferendum": {
+          "title": "Referendum Fakultattiv",
+          "requirement": "50,000 firma",
+          "text": "Veto kwalunkwe liġi fi żmien 100 jum mill-passaġġ"
+        },
+        "mandatoryReferendum": {
+          "title": "Referendum Obbligatorju",
+          "requirement": "Automatic",
+          "text": "Il-bidliet kostituzzjonali KOLLHA GĦANDHOM imorru għall-vot popolari"
+        },
+        "facts": {
+          "nonProfessional": "Politiċi mhux professjonali: Il-Membri Parlamentari m'għandhom l-ebda salarju sħiħ tal-istat - mistenni jżommu impjiegi regolari",
+          "referendums": "Bejn l-1848-2024: saru 700+ referendum",
+          "cpi": "TI CPI Rank: 3rd globalment (parità mal-Isvezja u Singapor)"
+        },
+        "quote": "Il-kelma tal-poplu hija suprema.",
+        "quoteCite": "— Prinċipju demokratiku Żvizzeru",
+        "stats": "Statistika Svizzera ewlenija:"
+      }
+    },
+    "portugalReality": {
+      "title": "Portugall Realtà",
+      "drivers": {
+        "number": "11",
+        "label": "Sewwieqa għall-PM António Costa",
+        "detail": "Kull wieħed jaqla’ €2,121/xahar"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Cabinet Members",
+        "detail": "Medja: €2,794 | Għalliema: €1,705 | Paga minima: €820"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Waqqa 'Punt fit-TI CPI 2024",
+        "detail": "Score: 57/100 | Rank: 43 minn 180 pajjiż"
+      }
+    },
+    "citizensKnow": "Iċ-Ċittadini Jafu li s-Sistema Hija Korrotta:"
+  },
+  "cases": {
+    "title": "L-Evidenza: Fajls Kompluti",
+    "intro": "Każijiet dokumentati li juru s-sistema ta' protezzjoni fl-azzjoni",
+    "timelineLabel": "Timeline",
+    "status": {
+      "ongoing": "Trial Ongoing",
+      "trialOngoing": "Trial Ongoing",
+      "euCouncilPresident": "President tal-Kunsill tal-UE",
+      "euPromoted": "President tal-Kunsill tal-UE",
+      "archived": "Archived",
+      "declined": "Investigazzjoni Naqset",
+      "arguido": "Suspettat formali (arguido)",
+      "pgrDeclined": "PGR Irrifjuta Investigazzjoni",
+      "formalSuspect": "Suspettat formali (arguido)",
+      "convictedServing": "KUNDIJIET - Notifika",
+      "convictedAppealing": "KKUNZIAT - Appell",
+      "convictedRearrested": "KKUNZIAT (2010) - Arrestat mill-ġdid 2022",
+      "convictedMultiple": "MULTIPLU KUNDIJAT",
+      "formalSuspectArguido": "SUSPETT FORMALI (arguido)",
+      "arrestedJan2024": "ARRESTAT (Jannar 2024)",
+      "neverProsecuted": "QATT PROSEKUTATI",
+      "neverDefendant": "Qatt Konvenut",
+      "convictedUnpaid": "KKUNZIAT - Dejn mhux imħallas",
+      "convictedMultipleJurisdictions": "KUNDIJIET - Il-Portugall u l-Brażil",
+      "convictedSuspended": "KKUNZIAT - Sentenza Sospiża",
+      "convictedHouseArrest": "KKUNZIAT - Arrest Domiċiljari"
+    },
+    "tableStatus": {
+      "onTrial": "On Trial",
+      "underInvestigation": "Taħt Investigazzjoni",
+      "convicted": "CONVICTED",
+      "convictedX2": "CONVICTED x2",
+      "arguido": "Arguido",
+      "archived": "Archived",
+      "declined": "Declined",
+      "arrested": "ARRESTED",
+      "neverProsecuted": "Qatt ma tħarreġ",
+      "neverDefendant": "Qatt akkużat*",
+      "convictedSuspended": "KKUNZIAT (susp.)"
+    },
+    "charges": {
+      "passiveCorruption": "Korruzzjoni passiva",
+      "moneyLaundering": "Money laundering",
+      "documentFalsification": "Falsifikazzjoni tad-dokument",
+      "taxFraud": "Frodi tat-taxxa aggravata"
+    },
+    "conditioningLesson": "Lezzjoni ta' Kundizzjonament",
+    "theFacts": "The Facts",
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Operação Marquês",
+      "party": "PS - Partit Soċjalista",
+      "position": "Prim Ministru (2005-2011)",
+      "timeline": {
+        "arrested": "Arrestat fl-Ajruport ta’ Lisbona",
+        "detained": "Miżmum fil-ħabs ta' Évora",
+        "accusation": "Akkuża formali (28 delitt)",
+        "trial": "25 reat mibgħuta għall-proċess",
+        "ongoing": "Prova Għadha għaddejja - 11+ SENA",
+        "instruction": "Deċiżjoni ta' istruzzjoni - 25 reat mibgħuta għall-proċess",
+        "current": "Prova Għadha għaddejja - 11+ SENA"
+      },
+      "charges": {
+        "title": "Akkużi (total ta' 22 reat)",
+        "corruption": "Korruzzjoni passiva ta' detentur ta' kariga politika",
+        "laundering": "Money laundering",
+        "falsification": "Falsifikazzjoni tad-dokument",
+        "fraud": "Frodi tat-taxxa aggravata"
+      },
+      "amounts": {
+        "switzerland": "L-Isvizzera (2006-2009)",
+        "total": "Total minn 3 korporazzjonijiet",
+        "prescribed": "Ħlasijiet preskritti"
+      },
+      "keyFacts": {
+        "title": "Fatti Ewlenin minn Akkuża Uffiċjali",
+        "switzerland": "Akkumulat fl-Isvizzera (2006-2009)",
+        "total": "Total allegatament riċevut minn tliet korporazzjonijiet",
+        "sources": "Sorsi ta’ tixħim: Grupo LENA (kostruzzjoni), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (resort tal-golf), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Lezzjoni ta' Kundizzjonament",
+        "text": "Każijiet jistgħu jiġu ttardjati b'mod indefinit. Anke l-eks PM ma jiffaċċjaw l-ebda konsegwenza għal għaxar snin. Kull appell jerġa' jistabbilixxi l-iskedi ta' żmien."
+      },
+      "coAccused": {
+        "apartment": "Paris apartment",
+        "description": "Ħabib qrib ta' Sócrates u allegat \"financier\". Negozjant li allegatament daħħal miljuni lil ex-PM permezz ta’ xiri ta’ proprjetà, ħlasijiet ta’ karozzi, u rinnovazzjoni tad-dar. Akkużat b'9 akkużi ta' ħasil ta' flus.",
+        "expenses": "Living expenses",
+        "renovations": "Renovations",
+        "sources": "Sorsi: akkuża tad-DCIAP, rapporti tal-istampa Portugiżi",
+        "title": "Ko-Akkużat Ewlenin: Carlos Santos Silva",
+        "vehicles": "Vehicles"
+      },
+      "prescription": {
+        "title": "⏱️ Kriżi tal-Istatut tal-Limitazzjonijiet",
+        "text": "Mill-189 reat allegat oriġinali, 167 diġà preskritti (skadew) minħabba dewmien proċedurali. 22 ħlas biss jibqgħu attivi wara 11+ sena."
+      }
+    },
+    "costa": {
+      "name": "António Costa",
+      "operation": "Operação Influencer",
+      "party": "PS - Partit Soċjalista",
+      "position": "Prim Ministru (2015-2023) → President tal-Kunsill tal-UE (2024-)",
+      "timeline": {
+        "raid": "Il-pulizija jattakkaw il-Palazz ta’ São Bento",
+        "resigns": "Costa jirriżenja immedjatament",
+        "elected": "Il-mexxejja tal-UE JAGĦŻLU lil Costa bħala President",
+        "takesOffice": "Tieħu l-kariga bħala President tal-Kunsill tal-UE",
+        "ongoing": "Għadha taħt investigazzjoni",
+        "resignation": "Costa jirriżenja immedjatament",
+        "euElection": "Il-mexxejja tal-UE JAGĦŻLU lil Costa bħala President tal-Kunsill Ewropew",
+        "current": "Għadha taħt investigazzjoni, Għadha tippresjedi l-UE"
+      },
+      "keyFacts": {
+        "title": "The Facts",
+        "cash": "Flus kontanti misjuba moħbija fil-kotba u kaxxi tal-inbid fl-uffiċċju tal-kap tal-persunal",
+        "relates": "Investigazzjoni tirrigwarda: Minjieri tal-litju, idroġenu aħdar, proġetti taċ-ċentru tad-dejta f'Sines",
+        "arrests": "Arresti ewlenin: Vítor Escária (Kap tal-Persunal - arrestat), Nuno Mascarenhas (Sindku ta' Sines - arrestat), Diogo Lacerda Machado (negozjant - arrestat)",
+        "galamba": "Ko-konspiraturi jismu: João Galamba (Ministru tal-Infrastruttura - formal argumentido) — allegatament involuti fil-bejgħ tal-influwenza għal proġetti tal-litju/idroġenu; baqa’ fil-gvern sa r-ri]enja ta’ Costa"
+      },
+      "lesson": {
+        "title": "Lezzjoni ta' Kundizzjonament",
+        "text": "Lealtà massima = promozzjoni tal-UE. Li tkun taħt investigazzjoni kriminali mhijiex ostaklu għall-ogħla pożizzjonijiet tal-UE. Il-kura aħħarija għall-kelb l-aktar leali."
+      },
+      "quote": "Fis-27 ta' Ġunju 2024, il-mexxejja tal-UE eleġġu lil António Costa bħala President tal-Kunsill Ewropew. Huwa ħa l-kariga fl-1 ta' Diċembru 2024.",
+      "quoteCite": "— Websajt Uffiċjali tal-Kunsill Ewropew"
+    },
+    "montenegro": {
+      "name": "Luís Montenegro",
+      "operation": "Affari Spinumviva",
+      "party": "PSD - Partit Soċjali Demokratiku",
+      "position": "Prim Ministru (2024-preżent)",
+      "amounts": {
+        "family": "€410,000+ f’negozju tal-familja",
+        "solverde": "€4,500/xahar konsulenza għal kumpanija tal-logħob tal-azzard"
+      },
+      "loopholeTitle": "Il-Lakuna Li Salvatu:",
+      "loophole": {
+        "notFormal": "Mhux akkużat formalment—imsemmi biss fil-każ",
+        "preliminary": "Pre-investigazzjoni (averiguação) magħluqa mingħajr akkużi",
+        "archived": "Każ arkivjat fis-17 ta’ Diċembru, 2025"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "Kummentatur Politiku tas-SIC",
+      "party": "PSD - Partit Soċjali Demokratiku",
+      "position": "Eks-Mexxej tal-PSD (2005-2007), Membru tal-Kunsill tal-Istat",
+      "amounts": {
+        "consultant": "€700,000+ fi drittijiet ta’ konsulenza mhux żvelati",
+        "aca": "€5,000/xahar minn ACA-M (kuntrattur tal-istat)"
+      },
+      "keyFacts": {
+        "aca": "Irċieva €60,000/sena mingħand ACA-M filwaqt li kellha €400M+ f’kuntratti tal-istat",
+        "irony": "Bħala kummentatur tas-SIC, huwa jikkummenta dwar il-korruzzjoni mingħajr ma jiżvela l-interessi finanzjarji tiegħu stess"
+      },
+      "loopholeTitle": "Il-Lakuna Li Salvatu:",
+      "loophole": {
+        "complaint": "Ilment anonimu mressaq",
+        "pgr": "PGR miċħuda għal \"parco detalhe\" (dettall insuffiċjenti)",
+        "noInvestigation": "L-ebda investigazzjoni qatt ma nfetħet",
+        "destroyed": "Evidenza effettivament meqruda min-nuqqas ta' azzjoni"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Operação Ab Initio",
+      "party": "PSD - Partit Soċjali Demokratiku",
+      "position": "President tal-Gvern Reġjonali tal-Madeira",
+      "timeline": {
+        "searches": "Jannar 2024: Tfittxijiet tal-pulizija fl-uffiċċji tal-gvern",
+        "crimes": "8 reati allegati: korruzzjoni passiva, abbuż ta’ poter",
+        "censure": "Marzu 2024: Il-mozzjoni ta’ ċensura tonqos",
+        "reelection": "Mejju 2024: MILL-ĠDID waqt li tkun taħt investigazzjoni"
+      },
+      "relatedArrest": "Related Arrest:",
+      "calado": {
+        "text": "Pedro Calado (Viċi President, PSD) arrestat Jannar 2024 għal korruzzjoni"
+      },
+      "lesson": {
+        "text": "Li tkun taħt investigazzjoni formali mhijiex ostaklu għal elezzjoni mill-ġdid. Is-sistema tipproteġi tagħha stess."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado",
+      "charges": "Kundanni multipli: kollass tal-BES, korruzzjoni tal-EDP",
+      "note": "Talbiet Alzheimer biex jevitaw il-ħabs. Għadu qed jirċievi pensjoni tal-bankier."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Suspettat formali f'Operação Influencer (korruzzjoni tal-litju/idroġenu)",
+      "note": "Baqa’ Ministru tal-Infrastruttura sakemm ir-riżenja tal-PM Costa"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Arrestat għal korruzzjoni, kollużjoni f'kuntratti pubbliċi",
+      "note": "Viċi President tal-Madeira, arrestat f'Jannar 2024"
+    },
+    "barroso": {
+      "name": "José Manuel Barroso",
+      "charges": "Imsemmi fl-iskandlu tas-sottomarini. Qatt mħarrka.",
+      "note": "President tal-Kummissjoni tal-UE (2004-2014) → Goldman Sachs"
+    },
+    "additionalConvicted": "Politikanti Kundannati/Akkużati Addizzjonali",
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3.5 snin: Frodi kwalifikata, dissipazzjoni tal-assi. €900M+ dejn lill-bank tal-istat CGD",
+      "note": "Kollezzjoni tal-arti li tiswa €500M+ trasferita lill-fondazzjonijiet qabel il-qbid. Il-Qorti Suprema estendiet is-sentenza għal 4 snin (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 snin (PT) + 25 sena (BR): Frodi (BPN), Qtil ta' Rosalina Ribeiro fil-Brażil",
+      "note": "Eks-MP għall-PSD (1987-2008). Il-vittma kienet eredita tal-fortuna tal-klijent tiegħu. Sentenza Brażiljana sakemm tiġi estradita"
+    },
+    "loureiro": {
+      "name": "Valentim Loureiro",
+      "charges": "2 snin sospiżi: Apito Dourado korruzzjoni fil-futbol. Match-fixing, tixħim tar-referees",
+      "note": "Sindku ta’ Gondomar (1976-2013). President tal-Boavista FC. Qatt ma serva żmien il-ħabs"
+    }
+  },
+  "eliteLaws": {
+    "title": "Liġijiet Iddisinjati biex Jipproteġu l-Elite",
+    "intro": "Kif il-Qorti Kostituzzjonali u l-Parlament imblukkaw sistematikament ir-responsabbiltà",
+    "cc": {
+      "title": "Il-Qorti Kostituzzjonali: Gwardjan tal-Impunità",
+      "intro": "Il-Qorti Kostituzzjonali Portugiża (Tribunal Constitucional) neħħiet DARBIET liġijiet dwar l-arrikkiment illeċitu (2012 u 2015), filwaqt li l-Parlament imblokka 22+ tentattiv leġiżlattiv fuq 18-il sena. Il-Portugall jibqa' l-UNIKA pajjiż tal-UE fejn ġid mhux spjegat ma jistax jiġi kriminalizzat.",
+      "timelineTitle": "18-il Sena ta' Riforma Imblukkata (2007-2025)"
+    },
+    "ruling2012": {
+      "badge": "STRUCK DOWN",
+      "title": "Acordão 179/2012",
+      "date": "4 April 2012",
+      "claimedReason": "Claimed Reason:",
+      "claimedText": "Tikser il-preżunzjoni tal-innoċenza (Art. 32º CRP)",
+      "reality": "Reality:",
+      "realityText": "Franza, Spanja, l-Italja, u 45+ pajjiż għandhom liġijiet simili li għaddew minn reviżjoni kostituzzjonali.",
+      "paradox": "The Paradox:",
+      "paradoxText": "Il-Qorti tipproteġi “preżunzjoni ta’ innoċenza” għal spjegazzjonijiet dwar il-ġid filwaqt li tittollera dewmien ta’ 11-il sena qabel il-proċess li jikser l-istess dritt."
+    },
+    "ruling2015": {
+      "badge": "MAQQAT (Unanima)",
+      "title": "Acordão 377/2015",
+      "date": "27 July 2015",
+      "response": "Risposta tal-Parlament:",
+      "responseText": "Liġi riveduta biex tindirizza t-tħassib tal-2012—rekwiżit miżjud li l-prosekuzzjoni trid l-ewwel tipprova ż-żieda fil-ġid.",
+      "tcResponse": "TC's Response:",
+      "tcResponseText": "Mill-ġdid maqtul għal raġunijiet identiċi—unanimament.",
+      "message": "Message:",
+      "messageText": "L-ebda verżjoni tal-liġi dwar l-arrikkiment illeċitu qatt mhu se tiġi aċċettata."
+    },
+    "euComparison": {
+      "title": "Tqabbil tal-UE: Għaliex Il-Portugall Biss?",
+      "country": "Country",
+      "law": "Liġi dwar l-Arrikkiment Illeċitu",
+      "status": "Status Kostituzzjonali",
+      "approved": "approved",
+      "note": "Dawn il-pajjiżi kollha għandhom protezzjonijiet kostituzzjonali identiċi għall-preżunzjoni tal-innoċenza. It-TC tal-Portugall biss isib l-arrikkiment illeċitu \"inkostituzzjonali.\""
+    },
+    "bipartisan": {
+      "title": "Il-Magni tal-Imblukkar Bipartisan",
+      "intro": "Għal 18-il sena (2007-2025), PS u PSD imblukkaw riformi kontra l-korruzzjoni, irrispettivament minn min ikun fil-poter."
+    },
+    "subtitle": "Kif il-Qorti Kostituzzjonali u l-Parlament imblukkaw sistematikament ir-responsabbiltà",
+    "acordao179": {
+      "title": "Acordão 179/2012",
+      "date": "4 April 2012"
+    },
+    "acordao377": {
+      "title": "Acordão 377/2015",
+      "date": "27 July 2015"
+    },
+    "immunityComparison": {
+      "title": "Immunità Parlamentari: Tqabbil tal-UE"
+    },
+    "prescription": {
+      "title": "Perjodi ta' Preskrizzjoni: Tqabbil tal-UE"
+    },
+    "prescriptionNote": "Nota: Il-Portugall għandu l-itwal tul medju tal-każ U jżomm immunità wiesgħa—l-agħar kombinazzjoni.",
+    "euScorecard": {
+      "title": "Scorecard tal-UE Kontra l-Korruzzjoni",
+      "note": "Il-Portugall jikklassifika b'mod konsistenti fil-qiegħ tad-demokraziji tal-Ewropa tal-Punent."
+    }
+  },
+  "loopholes": {
+    "title": "L-Arkitettura Legali: Bokkaporti tal-Ħarba Iddisinjati",
+    "subtitle": "Dawn mhumiex bugs - huma karatteristiċi",
+    "anonymousComplaint": {
+      "title": "Ilmenti Anonimi Miċħuda",
+      "text": "L-Artikolu 246.º n.º 6 CPP jippermetti lill-prosekuturi jirrifjutaw ilmenti anonimi għal \"parco detalhe\" (dettall insuffiċjenti), anke meta tingħata evidenza."
+    },
+    "immunity": {
+      "title": "Immunità Parlamentari",
+      "text": "L-Artikolu 157.º CRP jipprevjeni d-detenzjoni ta' MP mingħajr il-permess tal-Parlament—li qatt ma tingħata għall-alleati politiċi."
+    },
+    "averiguacao": {
+      "title": "Fażi ta' Pre-Investigazzjoni",
+      "subtitle": "Averiguação Preliminari",
+      "text": "Fażi ta’ qabel l-investigazzjoni li tista’ ddum snin mingħajr akkużi formali, li tippermetti lill-politiċi jsostnu li “mhux taħt investigazzjoni”."
+    },
+    "segredo": {
+      "title": "Segretezza Ġudizzjarja",
+      "text": "L-Artikolu 86.º n.º 3 CPP jippermetti li \"segredo de justiça\" jaħbi investigazzjonijiet għal snin—filwaqt li l-politiċi jibqgħu fil-kariga u jiġu promossi."
+    },
+    "prescription": {
+      "title": "Statut tal- Limitazzjonijiet",
+      "articles": "Artikoli 118-122 CP",
+      "text": "Każijiet kumplessi ta' korruzzjoni jistgħu jiġu ttardjati sakemm jippreskrivu (jiskadi). Il-każ medju jieħu 8-12-il sena; riċetta hija 10-15-il sena."
+    },
+    "constitutionalCourt": {
+      "title": "Veto tal-Qorti Kostituzzjonali",
+      "subtitle": "Tribunal Kostituzzjonali",
+      "text": "It-TC ħassar il-liġijiet ta' arrikkiment illeċitu DARBAJN (2012, 2015) u mblokka tentattivi multipli ta' referendum."
+    },
+    "immunityComparison": {
+      "title": "Immunità Parlamentari: Tqabbil tal-UE",
+      "scope": "Immunity Scope",
+      "canBlock": "Jista 'Jblokka l-Investigazzjoni?",
+      "note": "L-immunità tal-Portugall hija l-WAĦDA' fl-UE minkejja oqfsa kostituzzjonali simili. Il-Membri Parlamentari ma jistgħux jinżammu mingħajr vot tal-Parlament—li qatt ma jingħata għall-alleati politiċi."
+    },
+    "prescriptionComparison": {
+      "title": "Perjodi ta' Preskrizzjoni: Tqabbil tal-UE",
+      "period": "Period",
+      "suspension": "Sospiż Waqt l-Investigazzjoni?",
+      "avgDuration": "Tul ta' Każ medju",
+      "critical": "Sejba Kritika:",
+      "finding": "Operação Marquês: 167 minn 189 akkuża preskritta (88% miċħuda bħala \"tard wisq\"). L-Imħallef irrikonoxxa l-prova iżda ddeċieda li \"żmien skada.\"",
+      "stat": "73% tal-prosekuturi Portugiżi jgħidu li l-perjodi ta’ preskrizzjoni mhumiex biżżejjed. (Sors: Transparency International)"
+    },
+    "article246": {
+      "title": "L-Artikolu 246º Paradoss",
+      "mechanism": "The Mechanism:",
+      "explanation": "L-Artikolu 246.º n.º 6 CPP jeħtieġ li l-prosekuturi jsibu \"indicios\" (indikazzjonijiet) ta' reat QABEL jinvestigaw. Imma kif jiġu stabbiliti indikazzjonijiet mingħajr investigazzjoni? Il-liġi toħloq catch-22 perfetta.",
+      "cases": "Applikazzjonijiet tal-Każ:",
+      "montenegro": "Ħlasijiet dokumentati ta' €410K → \"insuffiċjenti\"",
+      "mendes": "Reġistri bankarji ta' €700K → \"dettall skars\"",
+      "verdict": "\"Karatteristika tad-disinn maskara bħala salvagwardja proċedurali.\""
+    },
+    "inconsistency": {
+      "title": "Qorti Kostituzzjonali: Rikors Selettiv",
+      "permitted": "✓ PERMESS fil-Portugall",
+      "prohibited": "✗ PROJBIT minn TC",
+      "p1": "• Prosekuturi jonqsu l-investigazzjoni minkejja dokumenti (Montenegro, Mendes)",
+      "p2": "• Dewmien ta' 11-il sena qabel il-proċess (Sócrates)",
+      "p3": "• Investigazzjonijiet tal-imblukkar tal-immunità parlamentari",
+      "p4": "• Pensjonijiet ta' €26K/xahar għal ministri kkundannati",
+      "n1": "• Il-ħtieġa li l-uffiċjali jispjegaw iż-żidiet dokumentati fil-ġid",
+      "n2": "• Jikkriminalizza l-arrikkiment mhux spjegat wara li ppruvat iż-żieda",
+      "n3": "• It-tqegħid ta' piż evidenzjali fuq uffiċjali li għandhom evidenza unikament",
+      "n4": "• Liġijiet dwar l-arrikkiment illeċitu (mħassra fl-2012, 2015)",
+      "note": "Franza, Spanja, u l-Italja għandhom protezzjonijiet kostituzzjonali identiċi għall-preżunzjoni tal-innoċenza—għadhom żammew il-liġijiet tal-arrikkiment illeċitu. It-TC tal-Portugall biss isibhom \"inkostituzzjonali.\""
+    },
+    "intro": "Is-sistema legali tal-Portugall fiha mekkaniżmi speċifiċi li jippermettu l-impunità għall-klassi politika."
+  },
+  "blocking": {
+    "title": "Il-Mudell ta 'Bblukkar: 18-il Sena ta' Nuqqas Intenzjonat",
+    "subtitle": "Kull tentattiv ta’ riforma ġie mblukkat, imdgħajjef, jew imwaqqa’",
+    "timeline": {
+      "title": "Kronoloġija tal-Imblukkar tal-Arrikkiment Illeċitu (2007-2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Imblukkar tar-Regolament tal-Lobby"
+    },
+    "symbiosis": {
+      "title": "Is-Simbjożi PS/PSD: Żewġ Partijiet, Sistema Waħda",
+      "psTitle": "PS (Partit Soċjalista)",
+      "psdTitle": "PSD (Demokratiċi Soċjali)",
+      "ps": {
+        "noProsecute": "Ma jipproċessax membri tal-PSD",
+        "loopholes": "Iżomm lakuni legali li jibbenefikaw liż-żewġ partijiet",
+        "blocksReforms": "Jimblokka r-riformi kontra l-korruzzjoni meta jkun fl-oppożizzjoni"
+      },
+      "psd": {
+        "noProsecute": "Ma jipprosekux membri tal-PS",
+        "loopholes": "Iżomm lakuni legali li jibbenefikaw liż-żewġ partijiet",
+        "blocksReforms": "Jimblokka r-riformi kontra l-korruzzjoni meta jkun fl-oppożizzjoni"
+      }
+    },
+    "quote": {
+      "text": "\"O PCP apresentou projectos de lei para criminalizar o enriquecimento ilícito. Foram sempre rejeitados pelo PS e pelo PSD.\"",
+      "translation": "\"Il-PCP ippreżenta kontijiet biex jikkriminalizza l-arrikkiment illeċitu. Dejjem ġew miċħuda minn PS u PSD.\""
+    },
+    "otherParties": {
+      "title": "Partiti Oħra: L-Oppożizzjoni Impotenti",
+      "proposedReforms": "Riformi proposti (Kull Miċħuda):",
+      "reforms": {
+        "pcp1": "Proġett PCP 726/X (2009) - Arrikkiment illeċitu",
+        "pcp2": "Proġett PCP 25/XI (2009) - Arrikkiment illeċitu",
+        "chega": "Chega (2021) - Arrikkiment illeċitu",
+        "be": "BE - Proposti ta' trasparenza multipli"
+      },
+      "chegaVote": {
+        "title": "Proposta ta' Chega miċħuda mill-partiti KOLLHA (2021)",
+        "text": "Meta Chega ppropona arrikkiment illeċitu fl-2021,<strong>kull parti ivvota kontra</strong>:",
+        "ps": "• <span class=\"text-ps\">PS</span> — LE",
+        "psd": "• <span class=\"text-psd\">PSD</span> — LE",
+        "be": "• <span class=\"text-pink-500\">BE</span> — LE (asstjeni għal raġunijiet ta' \"sors\")",
+        "pcp": "• <span class=\"text-red-700\">PCP</span> — LE (asstjeni għal raġunijiet ta' \"sors\")",
+        "cds": "• <span class=\"text-blue-400\">CDS</span> — LE",
+        "note": "Il-partiti tax-xellug irrifjutaw li jivvutaw mal-lemin estrem, anke għal riforma li jappoġġjaw"
+      },
+      "chegaVote.text": "When Chega proposed illicit enrichment criminalization in 2021, it was rejected by ALL other parties:",
+      "chegaVote.ps": "PS: Voted AGAINST",
+      "chegaVote.psd": "PSD: Voted AGAINST",
+      "chegaVote.be": "BE: Voted AGAINST",
+      "chegaVote.pcp": "PCP: Voted AGAINST",
+      "chegaVote.cds": "CDS: Voted AGAINST",
+      "chegaVote.note": "Note: This is the ONLY time all parties voted together on anti-corruption reform—to reject it.",
+      "paradoxTitle": "The Paradox:",
+      "paradoxText": "Il-partiti li jappoġġjaw pubblikament ir-riforma kontra l-korruzzjoni jivvutaw kontriha meta jiġu proposti minn oħrajn."
+    },
+    "intro": "Kull tentattiv ta' riforma ġie mblukkat, dgħajjef jew miċħud",
+    "visual": {
+      "title": "18-il sena ta' mblukkar",
+      "attempts": "Tentattivi ta' riforma",
+      "years": "Snin ta' dewmien",
+      "laws": "Liġijiet dgħajfin"
+    }
+  },
+  "euRewards": {
+    "title": "The EU Reward System: Loyal Dogs Get Treats",
+    "subtitle": "Investigazzjoni → Promozzjoni tal-UE",
+    "costaTimeline": {
+      "title": "Il-Kronoloġija tal-Costa — Prova tal-Kundizzjonament Ultimate"
+    },
+    "december": {
+      "title": "It-Trifecta ta’ Diċembru 2025"
+    },
+    "trifecta": {
+      "title": "It-Trifecta ta’ Diċembru 2025",
+      "subtitle": "Tliet politiċi ħarbu mir-responsabbiltà f’xahar wieħed:"
+    },
+    "broaderPicture": {
+      "title": "The Broader Picture"
+    },
+    "observation": "Observation: The EU rewards loyalty, not integrity.",
+    "intro": "Investigazzjoni → Promozzjoni UE",
+    "table": {
+      "title": "Politiċi Portugiżi → Pożizzjonijiet tal-UE",
+      "patternNote": "Din it-tabella tiddokumenta mudell ta' politiċi li jirċievu pożizzjonijiet tal-UE minkejja kontroversji. Il-korrelazzjoni ma tipprovax kawżalità jew koordinazzjoni — iżda l-frekwenza tiġġustifika skrutinju."
+    },
+    "revolvingDoor": {
+      "title": "The Revolving Door: Brussell → Is-Settur Privat"
+    }
+  },
+  "solution": {
+    "title": "L-unika soluzzjoni: Forza esterna",
+    "subtitle": "Għaliex ir-riforma interna hija impossibbli — u x'jistgħu jagħmlu ċ-ċittadini",
+    "impossibility": {
+      "title": "Għaliex ir-Riforma Interna Hija Impossibbli"
+    },
+    "mechanisms": {
+      "title": "Il-Mekkaniżmi Esterni"
+    },
+    "questions": {
+      "title": "Proposed Referendum Questions",
+      "q1": {
+        "title": "Question 1"
+      },
+      "q2": {
+        "title": "Question 2"
+      },
+      "q3": {
+        "title": "Question 3"
+      },
+      "q4": {
+        "title": "Question 4"
+      },
+      "q5": {
+        "title": "Question 5"
+      }
+    },
+    "whyImpossible": {
+      "title": "Għaliex ir-Riforma Interna Hija Impossibbli"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Inizjattiva tar-Referendum taċ-Ċittadin",
+        "subtitle": "firem meħtieġa",
+        "text": "Iċ-ċittadini jistgħu jipproponu referenda vinkolanti dwar kwalunkwe kwistjoni ta’ importanza nazzjonali."
+      },
+      "legislativa": {
+        "title": "Inizjattiva Leġiżlattiva taċ-Ċittadini",
+        "subtitle": "firem meħtieġa",
+        "text": "Iċ-ċittadini jistgħu jipproponu leġiżlazzjoni direttament lill-Parlament."
+      },
+      "european": {
+        "title": "Inizjattiva taċ-Ċittadini Ewropej",
+        "subtitle": "firem meħtieġa madwar 7+ pajjiżi tal-UE",
+        "text": "Mekkaniżmu madwar l-UE kollha biex tiġi proposta leġiżlazzjoni lill-Kummissjoni Ewropea."
+      }
+    },
+    "damningRecord": {
+      "title": "Ir-Rekord Damning",
+      "text": "L-istorja tar-referendum tal-Portugall turi li s-sistema hija mfassla biex tfalli:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "The Constitutional Court as Gatekeeper",
+        "amsterdam": "Amsterdam Treaty (1998) - Referendum blocked",
+        "euConst": "EU Constitution (2005) - Referendum blocked",
+        "fiscal": "Fiscal Compact (2012) - No referendum",
+        "lisbon": "Lisbon Treaty (2007) - No referendum",
+        "note": "Portugal is the ONLY EU country that has NEVER had a referendum on EU integration."
+      },
+      "eliteTactics": {
+        "title": "Elite Blocking Tactics",
+        "scheduling": "Schedule referendums during vacation periods",
+        "sabotage": "Launch campaigns urging abstention",
+        "regionalization": "Regionalization referendum (1998) - Deliberately sabotaged",
+        "threshold": "50% turnout threshold ensures most initiatives fail"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Esklużjoni Diġitali: Issikket lill-Anzjani",
+      "usageByAge": "Użu tal-Internet skond il-Grupp ta' Età (Portugall, 2024)",
+      "keyStats": "Key Statistics:"
+    },
+    "proposedQuestions": {
+      "title": "Mistoqsijiet ta' Referendum proposti"
+    },
+    "intro": "Għaliex riforma interna hi impossibli — u x'jistgħu jagħmlu ċ-ċittadini",
+    "tradeoffs": {
+      "title": "Kompromessi onesti: Dak li qed nipproponu għandu riskji",
+      "intro": "Fl-ispirtu ta’ trasparenza, aħna nirrikonoxxu li l-mekkaniżmi ta’ demokrazija diretta (bħal referenda fl-istil Żvizzeru) għandhom sfidi reali:",
+      "challenges": {
+        "title": "Sfidi Magħrufa",
+        "engagement": "• <strong>Għeja tal-votanti:</strong>L-għadd ta' votanti Żvizzeru huwa medja ta' 40-50%. Voti frekwenti jistgħu jeżawrixxu liċ-ċittadini.",
+        "complexity": "• <strong>Tnaqqis tal-kumplessità:</strong> Politika sfumata titnaqqas għal iva/le. Riskji ta' simplifikazzjoni.",
+        "populism": "• <strong>Manipulazzjoni populista:</strong>Kampanji ffinanzjati tajjeb jistgħu jinfluwenzaw votanti li ma tantx huma infurmati.",
+        "minority": "• <strong>Drittijiet tal-minoranzi:</strong> Il-maġġoranzi jistgħu jivvutaw kontra l-minoranzi (projbizzjoni tal-minaret Żvizzera, 2009).",
+        "corruption": "• <strong>Mhux ħielsa mill-korruzzjoni:</strong> L-Isvizzera tikklassifika fis-7 post fis-CPI — tajba, iżda mhux perfetta."
+      },
+      "whyStill": {
+        "title": "Għaliex Għadna Nipproponuha",
+        "accountability": "• <strong>Kontabbiltà teżisti:</strong> responsabbiltà imperfetta > responsabbiltà żero.",
+        "binding": "• <strong>Riżultati vinkolanti:</strong> Il-politiċi ma jistgħux jinjoraw ir-riżultati bħal ma jinjoraw il-petizzjonijiet.",
+        "deterrent": "• <strong>Effett deterrent:</strong> Li tkun taf li l-votanti jistgħu jegħlbu joħloq inċentiv għar-rispons.",
+        "culture": "• <strong>Bidla fil-kultura:</strong> Il-parteċipazzjoni regolari tibni l-impenn ċiviku maż-żmien.",
+        "track": "• <strong>Rekord:</strong> 700+ referendum Żvizzeru mill-1848. Is-sistema taħdem, b'mod imperfett."
+      },
+      "conclusion": "<strong class=\"text-white\">Il-pożizzjoni tagħna:</strong> Aħna ma nsostnux li d-demokrazija diretta hija perfetta. Aħna nsostnu li huwa aħjar minn sistema fejn il-politiċi jivvutaw fuq is-salarji, l-immunità u r-responsabbiltà tagħhom stess - u jagħżlu b'mod konsistenti li jipproteġu lilhom infushom. Il-mistoqsija mhix \"Id-demokrazija diretta hija perfetta?\" imma \"Huwa aħjar minn dak li għandna?\" L-evidenza tissuġġerixxi iva."
+    }
+  },
+  "euLabor": {
+    "title": "Il-Gwerra kontra l-Ħaddiema: Drittijiet tax-Xogħol tal-UE Żarmati",
+    "subtitle": "Kif l-integrazzjoni Ewropea dgħajfet il-protezzjonijiet tal-ħaddiema fil-Portugall",
+    "germany": {
+      "title": "Il-Ġermanja: Hartz IV Riformi",
+      "benefits": "Benefiċċji maqtugħin għal livelli minimi",
+      "duration": "Benefiċċji tal-qgħad limitati għal 12-il xahar",
+      "dependent": "Inħolqot klassi ġdida ta' \"ħaddiema foqra\""
+    },
+    "france": {
+      "title": "Franza: El Khomri & Pension Reform",
+      "elKhomri": "Liġi El Khomri (2016): Protezzjonijiet tax-xogħol imdgħajfa",
+      "pension": "Riforma tal-pensjonijiet (2023): Żieda fl-età tal-irtirar minkejja protesti tal-massa",
+      "yellowVests": "Moviment tal-Veletta Isfar mgħaffeġ mill-vjolenza tal-pulizija"
+    },
+    "uk": {
+      "title": "Ir-Renju Unit: Awsterità",
+      "welfare": "Sistema ta' benesseri mnaddaf taħt \"awsterità\"",
+      "universalCredit": "Kreditu Universali: Iddisinjat biex jiċħad il-benefiċċji",
+      "sanctioned": "2.5 miljun sanzjoni applikata (2012-2018)"
+    },
+    "italy": {
+      "title": "L-Italja: Gvern Meloni",
+      "citizenIncome": "Reddito di Cittadinanza (dħul taċ-ċittadini) abolit",
+      "prison": "Sa 6 snin ħabs talli organizza strajks li jimblukkaw it-traffiku",
+      "strikes": "Dritt għall-istrajk dejjem aktar kriminalizzat"
+    },
+    "pattern": {
+      "title": "Il-Mudell Madwar l-UE"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "Is-Saff ta' Esklużjoni Diġitali",
+      "description": "Il-ġenerazzjoni li rat il-mudell sħiħ ta' korruzzjoni ta' 50 sena hija sistematikament eskluża mis-sistema tal-firma diġitali biss tar-referendum."
+    },
+    "explanation": "Inizjattivi referendarji moderni jeħtieġu firem diġitali, li effettivament jeskludu ġenerazzjonijiet anzjani li huma inqas probabbli li jużaw l-internet.",
+    "usageSource": "Sors: Eurostat (2024)",
+    "stats": {
+      "65to74": "38.9% ta’ dawk bejn il-65 u l-74 sena huma esklużi b’mod diġitali",
+      "75plus": "~70% ta' dawk li għandhom 75 sena u aktar huma esklużi b'mod diġitali",
+      "never": "Ħafna qatt ma użaw l-internet",
+      "population": "Dan jirrappreżenta aktar minn 2 miljun ċittadin Portugiż"
+    },
+    "warning": "L-Ironija Krudili:"
+  },
+  "conclusion": {
+    "notDemocracy": "Din Mhix Demokrazija Bi Problemi ta’ Korruzzjoni",
+    "byDesign": "Dan Huwa Permezz tad-Disinn",
+    "euComplicit": "L-UE Hija Kompliċi",
+    "choice": "The Choice",
+    "notDemocracy.text": "This is a protection system that uses democratic forms as camouflage.",
+    "byDesign.text": "Every element—from legal loopholes to EU promotions—works together to protect the political class.",
+    "euComplicit.text": "Brussels elevates politicians under investigation to the highest positions, rewarding loyalty over integrity.",
+    "choice.text1": "Accept the system as it is, or use the mechanisms available to force change.",
+    "choice.signatures": "1,000,000 signatures can make a difference.",
+    "choice.text2": "The European Citizens Initiative is the only external mechanism citizens can use.",
+    "choice.thatsYou": "That's you.",
+    "byDesignText": "Is-sistema mhix miksura. Kien iddisinjat b'dan il-mod.",
+    "choiceText1": "Dan id-dokument ġie ffirmat minn",
+    "choiceSignatures": "citizens",
+    "choiceText2": "titlob bidla.",
+    "choiceThatsYou": "That's YOU.",
+    "euComplicitText": "L-istituzzjonijiet tal-UE jippromwovu uffiċjali taħt investigazzjoni għall-ogħla pożizzjonijiet.",
+    "notDemocracyText": "Pajjiż fejn iċ-ċittadini ma jistgħux jagħmlu referendum mhuwiex demokrazija sħiħa.",
+    "choiceText": "Dan id-dokument ġie ffirmat minn ċittadini li jitolbu bidla."
+  },
+  "dashboard": {
+    "title": "Dashboard tal-Korruzzjoni tal-Portugall",
+    "intro": "Dejta uffiċjali minn Transparency International, DGPJ, Eurostat, u GRECO",
+    "kpi": {
+      "cpi": {
+        "label": "TI CPI Score 2024",
+        "trend": "-4 from 2023"
+      },
+      "trust": {
+        "label": "Ċittadini: \"Il-Gvern huwa Korrott\"",
+        "source": "Ewrobarometru 2024"
+      },
+      "blocked": {
+        "label": "Tentattivi Leġiżlattivi Imblukkati",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Snin: Każ Sócrates",
+        "trend": "Still ongoing"
+      }
+    },
+    "charts": {
+      "cpi": "Indiċi tal-Perċezzjoni tal-Korruzzjoni (2012-2024)",
+      "duration": "Tul Medja tal-Każ (Xhur)",
+      "euComparison": "Tqabbil tal-UE: Punteġġ CPI vs Liġi tal-Arrikkiment Illeċitu"
+    },
+    "sources": "Data Sources:"
+  },
+  "forum": {
+    "title": "Forum taċ-Ċittadini tal-UE",
+    "intro": "Aqsam il-perspettiva tiegħek dwar ir-responsabbiltà politika",
+    "stats": "kontribuzzjonijiet miċ-ċittadini tal-UE",
+    "form": {
+      "name": "Name (optional)",
+      "namePlaceholder": "Anonymous",
+      "country": "Country",
+      "message": "Your message",
+      "messagePlaceholder": "Aqsam il-ħsibijiet tiegħek dwar ir-responsabbiltà politika fl-UE...",
+      "submit": "Post Comment",
+      "note": "Ebda URLs permessi. Il-kummenti huma maħżuna lokalment u moderati."
+    },
+    "noComments": "Kun l-ewwel li taqsam il-perspettiva tiegħek dwar ir-responsabbiltà politika.",
+    "errors": {
+      "tooShort": "Il-kumment għandu jkun ta' mill-inqas 10 karattri",
+      "tooLong": "Il-kumment irid ikun inqas minn 1000 karattru",
+      "prohibited": "Il-kumment fih kontenut ipprojbit"
+    },
+    "success": "Kumment miżjud b'suċċess",
+    "time": {
+      "justNow": "Just now",
+      "minutesAgo": "m ago",
+      "hoursAgo": "h ago",
+      "daysAgo": "d ago"
+    }
+  },
+  "donate": {
+    "title": "Appoġġ għar-Riċerka imparzjali",
+    "intro": "Massimu ta’ €2 għal kull donatur biex tinżamm l-indipendenza sħiħa",
+    "principles": {
+      "max": {
+        "title": "Maximum €2",
+        "text": "L-ebda donatur kbir ifisser l-ebda influwenza. Kulħadd għandu vuċi ugwali."
+      },
+      "allParties": {
+        "title": "Il-Partijiet Kollha Dokumentati",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — l-ebda parti mhi eżentata mill-iskrutinju."
+      },
+      "official": {
+        "title": "Sorsi Uffiċjali Biss",
+        "text": "Dokumenti tal-Qorti, rekords tal-prosekuzzjoni, sentenzi tal-Qorti Kostituzzjonali."
+      },
+      "transparency": {
+        "title": "Trasparenza Sħiħa",
+        "text": "Id-dejta kollha hija verifikabbli, is-sorsi kollha huma kkwotati."
+      }
+    },
+    "stats": {
+      "raised": "Total Raised",
+      "donors": "Donors"
+    },
+    "whyMax": "Why €2 maximum?",
+    "whyMaxText": "Donazzjonijiet kbar joħolqu obbligi. Mikrodonazzjonijiet minn eluf ta’ ċittadini jiżguraw li din ir-riċerka sservi l-interess pubbliku, mhux xi aġenda politika jew kummerċjali.",
+    "modal": {
+      "title": "Appoġġ għar-Riċerka imparzjali",
+      "purpose": "Il-mikrodonazzjoni tiegħek tappoġġja riċerka indipendenti dwar ir-responsabbiltà politika madwar l-UE.",
+      "principlesTitle": "Our Principles:",
+      "maxDonor": "Massimu €2/donatur - L-ebda donaturi kbar, l-ebda influwenza",
+      "allPartiesDoc": "Il-partijiet kollha dokumentati - PS, PSD, CDS, PCP, BE, Chega - kollha inklużi",
+      "officialOnly": "Sorsi uffiċjali biss - Dokumenti tal-Qorti, rekords tal-prosekuzzjoni",
+      "fullTransparency": "Trasparenza sħiħa - Id-dejta kollha verifikabbli",
+      "paymentMethods": "Metodi ta' ħlas dalwaqt:",
+      "simulateBtn": "Issimula Donazzjoni (Demo)",
+      "demoNote": "Din hija dimostrazzjoni. L-integrazzjoni ta 'ħlas reali teħtieġ setup ta' backend."
+    },
+    "errors": {
+      "invalidAmount": "Jekk jogħġbok daħħal ammont validu",
+      "maxAmount": "Id-donazzjoni massima hija ta' €{{max}} biex tinżamm l-indipendenza tar-riċerka"
+    },
+    "success": "Grazzi! Donazzjoni ta' €{{ammont}} irreġistrata."
+  },
+  "footer": {
+    "legalTitle": "Legal Notice",
+    "legalNotice": "Legal Notice",
+    "legalNotice.text": "All individuals mentioned are entitled to the presumption of innocence. This document presents publicly available information from official sources, court documents, and verified media reports that the investigator considers essential for public awareness and democratic accountability.",
+    "legalText": "L-individwi kollha msemmija f'dan id-dokument huma intitolati għall-preżunzjoni tal-innoċenza sakemm jiġu ppruvati ħatja f'qorti tal-liġi. Dan id-dokument jippreżenta informazzjoni disponibbli pubblikament minn sorsi uffiċjali, dokumenti tal-qorti, u ħwienet tal-midja ta’ fama. L-analiżi tirrappreżenta mudelli dokumentati fis-sistema legali u politika Portugiża.",
+    "prepared": "Dokument ippreparat:",
+    "verified": "Is-sorsi kollha vverifikati mid-data tal-pubblikazzjoni",
+    "legalNoticeText": "L-informazzjoni kollha ppreżentata ġejja minn dokumenti uffiċjali tal-qorti, rekords parlamentari, u midja ta’ fama. L-individwi msemmija huma preżunti innoċenti sakemm jiġu ppruvati ħatja."
+  },
+  "countries": {
+    "PT": "Portugal",
+    "ES": "Spain",
+    "FR": "France",
+    "DE": "Germany",
+    "IT": "Italy",
+    "NL": "Netherlands",
+    "BE": "Belgium",
+    "AT": "Austria",
+    "PL": "Poland",
+    "RO": "Romania",
+    "EL": "Greece",
+    "CZ": "Czechia",
+    "HU": "Hungary",
+    "SE": "Sweden",
+    "DK": "Denmark",
+    "FI": "Finland",
+    "IE": "Ireland",
+    "BG": "Bulgaria",
+    "HR": "Croatia",
+    "SK": "Slovakia",
+    "SI": "Slovenia",
+    "LT": "Lithuania",
+    "LV": "Latvia",
+    "EE": "Estonia",
+    "CY": "Cyprus",
+    "MT": "Malta",
+    "LU": "Luxembourg",
+    "EU": "EU Citizen"
+  },
+  "investigative": {
+    "badge": "Rapport Investigattiv",
+    "title": "X'jiżvela din l-investigazzjoni",
+    "intro": "Wara r-reviżjoni tad-dokumenti tal-qorti, ir-rekords parlamentari, id-deċiżjonijiet tal-Qorti Kostituzzjonali, l-evalwazzjonijiet tal-GRECO, ir-rapporti ta’ Transparency International, l-istħarriġ tal-Ewrobarometru, u 50 sena ta’ arkivji tal-midja Portugiżi, joħroġ mudell inkwetanti: is-sistema politika tal-Portugall mhix miksura—qed taħdem eżatt kif iddisinjat.",
+    "evidenceTitle": "L-Evidenza turi:",
+    "evidenceList": [
+      "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
+      "100+ children abused at Casa Pia while elites covered it up for 20 years",
+      "2 Prime Ministers investigated, 0 convicted",
+      "9+ anti-corruption reforms blocked by PS/PSD since 1983",
+      "0 binding referendums in 50 years of democracy",
+      "75% of corruption cases end in suspended sentences"
+    ],
+    "findingsTitle": "Sejbiet Internazzjonali:",
+    "findingsList": [
+      "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "Transparency International: Portugal dropped from 25th to 43rd place (2012-2024)",
+      "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "EU Average: 10 years average prosecution time vs Portugal's 11+ years",
+      "UNCAC: 18 years since commitment, still no illicit enrichment law"
+    ],
+    "conclusionQuote": "Din mhix teorija ta’ konfoffa. Dan huwa fatt dokumentat. Kull talba f'dan ir-rapport ġejja minn dokumenti uffiċjali, deċiżjonijiet tal-qorti, jew organizzazzjonijiet internazzjonali ta' fama. L-arkitettura tal-impunità mhix moħbija—hija pubblika, legali, u miżmuma deliberatament minn dawk li tipproteġi.",
+    "evidence": {
+      "banking": "€20+ biljun misruqa permezz ta’ kollass bankarji (BPN, BES, CGD)",
+      "casaPia": "100+ tifel u tifla abbużati f’Casa Pia filwaqt li l-elite koprewha għal 20 sena",
+      "pms": "2 Prim Ministri investigati, 0 misjuba ħatja",
+      "reforms": "9+ riformi kontra l-korruzzjoni mblukkati minn PS/PSD mill-1983",
+      "referendums": "0 referenda vinkolanti f'50 sena ta' demokrazija",
+      "suspended": "75% tal-każijiet ta’ korruzzjoni jispiċċaw f’sentenzi sospiżi"
+    },
+    "findings": {
+      "greco": "GRECO: Only 1 of 15 anti-corruption recommendations fully implemented",
+      "ti": "Transparency International: Il-Portugall niżel minn 25 għal 43 post (2012-2024)",
+      "eurobarometer": "Eurobarometer: 88% of Portuguese believe government is corrupt",
+      "euAverage": "Medja tal-UE: medja ta' 10 snin ta' żmien ta' prosekuzzjoni vs 11+ sena tal-Portugall",
+      "uncac": "UNCAC: 18-il sena mill-impenn, għad m'hemmx liġi ta' arrikkiment illeċitu",
+      "euRuleOfLaw": "L-Istat tad-Dritt tal-UE 2025: 81 każ, 16-il kundanna fl-2024 — żmien medju ta’ prosekuzzjoni: 6.8 snin"
+    }
+  },
+  "greco": {
+    "badge": "Evalwazzjoni tal-Kunsill tal-Ewropa",
+    "title": "GRECO: 1 of 15 Recommendations Implemented",
+    "subtitle": "Grupp ta' Stati Kontra l-Korruzzjoni",
+    "intro": "The Group of States Against Corruption (GRECO) has repeatedly criticized Portugal's lack of progress",
+    "implemented": {
+      "number": "1",
+      "title": "Implimentat bis-sħiħ",
+      "subtitle": "out of 15 recommendations",
+      "text": "Only one recommendation on transparency of political party financing has been fully addressed."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Parzjalment Implimentati",
+      "subtitle": "għadu pendenti li jitlesta",
+      "text": "Includes: MP codes of conduct, asset declarations, conflicts of interest management, lobbying transparency."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Not Implemented",
+      "subtitle": "injorati jew miċħuda",
+      "text": "Includes: Illicit enrichment criminalization, whistleblower protection, cooling-off periods for ministers."
+    },
+    "criticismsTitle": "Kritiċi ewlenin tal-GRECO (Rapport 2023):",
+    "criticisms": {
+      "noCode": "L-ebda kodiċi ta’ kondotta obbligatorju għall-Membri Parlamentari",
+      "assets": "Dikjarazzjonijiet tal-assi mhux verifikati b'mod indipendenti",
+      "lobbyists": "L-ebda reġistru tal-lobbyists",
+      "coolingOff": "L-ebda perjodu ta' riflessjoni għall-ministri li jingħaqdu mas-settur privat",
+      "whistleblower": "Il-liġi tal-protezzjoni tal-whistleblower għad għandha lakuni",
+      "conflicts": "Ir-regoli dwar il-kunflitti ta' interess infurzati ħażin",
+      "prosecution": "Il-ħinijiet tal-prosekuzzjoni jaqbżu l-limiti raġonevoli",
+      "immunity": "Ir-regoli dwar l-immunità politika wesgħin wisq"
+    },
+    "source": "Sors: Il-Ħames Rawnd ta' Evalwazzjoni GRECO - Portugall",
+    "sourceLabel": "Sors: Il-Ħames Rawnd ta' Evalwazzjoni GRECO - Portugall",
+    "scorecard": {
+      "title": "Skeda ta' żmien ta' 10 snin ta' nuqqas ta' konformità (2015-2025)",
+      "fourthRound": "IR-RABA’ RONDA (2015)",
+      "fifthRound": "IL-ĦAMES RAWN (2024)",
+      "focusMPs": "Membri Parlamentari, Imħallfin, Prosekuturi",
+      "focusExec": "Gvern u Infurzar tal-Liġi",
+      "implemented": "Implemented",
+      "fullyImplemented": "Implimentat bis-sħiħ",
+      "tenYears": "After 10 YEARS",
+      "euAverage": "Medja tal-UE: 59% | Portugall: 33%",
+      "partial": "18 Parzjali | 10 Mhux Implimentat",
+      "ongoing": "Konformità Għaddejja"
+    },
+    "menac": {
+      "title": "MENAC: Mekkaniżmu Nazzjonali Kontra l-Korruzzjoni",
+      "staffed": "Staffed",
+      "detail": "Imtlew biss 12 minn 27 pożizzjoni awtorizzata. Iddikjarat \"operattiv\" f'Ġunju 2023 iżda GRECO jgħid: \"mhux operattiv għal kollox\""
+    }
+  },
+  "whistleblower": {
+    "title": "Protezzjoni tal-Whistleblower: It-Tarka Nieqsa",
+    "subtitle": "Dawk li jesponu l-korruzzjoni jiffaċċjaw ritaljazzjoni filwaqt li l-korrotti jiffaċċjaw protezzjoni",
+    "ruiPinto": {
+      "title": "The Rui Pinto Case",
+      "text": "Hacker Portugiż li kixef l-iskandlu tal-“Football Leaks”, li żvela korruzzjoni fl-akbar klabbs Ewropej u fis-sistema tal-ġustizzja tal-Portugall. It-tnixxijiet tiegħu kkontribwew għall-Operazzjoni Lex (imħallfin korrotti) u Luanda Leaks.",
+      "outcomeTitle": "OUTCOME:",
+      "outcomeList": [
+        "Pinto: Arrested, extradited from Hungary",
+        "Pinto: Convicted of hacking crimes",
+        "Corrupt officials he exposed: Some on trial, most free"
+      ],
+      "arrested": "Pinto: Arrested, extradited from Hungary",
+      "convicted": "Pinto: Convicted of hacking crimes",
+      "officials": "Corrupt officials he exposed: Some on trial, most free"
+    },
+    "comparison": {
+      "title": "Tqabbil tal-UE: Liġijiet tal-Whistleblower",
+      "headers": {
+        "country": "Country",
+        "protection": "Livell ta' Protezzjoni",
+        "status": "Status"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Strong",
+          "status": "Rappurtaġġ anonimu + għajnuna legali"
+        },
+        "ireland": {
+          "protection": "Strong",
+          "status": "Liġi komprensiva tal-2014"
+        },
+        "france": {
+          "protection": "Strong",
+          "status": "Liġi Sapin II (2016)"
+        },
+        "germany": {
+          "protection": "Medium",
+          "status": "Implimentat 2023"
+        },
+        "portugal": {
+          "protection": "Weak",
+          "status": "Għad fadal nuqqasijiet għal kull GRECO"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "L-Istorja ta’ Żewġ Ruis",
+      "subtitle": "Żewġt irġiel jisimhom Rui li azzardaw jikxfu l-verità. It-tnejn ikkastigati. Il-korrotti? L-aktar b'xejn."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "Fundatur ta' <a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a>, pjattaforma Portugiża ispirata minn WikiLeaks (est. 2010) li tesponi dokumenti tal-gvern u vulnerabbiltajiet tas-sigurtà. Websajt biss elenkat fis-CIA World Factbook taħt \"gruppi ta' pressjoni politika\" tal-Portugall.",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Ipprojbit mill-internet</strong>għal 8 xhur",
+      "gagged": "• Soġġett għall-<strong>ordni tal-gagging</strong> tal-qorti",
+      "fired": "• <strong>Tkeċċi</strong> mill-impjieg tiegħu fil-PT Comunicações",
+      "active": "• <span class=\"text-good\">Tugaleaks għadhom attivi fl-2025</span>",
+      "source": "Sors: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRi (Drittijiet Diġitali Ewropej)</a>"
+    }
+  },
+  "media": {
+    "title": "Il-Magni tal-Kundizzjonament: Sjieda tal-Midja",
+    "subtitle": "Min hu s-sid tal-midja Portugiża, u għaliex hija importanti?",
+    "ownershipTitle": "Sjieda Konċentrata",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão - eks PM (PSD)",
+      "cofina": "Azzjonisti ewlenin jinkludu banek salvati mill-istat",
+      "mediaCapital": "Mibjugħa reċentement, is-sjieda tinbidel ta' spiss",
+      "globalMedia": "Proprjetà ta' investituri b'interessi diversi",
+      "rtp": "Proprjetà tal-istat, bord maħtur mill-gvern"
+    },
+    "conditioningTitle": "L-Effett tal-Kundizzjonament",
+    "conditioningIntro": "Meta s-sidien tal-midja jkollhom rabtiet ma’ partiti politiċi jew jiddependu fuq ir-reklamar tal-istat:",
+    "conditioningList": [
+      "Self-censorship becomes normalized",
+      "Investigative journalism underfunded",
+      "Scandals covered briefly, then forgotten",
+      "\"Both sides\" false equivalence on corruption",
+      "Focus on personalities, not systemic issues"
+    ],
+    "resultTitle": "THE RESULT:",
+    "resultText": "Portuguese citizens know corruption exists (88% say so) but feel powerless to change it. The media covers scandals but rarely connects them to the systemic protection architecture.",
+    "conditioning": {
+      "selfCensorship": "L-awtoċensura ssir normalizzata",
+      "underfunded": "Ġurnaliżmu investigattiv mhux iffinanzjat",
+      "forgotten": "Skandli koperti fil-qosor, imbagħad minsija",
+      "bothSides": "\"Iż-żewġ naħat\" ekwivalenza falza dwar il-korruzzjoni",
+      "personalities": "Iffoka fuq personalitajiet, mhux kwistjonijiet sistemiċi"
+    }
+  },
+  "eciCritique": {
+    "title": "Id-Difett tad-Disinn tal-ECI: 12-il Xahar ta 'Kontro-Mobilizzazzjoni",
+    "problem": "Il-Kummissjoni għandha 12-il xahar biex twieġeb — żmien biex torganizza r-reżistenza, tagħmel lobby kontra l-implimentazzjoni, jew sempliċiment tiddewwem sakemm l-attenzjoni tal-pubbliku tgħib.",
+    "tacticsTitle": "Kontro-Miżuri Disponibbli għall-Istituzzjonijiet:",
+    "tactics": [
+      "Bureaucratic delay tactics",
+      "Reframing the initiative's scope",
+      "Citing 'legal complexity'",
+      "Waiting for political cycle changes",
+      "Counter-lobbying by affected interests",
+      "Diluting proposals into ineffective versions"
+    ],
+    "historyTitle": "Fallimenti Storiċi tal-ECI:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1.8 million",
+        "result": "Watered-down directive, private water still legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3.3 million",
+        "result": "Commission refused to even register it"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1.7 million",
+        "result": "Commission rejected all demands"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1 million+",
+        "result": "Commission renewed license anyway"
+      }
+    ],
+    "alternativeTitle": "L-Alternattiva:",
+    "alternativeText": "Huwa għalhekk li nipproponu mekkaniżmi ta' referendum DIRETTI bħall-Isvizzera, mhux ECIs ibbażati fuq petizzjonijiet li jistgħu jiġu injorati. Ir-referendums Żvizzeri jorbtu — il-politiċi ma jistgħux sempliċement jistennewhom.",
+    "comparisonTitle": "ECI vs Referendum Żvizzeru:",
+    "comparisonEci": [
+      "Non-binding petition",
+      "Commission has 12 months to respond",
+      "Can be rejected or ignored",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "database": {
+    "title": "Bażi tad-data kompluta tal-korruzzjoni",
+    "subtitle": "25+ Skandli Maġġuri Esposti (1980-2025)",
+    "intro": "Kull każ kbir ta' korruzzjoni dokumentat b'ammonti, riżultati, u sorsi",
+    "banking": {
+      "title": "Banking Scandals: €20+ Billion in Losses",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "€1.8 Billion Loss • \"The Greatest Fraud in Portuguese History\"",
+        "description": "L-akbar frodi fl-istorja Portugiża. €700M+ f’telf barra mill-karta tal-bilanċ skoperti. Bank nazzjonalizzat.",
+        "sources": "Sorsi: RTP, Público, Dokumenti tal-Qorti"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "€11.8 Billion Loss • 150-year-old empire collapsed August 2014",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes.",
+        "edpTitle": "Il-Konnessjoni EDP:",
+        "edpText": "Salgado misjub ħati li ħadmet lill-Ministru tal-Ekonomija Manuel Pinho b’€4.5M għal deċiżjonijiet favorevoli tal-EDP.",
+        "sources": "Sorsi: Observador, dokumenti tal-Qorti, rapporti tal-BdP",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado - CEO (1991-2014) - Provi multipli, dewmien fis-saħħa",
+          "ricciardi": "José Maria Ricciardi - BES Investment - KUNDIJIET",
+          "pires": "Amílcar Morais Pires - CFO - KKUNZIAT",
+          "cruz": "Machado da Cruz - Direttur tar-Riskju - Fuq prova"
+        },
+        "fraudStructure": {
+          "title": "L-Istruttura tal-Frodi:",
+          "hiddenLosses": "€4.9 biljun f’telf mhux żvelat moħbi permezz ta’ vetturi offshore",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPVs (kumpaniji shell tal-Lussemburgu)",
+          "mechanisms": "Self ta' partijiet relatati, garanziji ċirkolari, obbligazzjonijiet moħbija, assi fittizji, operazzjonijiet fl-Angola (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgado isir CEO (renju ta’ 23 sena)",
+          "problems": "2013: Verifiki interni juru problemi (konxji mill-familja)",
+          "collapse": "2014-08: Jirraporta telf ta' €3.6B, bank sospiż, bailout ta' €4.9B",
+          "prosecution": "2015-2025: Provi multipli, progress bil-mod, CEO qatt ma ħabs"
+        },
+        "monteBlanco": {
+          "name": "Prova Monte Branco",
+          "defendants": "18-il akkużat fosthom Salgado",
+          "status": "Għadu għaddej 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Sócrates allegatament irċieva €15,000/xahar mingħand Salgado",
+          "pinho": "Il-Ministru Pinho rċieva €4.9M mingħand Salgado (ikkundannat 10 snin)"
+        },
+        "regulatoryFailure": "Il-Bank of Portugal tilef is-sinjali ta’ twissija għal snin sħaħ. L-awdituri ffirmaw kontijiet frawdolenti."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (State-Owned)",
+        "subtitle": "€4.9 Billion State Bailout • €3.5 Billion Losses (2014-2016)",
+        "description": "Il-bank tal-istat jeħtieġ l-akbar salvataġġ fl-istorja Portugiża.",
+        "interferenceTitle": "Interferenza Politika:",
+        "interferenceText": "L-inkjesta parlamentari ssib \"interferenza politika\" u \"ħatriet partiġġjani\" li jkopru diversi gvernijiet.",
+        "sources": "Sorsi: RTP, Rapport ta' Inkjesta Parlamentari"
+      }
+    },
+    "politicians": {
+      "title": "Prim Ministri u Politikanti Għolja",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PS Prime Minister 2005-2011)",
+        "subtitle": "€34 Million in Alleged Bribes • 22 Criminal Charges • Trial began 2025",
+        "description": "Former PM accused of receiving €34M in bribes from multiple corporations.",
+        "corruptionTitle": "Sorsi ta' Korruzzjoni:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alleged payments for favorable decisions",
+          "silva": "Carlos Santos Silva: Straw man for hidden assets",
+          "swiss": "Kontijiet Żvizzeri: €24M skoperti"
+        },
+        "otherScandalsTitle": "Skandli Oħra Konnessi:",
+        "other": {
+          "freeport": "Freeport: Allegazzjonijiet ta' rinunzja ambjentali",
+          "parqueEscolar": "Parque Escolar: Frodi fir-rinnovazzjoni tal-iskola",
+          "cgd": "CGD: Influwenza allegata fuq deċiżjonijiet bankarji"
+        },
+        "sources": "Sorsi: Akkuża DCIAP, Dokumenti tal-Qorti",
+        "charges": {
+          "title": "L-Iskandlu tal-Preskrizzjoni:",
+          "original": "189 akkuża ppreżentata (31 reat)",
+          "prescribed": "167 ħlas PRESCRIBED (skadut)",
+          "remaining": "22 akkuża biss jipproċedu għall-proċess",
+          "judge": "L-Imħallef Ivo Rosa (April 2021): Iddeċieda li l-biċċa l-kbira tar-reati kienu \"skadew\"",
+          "ruling": "L-Imħallef iddeċieda li Sócrates kien 'korrutt' iżda l-kriminalità kienet 'skadiet'"
+        },
+        "timeline": {
+          "arrested": "2014-11-21: Arrestat fl-Ajruport ta' Lisbona",
+          "prison": "2014-2015: 9 xhur fil-Ħabs ta' Évora",
+          "houseArrest": "2015: Arrest f'daru, imbagħad kompletament ħieles",
+          "ongoing": "2025: Għadu l-ebda kundanna wara 11+ sena"
+        },
+        "pension": {
+          "title": "Protetti Waqt l-Akkużat:",
+          "amount": "€30,000/sena 'sospensjoni tul il-ħajja' (subvenção vitalícia)",
+          "legal": "Jużaw il-pensjoni biex tiffinanzja difiża legali",
+          "lifestyle": "Iżomm appartament ta 'Pariġi, stil ta' ħajja"
+        },
+        "recovery": "€0 irkuprati għall-istat Portugiż",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Pożizzjoni tad-Difiża:",
+        "defense": "Sócrates isostni li l-€34M kienu self minn ħbieb, mhux tixħim. Id-difiża tiegħu tallega persekuzzjoni tal-midja u prosekuzzjoni selettiva. Il-prova reġgħet bdiet f'Lulju 2025 wara 11+ sena ta' dewmien."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PS Prime Minister 2015-2023)",
+        "subtitle": "Lithium Mines + Green Hydrogen + Sines Data Center",
+        "description": "PM resigned after police raid. Now EU Council President while under investigation.",
+        "ironyTitle": "L-Ironija Ultimate:",
+        "ironyText": "Promoted to lead the EU while Portuguese prosecutors investigate him.",
+        "sources": "Sources: DCIAP, European Council",
+        "raid": {
+          "title": "Ir-Raid (7 ta’ Novembru, 2023):",
+          "cash": "€78,000 fi flus kontanti misjuba fl-uffiċċju taċ-Chief of Staff",
+          "arrests": "Vítor Escária (Kap tal-Persunal) u Lacerda Machado (negozjant) arrestati",
+          "resignation": "Costa rriżenja l-istess filgħaxija"
+        },
+        "investigation": {
+          "title": "Operação Influencer:",
+          "lithium": "Konċessjonijiet tal-minjieri tal-litju (l-akbar riżervi tal-Ewropa)",
+          "hydrogen": "Proġetti ta' idroġenu ekoloġiku (investimenti ta' bosta biljuni)",
+          "allegation": "Allegati deċiżjonijiet favorevoli ta' liċenzjar bi skambju għal ħlasijiet"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária - Kap tal-Persunal - Arrestat, illiberat",
+          "machado": "Lacerda Machado - Negozjant intermedjarju - Arrestat",
+          "galamba": "João Galamba - Segretarju tal-Istat għall-Enerġija - Taħt skrutinju"
+        },
+        "euPromotion": {
+          "date": "27 ta’ Ġunju 2024: Elett President tal-Kunsill tal-UE",
+          "start": "1 ta’ Diċembru 2024: Tieħu l-kariga",
+          "status": "L-investigazzjoni għadha għaddejja - l-ebda akkużi mressqa"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Costa qatt ma ġie akkużat u għadu mhux ‘arguido’ (suspettat formali). Novembru 2025: Il-Qorti Suprema ddeċidiet li t-taħditiet tal-wajer saru MINGĦAJR awtorizzazzjoni xierqa. Investigazzjoni għadha għaddejja iżda l-ebda akkużi formali."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, convicted of influence peddling.",
+        "sources": "Sorsi: Dokumenti tal-Qorti",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: The Pedophilia Network",
+      "scandal": {
+        "name": "Casa Pia Child Sexual Abuse Scandal (2002-2010)",
+        "subtitle": "100+ Child Victims • 800+ Witnesses • 5+ Year Trial",
+        "description": "Netwerk tal-pedofili elite li juża orfanatrofji tal-istat. Preżentatur tat-TV, ambaxxatur tal-UNESCO, gvernatur ta' Casa Pia fost misjuba ħatja.",
+        "coverupTitle": "The Cover-Up:",
+        "coverupText": "L-ewwel rapporti ħarġu fis-snin tmenin. Il-Pulizija waqgħet l-investigazzjonijiet. Uffiċjali qerdu dokumenti. Espożizzjoni sħiħa biss fl-2002.",
+        "sources": "Sorsi: France 24, Dokumenti tal-Qorti"
+      }
+    },
+    "judiciary": {
+      "title": "Judiciary Corruption: Judges for Sale",
+      "lex": {
+        "name": "Operation Lex - Corrupt Judges Network",
+        "subtitle": "17 Defendants including 3 Senior Judges • Trial began Sept 2022",
+        "description": "17-il akkużat fosthom imħallfin anzjani akkużati li biegħu deċiżjonijiet favorevoli.",
+        "failureTitle": "Nuqqas Sistemiku:",
+        "failureText": "L-imħallfin li għandhom jinfurzaw il-liġijiet kontra l-korruzzjoni kienu stess korrotti.",
+        "sources": "Sorsi: Observador, Rekords tal-Qorti"
+      }
+    },
+    "military": {
+      "title": "Military & Police Corruption",
+      "tancos": {
+        "name": "Tancos Arms Theft (2017)",
+        "subtitle": "Grenades, Explosives Stolen from Military Base",
+        "description": "Ksur tas-sigurtà tal-bażi militari. Armi misruqa, imbagħad \"misjuba\" fl-irkupru fi stadji.",
+        "convicted": "Persunal militari misjuba ħati",
+        "acquitted": "Il-Ministru tad-Difiża Azeredo Lopes illiberat",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operation Zeus - Air Force Fraud",
+        "subtitle": "€10 Million in Inflated Food Prices",
+        "description": "Uffiċjali tal-Air Force nefħu l-prezzijiet tal-ikel b’€10M+.",
+        "hiring": "Kumpaniji Shell kienu jiddevjaw il-fondi",
+        "justified": "Iġġustifikat bħala \"neċessità operattiva\""
+      },
+      "submarine": {
+        "name": "Submarine Scandal (2004)",
+        "subtitle": "€6.4 Million German Bribes",
+        "description": "Il-kumpanija Ġermaniża Ferrostaal ħallset €6.4M lil uffiċjali Portugiżi għal kuntratt ta’ sottomarini.",
+        "germans": "Eżekuttivi Ġermaniżi: KKUNZIJATI fil-Ġermanja",
+        "portuguese": "Uffiċjali Portugiżi: KOLLHA AKKUTATI",
+        "documents": "Dokumenti ewlenin \" sparixxew \" mill-Ministeru tad-Difiża"
+      },
+      "police": {
+        "2004": "2004: Korruzzjoni tas-sigurtà tal-Euro 2004",
+        "2007": "2007: Każ Leonor Cipriano - uffiċjali misjuba ħatja ta' tortura",
+        "2019": "2019: Assalt brutali fuq ċittadini Suwed iffilmjat",
+        "2021": "2021: Uffiċjali tal-PSP misjuba ħatja ta’ attakk",
+        "2025": "2025: Ċirku tat-traffikar tal-Pulizija espost",
+        "name": "Police Corruption (Ongoing)",
+        "subtitle": "Human Trafficking, Extortion, Violence"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Sindki multipli madwar il-Portugall misjuba ħatja jew taħt investigazzjoni għal korruzzjoni.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Netwerk ta' Korruzzjoni Multi-Sindki",
+        "description": "L-investigazzjoni żvelat netwerk ta’ korruzzjoni li jinvolvi lis-sindki ta’ Santo Tirso u Barcelos flimkien mad-direttur tal-IPO Porto f’kuntratti pubbliċi mħaffra u kickbacks.",
+        "santo": "• Sindku ta’ Santo Tirso: Investigat",
+        "barcelos": "• Sindku ta’ Barcelos: Investigat",
+        "ipo": "• Direttur tal-IPO Porto: Investigat",
+        "pattern": "• Mudell: Korruzzjoni muniċipali bejn il-partiti"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Żewġ Sindki ta' Espinho Taħt Investigazzjoni",
+        "description": "Sindki attwali u preċedenti tal-muniċipalità ta' Espinho taħt investigazzjoni għal korruzzjoni relatata ma' kuntratti pubbliċi u deċiżjonijiet muniċipali.",
+        "current": "• Sindku attwali: Taħt investigazzjoni",
+        "former": "• Eks-sindku: Taħt investigazzjoni",
+        "pattern": "• Mudell: Korruzzjoni bejn l-amministrazzjonijiet"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Sindku + Chairman tal-Futbol Kundanna",
+        "description": "Sindku ta’ Gondomar u chairman ta’ Boavista FC instabu ħatja fi skandlu kbir ta’ korruzzjoni ta’ referees. 171 persuna involuti, 13 misjuba ħatja. Sentenza sospiża = ebda ħabs.",
+        "sentence": "• Ikkundannat: 3 snin u xahrejn SOSPIŻI",
+        "prison": "• Ħin tal-ħabs moqdija: ZERO",
+        "son": "• Iben ħa f’idejh Boavista FC (projbizzjoni ta’ 4 snin)",
+        "pinto": "• Pinto da Costa: flus kontanti + prostituti lir-referees"
+      },
+      "maestro": {
+        "name": "Operação Maestro (2024)",
+        "subtitle": "Frodi ta' €39 Miljun Fondi tal-UE",
+        "description": "Marzu 2024: PJ jagħmel rejds fi 78 post. In-negozjant Manuel Serrão akkużat li ddevja €39M mill-fond tal-iżvilupp reġjonali tal-UE. Żewġ Segretarji tal-Istat taħt investigazzjoni.",
+        "raids": "• 78 post sar rejd, 6 miżmuma",
+        "officials": "• 2 Segretarji tal-Istat investigati",
+        "companies": "• Netwerk ta' kumpaniji shell għall-frodi",
+        "status": "• Status: Investigazzjoni għadha għaddejja"
+      },
+      "overview": {
+        "description": "Il-korruzzjoni lokali tiffjorixxi f’“deżerti tal-aħbarijiet” fejn l-ebda ġurnalist ma jimmonitorja l-kuntratti muniċipali, l-ippjanar urban, u x-xogħlijiet pubbliċi. Skemi komuni: kuntratti minfuħa, kickbacks, \"miżati ta' urġenza\" għall-approvazzjonijiet, impjiegi għall-alleati politiċi.",
+        "investigated": "Sindki investigati (2010-2025)",
+        "municipalities": "muniċipalitajiet Portugiżi",
+        "officials": "Uffiċjali lokali b'każijiet (Diċembru 2025)",
+        "suspended": "Jirċievi sentenzi sospiżi",
+        "title": "L-Iskala tal-Korruzzjoni Muniċipali"
+      },
+      "trifecta": {
+        "convicted": "5 sindki KUNDIJATI",
+        "description": "Diċembru 2024 rat kundanni mingħajr preċedent ta' 5 sindki attwali/ex minn Albergaria-a-Velha, Oliveira de Azeméis, Estarreja, u muniċipalitajiet tal-madwar. Kollha misjuba ħatja ta’ korruzzjoni, pekulazzjoni, u abbuż ta’ poter relatat ma’ kuntratti pubbliċi. Ħafna rċevew sentenzi sospiżi.",
+        "name": "Diċembru 2024: It-Trifecta",
+        "pattern": "Is-sentenzi kollha sospiżi",
+        "prison": "0 in prison",
+        "subtitle": "5 Sindki ikkundannati f'Ġimgħa waħda"
+      }
+    },
+    "football": {
+      "title": "Korruzzjoni tal-Futbol",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Golden Whistle - Referee Bribery",
+        "description": "FC Porto ta' Pinto da Costa involut fi skema ta' tixħim tar-referees.",
+        "costa": "Pinto da Costa: Illiberat fuq teknikalità",
+        "points": "Punti mnaqqsa, aktar tard restawrati",
+        "boavista": "Boavista (rivali) relegaw minflok",
+        "uefa": "Il-UEFA ma ħadet l-ebda azzjoni"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Mails\" (2016-2019)",
+        "subtitle": "Match-Fixing, Tax Fraud, Embezzlement",
+        "description": "Skandlu ta’ korruzzjoni enormi li jinvolvi t-tfixkil ta’ partiti, il-frodi tat-taxxa, u t-tbegħid.",
+        "vieira": "Luís Filipe Vieira: Arrestat fl-2021, waqt ġuri",
+        "goncalves": "Paulo Gonçalves: Ex direttur legali, ikkundannat",
+        "ban": "Vieira pprojbit mill-futbol",
+        "pinto": "Espost minn Rui Pinto (Football Leaks)"
+      }
+    },
+    "murder": {
+      "title": "Murder Accusation",
+      "lima": {
+        "name": "Duarte Lima - Former PSD MP & Parliamentary Leader",
+        "subtitle": "Accused of Murdering Client in Brazil (2009)",
+        "description": "L-eks mexxej parlamentari tal-PSD akkużat bil-qtil ta’ klijent Brażiljan f’Rio.",
+        "bpn": "Konness mal-iskandlu tal-BPN bħala avukat tal-bank",
+        "murder": "Vittma: Rosalina Ribeiro, sparata f'karozza f'Rio de Janeiro",
+        "untouchable": "L-awtoritajiet Portugiżi rrifjutaw l-estradizzjoni għal snin sħaħ"
+      }
+    },
+    "other": {
+      "title": "Other Major Scandals",
+      "goldenVisa": {
+        "name": "Skandlu tal-Viża tad-Deheb (2014)",
+        "subtitle": "Corrupt Officials Inflated Property Prices",
+        "description": "11-il uffiċjal arrestati talli nefħu l-prezzijiet tal-proprjetà u ħadu tixħim.",
+        "macedo": "Direttur SEF Paiva Nunes: Arrestat",
+        "figueiredo": "Uffiċjali multipli misjuba ħatja",
+        "chinese": "Investituri Ċiniżi u Russi involuti"
+      },
+      "tap": {
+        "name": "TAP Air Portugal Scandal (2022-2023)",
+        "subtitle": "€500,000 Severance Payout Scandal",
+        "description": "L-eżekuttivi tal-linji tal-ajru tal-istat irċevew pakketti ta’ tmiem enormi.",
+        "reis": "Christine Ourmieres-Widener: €500,000 ta’ qtugħ",
+        "santos": "Ramiro Sequeira: Pakkett tal-ħruġ kontroversjali",
+        "galamba": "Il-Ministru Galamba ssorvelja l-ħatriet",
+        "laptop": "L-inkjesta parlamentari talbet dokumenti"
+      },
+      "nepotism": {
+        "name": "Nepotism Scandal (2019)",
+        "subtitle": "Cousin Appointed Cousin as Deputy",
+        "description": "Nepotiżmu endemiku fil-politika Portugiża.",
+        "president": "Il-qraba ta’ Marcelo f’pożizzjonijiet ewlenin",
+        "law": "L-ebda leġiżlazzjoni sinifikanti kontra n-nepotiżmu",
+        "hodgepodge": "Il-konnessjonijiet tal-familja jkopru l-partijiet ewlenin kollha"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Sócrates Era)",
+        "subtitle": "€492 Million in Illegal Payments",
+        "description": "Programm ta' rinnovazzjoni tal-iskejjel matul l-era ta' Sócrates mimli frodi.",
+        "notAudited": "€492M minfuqa mingħajr verifika xierqa",
+        "investigation": "Infetħet investigazzjoni iżda waqfet",
+        "noConvictions": "L-ebda kundanni sal-lum"
+      }
+    },
+    "pattern": {
+      "title": "Il-Mudell tal-Impunità: bin-Numri",
+      "stats": {
+        "banking": "Telf bankarju (BPN+BES+CGD+Novo Banco)",
+        "pms": "PM investigati",
+        "socrates": "Snin: It-tul tal-każ ta' Sócrates",
+        "suspended": "Kawżi li jispiċċaw f'sentenzi sospiżi",
+        "served": "Tal-kundanna li fil-fatt serva żmien",
+        "casaPia": "Casa Pia vittmi",
+        "judges": "Imħallfin taħt proċess (Op Lex)",
+        "submarine": "Uffiċjali Portugiżi misjuba ħatja (sottomarini)",
+        "novoBanco": "Spiża tas-salvataġġ ta' Novo Banco (0 kundanni)",
+        "chargesDropped": "L-akkużi ta' Sócrates naqsu (88%)",
+        "blocking": "Proposti ta' riforma imblukkati (2007-2025)",
+        "enrichment": "Għaddew liġijiet dwar l-arrikkiment illeċitu",
+        "admiral": "Operazzjoni Admiral Recovery (EPPO)",
+        "arrests": "Ammirall arrestati fi 3 ijiem",
+        "prosecutors": "Prosekuturi li qed jiffaċċjaw kuntratti prekarji",
+        "lima": "Dewmien fil-każ ta' qtil ta' Duarte Lima"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Skandlu ta' Abbuż tat-Tfal Casa Pia",
+        "date": "2002 (abbuż mis-snin tmenin)",
+        "amount": "100+ tifel vittmi",
+        "description": "Netwerk tal-pedofili elite li juża orfanatrofji tal-istat. Il-preżentatur tat-TV Carlos Cruz, id-diplomatiku Jorge Ritto, il-gvernatur ta’ Casa Pia Manuel Abrantes fost dawk li nstabu ħatja.",
+        "outcome": "7 misjuba ħatja (2010), sentenzi 5-18-il sena",
+        "source": "France 24"
+      },
+      "bpn": {
+        "title": "BPN - Banco Português de Negócios",
+        "date": "2008",
+        "amount": "€1.8 billion loss",
+        "description": "The greatest fraud in Portuguese history. €700M+ in off-balance-sheet losses discovered. Bank nationalized.",
+        "outcome": "José Oliveira e Costa: 14-il sena (mnaqqsa fl-appell)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "BES - Banco Espírito Santo",
+        "date": "2014",
+        "amount": "€11.8 billion loss",
+        "description": "Portugal's largest private bank collapses. Ricardo Salgado's family empire implodes. State creates Novo Banco at huge cost.",
+        "outcome": "Salgado: 6→8 years (one case), 6y3m (EDP case). Claims Alzheimer's.",
+        "source": "Observador"
+      },
+      "cgd": {
+        "title": "CGD - Caixa Geral de Depósitos",
+        "date": "2016",
+        "amount": "Bailout ta’ €4.9 biljun",
+        "description": "Il-bank tal-istat jeħtieġ l-akbar salvataġġ fl-istorja Portugiża. L-inkjesta parlamentari ssib 'interferenza politika,' 'ħatriet partiġġjani.' 7 snin ta’ twissijiet ta’ frodi injorati.",
+        "outcome": "ŻERO kundanni",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016-2021",
+        "amount": "€8+ billion public money",
+        "description": "'Good bank' from BES collapse. Sold to Lone Star (2017) with €3.89B state guarantee. By 2021: €7.9B injected. Parliamentary inquiry finds 'irresponsibility.'",
+        "outcome": "ZERO convictions. No personal liability.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Tixħim taħt il-baħar Ġermaniż",
+        "date": "2004",
+        "amount": "€6.4 miljun fi tixħim",
+        "description": "Ferrostaal ħallas lill-uffiċjali Portugiżi għal €833M kuntratt ta’ sottomarini. €1M+ lill-partit CDS-PP. Dokumenti ‘jgħibu’ mill-Ministeru tad-Difiża.",
+        "outcome": "Eżekuttivi Ġermaniżi: KUNDIJIET. Il-Portugiż kollha: AKKWIST (2014)",
+        "source": "Korruzzjoni Tracker"
+      },
+      "freeport": {
+        "title": "Freeport",
+        "date": "2002",
+        "amount": "Undisclosed",
+        "description": "Il-Ministru tal-Ambjent José Sócrates allegatament irrinunzja għal restrizzjonijiet ambjentali għall-kumpanija Brittanika biex tibni mall fuq art protetta.",
+        "outcome": "Imneħħija fl-2010 - 'ħadd ma' tort'",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Skandlu tal-Visa tad-Deheb",
+        "date": "2014",
+        "amount": "€40+ miljun fi tixħim",
+        "description": "11-il uffiċjal arrestati talli nefħu l-prezzijiet tal-proprjetà, ħadu tixħim għal permessi ta’ residenza. Investituri Ċiniżi u Russi involuti.",
+        "outcome": "Xi kundanni, il-programm ikompli",
+        "source": "Observador"
+      },
+      "tancos": {
+        "title": "Serq ta' Armi Tancos",
+        "date": "2017",
+        "amount": "Cache tal-armi militari",
+        "description": "1,450 rawnd, 150 hand grenades, 44 anti-tank grenades, 264 splussiv tal-plastik misruqa. Kameras tas-sigurtà 'ma jaħdmux' għal ġimgħat. Il-Ministru Azeredo Lopes jirriżenja.",
+        "outcome": "Proċess għaddej, akkużati multipli",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Imla Database tal-Korruzzjoni",
+    "fullIntro": "Kull każ kbir ta' korruzzjoni dokumentat b'ammonti, riżultati, u sorsi",
+    "additional": {
+      "title": "Skandli tas-Sistema tal-Ġustizzja",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Il-Prosekutur Ħa €700,000+ fi Tixħim",
+        "description": "Il-Prosekutur Orlando Figueira aċċetta tixħim mingħand il-Viċi President tal-Angola Manuel Vicente biex jagħlaq l-investigazzjonijiet dwar il-korruzzjoni. Juri korruzzjoni fi ħdan is-servizz tal-prosekuzzjoni nnifsu.",
+        "orlando": "• Orlando Figueira (Prosekutur): KKUNZIAT",
+        "vicente": "• Manuel Vicente (VP ta' l-Angola): Protetti minn immunità diplomatika",
+        "pattern": "• Mudell: Dawk li jipprosekuw il-korruzzjoni, korrotta"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (Sindku ta' Oeiras)",
+        "subtitle": "\"Is-Sindku Korrott Huma Adore\"",
+        "description": "Instab ħati ta’ frodi tat-taxxa, ħasil ta’ flus. Ikkundannat għal 7 snin → imnaqqas għal sentejn fl-appell. Servuta 14-il xahar. Rielett bħala sindku 2017 u 2021. Għadu jservi sal-lum.",
+        "conviction": "• 2009: Ikkundannat 7 snin → 2010: Mnaqqsa għal sentejn",
+        "prison": "• 2013-2014: Serva 14-il xahar fil-Ħabs ta' Carregueira",
+        "reelected": "• 2017, 2021: MILL-ĠDID bħala Sindku",
+        "new": "• 2022: Akkużi ġodda ppreżentati għal kondotta ħażina tal-PPP"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "Frodi tal-karużell tal-VAT fuq diversi pajjiżi. L-UPPE tħarrek minflok l-awtoritajiet Portugiżi. 10 misjuba ħatja, sentenzi ta' 7-8 snin. Dan huwa dak li jiġri meta l-UE tieħu f'idejha l-prosekuzzjoni.",
+        "lesson": "LEZZJONI: EPPO jaħdem. Is-sistema nazzjonali le.",
+        "name": "Operazzjoni Ammirall (2025)",
+        "subtitle": "€2.9 biljun - L-akbar Frodi tal-UE QATT"
+      },
+      "context": {
+        "admiral": "Frodi tal-Ammirall (każ wieħed)",
+        "description": "Il-Portugall irċieva aktar minn €60 biljun mill-fondi strutturali tal-UE mill-1986. Madankollu l-Portugall għadu wieħed mill-ifqar pajjiżi fl-Ewropa tal-Punent. Fejn marru l-flus? L-awdituri konsistentement isibu irregolaritajiet, iżda l-prosekuzzjonijiet huma rari.",
+        "eppo": "prosekutur tal-UPPE Portugall",
+        "prr": "Pjan ta' Rkupru PRR (2021-2026)",
+        "received": "Fondi tal-UE riċevuti (1986-2024)",
+        "title": "Il-Mistoqsija ta’ €60 biljun"
+      },
+      "patterns": {
+        "invoices": "• Fatturi foloz għal servizzi ineżistenti",
+        "kickbacks": "• Kickbacks lill-uffiċjali li japprovaw",
+        "monitoring": "• Monitoraġġ dgħajjef mill-IGCP/IGAC",
+        "prescription": "• Każijiet jippreskrivu qabel il-proċess",
+        "projects": "• \"Proġetti Ghost\" - approvati iżda qatt ma tlestew",
+        "shell": "• Kumpaniji Shell maħluqa biex jirċievu fondi",
+        "title": "Mudelli ta' Frodi Rikorrenti"
+      },
+      "title": "EU Funds Fraud"
+    },
+    "disclaimer": {
+      "title": "Avviż Legali Importanti",
+      "presumption": "• Preżunzjoni ta' Innoċenza: L-individwi kollha huma preżunti innoċenti sakemm jiġu ppruvati ħatja b'sentenza finali tal-qorti. L-istatus ta' \"Taħt investigazzjoni\" jew \"arguido\" ma jimplikax ħtija.",
+      "status": "• L-Istatus tal-Każ: Kull entrata hija mmarkata bi status legali attwali (Kuntinat, Fuq Proċess, Taħt Investigazzjoni, Arkivjat, Illiberat). L-istatus jiġu aġġornati hekk kif il-każi javvanzaw.",
+      "sources": "• Sorsi: L-informazzjoni kollha ġejja minn dokumenti uffiċjali tal-qorti, avviżi tad-DCIAP, inkjesti parlamentari, jew midja Portugiża ta' fama (RTP, Público, Observador).",
+      "defense": "• Pożizzjonijiet ta' Difiża: Il-konvenuti ċaħdu allegazzjonijiet jew ipprovdew spjegazzjonijiet. Il-pożizzjonijiet legali tagħhom huma nnotati fejn disponibbli pubblikament."
+    }
+  },
+  "operations": {
+    "title": "Lista ta' Operazzjonijiet tal-Pulizija",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "José Sócrates (PM)",
+      "status": "Prova għaddejja 11+ sena",
+      "crimes": "22 reat: korruzzjoni, ħasil, frodi"
+    },
+    "influencer": {
+      "name": "Operação Influencer",
+      "target": "António Costa (PM)",
+      "status": "Taħt investigazzjoni → President tal-UE",
+      "crimes": "Korruzzjoni, serq"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "target": "Imħallfin Rangel, Galante, Vaz das Neves",
+      "status": "Il-prova bdiet f'Ottubru 2025",
+      "crimes": "17-il akkużat, 21+ reati"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "Il-Prosekutur Orlando Figueira",
+      "status": "Kundanna 6y8m (2021)",
+      "crimes": "tixħima ta' €700K mill-VP ta' l-Angola"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, Sindki ta’ Barcelos",
+      "status": "Prova għaddejja fl-2025",
+      "crimes": "50+ reat, €1.8M irregolaritajiet"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 Sindki ta' Espinho (PS + PSD)",
+      "status": "Trial ongoing",
+      "crimes": "Korruzzjoni urbana, 'miżati ta' urġenza'"
+    },
+    "babel": {
+      "name": "Operação Babel",
+      "target": "Gaia VP Patrocínio Azevedo",
+      "status": "Il-prova tibda Jannar 2025",
+      "crimes": "€40M vantaġġi, €300M proprjetà immobbli"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "Presidenti tal-parroċċa ta’ Lisbona",
+      "status": "Akkuża kompluta",
+      "crimes": "60 akkużat, 463 reat, €580K"
+    },
+    "maestro": {
+      "name": "Operação Maestro",
+      "target": "Manuel Serrão",
+      "status": "Investigazzjoni għadha għaddejja",
+      "crimes": "€39M frodi tal-fondi tal-UE"
+    },
+    "admiral": {
+      "name": "Operazzjoni Ammirall (EPPO)",
+      "target": "Netwerk ta' frodi tal-VAT",
+      "status": "10 misjuba ħatja (Mejju 2025)",
+      "crimes": "Ħsara ta' €2.9B - l-akbar frodi fl-UE li qatt saret"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 Sena ta' Korruzzjoni: Il-Kronoloġija Sħiħa",
+    "pageSubtitle": "Kull skandlu espost → Kull riforma imblukkata → Il-mudell sistematiku ta’ impunità żvelat",
+    "legend": {
+      "corruption": "Korruzzjoni/Skandlu",
+      "blocked": "Riforma Imblukkata/Rispons Dgħajjef",
+      "conviction": "Kundanna/Riforma Għaddiet"
+    },
+    "summaryTitle": "50 Sena: The Score",
+    "summary": {
+      "bankingLosses": {
+        "value": "€25B+",
+        "label": "Telf bankarju (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Tentattivi ta' riforma imblukkati"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Referendumi vinkolanti"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "PMs convicted"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Politiċi li qed jiffaċċjaw il-ġustizzja (mill-2017)"
+      },
+      "socratesDuration": {
+        "value": "11 years",
+        "label": "Socrates arrest→proċess"
+      },
+      "casaPiaVictims": {
+        "value": "100+",
+        "label": "Casa Pia vittmi"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Imputati Op Lex (imħallfin+)"
+      },
+      "admiralFraud": {
+        "value": "€2.9B",
+        "label": "Frodi tal-VAT (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Ministri fil-ħabs (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "Il-Mudell Espost",
+    "patternIntro": "Kull skandlu kbir huwa segwit minn:",
+    "pattern": {
+      "step1": "1. <strong>Għalja</strong> → Kopertura tal-midja, rabja pubblika",
+      "step2": "2. <strong>Proposta ta’ riforma</strong> → Mill-oppożizzjoni jew minn partiti żgħar",
+      "step3": "3. <strong>Bblokk</strong> → PS jew PSD jivvutaw kontra (jżommu 150+ minn 230 siġġu)",
+      "step4": "4. <strong>Dewmien</strong> → Kawża tkaxkir għal snin sal-preskrizzjoni",
+      "step5": "5. <strong>Akwiżizzjoni jew sentenza sospiża</strong> → 75 % tal-każijiet",
+      "step6": "6. <strong>Promozzjoni</strong> → Costa lill-Kunsill tal-UE, Barroso lill-Kummissjoni tal-UE"
+    },
+    "patternQuote": "\"Il-fqar u dawk mhux magħrufa biss imorru l-ħabs.\"",
+    "footerSource": "L-informazzjoni kollha miksuba minn dokumenti uffiċjali tal-qorti, midja Portugiża, u organizzazzjonijiet internazzjonali.",
+    "years": {
+      "y1974": "1974",
+      "y1980s": "1980s",
+      "y1989": "1989",
+      "y1997": "1997",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004",
+      "y2005_09": "2005-09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010",
+      "y2012": "2012",
+      "y2014": "2014",
+      "y2015": "2015",
+      "y2016": "2016",
+      "y2017": "2017",
+      "y2019": "2019",
+      "y2021": "2021",
+      "y2022": "2022",
+      "y2023": "2023",
+      "y2024": "2024",
+      "y2025": "2025"
+    },
+    "badges": {
+      "democracyRestored": "DEMOKRAZIJA Rrestawrata",
+      "designFlaw": "DESIGN FLAW",
+      "abuseBegins": "ABUSE BEGINS",
+      "reformBlocked": "REFORM BLOCKED",
+      "reformSabotaged": "RIFORMA SABOTATA",
+      "tcBlocks": "TC BLOCKS",
+      "sabotaged": "SABOTAGED",
+      "centralizationPreserved": "ĊENTRALIZZAZZJONI PRESERVATA",
+      "scandalErupts": "SCANDAL ERUPTS",
+      "freeportAllegations": "ALLEGAZZJONIJIET TAL-PORT ĦIELES",
+      "footballCorruption": "KORRUZZJONI TAL-FUTBOL",
+      "submarineBribery": "IT-TIXIM SOTTOMARIN",
+      "euro2004Stadiums": "STADIUMS EURO 2004",
+      "corruptionMachine": "MAGNA TAL-KORUZZJONI",
+      "faceOculta": "FACE OCULTA",
+      "commitmentMade": "COMMITMENT MADE",
+      "nonBinding": "NON-BINDING",
+      "policeCorruption": "KORRUZZJONI TAL-PULIZIJA",
+      "bankingCollapse": "KOLLASS BANKARJU",
+      "cgdFraudIgnored": "TWISSIJIET TA' FRODI CGD INJORATI",
+      "murderAllegation": "ALLEGAZZJONI TA' Qtil",
+      "rareConvictions": "KUNDIZZJONIJIET RARI",
+      "tcBlocksReform": "RIFORMA TAL-BLOCKKI TC",
+      "noEuVote": "NO EU VOTE",
+      "pmArrested": "PM ARRESTED",
+      "goldenVisaScandal": "ISKANDAL TAL-VIŻA DEHEB",
+      "tcBlocksAgain": "TC BLOCK ERĠA’ (UNANIMI)",
+      "prosecutorCorruption": "KORRUZZJONI TAL-PROSEKUTUR",
+      "benficaEmails": "BENFICA EMAILS",
+      "novoBancoBlackHole": "NOVO BANCO BLACK HOLE",
+      "militaryScandal": "SKANDAL MILITARI",
+      "bpnConvictions": "BPN CONVICTIONS",
+      "autarquiaCorruption": "KORRUZZJONI TAL-AWTARKJA",
+      "joeBerado": "JOE BERARDO SKANDAL",
+      "varaConvicted": "VARA CONVICTED",
+      "policeBrutality": "BRUTALITÀ TAL-PULIZIJA",
+      "nepotismScandal": "SKANDAL NEPOTIŻMU",
+      "policeMurder": "POLICE MURDER",
+      "weakLawPassed": "WEAK LAW PASSED",
+      "varaReleased": "VARA MAĦRUĠA (COVID)",
+      "allPartiesBlock": "PARTIJIET KOLLHA BLOCK",
+      "judgesOnTrial": "JUDGES ON TRIAL",
+      "tapScandal": "TAP SCANDAL",
+      "tancosConvictions": "TANCOS CONVICTIONS",
+      "espinhoMayorsArrested": "SINDKNI ESPINHO ARRESTATI",
+      "lisbonParishCorruption": "KORRUZZJONI TAL-PARROĊĊA TA’ LISBONA",
+      "governmentFalls": "IL-GVERN JAQA'",
+      "tapContinues": "TAP CONTINUES",
+      "edpConvictions": "EDP CONVICTIONS",
+      "euFundsFraud": "FRODI TAL-FONDI TAL-UE €39M",
+      "gaiaRealEstateRing": "GAIA REAL ESTATE RING",
+      "defendants65": "65 DEFENDANTS",
+      "euReward": "EU REWARD",
+      "reformBlockedAgain": "RIFORMA BLOCKATA MILL-ĠDID",
+      "euBiggestVatFraud": "L-AKBAR KUNDIZZJONIJIET TA' FRODI TAL-VAT TAL-UE",
+      "judgesFinally": "IMĦALLFIN FL-AĦĦAR FUQ PROĊESS",
+      "policeTrafficking": "ĊIRKU TA’ TRAFFIKAZZJONI TAL-PULIZIJA",
+      "varaReturns": "VARA JIRRITORNA L-ĦABS",
+      "benficaFraudTrial": "PROVA FRODI BENFICA",
+      "politicians191": "191 POLITICIANS",
+      "decemberTrifecta": "IT-TRIFECTA TA’ DIĊEMBRU",
+      "stillNoLaw": "51 YEARS LATER"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Rivoluzzjoni tal-Qronfol",
+        "desc": "Tmiem ta’ 48 sena ta’ dittatorjat ta’ Salazar/Caetano. Tibda era demokratika ġdida."
+      },
+      "noReferendums": {
+        "title": "L-ebda Referendum fil-Kostituzzjoni tal-1976",
+        "desc": "L-Assemblea Kostitwenti teskludi deliberatament id-demokrazija diretta. Il-partiti jassoċjaw ir-referendums mal-plebisċiti ta’ Salazar.",
+        "note": "Is-sistema ta’ protezzjoni tibda mat-twelid."
+      },
+      "casaPiaFirstReported": {
+        "title": "L-Ewwel Irrappurtat Abbuż ta' Casa Pia",
+        "desc": "Joħorġu l-ewwel rapporti ta’ abbuż sesswali tat-tfal fl-orfanatrofji tal-istat. Il-Pulizija twaqqaf l-investigazzjonijiet. Uffiċjali jeqirdu dokumenti.",
+        "note": "Jibda l-cover-up. Se jdum aktar minn 20 sena."
+      },
+      "pcpFirstProposal": {
+        "title": "PCP L-Ewwel Tipproponi Liġijiet Kontra l-Korruzzjoni",
+        "desc": "Il-Partit Komunista (PCP) jipproponi leġiżlazzjoni dwar l-arrikkiment illeċitu.",
+        "result": "PS + PSD block"
+      },
+      "referendumsPoisonPill": {
+        "title": "Referendum Miżjuda - Bil-Pillola tal-Velenu",
+        "desc": "Ir-reviżjoni kostituzzjonali żżid il-mekkaniżmu tar-referendum.",
+        "catch": "Limitu ta' parteċipazzjoni ta' 50% + veto tal-Qorti Kostituzzjonali = imfassal biex ifalli",
+        "note": "Il-35 sena li ġejjin: 0 referendum vinkolanti miksuba."
+      },
+      "amsterdamBlocked": {
+        "title": "Referendum tat-Trattat ta' Amsterdam Imblukkat",
+        "desc": "Il-Qorti Kostituzzjonali tirrifjuta referendum dwar it-trattat tal-UE — \"mistoqsija qarrieqa\"",
+        "note": "Il-Portugall QATT mhu se jivvota dwar l-integrazzjoni fl-UE."
+      },
+      "casaPiaExposed": {
+        "title": "Skandlu ta' Abbuż ta' Casa Pia Espost",
+        "desc": "Ġurnalist jikser l-istorja: netwerk elite pedofeli li juża orfanatrofji tal-istat. Preżentatur tat-TV, ambaxxatur tal-UNESCO, gvernatur ta’ Casa Pia fost l-akkużati.",
+        "note": "100+ tifel u tifla abbużati. Il-prova se ddum 5+ snin."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates & Freeport Mall",
+        "desc": "Il-Ministru għall-Ambjent José Sócrates allegatament jirrinunzja għal restrizzjonijiet ambjentali għall-kumpanija Brittanika biex tibni mall fuq art protetta.",
+        "outcome": "Imneħħija fl-2010 - \"ebda tort\""
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Statistika u Sorsi",
+    "pageSubtitle": "Id-dejta kollha minn sorsi internazzjonali uffiċjali u ta’ fama",
+    "ti": {
+      "title": "Trasparenza Internazzjonali",
+      "subtitle": "Indiċi tal-Perċezzjonijiet tal-Korruzzjoni (CPI)",
+      "score2024": {
+        "value": "57",
+        "label": "Il-Portugall CPI Score 2024",
+        "trend": "-4 punti mill-2023"
+      },
+      "rank": {
+        "value": "43rd",
+        "label": "Global Ranking",
+        "detail": "ta’ 180 pajjiż"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Il-prosekuturi jgħidu perjodi insuffiċjenti",
+        "source": "TI Survey"
+      },
+      "tableTitle": "Tqabbil tal-IPK tal-UE (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobarometer",
+      "subtitle": "Ewrobarometru Speċjali dwar il-Korruzzjoni (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "Il-Portugiż jemmnu li l-korruzzjoni hija mifruxa",
+        "euAvg": "EU avg: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Emmen li teżisti l-korruzzjoni fil-gvern nazzjonali",
+        "euAvg": "EU avg: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Tgħid li t-tixħim huwa l-eħfef mod biex tikseb is-servizzi pubbliċi",
+        "euAvg": "EU avg: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Digital Divide",
+      "subtitle": "Użu tal-Internet skont il-grupp ta' età (Portugall, 2024)",
+      "keyInsight": "Il-ġenerazzjoni li rat il-mudell sħiħ ta’ korruzzjoni ta’ 50 sena (65+) hija sistematikament eskluża mis-sistema tal-firma tar-referendum DIĠITALI BISS",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99.1%",
+          "excluded": "0.9%"
+        },
+        "35-44": {
+          "usage": "98.6%",
+          "excluded": "1.4%"
+        },
+        "45-54": {
+          "usage": "94.9%",
+          "excluded": "5.1%"
+        },
+        "55-64": {
+          "usage": "82.5%",
+          "excluded": "17.5%"
+        },
+        "65-74": {
+          "usage": "61.1%",
+          "excluded": "38.9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "~70%"
+        }
+      }
+    },
+    "summaryTitle": "Sommarju: X'Turi Id-Dejta",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "tal-Portugiż jaraw korruzzjoni mifruxa",
+        "source": "Ewrobarometru 2023"
+      },
+      "greco": {
+        "value": "1/15",
+        "label": "Rakkomandazzjonijiet tal-GRECO implimentati",
+        "source": "Council of Europe 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "punt CPI tnaqqis f'sena waħda",
+        "source": "Trasparenza Internazzjonali 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "tal-prosekuturi jgħidu li l-perjodi ta’ preskrizzjoni mhumiex biżżejjed",
+        "source": "TI Survey 2023"
+      }
+    },
+    "footer": "L-istatistika kollha minn sorsi uffiċjali. Aġġornata l-aħħar: Diċembru 2025."
+  },
+  "tables": {
+    "headers": {
+      "name": "Isem",
+      "party": "Partit",
+      "status": "Status",
+      "charges": "Charges/Status",
+      "chargesSentence": "Akku]i/Sentenza",
+      "chargesStatus": "Charges/Status",
+      "amount": "Amount",
+      "year": "Year",
+      "initiative": "Initiative",
+      "result": "Riżultat",
+      "whoBlocked": "Who Blocked",
+      "country": "Pajjiż",
+      "score": "Score",
+      "rank": "Rank",
+      "change": "Change",
+      "ageGroup": "Age Group",
+      "internetUsage": "Internet Usage",
+      "excluded": "Excluded",
+      "impact": "Impact",
+      "aspect": "Aspect",
+      "sentence": "Sentence",
+      "allegations": "Allegazzjonijiet/Kundanni",
+      "protectionLevel": "Livell ta' Protezzjoni",
+      "sweden": "Sweden",
+      "portugal": "Portugall",
+      "position": "Position",
+      "illicitEnrichment": "Arrikkiment Illeċitu",
+      "lobbyRegulation": "Regolament tal-Lobby",
+      "endImmunity": "End Immunity",
+      "notableActions": "Notable Actions",
+      "politician": "Politician",
+      "scandal": "Scandal",
+      "euReward": "EU Reward",
+      "date": "Data",
+      "subject": "Subject",
+      "turnout": "Turnout",
+      "binding": "Binding?",
+      "illicitEnrichmentLaw": "Liġi dwar l-Arrikkiment Illeċitu",
+      "constitutionalStatus": "Status Kostituzzjonali",
+      "immunityScope": "Immunity Scope",
+      "parliamentBlocks": "Il-Parlament jimblokka l-investigazzjoni?",
+      "tiCpi": "TI CPI",
+      "prescription": "Prescription",
+      "avgTime": "Avg. Time",
+      "immunity": "Immunity",
+      "role": "Role",
+      "municipality": "Municipality",
+      "controversy": "Kontroversja/Kuntest"
+    },
+    "status": {
+      "convicted": "CONVICTED",
+      "convictedServing": "KUNDIJIET - Notifika",
+      "convictedAppealing": "KKUNZIAT - Appell",
+      "onTrial": "On Trial",
+      "underInvestigation": "Taħt Investigazzjoni",
+      "arguido": "Arguido",
+      "arrested": "ARRESTED",
+      "archived": "Archived",
+      "declined": "Investigazzjoni Naqset",
+      "neverProsecuted": "Qatt Prosekutat",
+      "acquitted": "ACQUITTED",
+      "euPromoted": "President tal-Kunsill tal-UE"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega",
+      "livre": "Livre",
+      "pan": "PAN",
+      "il": "IL"
+    }
+  },
+  "probability": {
+    "title": "L-Odds Tiegħek vs l-Odds Tagħhom",
+    "subtitle": "Kieku l-ġustizzja kienet lotterija, hawn x’jgħidulna n-numri",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Jekk Int Ċittadin:"
+    },
+    "politician": {
+      "title": "Jekk int Politiku:"
+    }
+  },
+  "sources": {
+    "title": "Lista kompluta ta' sorsi",
+    "subtitle": "Id-dejta kollha minn sorsi uffiċjali u verifikati",
+    "constitutionalCourt": "Qorti Kostituzzjonali",
+    "prosecutionService": "Servizz ta' Prosekuzzjoni",
+    "europeanUnion": "European Union",
+    "internationalOrgs": "Organizzazzjonijiet Internazzjonali",
+    "eurobarometer": "Eurobarometer",
+    "portugueseLegislation": "Leġiżlazzjoni Portugiża",
+    "parliamentaryRecords": "Rekords Parlamentari",
+    "internationalComparisons": "Tqabbil Internazzjonali",
+    "mediaSources": "Media Sources",
+    "laborHumanRights": "Xogħol/Drittijiet tal-Bniedem",
+    "cryptographicStandards": "Standards Kriptografiċi",
+    "digitalStatistics": "Statistika Diġitali"
+  },
+  "verdict": {
+    "title": "Il-Verdett",
+    "subtitle": "50 sena ta' evidenza dokumentata"
+  },
+  "backToMain": "← Lura għar-Rapport Ewlieni",
+  "duopoly": {
+    "bothProtect": "Iż-żewġ Partijiet jipproteġu lil xulxin",
+    "coordinatedTheater": "L-oppożizzjoni apparenti bejn PS u PSD hija teatru koordinat. Meta jgħodd—imblukkar ir-riforma—jivvutaw flimkien."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Sors: Ewrobarometru 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "Il-mudell tar-referendum falluti",
+      "text": "Kull referendum fl-istorja Portugiża jew naqas milli jilħaq il-limitu ta' parteċipazzjoni jew ma jorbotx.",
+      "sources": "Sors: Kummissjoni Elettorali Portugiża"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Sors: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "Statistika Ewlenija tad-Demokrazija Żvizzera:"
+  },
+  "roadmap": {
+    "title": "L-Investigazzjoni",
+    "subtitle": "Vjaġġ strutturat fl-arkitettura tal-impunità tal-Portugall",
+    "part1": {
+      "title": "Is-Sistema",
+      "desc": "Kif il-klassi politika Pavloviana tipproteġi tagħha"
+    },
+    "part2": {
+      "title": "Il-Każijiet",
+      "desc": "Prim Ministri, Ministri u l-każijiet li jiddefinixxu l-impunità"
+    },
+    "part3": {
+      "title": "Il-Lakuni",
+      "desc": "Mekkaniżmi legali li jiżguraw li l-korruzzjoni tibqa' mingħajr piena"
+    },
+    "part4": {
+      "title": "L-Imblokk",
+      "desc": "Kif ir-riformi huma sistematikament imblukati minn PS/PSD"
+    },
+    "part5": {
+      "title": "Il-Premjijiet tal-UE",
+      "desc": "Fejn jispiċċaw il-politiċi akkużati: Brussell"
+    },
+    "part6": {
+      "title": "Is-Soluzzjoni",
+      "desc": "X'jistgħu jagħmlu ċ-ċittadini biex jaqtgħu ċ-ċiklu"
+    },
+    "conclusion": "Mill-etika ċivika għal azzjoni konkreta—kull parti tikxef saff ieħor tas-sistema maħluqa biex tipproteġi l-korrotti."
+  },
+  "journalism": {
+    "badge": "Għaliex Din l-Investigazzjoni Teżisti",
+    "title": "Il-Ħolma Li Ma Setgħetx Sopravivenza s-Sistema",
+    "subtitle": "Ġurnaliżmu Portugiż Taħt Qbid Sistemiku",
+    "intro": "Kull ġurnalist jibda bl-istess ħolma: uri lin-nies il-verità, jiddokumenta dak li hu importanti, ibiddel id-dinja. Fil-Portugall, dik il-ħolma taħbat ma’ sistema maħsuba biex tipprevjeni eżattament dan.",
+    "medicine": {
+      "title": "Mediċina",
+      "oath": "L-ewwel, tagħmilx ħsara."
+    },
+    "journalismEthics": {
+      "title": "Ġurnaliżmu",
+      "oath": "L-ewwel, tqarraqx."
+    },
+    "doctors": {
+      "title": "Tobba",
+      "diagnose": "Jidijanjożaw abbażi ta' evidenza, mhux twemmin",
+      "wellbeing": "Jpoġġu l-benesseri tal-pazjent fuq l-ideoloġija jew il-profitt",
+      "bound": "Huma marbuta bl-etika anke taħt pressjoni",
+      "lose": "Jitilfu l-leġittimità meta jagħmlu ħsara apposta"
+    },
+    "journalists": {
+      "title": "Ġurnalisti",
+      "report": "Jirrapurtaw abbażi ta' fatti verifikabbli, mhux aġendi",
+      "rightToKnow": "Jpoġġu d-dritt tal-pubbliku li jkun jaf fuq l-allinjament politiku",
+      "bound": "Huma etikament marbuta anke taħt pressjoni minn sidien, stati jew udjenzi",
+      "lose": "Jitilfu l-leġittimità meta jgħawwġu r-realtà apposta"
+    },
+    "broken": {
+      "title": "Meta l-Ġurament Jinkiser",
+      "doctorMalpractice": "Tabib li jipprattika ideoloġija minflok mediċina jagħmel malprattika",
+      "journalistMalpractice": "Ġurnalist li jipprattika ideoloġija minflok verità jagħmel malprattika ċivika",
+      "consequences": "Il-konsegwenzi huma soċjetali:",
+      "consequence1": "Polarizzazzjoni",
+      "consequence2": "Miżinformazzjoni",
+      "consequence3": "Erożjoni tal-fiduċja",
+      "consequence4": "Diżintegrazzjoni demokratika"
+    },
+    "distinction": {
+      "title": "Id-Distinzjoni Ċara",
+      "text": "Il-ġurnalisti, bħat-tobba, huma bnedmin u għandhom valuri personali. L-etika tinkiser mhux billi jkollok valuri, iżda billi tħalli dawk il-valuri jieħdu post il-verifika, l-evidenza u l-responsabbiltà."
+    },
+    "quote": "Tabib li jigdeb lill-pazjent huwa ħati ta' malprattika. Ġurnalist li jigdeb lill-pubbliku huwa ħati ta' malprattika ċivika."
+  },
+  "convicted": {
+    "badge": "System Outcome",
+    "title": "Kundanna Imma Protetta",
+    "subtitle": "Dawn mhumiex allegazzjonijiet. Dawn huma kundanni. Madankollu s-sistema tiżgura li jżommu l-pensjonijiet tagħhom, jerġgħu lura fil-kariga, jew jaħarbu kompletament mill-konsegwenzi.",
+    "status": {
+      "convicted": "CONVICTED",
+      "reelected": "KUNDIJIET → ELETTI MILL-ĠDID",
+      "murder": "MURDER ACCUSED",
+      "unpaid": "€980M UNPAID",
+      "zeroPrison": "€8B MITLUFA, ŻERO ĦABS",
+      "eppoSuccess": "EPPO SUCCESS"
+    },
+    "labels": {
+      "operation": "Operation:",
+      "crime": "Crime:",
+      "sentence": "Sentence:",
+      "served": "Time Served:",
+      "amount": "Amount:",
+      "currentStatus": "Current:",
+      "victim": "Victim:",
+      "date": "Date:",
+      "trialStart": "Trial Start:",
+      "borrowed": "Borrowed:",
+      "repaid": "Repaid:",
+      "artCollection": "Art Collection:",
+      "publicCost": "Public Cost:",
+      "resolution": "Resolution:",
+      "convictions": "Convictions:"
+    },
+    "pensionBattle": "Il-Battalja tal-Pensjoni:",
+    "suedProsecutor": "Ħarkat lill-Prosekutur:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "PS Segretarju tal-Istat, Ministru, Bord tas-CGD",
+      "crime": "Peddling tal-Influwenza (3 għadd)",
+      "pension": "Pensjoni ta’ €8,551/xahar maqbuda TLIET darbiet, ritornati fl-appell DARBAJN. Mudell: qbid → appell → lura → irrepeti."
+    },
+    "pinho": {
+      "name": "Manuel Pinho",
+      "position": "PS Ministru tal-Ekonomija (2005-2009)",
+      "crime": "Korruzzjoni passiva, frodi tat-taxxa, ħasil tal-flus",
+      "sued": "€26,000/xahar pensjoni maqbuda 3x, ritornata 2x. Il-prosekutur tal-SUED u l-Imħallef Carlos Alexandre fuq sekwestri tal-pensjoni.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "Sindku tal-PSD ta' Oeiras (1985-2009, 2017-preżent)",
+      "crime": "Frodi tat-taxxa, ħasil ta’ flus, abbuż ta’ poter",
+      "current": "GĦAQ SINDKU (2025)",
+      "quoteTitle": "Nickname Pubbliku:",
+      "quote": "\"Is-sindku korrott li l-Portugiżi jaduraw\" — ELETTI MILL-ĠDID fl-2017 u l-2021. Akkużi ġodda ppreżentati fl-2022.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "PSD MP, Lawyer",
+      "crime": "Qtil fil-Brażil",
+      "victim": "Rosalina Ribeiro (klijenta)",
+      "shieldTitle": "The Shield:",
+      "shield": "L-ebda trattat ta’ estradizzjoni bejn il-Portugall u l-Brażil. Baqgħet “ma jintmessx” fil-Portugall għal 16-il sena qabel fl-aħħar beda l-proċess.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Negozjant, Kollettur tal-Arti",
+      "repaid": "Near zero",
+      "quoteTitle": "To Parliament:",
+      "quote": "\"Insejt\" — meta mistoqsi dwar €980M dejn. Membri Parlamentari mhedda waqt ix-xhieda. Ebda konsegwenzi."
+    },
+    "novoBanco": {
+      "name": "Skandlu Novo Banco",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "ZERO",
+      "outcomeTitle": "Inkjesta Parlamentari:",
+      "outcome": "Sabet \"irresponsabbiltà politika\" - iżda l-ebda responsabbiltà kriminali. Profitti privati, telf pubbliku. Il-mudell ikompli.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "The Lone Star Deal (2017):",
+        "salePrice": "Lone Star ħallset: €1 biljun",
+        "guarantee": "L-Istat garantit: €3.89 biljun f’telf",
+        "result": "Istat iġorr ir-riskju kollu, ix-xerrej gets kollha rasu"
+      },
+      "injections": {
+        "title": "Flus Pubbliċi Injettati:",
+        "y2014": "2014: €4.9B (Fond ta’ Riżoluzzjoni)",
+        "y2018": "2018: €792M (kapital kontinġenti)",
+        "y2019": "2019: €1.15B (kapital kontinġenti)",
+        "y2020": "2020: €1.04B (kapital kontinġenti)",
+        "y2021": "2021: €598M (kapital kontinġenti)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa - Gvernatur tal-Bank of Portugal - Bejgħ sorveljat",
+        "centeno": "Mário Centeno - Ministru tal-Finanzi - Garanziji approvati"
+      },
+      "inquiryQuote": "\"Il-kundizzjonijiet tal-bejgħ kienu straordinarjament favorevoli għax-xerrej, bl-istat Portugiż jassumi riskju sproporzjonat.\" — Inkjesta Parlamentari 2021",
+      "whyNoAccountability": {
+        "title": "Għaliex Nru Prosekuzzjonijiet:",
+        "discretion": "Termini tal-bejgħ ikklassifikati bħala 'deċiżjonijiet ta' politika'",
+        "noEnrichment": "Dawk li jieħdu d-deċiżjonijiet ma pprofittawx personalment",
+        "immunity": "Ir-regolaturi għandhom protezzjoni istituzzjonali",
+        "bipartisan": "PS u PSD it-tnejn kompliċi - mhux se jressqu lil xulxin"
+      },
+      "sale2025": {
+        "title": "Aġġornament 2025: Ħruġ ta 'Lone Star",
+        "text": "Ottubru 2025: Il-bank Franċiż BPCE jakkwista Novo Banco għal €8 biljun. Lone Star toħroġ bi qligħ kbir wara €8.5B f'injezzjonijiet statali. Żero kundanni għall-kollass. Żero clawback tat-telf."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Novo Banco biegħ lill-bank Franċiż BPCE għal €8 biljun (Ottubru 2025). Lone Star toħroġ bi profitti wara li tirċievi €3.89B f’garanziji tal-istat. Il-kontribwenti qatt ma rkupraw €10.4B f’fondi pubbliċi. Id-dħul mill-bejgħ imur għall-Fond ta’ Riżoluzzjoni, mhux għat-Teżor."
+    },
+    "admiral": {
+      "name": "Operazzjoni Ammirall",
+      "subtitle": "L-akbar Każ ta' Frodi fl-UE QATT",
+      "damage": "Total Damage",
+      "convicted": "Kundanna (Mejju 2025)",
+      "prosecutor": "EU Prosecutor",
+      "type": "Carousel Fraud",
+      "lesson": "Il-Lezzjoni: Meta l-prosekutur tal-UE jieħu ħsieb il-każijiet minflok is-sistemi nazzjonali, iseħħu kundanni."
+    },
+    "pattern": {
+      "title": "Il-Mudell Huwa Ċar",
+      "pension": "Pensjonijiet protetti",
+      "delay": "Murder to trial",
+      "lost": "Mitluf, ħabs żero",
+      "reelected": "Wara kundanna",
+      "conclusion": "Kundanna ma tfissirx konsegwenza. Is-sistema tipproteġi tagħha stess—qabel, waqt, u wara l-prova."
+    }
+  },
+  "judicial": {
+    "badge": "System Failure",
+    "title": "Korruzzjoni Ġudizzjarja: Il-Qalba Immuffata",
+    "subtitle": "Meta l-imħallfin ibigħu deċiżjonijiet u l-prosekuturi jieħdu tixħim, is-sistema kollha kontra l-korruzzjoni tikkollassa. Dawn il-każijiet jispjegaw għaliex il-prosekuzzjonijiet politiċi fallu.",
+    "status": {
+      "judgesCorrupt": "JUDGES CORRUPT",
+      "prosecutorBribed": "IL-PROSEKUTUR MIXĦAM",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Key Figures:",
+      "defendants": "Total ta' Konvenuti:",
+      "exposed": "Exposed By:",
+      "timeline": "Timeline:",
+      "amount": "Bribe Amount:",
+      "outcome": "Outcome:",
+      "year": "Year:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "Deċiżjoni Dixxiplinari tas-CSM:",
+      "defensePosition": "Pożizzjoni tad-Difiża:",
+      "convicted": "Convicted:",
+      "coconspirator": "Każ Trasferit:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Appell Ikkonfermat:",
+      "tcReject": "Appell tat-TC Miċħud:"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "subtitle": "Judges Selling Decisions",
+      "rangel": "Appeals Court Judge",
+      "galante": "Imħallef (mara Rangel)",
+      "neves": "Court President",
+      "chargesTitle": "Charges:",
+      "charges": "Selling judicial decisions, bribery, influence peddling, corruption. The judges who were supposed to convict corrupt politicians were themselves corrupt.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db41d34ed86d14e",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Prova għaddejja (2025)",
+      "exposedBy": "Football Leaks / Rui Pinto",
+      "allegations": "Bejgħ ta' deċiżjonijiet favorevoli, iffissar ta' riżultati ta' każijiet, bejgħ ta' influwenza, ostruzzjoni tal-ġustizzja, netwerk ġudizzjarju koordinat",
+      "significance": "Il-whistleblower (Rui Pinto) tressaq il-Qorti filwaqt li l-ġuri tal-imħallfin korrotti ġie pospost għal 7 snin. Is-sistema tipproteġi lilha nnifisha.",
+      "otherDefendants": "Avukati, negozjanti, u uffiċjali tal-qorti li pparteċipaw fin-netwerk tal-korruzzjoni",
+      "vieira": "L-eks President ta' Benfica",
+      "csm": "Rui Rangel tkeċċa mill-ġudikatura mill-Conselho Superior da Magistratura (CSM) fl-2020 għal vjolazzjonijiet dixxiplinarji relatati ma’ dan il-każ.",
+      "defense": "L-akkużati kollha jiċħdu l-akkużi. Rangel iddikjara li l-akkużi huma bla bażi u motivati ​​politikament."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Prosecutor Paid to Close Cases",
+      "figueira": "Portuguese Prosecutor",
+      "vicente": "Vice President of Angola",
+      "convicted": "Prosekutur IKKUNTANAT",
+      "significanceTitle": "Significance:",
+      "significance": "A prosecutor was paid €700K+ to close investigations against Angolan elites. If prosecutors can be bought, what chance do corruption cases have?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Juri l-flus taż-żejt mill-Angola li jikkorrompi s-sistema tal-ġustizzja Portugiża",
+      "outcome": "Prosekutur instab ħati, iżda l-każ kixef vulnerabbiltà sistemika għall-korruzzjoni barranija",
+      "defense": "Figueira ċaħad l-akkużi matul il-proċess kollu u appella lill-Qorti Kostituzzjonali, li ċaħdet l-appell tiegħu f'Diċembru 2022."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Who watches the watchmen? When judges sell decisions and prosecutors take bribes, the entire system of accountability collapses.",
+    "stat": {
+      "defendants": "Defendants in Lex",
+      "bribe": "Prosecutor bribe",
+      "delay": "Akkuża għal proċess (Lex)"
+    },
+    "disclaimer": "L-informazzjoni kollha hawn taħt hija derivata minn rekords uffiċjali tal-qorti, akkużi DCIAP, deċiżjonijiet dixxiplinarji tas-CSM, u sorsi ta’ aħbarijiet verifikati. Il-konvenuti fi proċedimenti li għadhom għaddejjin iżommu l-preżunzjoni tal-innoċenza sal-kundanna finali.",
+    "impact": {
+      "title": "Għaliex Dawn il-Każijiet Jgħoddu għal Kontra l-Korruzzjoni",
+      "fizzTitle": "Impatt Operação Fizz:",
+      "fizz1": "• Prosekutur mid-DCIAP—l-unità li tinvestiga l-korruzzjoni ta’ livell għoli—kienu nnifsu korrott",
+      "fizz2": "• Każijiet kontra l-elite Angolani ġew arkivjati minħabba t-tixħima",
+      "fizz3": "• Manuel Vicente, it- tixħim, qatt ma ġie pproċessat—il- każ tiegħu ġie trasferit lejn l- Angola",
+      "lexTitle": "Impatt tal-Operação Lex:",
+      "lex1": "• Jekk ippruvati, imħallfin fil-livell tal-Qorti tal-Appell biegħu deċiżjonijiet",
+      "lex2": "• Il-qorti li tirrevedi l-kundanni ta' korruzzjoni fl-ewwel istanza tkun hi stess tkun kompromessa",
+      "lex3": "• Il-każ ħa 7+ snin mill-akkuża (2018) sal-bidu tal-proċess (2025)"
+    },
+    "sources": {
+      "title": "Sorsi Uffiċjali:"
+    }
+  },
+  "methodology": {
+    "badge": "Riċerka Indipendenti",
+    "title": "Metodoloġija tar-Riċerka",
+    "sources": {
+      "title": "Sorsi Eżaminati",
+      "tc": "• Deċiżjonijiet tal-Qorti Kostituzzjonali (Acórdãos)",
+      "dciap": "• Akkużi uffiċjali tad-DCIAP (Uffiċċju tal-Prosekutur Pubbliku).",
+      "parliament": "• Rapporti ta' inkjesta parlamentari (CGD, BES, Novo Banco)",
+      "greco": "• Ir-rapporti tar-raba' u l-5 ta' Evalwazzjoni tal-GRECO",
+      "tdc": "• Rapporti bankarji tat-Tribunal de Contas (Qorti tal-Awdituri).",
+      "eu": "• Rapporti tal-Kummissjoni tal-UE dwar l-Istat tad-Dritt (2024, 2025)",
+      "eurobarometer": "• Stħarriġ dwar il-korruzzjoni tal-Ewrobarometru (2023, 2025)",
+      "ti": "• Transparency International CPI (2012-2024)",
+      "media": "• Midja Portugiża ewlenija: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Kriterji ta' Inklużjoni",
+      "judicial": "• Proċedimenti ġudizzjarji uffiċjali (kundanna, akkuża, investigazzjoni formali)",
+      "parliamentary": "• Inkjesti parlamentari b'rapporti ppubblikati",
+      "international": "• Valutazzjonijiet tal-korp ta' monitoraġġ internazzjonali",
+      "financial": "• Telf finanzjarju dokumentat mill-Qorti tal-Awdituri"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Allegazzjonijiet mhux verifikati mingħajr proċeduri uffiċjali",
+      "speculation": "• Spekulazzjoni jew opinjoni mhux sostnuta minn dokumenti",
+      "anonymous": "• Sorsi anonimi mingħajr korroborazzjoni"
+    },
+    "disclaimer": "L-individwi kollha msemmija jżommu l-preżunzjoni tal-innoċenza tagħhom. L-istatus ta' \"Taħt investigazzjoni\" jew \"arguido\" jista' jirriżulta f'liberazzjoni. L-istatus tal-każi huma mmarkati b'mod ċar. Din l-investigazzjoni tuża biss sorsi disponibbli pubblikament, dokumentati uffiċjalment.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Sorsi Esterni Verifikati",
+      "official": "56%",
+      "officialLabel": "Minn Sorsi Uffiċjali",
+      "years": "50",
+      "yearsLabel": "Snin Dokumentati (1974-2025)",
+      "cases": "40+",
+      "casesLabel": "Każijiet Cross-Referenced"
+    },
+    "limitations": {
+      "title": "Limitazzjonijiet tar-Riċerka",
+      "estimates": "• Xi ċifri finanzjarji huma stimi minn sorsi uffiċjali (Tribunal de Contas, INE)",
+      "media": "• Ir-rapporti tal-midja jista' jkun fihom ineżattezzi; aħna nipprijoritizzaw id-dokumenti uffiċjali",
+      "appeals": "• Ir-riżultati tal-każ jistgħu jinbidlu fl-appell; l-istatus jirriflettu l-aħħar informazzjoni verifikata",
+      "ongoing": "• Investigazzjonijiet li jkunu għaddejjin jistgħu jirriżultaw f'liberazzjoni jew arkivjar",
+      "incomplete": "• Din ir-riċerka setgħet tilfet każijiet jew data rilevanti; kwalunkwe ommissjonijiet mhumiex intenzjonati",
+      "corrections": "<strong class=\"text-warning\">Nilqgħu l-korrezzjonijiet:</strong> Jekk tidentifika żbalji, każijiet nieqsa, jew informazzjoni skaduta, jekk jogħġbok ibgħat korrezzjonijiet b'sorsi uffiċjali affidabbli. Aħna impenjati għall-eżattezza u se naġġornaw id-dejta kif xieraq."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "X'Jgħidu vs X'Uru d-Dokumenti",
+      "claimsTitle": "Dak li jsostnu l-politiċi",
+      "claim1": "• \"Jien innoċenti, din hija persekuzzjoni politika\"",
+      "claim2": "• \"Il-flus kienu self minn ħbieb\"",
+      "claim3": "• \"Il-Portugall għandu liġijiet b'saħħithom kontra l-korruzzjoni\"",
+      "claim4": "• \"Is-sistema tal-ġustizzja taħdem\"",
+      "claim5": "• \"Implimentajna r-rakkomandazzjonijiet kollha tal-UE\"",
+      "factsTitle": "X'Uru Dokumenti Uffiċjali",
+      "fact1": "• Akkużi DCIAP b'56,000+ paġna ta' evidenza",
+      "fact2": "• Reġistri bankarji li juru €34M fi trasferimenti mhux spjegati",
+      "fact3": "• TC ħassar il-liġijiet ta' arrikkiment illeċitu DARBAJN",
+      "fact4": "• 74.7% kundanni ta’ korruzzjoni = sentenzi sospiżi",
+      "fact5": "• GRECO: 0/28 rakkomandazzjoni implimentata bis-sħiħ",
+      "note": "Din l-investigazzjoni tiddependi fuq dokumenti uffiċjali, mhux talbiet. Kull statistika torbot mas-sors tagħha."
+    },
+    "why": {
+      "title": "Għaliex Dan il-Proġett Jeżisti",
+      "description": "L-informazzjoni kollha ppreżentata hawnhekk ġejja minn sorsi uffiċjali disponibbli pubblikament: deċiżjonijiet tal-qorti, inkjesti parlamentari, rapporti tal-UE, u statistika tal-gvern. Madankollu, l-aċċess għal din l-informazzjoni jeħtieġ li wieħed jinnaviga f'labirinti burokratiċi kumplessi - imxerrda f'għexieren ta' websajts istituzzjonali, midfuna f'dokumenti PDF, ħafna drabi f'lingwaġġ tekniku legali, u rari rreferenzi inkroċjati. Il-biċċa l-kbira taċ-ċittadini m'għandhomx il-ħin, l-għarfien, jew il-paċenzja biex jgħaqqdu din l-istampa frammentata.",
+      "purpose": "Dan il-proġett jissimplifika l-aċċess għal data diġà eżistenti. Aħna ma noħolqux informazzjoni ġdida - aħna naggregaw, nivverifikaw u nippreżentaw rekords uffiċjali f'format ssimplifikat u aċċessibbli b'links tas-sors sħaħ. Kull talba tista' tiġi traċċata lura għad-dokument oriġinali tagħha."
+    },
+    "editorial": {
+      "title": "Trasparenza Editorjali",
+      "description": "Dan huwa <strong class=\"text-white\">ġurnaliżmu ta’ promozzjoni investigattiva</strong>, mhux rappurtar newtrali. Għandna perspettiva ċara: li s-sistema politika tal-Portugall fiha karatteristiċi strutturali li jipproteġu lil dawk b'saħħithom mir-responsabbiltà. Din il-perspettiva tifforma kif nippreżentaw l-informazzjoni.",
+      "commitment": "Madankollu, aħna impenjati għall-eżattezza fattwali. Kull talba hija akkwistata. Aħna niddistingwu bejn fatti dokumentati u l-interpretazzjoni tagħna tal-mudelli. Aħna nirrikonoxxu spjegazzjonijiet alternattivi. Il-qarrejja għandhom jevalwaw l-evidenza tagħna u jaslu għall-konklużjonijiet tagħhom stess.",
+      "invitation": "Nilqgħu n-nuqqas ta' qbil. Jekk temmen li l-interpretazzjoni tagħna hija ħażina, ħu sehem mas-sorsi direttament. Id-dokumenti huma pubbliċi."
+    },
+    "evidenceTypes": {
+      "title": "Kif Aħna Nikklassifikaw l-Evidenza",
+      "intro": "Matul din l-investigazzjoni, aħna niddistingwu bejn tliet tipi ta’ talbiet:",
+      "fact": "Direttament minn sentenzi tal-qorti, rapporti uffiċjali, statistika tal-gvern. Verifikabbli permezz ta' sorsi konnessi.",
+      "pattern": "Każijiet multipli dokumentati jissuġġerixxu korrelazzjoni. Ma jipprovax kawżalità jew koordinazzjoni.",
+      "analysis": "L-interpretazzjoni tagħna tad-data. Nies raġonevoli jistgħu ma jaqblux ma 'dawn il-konklużjonijiet."
+    },
+    "counterArguments": {
+      "title": "Spjegazzjonijiet Alternattivi Aħna Nirrikonoxxu",
+      "intro": "Fl-interess tal-onestà intellettwali, hawn spjegazzjonijiet alternattivi leġittimi għal xi mudelli li niddokumentaw:",
+      "delays": {
+        "title": "Għaliex il-każijiet ta' korruzzjoni jieħdu 11+ sena?",
+        "legit1": "• Il-Ġudikatura m'għandhiex fondi u persunal insuffiċjenti",
+        "legit2": "• Reati finanzjarji kumplessi jeħtieġu investigazzjoni estensiva",
+        "legit3": "• Id-difiża għandha dritt leġittimu li tikkontesta l-evidenza",
+        "legit4": "• Protezzjonijiet kostituzzjonali jeżistu għal raġuni tajba",
+        "response": "Anke jekk id-dewmien ma jkunx intenzjonat, l-<em>effett</em>huwa l-impunità. Pajjiżi oħra tal-UE jipproċessaw reati simili aktar malajr. Il-medja tal-Portugall hija ta' 6.8 snin kontra n-norma tal-UE ta' 3-4 snin. L-intenzjoni hija importanti inqas mir-riżultat."
+      },
+      "euJobs": {
+        "title": "Il-ħatriet tal-UE huma verament \"premjijiet\"?",
+        "legit1": "• Il-politiċi għandhom esperjenza li tikkwalifikahom",
+        "legit2": "• Il-pożizzjonijiet tal-UE huma kompetittivi u bbażati fuq il-mertu",
+        "legit3": "• Korrelazzjoni ≠ kawżalità jew konfoffa",
+        "legit4": "• Ħafna politiċi kwalifikati qatt ma jiksbu impjiegi fl-UE",
+        "response": "Aħna ma nippretendux konfoffa. Aħna nosservaw mudell fejn l-investigazzjonijiet rarament jimblukkaw promozzjonijiet. Kemm jekk dan jirrifletti \"premju\" jew indifferenza għar-responsabbiltà, ir-riżultat jikkonċernana bl-istess mod."
+      },
+      "bothParties": {
+        "title": "Għaliex jiddokumentaw każijiet miż-żewġ partijiet ewlenin?",
+        "crit1": "• \"Din hija ekwivalenza falza\"",
+        "crit2": "• \"Parti waħda tista' tkun aktar korrotta mill-oħra\"",
+        "crit3": "• “Il-partiti ż-żgħar għandhom ukoll il-korruzzjoni”",
+        "response": "Aħna niddokumentaw il-każijiet proporzjonalment mal-evidenza. PS u PSD għandhom qawwa alternata għal 50 sena; it-tnejn għandhom każijiet dokumentati. Mhux qed nippretendu ekwivalenza — qed nuru li s-sistema tipproteġi <em>min ikun fil-poter</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "Għaliex Din l-Investigazzjoni Teżisti",
+    "subtitle": "Il-Ħolma Li Ma Setgħetx Sopravivenza s-Sistema",
+    "journalism": {
+      "title": "Ġurnaliżmu Portugiż Taħt Qbid Sistemiku",
+      "intro": "Kull ġurnalist jibda bl-istess ħolma: uri lin-nies il-verità, jiddokumenta dak li hu importanti, ibiddel id-dinja. Fil-Portugall, dik il-ħolma taħbat ma’ sistema maħsuba biex tipprevjeni eżattament dan."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "tal-ġurnalisti jaqilgħu inqas minn €1,000/xahar",
+      "groups": "4",
+      "groupsLabel": "gruppi tal-midja jikkontrollaw ix-xandir privat",
+      "lusa": "95.9%",
+      "lusaLabel": "tal-aġenzija tal-aħbarijiet nazzjonali (Lusa) issa proprjetà tal-istat",
+      "independence": "53%",
+      "independenceLabel": "riskju ta' indipendenza editorjali (sa minn 25%)"
+    },
+    "kills": {
+      "title": "Dak li Joqtol il-Ħolma",
+      "poverty": "15% jaqilgħu taħt il-paga minima jew xejn",
+      "ownership": "L-eks PM Pinto Balsemão kien proprjetà ta' Impresa (SIC, Expresso)",
+      "slapp": "319-il każ SLAPP kontra ġurnalisti fl-Ewropa (2024)",
+      "violence": "Il-mexxejja tal-partit Chega akkużati li heddew lill-ġurnalisti (Novembru 2024)",
+      "result": "Tnaqqis ta’ 23% fil-ġurnalisti professjonali mill-2009",
+      "strike": "40+ organizzazzjoni tal-midja marru fuq strajk storiku"
+    },
+    "pressure": {
+      "title": "Il-Pressjoni Sistemika",
+      "directors": "ta’ ġurnalisti jirrappurtaw pressjoni mid-diretturi",
+      "superiors": "tirrapporta pressjoni mis-superjuri editorjali",
+      "ranking": "Il-Portugall niżel fil-pluraliżmu tal-midja tal-UE"
+    },
+    "notCriticism": {
+      "title": "Din Mhix Kritika tal-Ġurnalisti",
+      "quote": "\"Il-prekarjetà għandha impatt tremend fuq l-indipendenza tal-ġurnalisti... Dan id-deterjorament għandu konsegwenzi fuq l-indipendenza politika, fuq id-deċiżjonijiet editorjali tal-midja.\"",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Għaliex ir-Riċerka Indipendenti Hija Meħtieġa",
+      "intro": "Din l-investigazzjoni tuża biss sorsi uffiċjali disponibbli pubblikament—l-istess dokumenti li kull kamra tal-aħbarijiet tista’ taċċessa. Id-differenza:",
+      "noAdvertisers": "Ebda min jirreklama jhedded l-irtirar tad-dħul",
+      "noOwners": "Ebda sidien b'konnessjonijiet politiċi x'jipproteġu",
+      "noEditors": "L-ebda edituri biex ittaffi l-lingwa għal interessi qawwija",
+      "noPrecarity": "L-ebda impjieg prekarju li jitlob silenzju",
+      "stance": "Din l-investigazzjoni tinsab ħdejn il-ġurnalisti Portugiżi, mhux kontrihom."
+    },
+    "sources": "Sources:"
+  },
+  "pension": {
+    "badge": "Protezzjoni Kostituzzjonali",
+    "title": "Protezzjoni tal-Pensjoni: Maqbuda, Irritornata, Maqbuda mill-ġdid",
+    "intro": "L-Artikolu 30 tal-Kostituzzjoni jipprevjeni t-telf awtomatiku tad-drittijiet wara kundanna. Il-politiċi kkundannati jżommu l-pensjonijiet tagħhom permezz ta’ appelli bla tmiem.",
+    "vara": {
+      "conviction": "Misjuba ħatja: 5 snin għal bejgħ ta' influwenza",
+      "status": "3x Maqbuda, 2x Mibgħuta lura"
+    },
+    "pinho": {
+      "conviction": "Kundanna: 10 snin + €4.9M multa",
+      "status": "sentenza ta' 10 snin skontata d-dar"
+    },
+    "socrates": {
+      "status": "Prova għaddejja (11+ sena)",
+      "prescribed": "167 minn 189 akkuża",
+      "expired": "Diġà preskritt (88%)",
+      "never": "Never seized",
+      "confirmed": "Sovvenzjoni kkonfermata li tirċievi (SIC 2022)"
+    },
+    "conclusion": "Artikolu Kostituzzjonali 30 + Sistema ta' Appelli = Protezzjoni tal-Pensjoni Infinita",
+    "conclusionDetail": "Ebda konfiska awtomatika. Kull sekwestru jeħtieġ ordni ġudizzjarja. Kull ordni tista' tiġi appellata. Kull appell jieħu s-snin. Il-konvenut iżomm il-pensjoni matul il-proċess."
+  },
+  "archive": {
+    "badge": "PGR Gatekeeping",
+    "title": "Deċiżjonijiet tal-Arkivju: \"Parco Detalhe\" (Dettall Insuffiċjenti)",
+    "intro": "L-Artikolu 246º n.º 6 CPP jippermetti lill-prosekuturi li jirrifjutaw investigazzjoni bbażata fuq \"dettall insuffiċjenti\" — anke b'evidenza dokumentata.",
+    "status": {
+      "archived": "ARCHIVED",
+      "declined": "DECLINED"
+    },
+    "reason": "Reason:",
+    "mechanism": "Mechanism:",
+    "investigation": "Investigation:",
+    "immunity": "Immunità mneħħija:",
+    "montenegro": {
+      "desc": "Kuntratti pubbliċi lil kumpanija tal-familja (Spinumviva) filwaqt li MP",
+      "outcome": "Jibqa 'PM b'kopertura minima tal-midja"
+    },
+    "mendes": {
+      "desc": "Ħlasijiet ta' konsulenza inkl. €360K mill-utilità tal-ilma ACA",
+      "irony": "Ironija: Huwa talab lill-Montenegro \"jiċċara kollox\""
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 akkużat, 463 reat",
+      "outcome": "60 oħra akkużati, figuri ta 'profil għoli arkivjati"
+    },
+    "pattern": {
+      "title": "Il-Mudell: Artikolu 246º n.º 6 CPP",
+      "how": "How it works:",
+      "paradox": "The paradox:",
+      "paradoxText": "Kif jista’ wieħed jistabbilixxi “indikazzjonijiet” mingħajr investigazzjoni? L-istandard jeħtieġ evidenza qabel l-investigazzjoni li tiġbor evidenza.",
+      "effect": "Effett: Veto tal-prosekuzzjoni fuq każijiet politikament sensittivi"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "description": "Validation checklist for all claims in Architecture of Impunity",
+    "lastUpdated": "2025-12-25",
+    "legend": {
+      "verified": "✅ Verified against source",
+      "pending": "⏳ Pending verification",
+      "needsUpdate": "🔄 Needs update/recheck"
+    }
+  },
+  "claims": {
+    "pensions": {
+      "vara_pension": {
+        "id": "claim-pension-vara",
+        "claim": "Armando Vara receives €8,551/month pension",
+        "value": "€8,551",
+        "status": "verified",
+        "source": "Correio da Manhã",
+        "sourceUrl": "https://www.cmjornal.pt/portugal/detalhe/armando-vara-recebe-pensoes-de-8551-euros-por-mes",
+        "sourceDate": "2022-03-19",
+        "verifiedDate": "2025-12-25",
+        "notes": "€4,590 (lifelong grant) + €3,961 (old-age pension)"
+      },
+      "pinho_pension": {
+        "id": "claim-pension-pinho",
+        "claim": "Manuel Pinho receives €26,000/month pension",
+        "value": "€26,000",
+        "status": "verified",
+        "source": "Portugal Resident",
+        "sourceUrl": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/",
+        "sourceDate": "2023",
+        "verifiedDate": "2025-12-25",
+        "notes": "Ministerial pension, seized 3x returned 2x"
+      }
+    },
+    "convictions": {
+      "vara_sentence": {
+        "id": "claim-conviction-vara",
+        "claim": "Armando Vara sentenced to 5 years 6 months",
+        "value": "5yr 6mo",
+        "status": "verified",
+        "source": "Essential Business",
+        "sourceUrl": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/",
+        "sourceDate": "2025-10-31",
+        "verifiedDate": "2025-12-25",
+        "notes": "Combined Face Oculta + Marquês sentences"
+      },
+      "pinho_sentence": {
+        "id": "claim-conviction-pinho",
+        "claim": "Manuel Pinho sentenced to 10 years",
+        "value": "10 years",
+        "status": "verified",
+        "source": "Bloomberg",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "sourceDate": "2021-12-15",
+        "verifiedDate": "2025-12-25",
+        "notes": "Passive corruption, tax fraud, money laundering"
+      },
+      "isaltino_conviction": {
+        "id": "claim-conviction-isaltino",
+        "claim": "Isaltino Morais convicted (2013) and still mayor (re-elected 2025)",
+        "value": "Re-elected Oct 2025 with 61.94%",
+        "status": "verified",
+        "source": "Público, Observador",
+        "sourceUrl": "https://www.publico.pt/2025/10/13/local/noticia/isaltino-morais-vitoria-esmagadora-oeiras-2150551",
+        "sourceDate": "2025-10-13",
+        "verifiedDate": "2025-12-25",
+        "notes": "11th election win. Convicted 2013, spent 427 days in prison for money laundering/tax fraud. Re-elected 2017, 2021, 2025."
+      }
+    },
+    "banking_scandals": {
+      "bes_loss": {
+        "id": "claim-bes-loss",
+        "claim": "BES collapse cost €11.8 billion",
+        "value": "€11.8B",
+        "status": "verified",
+        "source": "Infobae, Gestión, Court documents",
+        "sourceUrl": "https://www.infobae.com/espana/agencias/2024/10/15/arranca-en-portugal-el-macrojuicio-por-el-colapso-del-banco-espirito-santo/",
+        "sourceDate": "2024-10-15",
+        "verifiedDate": "2025-12-25",
+        "notes": "Trial started Oct 2024. Ricardo Salgado (80) faces 62 charges. 700 witnesses, 300+ crimes. 1,994 victims."
+      },
+      "bpn_loss": {
+        "id": "claim-bpn-loss",
+        "claim": "BPN nationalization initial loss €1.8B, total cost €4.9B+",
+        "value": "€4.9B+ (initial €1.8B)",
+        "status": "verified",
+        "source": "Tribunal de Contas, Renascença, DN",
+        "sourceUrl": "http://rr.sapo.pt/noticia/61516/a_factura_do_bpn_ate_agora_3200_milhoes_de_euros",
+        "sourceDate": "2018-11-02",
+        "verifiedDate": "2025-12-25",
+        "notes": "Initial 2009 loss €1.8B. Total by 2018: €4.924B. Sold to EuroBic for just €40M. Nobody jailed."
+      },
+      "cgd_bailout": {
+        "id": "claim-cgd-bailout",
+        "claim": "CGD received €3.9-4.9 billion recapitalization",
+        "value": "€4.9B (EU approved €3.9B)",
+        "status": "verified",
+        "source": "EU Commission, Jornal de Negócios",
+        "sourceUrl": "https://ec.europa.eu/commission/presscorner/detail/pt/ip_17_556",
+        "sourceDate": "2017-03-10",
+        "verifiedDate": "2025-12-25",
+        "notes": "€2.5B direct injection 2017 + €945M bonds 2012 + €499M Parcaixa shares. 2,500 job cuts. Fully repaid via dividends by 2024."
+      }
+    },
+    "statistics": {
+      "cpi_score": {
+        "id": "claim-cpi-2024",
+        "claim": "Portugal CPI score 2024",
+        "value": "57 (rank 43rd, -4 from 2023)",
+        "status": "verified",
+        "source": "Transparency International",
+        "sourceUrl": "https://www.transparency.org/en/cpi/2024/index/prt",
+        "sourceDate": "2025-02",
+        "verifiedDate": "2025-12-25",
+        "notes": "Score: 57/100, Rank: 43/180, Change: -4 from 2023. Worst performance to date."
+      },
+      "blocked_reforms": {
+        "id": "claim-blocked-reforms",
+        "claim": "14+ anti-corruption reforms blocked",
+        "value": "14+",
+        "status": "pending",
+        "source": "Needs parliamentary records",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "verifiedDate": null,
+        "notes": "Need to compile list from Assembleia records"
+      },
+      "chega_2021_rejection": {
+        "id": "claim-chega-2021",
+        "claim": "Chega illicit enrichment proposal rejected by all parties (2021)",
+        "value": "All parties voted NO (June 2021)",
+        "status": "verified",
+        "source": "Observador, Público, Polígrafo",
+        "sourceUrl": "https://observador.pt/2021/06/24/parlamento-chumba-proposta-do-chega-sobre-enriquecimento-injustificado/",
+        "sourceDate": "2021-06-24",
+        "verifiedDate": "2025-12-25",
+        "notes": "PS, PSD, BE, PCP, CDS, IL, PEV all voted against. PAN abstained. Later in Nov 2021, unanimous version passed (Chega absent)."
+      }
+    },
+    "political_cases": {
+      "socrates_charges": {
+        "id": "claim-socrates-charges",
+        "claim": "Sócrates faces 22 criminal charges",
+        "value": "22 crimes (3 corruption, 13 money laundering, 6 tax fraud)",
+        "status": "verified",
+        "source": "CNN Portugal, Público",
+        "sourceUrl": "https://cnnportugal.iol.pt/operacao-marques/jose-socrates/operacao-marques-os-numeros-do-processo-que-tem-21-arguidos-e-mais-de-650-testemunhas/20250703/68661aded34ef72ee447e0a7",
+        "sourceDate": "2025-07-03",
+        "verifiedDate": "2025-12-25",
+        "notes": "Trial started July 3, 2025. 22 defendants total. First PM ever tried in Portugal."
+      },
+      "socrates_amount": {
+        "id": "claim-socrates-amount",
+        "claim": "Sócrates alleged €34M in bribes",
+        "value": "€33,972,500 (rounded to €34M)",
+        "status": "verified",
+        "source": "Tribunal da Relação de Lisboa, CNN Portugal",
+        "sourceUrl": "https://cnnportugal.iol.pt/jose-socrates/operacao-marques/ricardo-salgado-vale-do-lobo-e-grupo-lena-a-rota-dos-34-milhoes-de-euros-que-terao-chegado-a-jose-socrates/20250703/68655c58d34ef72ee447dd73",
+        "sourceDate": "2025-07-03",
+        "verifiedDate": "2025-12-25",
+        "notes": "€21M from GES, €2.8M from Grupo Lena, €1M from Vale do Lobo. Court ruled funds belong to Sócrates."
+      },
+      "costa_resignation": {
+        "id": "claim-costa-resign",
+        "claim": "PM Costa resigned under investigation",
+        "value": "Resigned Nov 2023",
+        "status": "verified",
+        "source": "Reuters, NPR",
+        "sourceUrl": "https://www.npr.org/2023/11/07/1211131858/portugals-prime-minister-antonio-costa-resigns-corruption-investigation",
+        "sourceDate": "2023-11-07",
+        "verifiedDate": "2025-12-25",
+        "notes": "Operation Influencer investigation"
+      }
+    }
+  },
+  "pendingVerification": [
+    "claim-blocked-reforms"
+  ],
+  "verified": [
+    "claim-pension-vara",
+    "claim-pension-pinho",
+    "claim-conviction-vara",
+    "claim-conviction-pinho",
+    "claim-costa-resign",
+    "claim-conviction-isaltino",
+    "claim-cpi-2024",
+    "claim-socrates-charges",
+    "claim-socrates-amount",
+    "claim-bes-loss",
+    "claim-bpn-loss",
+    "claim-cgd-bailout",
+    "claim-chega-2021"
+  ]
+}

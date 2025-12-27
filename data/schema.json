@@ -1,0 +1,228 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EU Corruption Database Schema",
+  "version": "1.0.0",
+
+  "definitions": {
+    "country": {
+      "type": "object",
+      "required": ["code", "name", "cpiScore", "lastUpdated"],
+      "properties": {
+        "code": { "type": "string", "pattern": "^[A-Z]{2}$" },
+        "name": { "type": "string" },
+        "cpiScore": { "type": "number", "minimum": 0, "maximum": 100 },
+        "cpiRank": { "type": "integer" },
+        "eurobarometerCorruptionPerception": { "type": "number" },
+        "grecoComplianceRate": { "type": "number" },
+        "lastUpdated": { "type": "string", "format": "date" }
+      }
+    },
+
+    "politician": {
+      "type": "object",
+      "required": ["id", "name", "country"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "country": { "type": "string" },
+        "party": { "type": "string" },
+        "partyAbbrev": { "type": "string" },
+        "positions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": { "type": "string" },
+              "startDate": { "type": "string" },
+              "endDate": { "type": "string" },
+              "level": { "enum": ["local", "regional", "national", "eu"] }
+            }
+          }
+        },
+        "euPositions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": { "type": "string" },
+              "institution": { "type": "string" },
+              "startDate": { "type": "string" },
+              "endDate": { "type": "string" }
+            }
+          }
+        },
+        "pensionMonthly": { "type": "number" },
+        "pensionStatus": { "enum": ["active", "suspended", "forfeited", "unknown"] }
+      }
+    },
+
+    "case": {
+      "type": "object",
+      "required": ["id", "name", "country", "status"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "operationName": { "type": "string" },
+        "country": { "type": "string" },
+        "status": {
+          "enum": ["investigation", "trial", "convicted", "acquitted", "archived", "prescribed", "appealing"]
+        },
+        "politicians": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "charges": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "count": { "type": "integer" },
+              "status": { "enum": ["pending", "convicted", "acquitted", "prescribed"] }
+            }
+          }
+        },
+        "timeline": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "date": { "type": "string" },
+              "event": { "type": "string" },
+              "significance": { "type": "string" }
+            }
+          }
+        },
+        "amounts": {
+          "type": "object",
+          "properties": {
+            "alleged": { "type": "number" },
+            "proven": { "type": "number" },
+            "recovered": { "type": "number" },
+            "publicCost": { "type": "number" },
+            "currency": { "type": "string", "default": "EUR" }
+          }
+        },
+        "sentence": {
+          "type": "object",
+          "properties": {
+            "prison": { "type": "string" },
+            "suspended": { "type": "boolean" },
+            "fine": { "type": "number" },
+            "actualTimeServed": { "type": "string" }
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "url": { "type": "string" },
+              "date": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "scandal": {
+      "type": "object",
+      "required": ["id", "name", "country", "category"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "country": { "type": "string" },
+        "category": {
+          "enum": ["banking", "political", "judicial", "media", "corporate", "abuse", "other"]
+        },
+        "startYear": { "type": "integer" },
+        "endYear": { "type": "integer" },
+        "description": { "type": "string" },
+        "publicCost": { "type": "number" },
+        "victimsCount": { "type": "integer" },
+        "relatedCases": { "type": "array", "items": { "type": "string" } },
+        "relatedPoliticians": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+
+    "mediaOutlet": {
+      "type": "object",
+      "required": ["id", "name", "country", "type"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "country": { "type": "string" },
+        "type": { "enum": ["tv", "radio", "print", "digital", "agency"] },
+        "owner": { "type": "string" },
+        "ownerPoliticalConnection": { "type": "string" },
+        "stateOwned": { "type": "boolean" },
+        "stateAdvertisingDependency": { "enum": ["high", "medium", "low", "none"] },
+        "perceivedLean": { "enum": ["left", "center-left", "center", "center-right", "right", "government-aligned"] }
+      }
+    },
+
+    "legalLoophole": {
+      "type": "object",
+      "required": ["id", "name", "country"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "country": { "type": "string" },
+        "category": {
+          "enum": ["prescription", "immunity", "procedural", "constitutional", "jurisdictional", "other"]
+        },
+        "description": { "type": "string" },
+        "effect": { "type": "string" },
+        "beneficiaries": { "type": "array", "items": { "type": "string" } },
+        "reformAttempts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "year": { "type": "integer" },
+              "proposal": { "type": "string" },
+              "outcome": { "enum": ["passed", "blocked", "watered-down", "pending"] },
+              "blockedBy": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+
+    "grecoRecommendation": {
+      "type": "object",
+      "required": ["id", "country", "round", "recommendation"],
+      "properties": {
+        "id": { "type": "string" },
+        "country": { "type": "string" },
+        "round": { "type": "string" },
+        "year": { "type": "integer" },
+        "recommendation": { "type": "string" },
+        "status": { "enum": ["implemented", "partly-implemented", "not-implemented"] },
+        "lastAssessment": { "type": "string" }
+      }
+    },
+
+    "pensionRule": {
+      "type": "object",
+      "required": ["country"],
+      "properties": {
+        "country": { "type": "string" },
+        "hasForfeiture": { "type": "boolean" },
+        "forfeitureConditions": { "type": "string" },
+        "pensionAmounts": {
+          "type": "object",
+          "properties": {
+            "president": { "type": "number" },
+            "primeMinister": { "type": "number" },
+            "minister": { "type": "number" },
+            "mp": { "type": "number" }
+          }
+        },
+        "specialSchemes": { "type": "string" },
+        "reformHistory": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

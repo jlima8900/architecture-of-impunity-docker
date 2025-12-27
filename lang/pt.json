@@ -1,0 +1,3264 @@
+{
+  "meta": {
+    "title": "A Arquitetura da Impunidade - Sistema de Proteção Política de Portugal",
+    "description": "Como o Sistema Político Português Foi Desenhado para Proteger os Corruptos"
+  },
+  "nav": {
+    "brand": "Arquitetura da Impunidade",
+    "logo": "Arquitetura da Impunidade",
+    "thesis": "A Tese",
+    "cases": "Processos",
+    "loopholes": "Brechas Legais",
+    "blocking": "Bloqueio",
+    "euRewards": "Recompensas UE",
+    "solution": "Solução",
+    "eliteLaws": "Leis da Elite",
+    "euLabor": "Trabalho UE",
+    "odds": "Probabilidades",
+    "database": "Base de Dados",
+    "mediaMachine": "Mídia",
+    "goldenParachute": "Reformas",
+    "sources": "Fontes",
+    "timeline": "Cronologia",
+    "stats": "Estatísticas",
+    "dashboard": "Painel",
+    "forum": "Fórum",
+    "donate": "Doar",
+    "sign": "ASSINAR",
+    "home": "Início",
+    "signPetition": "Assinar petição",
+    "convicted": "Condenados",
+    "judicial": "Judicial",
+    "methodology": "Metodologia",
+    "nextPart": "Próximo:",
+    "conclusion": "Conclusion"
+  },
+  "accessibility": {
+    "skipToContent": "Saltar para o conteúdo principal",
+    "toggleNav": "Alternar menu de navegação",
+    "changeLang": "Alterar idioma",
+    "mainNav": "Navegação principal",
+    "infoIcon": "Informação",
+    "closeBanner": "Fechar aviso"
+  },
+  "legal": {
+    "title": "Aviso Legal:",
+    "text": "Todos os indivíduos mencionados têm direito à presunção de inocência até prova em contrário. Este documento apresenta informação pública de fontes oficiais, documentos judiciais e meios de comunicação credíveis. A análise documenta padrões nos sistemas políticos e jurídicos europeus."
+  },
+  "hero": {
+    "manifesto": "\"NÃO ESTÃO ACIMA DE NÓS\"",
+    "title": "A ARQUITETURA DA IMPUNIDADE",
+    "subtitle": "Como o Sistema Político Português Está Desenhado para Proteger os Corruptos",
+    "subtext": "Os políticos são SERVIDORES públicos, não SENHORES públicos. Devem viver como cidadãos, ser auditados como cidadãos e enfrentar a justiça como cidadãos.",
+    "stat1": "Índice de Corrupção TI 2024",
+    "stat2": "Anos: Duração do Caso Sócrates",
+    "stat3": "Cidadãos Acreditam que o Gov. É Corrupto",
+    "scroll": "Deslize para Começar",
+    "declaration": "Uma investigação cidadã sobre a corrupção política em Portugal",
+    "begin": "Iniciar investigação",
+    "downloadPdf": "Descarregar PDF"
+  },
+  "parts": {
+    "one": "Parte I",
+    "two": "Parte II",
+    "three": "Parte III",
+    "four": "Parte IV",
+    "five": "Parte V",
+    "six": "Parte VI",
+    "seven": "Parte VII",
+    "eight": "Parte VIII",
+    "nine": "Parte IX",
+    "ten": "Parte X",
+    "eleven": "Parte XI",
+    "twelve": "Parte XII",
+    "thirteen": "Parte XIII"
+  },
+  "thesis": {
+    "title": "A Classe Política Pavloviana",
+    "intro": "O sistema político português funciona segundo princípios de condicionamento clássico",
+    "cycle": {
+      "title": "O Ciclo de Condicionamento",
+      "formula": "ESTÍMULO → RESPOSTA → RECOMPENSA → REPETIR",
+      "entry": {
+        "title": "ENTRADA",
+        "trigger": "Juntar-se ao partido, mostrar lealdade",
+        "reward": "→ Posição na lista eleitoral"
+      },
+      "service": {
+        "title": "SERVIÇO",
+        "trigger": "Votar como mandado, proteger colegas",
+        "reward": "→ Mordomias (carros, motoristas, staff, despesas)"
+      },
+      "scandal": {
+        "title": "ESCÂNDALO",
+        "trigger": "Investigação anunciada",
+        "reward": "→ Imunidade ativada, segredo de justiça, atrasos começam"
+      },
+      "rescue": {
+        "title": "RESGATE",
+        "trigger": "Ficar calado, não expor outros",
+        "reward": "→ Brecha legal de última hora salva-o"
+      },
+      "promotion": {
+        "title": "PROMOÇÃO",
+        "trigger": "Lealdade comprovada durante crise",
+        "reward": "→ CARGO NA UE (a recompensa máxima)"
+      }
+    },
+    "keyInsight": {
+      "title": "\"Eles Não Estão Acima de Nós\" — Mas Puseram-se Acima de Nós",
+      "point1": "Os políticos criaram uma sociedade paralela com privilégios inacessíveis aos cidadãos",
+      "point2": "O sistema produz exatamente o comportamento que recompensa: políticos complacentes que se protegem mutuamente",
+      "point3": "A reforma interna é impossível: como pedir aos cães de Pavlov para desligar a campainha da comida",
+      "parallel": "Os políticos criaram uma sociedade paralela com privilégios a que os cidadãos não conseguem aceder",
+      "rewards": "O sistema produz exatamente o comportamento que recompensa: políticos complacentes que se protegem mutuamente",
+      "reform": "A reforma a partir de dentro é impossível: como pedir aos cães de Pavlov para desligar a campainha da comida"
+    },
+    "selfReinforcing": {
+      "title": "O Ciclo Auto-Reforçante",
+      "intro": "O sistema perpetua-se. Cada geração de políticos aprende com a anterior:",
+      "observe": {
+        "title": "OBSERVAR",
+        "text": "Políticos jovens veem os seniores sobreviver aos escândalos"
+      },
+      "learn": {
+        "title": "APRENDER",
+        "text": "Aprendem as regras: lealdade = proteção"
+      },
+      "replicate": {
+        "title": "REPLICAR",
+        "text": "Quando chega a sua vez, protegem outros esperando o mesmo"
+      },
+      "teach": {
+        "title": "ENSINAR",
+        "text": "Tornam-se nos seniores que os juniores observam"
+      },
+      "conclusion": "Só força externa — referendo cidadão — pode quebrar o ciclo.",
+      "howLoop": "Como o Ciclo Funciona:",
+      "loopSteps": {
+        "step1": {
+          "title": "Políticos jovens observam:",
+          "text": "Figuras seniores cometem crimes → enfrentam investigação → escapam → são promovidos"
+        },
+        "step2": {
+          "title": "Lição aprendida:",
+          "text": "\"O sistema protege os seus. Se eu for leal, serei protegido também.\""
+        },
+        "step3": {
+          "title": "Comportamento ajustado:",
+          "text": "Votam para manter brechas legais, proteger colegas, bloquear reformas"
+        },
+        "step4": {
+          "title": "Expectativa solidificada:",
+          "text": "Quando o seu próprio escândalo chegar, esperam e recebem a mesma proteção"
+        },
+        "step5": {
+          "title": "Próxima geração observa:",
+          "text": "O ciclo repete-se com expectativas reforçadas"
+        }
+      },
+      "whyFails": "Porque a Reforma SEMPRE Falha:",
+      "reformFails": {
+        "enrichment": {
+          "title": "Enriquecimento ilícito bloqueado:",
+          "text": "Os políticos não votam para remover a sua própria saída de emergência"
+        },
+        "lobby": {
+          "title": "Regulação de lobbies bloqueada:",
+          "text": "PSD bloqueou DUAS VEZES (2019, 2024) - ameaça o sistema de recompensas"
+        },
+        "immunity": {
+          "title": "Imunidade mantida:",
+          "text": "O Parlamento não vota para levantar imunidade - podem precisar dela"
+        },
+        "prescription": {
+          "title": "Prescrição inalterada:",
+          "text": "Os atrasos longos servem o sistema, então o sistema mantém-nos"
+        }
+      },
+      "trapTitle": "A ARMADILHA:",
+      "trapText": "Pedir a políticos condicionados que votem reformas que eliminariam as suas recompensas esperadas é como pedir aos cães de Pavlov para desligar a campainha da comida. O condicionamento é demasiado profundo."
+    },
+    "elitePattern": {
+      "title": "O Padrão de Proteção da Elite",
+      "intro": "A análise de casos mediáticos revela um padrão consistente de três passos:",
+      "investigate": {
+        "title": "INVESTIGAR",
+        "text": "Media expõem o escândalo → Procuradores anunciam investigação → Indignação pública contida"
+      },
+      "delay": {
+        "title": "ATRASAR",
+        "text": "Anos de complexidade processual → Segredo de justiça invocado → Provas envelhecem"
+      },
+      "archiveOrReward": {
+        "title": "ARQUIVAR OU RECOMPENSAR",
+        "text": "Caso arquivado por 'falta de provas' OU político promovido para cargo superior"
+      }
+    },
+    "comparison": {
+      "sweden": {
+        "title": "O Contraste Sueco",
+        "source": "Fonte: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)",
+        "aspect": "Aspeto",
+        "officialCars": "Carros Oficiais",
+        "mpOffices": "Gabinetes de Deputados",
+        "immunity": "Imunidade",
+        "salaryRaises": "Aumentos Salariais",
+        "localCouncillors": "Vereadores Locais",
+        "transparency": "Transparência",
+        "cpiScore": "Pontuação TI CPI",
+        "swedenValues": {
+          "cars": "Só o PM tem carro (segurança). Todos os outros: autocarro/comboio",
+          "offices": "Gabinetes de 7m²; Deputados gerem próprias agendas",
+          "immunity": "Nenhuma. Julgados em tribunal como qualquer cidadão",
+          "salary": "Comité independente decide",
+          "councillors": "Voluntários, sem salário, trabalham de casa",
+          "transparency": "Todas as declarações fiscais públicas desde 1766",
+          "cpi": "85/100 (Top 5) - ESTÁVEL"
+        },
+        "portugalValues": {
+          "cars": "PM tem 11 motoristas",
+          "offices": "Staff completo, secretárias, grandes orçamentos",
+          "immunity": "Não pode ser detido sem voto do Parlamento",
+          "salary": "Políticos votam na própria compensação",
+          "councillors": "Cargos pagos com staff",
+          "transparency": "Segredo de justiça esconde casos durante anos",
+          "cpi": "57/100 (43º) - EM DECLÍNIO"
+        },
+        "quote": "Somos cidadãos comuns. Não faz sentido dar privilégios especiais a parlamentares, já que a nossa tarefa é representar cidadãos e conhecer a realidade em que as pessoas vivem.",
+        "quoteCite": "— Per-Arne Håkansson, Deputado Sueco",
+        "sourceLabel": "Fonte: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+      },
+      "switzerland": {
+        "title": "O Modelo Suíço: Democracia Direta em Ação",
+        "intro": "A Suíça prova que os cidadãos podem controlar diretamente os seus políticos através de referendos vinculativos. Os suíços votam aproximadamente <strong>4 vezes por ano</strong> em média de <strong>15 questões federais</strong>.",
+        "popularInitiative": {
+          "title": "Iniciativa Popular",
+          "requirement": "100.000 assinaturas",
+          "text": "Voto de emenda constitucional - cidadãos podem propor alterações à constituição"
+        },
+        "optionalReferendum": {
+          "title": "Referendo Opcional",
+          "requirement": "50.000 assinaturas",
+          "text": "Vetar qualquer lei dentro de 100 dias da aprovação"
+        },
+        "mandatoryReferendum": {
+          "title": "Referendo Obrigatório",
+          "requirement": "Automático",
+          "text": "TODAS as alterações constitucionais DEVEM ir a voto popular"
+        },
+        "facts": {
+          "nonProfessional": "<strong>Políticos não-profissionais:</strong> Deputados não têm salário estatal completo - espera-se que mantenham empregos regulares",
+          "referendums": "<strong>Entre 1848-2024:</strong> 517 referendos realizados",
+          "cpi": "<strong>Classificação TI CPI:</strong> 3º globalmente (empatado com Suécia e Singapura)"
+        },
+        "quote": "A palavra do povo é suprema.",
+        "quoteCite": "— Princípio democrático suíço",
+        "stats": "Estatísticas Suíças Importantes:"
+      }
+    },
+    "portugalReality": {
+      "title": "Realidade Portuguesa",
+      "drivers": {
+        "number": "11",
+        "label": "Motoristas para o PM António Costa",
+        "detail": "Cada um ganhando €2.121/mês"
+      },
+      "cabinet": {
+        "number": "62",
+        "label": "Membros do Governo",
+        "detail": "Média: €2.794 | Professores: €1.705 | Salário mínimo: €820"
+      },
+      "cpiDrop": {
+        "number": "-4",
+        "label": "Queda de Pontos no TI CPI 2024",
+        "detail": "Pontuação: 57/100 | Posição: 43º de 180 países"
+      }
+    },
+    "citizensKnow": "Os Cidadãos Sabem que o Sistema É Corrupto:"
+  },
+  "cases": {
+    "title": "As Provas: Processos Completos",
+    "intro": "Casos documentados que demonstram o sistema de proteção em ação",
+    "status": {
+      "ongoing": "Julgamento em Curso",
+      "euPromoted": "Presidente do Conselho Europeu",
+      "archived": "Arquivado",
+      "declined": "Investigação Recusada",
+      "arguido": "Arguido Formal",
+      "pgrDeclined": "PGR Recusou Investigação",
+      "trialOngoing": "Julgamento em Curso",
+      "euCouncilPresident": "Presidente do Conselho da UE",
+      "formalSuspect": "Arguido",
+      "convictedServing": "CONDENADO - A Cumprir",
+      "convictedAppealing": "CONDENADO - Em Recurso",
+      "convictedRearrested": "CONDENADO (2010) - Redetido 2022",
+      "convictedMultiple": "CONDENAÇÕES MÚLTIPLAS",
+      "formalSuspectArguido": "ARGUIDO",
+      "arrestedJan2024": "DETIDO (Janeiro 2024)",
+      "neverProsecuted": "NUNCA PROCESSADO",
+      "neverDefendant": "Nunca Arguido",
+      "convictedUnpaid": "CONDENADO - Dívida Por Pagar",
+      "convictedMultipleJurisdictions": "CONDENADO - Portugal e Brasil",
+      "convictedSuspended": "CONDENADO - Pena Suspensa",
+      "convictedHouseArrest": "CONDENADO - Prisão Domiciliária"
+    },
+    "conditioningLesson": "Lição de Condicionamento",
+    "theFacts": "Os Factos",
+    "timelineLabel": "Cronologia",
+    "tableStatus": {
+      "onTrial": "Em Julgamento",
+      "underInvestigation": "Sob Investigação",
+      "convicted": "CONDENADO",
+      "convictedX2": "CONDENADO x2",
+      "arguido": "Arguido",
+      "archived": "Arquivado",
+      "declined": "Recusado",
+      "arrested": "DETIDO",
+      "neverProsecuted": "Nunca processado",
+      "neverDefendant": "Nunca arguido*",
+      "convictedSuspended": "CONDENADO (susp.)"
+    },
+    "charges": {
+      "passiveCorruption": "Corrupção passiva",
+      "moneyLaundering": "Branqueamento de capitais",
+      "documentFalsification": "Falsificação de documentos",
+      "taxFraud": "Fraude fiscal agravada"
+    },
+    "socrates": {
+      "name": "José Sócrates",
+      "operation": "Operação Marquês",
+      "party": "PS - Partido Socialista",
+      "position": "Primeiro-Ministro (2005-2011)",
+      "timeline": {
+        "arrested": "Preso no Aeroporto de Lisboa",
+        "detained": "Detido na prisão de Évora",
+        "accusation": "Acusação formal (28 crimes)",
+        "trial": "25 crimes enviados para julgamento",
+        "ongoing": "Julgamento AINDA em curso - 11+ ANOS",
+        "instruction": "Instructional decision - 25 crimes sent to julgamento",
+        "current": "julgamento STILL em curso - 11+ anos"
+      },
+      "charges": {
+        "title": "Acusações (22 crimes no total)",
+        "corruption": "Passive corrupção of political office holder",
+        "laundering": "Branqueamento de capitais",
+        "falsification": "Falsificação de documentos",
+        "fraud": "Fraude fiscal agravada"
+      },
+      "amounts": {
+        "switzerland": "Suíça (2006-2009)",
+        "total": "Total de 3 empresas",
+        "prescribed": "Acusações prescritas"
+      },
+      "prescription": {
+        "title": "⏱️ Crise de Prescrição",
+        "text": "Dos 189 crimes alegados originais, 167 já prescreveram devido a atrasos processuais. Apenas 22 acusações permanecem ativas após 11+ anos."
+      },
+      "keyFacts": {
+        "title": "Factos Importantes da Acusação Oficial",
+        "switzerland": "Acumulado na Suíça (2006-2009)",
+        "total": "Total alegadamente recebido de três empresas",
+        "sources": "Fontes of bribes: Grupo LENA (construction), Grupo Espírito Santo / BES (Ricardo Salgado), Vale de Lobo (golf resort), Portugal Telecom"
+      },
+      "lesson": {
+        "title": "Lição de Condicionamento",
+        "text": "Os casos podem ser adiados indefinidamente. Mesmo ex-PMs não enfrentam consequências durante uma década. Cada recurso reinicia os prazos."
+      },
+      "coAccused": {
+        "apartment": "Apartamento parisiense",
+        "description": "Amigo próximo de Sócrates e alegado \"financiador\". Empresário que supostamente canalizou milhões para ex-PM por meio de compras de propriedades, pagamentos de carros e reformas de casas. Acusado de 9 acusações de lavagem de dinheiro.",
+        "expenses": "Despesas de vida",
+        "renovations": "Renovações",
+        "sources": "Fontes: acusação do DCIAP, reportagens da imprensa portuguesa",
+        "title": "Principais co-acusados: Carlos Santos Silva",
+        "vehicles": "Veículos"
+      }
+    },
+    "costa": {
+      "name": "António Costa",
+      "operation": "Influenciador da Operação",
+      "party": "PS - Partido Socialista",
+      "position": "Primeiro-Ministro (2015-2023) → Presidente do Conselho da UE (2024-)",
+      "timeline": {
+        "raid": "Rusga policial no Palácio de São Bento",
+        "resigns": "Costa demite-se imediatamente",
+        "elected": "Líderes da UE ELEGEM Costa como Presidente",
+        "takesOffice": "Toma posse como Presidente do Conselho da UE",
+        "ongoing": "AINDA sob investigação",
+        "resignation": "Costa demite-se imediatamente",
+        "euElection": "Líderes da UE ELEGEM Costa como Presidente do Conselho Europeu",
+        "current": "AINDA sob investigação, AINDA a presidir a UE"
+      },
+      "keyFacts": {
+        "title": "Os Factos",
+        "cash": "Dinheiro encontrado escondido em livros e caixas de vinho no gabinete do chefe de gabinete",
+        "relates": "A investigação relaciona-se com: Extração de lítio, hidrogénio verde, projetos de centros de dados em Sines",
+        "arrests": "Key Arrests: Vítor Escária (Chief of Staff - preso), Nuno Mascarenhas (Mayor of Sines - preso), Diogo Lacerda Machado (businessman - preso)",
+        "galamba": "Co-conspirators named: João Galamba (Infrastructure Ministro - formal arguido) — allegedly involved in influence peddling for lithium/hydrogen projects; remained in governo until Costa's resignation"
+      },
+      "lesson": {
+        "title": "Lição de Condicionamento",
+        "text": "Lealdade máxima = promoção na UE. Estar sob investigação criminal não é obstáculo para os cargos mais altos da UE. A recompensa máxima para o cão mais leal."
+      },
+      "quote": "Em 27 de junho de 2024, os líderes da UE elegeram António Costa como Presidente do Conselho Europeu. Tomou posse a 1 de dezembro de 2024.",
+      "quoteCite": "— Website Oficial do Conselho Europeu"
+    },
+    "montenegro": {
+      "name": "Luís Montenegro",
+      "operation": "Caso Spinumviva",
+      "party": "PSD - Partido Social Democrata",
+      "position": "Primeiro-Ministro (2024-presente)",
+      "amounts": {
+        "family": "410.000€+ em negócios familiares",
+        "solverde": "4.500€/mês de consultoria para empresa de jogos"
+      },
+      "loopholeTitle": "A Brecha Que O Salvou:",
+      "loophole": {
+        "notFormal": "Não formalmente acusado—apenas nomeado no processo",
+        "preliminary": "Pré-investigação (averiguação) arquivada sem acusações",
+        "archived": "Caso arquivado a 17 de dezembro de 2025"
+      }
+    },
+    "mendes": {
+      "name": "Luís Marques Mendes",
+      "role": "Comentador Político da SIC",
+      "party": "PSD - Partido Social Democrata",
+      "position": "Ex-Líder do PSD (2005-2007), Membro do Conselho de Estado",
+      "amounts": {
+        "consultant": "700.000€+ em honorários de consultoria não declarados",
+        "aca": "5.000€/mês da ACA-M (empreiteiro do Estado)"
+      },
+      "keyFacts": {
+        "aca": "Recebeu 60.000€/ano da ACA-M enquanto esta tinha 400M€+ em contratos do Estado",
+        "irony": "Como comentador da SIC, comenta sobre corrupção sem divulgar os seus próprios interesses financeiros"
+      },
+      "loopholeTitle": "A Brecha Que O Salvou:",
+      "loophole": {
+        "complaint": "Queixa anónima apresentada",
+        "pgr": "PGR rejeitada por \"parco detalhe\"",
+        "noInvestigation": "Nenhuma investigação jamais aberta",
+        "destroyed": "Provas efetivamente destruídas por inação"
+      }
+    },
+    "albuquerque": {
+      "name": "Miguel Albuquerque",
+      "operation": "Operação Ab Initio",
+      "party": "PSD - Partido Social Democrata",
+      "position": "Presidente do Governo Regional da Madeira",
+      "timeline": {
+        "searches": "Janeiro 2024: Buscas policiais em gabinetes do governo",
+        "crimes": "8 crimes alegados: corrupção passiva, abuso de poder",
+        "censure": "Março 2024: Moção de censura falha",
+        "reelection": "Maio 2024: REELEITO sob investigação"
+      },
+      "relatedArrest": "Detenção Relacionada:",
+      "calado": {
+        "text": "Pedro Calado (Vice-Presidente, PSD) detido em janeiro 2024 por corrupção"
+      },
+      "lesson": {
+        "text": "Estar sob investigação formal não é obstáculo à reeleição. O sistema protege os seus."
+      }
+    },
+    "salgado": {
+      "name": "Ricardo Salgado.",
+      "charges": "Múltiplas condenações: colapso BES, corrupção EDP",
+      "note": "Alega Alzheimer para evitar prisão. Continua a receber reforma de banqueiro."
+    },
+    "galamba": {
+      "name": "João Galamba",
+      "charges": "Arguido na Operação Influencer (corrupção lítio/hidrogénio)",
+      "note": "Manteve-se Ministro das Infraestruturas até à demissão do PM Costa"
+    },
+    "calado": {
+      "name": "Pedro Calado",
+      "charges": "Detido por corrupção, conluio em contratos públicos",
+      "note": "Vice-Presidente da Madeira, detido em janeiro 2024"
+    },
+    "barroso": {
+      "name": "O Presidente",
+      "charges": "Nomeado no escândalo dos submarinos. Nunca processado.",
+      "note": "Presidente da Comissão UE (2004-2014) → Goldman Sachs"
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "charges": "3,5 anos: Fraude qualificada, dissipação de bens. Dívida de €900M+ ao banco estatal CGD",
+      "note": "Coleção de arte avaliada em €500M+ transferida para fundações antes da apreensão. Supremo agravou pena para 4 anos (2025)"
+    },
+    "lima": {
+      "name": "Duarte Lima",
+      "charges": "6 anos (PT) + 25 anos (BR): Fraude (BPN), Homicídio de Rosalina Ribeiro no Brasil",
+      "note": "Ex-deputado do PSD (1987-2008). Vítima era herdeira da fortuna do seu cliente. Sentença brasileira aguarda extradição"
+    },
+    "loureiro": {
+      "name": "Valentim Loureiro",
+      "charges": "2 anos suspensos: Corrupção no futebol Apito Dourado. Manipulação de jogos, suborno de árbitros",
+      "note": "Presidente da Câmara de Gondomar (1976-2013). Presidente do Boavista FC. Nunca cumpriu pena de prisão"
+    },
+    "additionalConvicted": "Outros Políticos Condenados/Acusados"
+  },
+  "loopholes": {
+    "title": "A Arquitetura Legal: Alçapões de Escape Projetados",
+    "subtitle": "Isto não são bugs — são funcionalidades",
+    "intro": "Como a lei está desenhada para proteger os políticos",
+    "anonymousComplaint": {
+      "title": "Denúncias Anónimas Rejeitadas",
+      "text": "O Artigo 246.º n.º 6 CPP permite aos procuradores rejeitar denúncias anónimas por \"parco detalhe\" (detalhe insuficiente), mesmo quando são fornecidas provas."
+    },
+    "immunity": {
+      "title": "Imunidade Parlamentar",
+      "text": "O Artigo 157.º CRP impede a detenção de deputados sem permissão do parlamento—que nunca é concedida para aliados políticos."
+    },
+    "averiguacao": {
+      "title": "Fase de Pré-Inquérito",
+      "subtitle": "Averiguação Preliminar",
+      "text": "Uma fase de pré-investigação que pode durar anos sem acusações formais, permitindo aos políticos afirmar que \"não estão sob investigação.\""
+    },
+    "segredo": {
+      "title": "Segredo de Justiça",
+      "text": "O Artigo 86.º n.º 3 CPP permite que o \"segredo de justiça\" esconda investigações durante anos—enquanto políticos continuam em funções e são promovidos."
+    },
+    "prescription": {
+      "title": "Prazos de Prescrição",
+      "articles": "Artigos 118-122 CP",
+      "text": "Casos complexos de corrupção podem ser atrasados até prescreverem (expirarem). O caso médio demora 8-12 anos; a prescrição é de 10-15 anos."
+    },
+    "constitutionalCourt": {
+      "title": "Veto do Tribunal Constitucional",
+      "subtitle": "(Tribunal Constitucional).",
+      "text": "O TC chumbou leis de enriquecimento ilícito DUAS VEZES (2012, 2015) e bloqueou múltiplas tentativas de referendo."
+    },
+    "immunityComparison": {
+      "title": "Imunidade Parlamentar: Comparação com a UE",
+      "scope": "Escopo de imunidade",
+      "canBlock": "Pode bloquear a investigação?",
+      "note": "A imunidade de Portugal é a MAIS AMPLA da UE, apesar de quadros constitucionais semelhantes. Os deputados não podem ser detidos sem o voto do Parlamento – o que nunca é concedido aos aliados políticos."
+    },
+    "prescriptionComparison": {
+      "title": "Períodos de prescrição: comparação na UE",
+      "period": "Período",
+      "suspension": "Suspenso durante a investigação?",
+      "avgDuration": "Duração média do caso",
+      "critical": "Descoberta Crítica:",
+      "finding": "Operação Marquês: 167 das 189 acusações prescritas (88% rejeitadas como “tarde demais”). O juiz reconheceu a prova, mas decidiu que \"o tempo expirou\".",
+      "stat": "73% dos procuradores portugueses afirmam que os prazos de prescrição são insuficientes. (Fonte: Transparência Internacional)"
+    },
+    "article246": {
+      "title": "O Paradoxo do Artigo 246º",
+      "mechanism": "O Mecanismo:",
+      "explanation": "O artigo 246.º n.º 6 do CPP exige que os procuradores encontrem “indícios” de crime ANTES de investigar. Mas como estabelecer indícios sem investigar? A lei cria um beco sem saída perfeito.",
+      "cases": "Aplicações de casos:",
+      "montenegro": "Pagamentos documentados de 410 mil euros → \"insuficientes\"",
+      "mendes": "Registros bancários de € 700 mil → \"escassos detalhes\"",
+      "verdict": "\"Um recurso de design disfarçado de salvaguarda processual.\""
+    },
+    "inconsistency": {
+      "title": "Tribunal Constitucional: Aplicação Seletiva",
+      "permitted": "✓ PERMITIDO em Portugal",
+      "prohibited": "✗ PROIBIDO pelo TC",
+      "p1": "• Procuradores recusam investigação apesar dos documentos (Montenegro, Mendes)",
+      "p2": "• Atrasos pré-julgamento de 11 anos (Sócrates)",
+      "p3": "• Imunidade parlamentar bloqueando investigações",
+      "p4": "• Pensões de 26 mil euros/mês para ministros condenados",
+      "n1": "• Exigir que os funcionários expliquem os aumentos de riqueza documentados",
+      "n2": "• Criminalização do enriquecimento injustificado após comprovação do aumento",
+      "n3": "• Colocar ônus probatório sobre os funcionários que possuem provas exclusivamente",
+      "n4": "• Leis de enriquecimento ilícito (derrubadas em 2012, 2015)",
+      "note": "França, Espanha e Itália têm protecções constitucionais idênticas para a presunção de inocência – mas mantêm leis de enriquecimento ilícito. Apenas o TC de Portugal os considera “inconstitucionais”."
+    }
+  },
+  "blocking": {
+    "title": "O Padrão de Bloqueio: 18 Anos de Falhanço Intencional",
+    "subtitle": "Todas as tentativas de reforma foram bloqueadas, enfraquecidas ou anuladas",
+    "intro": "PS e PSD trabalham juntos para bloquear reformas",
+    "timeline": {
+      "title": "Cronologia do Bloqueio do Enriquecimento Ilícito (2007-2025)"
+    },
+    "lobbyRegulation": {
+      "title": "Bloqueio da Regulação de Lobbies"
+    },
+    "symbiosis": {
+      "title": "A Simbiose PS/PSD: Dois Partidos, Um Sistema",
+      "psTitle": "PS (Partido Socialista)",
+      "psdTitle": "PSD (Social-Democratas)",
+      "ps": {
+        "noProsecute": "Não processa membros do PSD",
+        "loopholes": "Mantém lacunas legais que beneficiam ambos os partidos",
+        "blocksReforms": "Bloqueia reformas anticorrupção na oposição"
+      },
+      "psd": {
+        "noProsecute": "Não processa membros do PS",
+        "loopholes": "Mantém lacunas legais que beneficiam ambos os partidos",
+        "blocksReforms": "Bloqueia reformas anticorrupção na oposição"
+      }
+    },
+    "quote": {
+      "text": "“O PCP apresentou projetos de lei para criminalizar o enriquecimento ilícito. Foram sempre rejeitados pelo PS e pelo PSD.”",
+      "translation": "“O PCP apresentou projetos de lei para criminalizar o enriquecimento ilícito. Foram sempre rejeitados pelo PS e pelo PSD”."
+    },
+    "otherParties": {
+      "title": "Outros Partidos: A Oposição Impotente",
+      "proposedReforms": "Reformas Propostas (Todas Rejeitadas):",
+      "reforms": {
+        "pcp1": "Projeto PCP 726/X (2009) - Enriquecimento ilícito",
+        "pcp2": "Projeto PCP 25/XI (2009) - Enriquecimento ilícito",
+        "chega": "Chega (2021) - Enriquecimento ilícito",
+        "be": "BE - Múltiplas propostas de transparência"
+      },
+      "chegaVote": {
+        "text": "Quando o Chega propôs a criminalização do enriquecimento ilícito em 2021, foi rejeitado por TODOS os outros partidos:",
+        "ps": "PS: Votou CONTRA",
+        "psd": "PSD: Votou CONTRA",
+        "be": "BE: Votou CONTRA",
+        "pcp": "PCP: Votou CONTRA",
+        "cds": "CDS: Votou CONTRA",
+        "note": "Nota: Esta é a ÚNICA vez que todos os partidos votaram juntos numa reforma anticorrupção—para a rejeitar.",
+        "title": "Proposta do Chega rejeitada por TODOS os partidos (2021)"
+      },
+      "chegaVote.text": "Quando o Chega propôs a criminalização do enriquecimento ilícito em 2021, foi rejeitado por TODOS os outros partidos:",
+      "chegaVote.ps": "PS: Votou CONTRA",
+      "chegaVote.psd": "PSD: Votou CONTRA",
+      "chegaVote.be": "BE: Votou CONTRA",
+      "chegaVote.pcp": "PCP: Votou CONTRA",
+      "chegaVote.cds": "CDS: Votou CONTRA",
+      "chegaVote.note": "Nota: Esta é a ÚNICA vez que todos os partidos votaram juntos numa reforma anticorrupção—para a rejeitar.",
+      "paradoxTitle": "O Paradoxo:",
+      "paradoxText": "Partidos que publicamente apoiam reforma anticorrupção votam contra quando proposta por outros."
+    },
+    "visual": {
+      "title": "18 anos de bloqueio",
+      "attempts": "Tentativas de reforma",
+      "years": "Anos de atraso",
+      "laws": "Leis enfraquecidas"
+    }
+  },
+  "euRewards": {
+    "title": "O Sistema de Recompensas da UE: Lealdade Condicionada, Promoção Garantida",
+    "subtitle": "Investigação → Promoção na UE",
+    "intro": "Como a UE promove quem está sob investigação",
+    "costaTimeline": {
+      "title": "A Cronologia Costa — Prova Máxima de Condicionamento"
+    },
+    "december": {
+      "title": "A Trifeta de Dezembro 2025"
+    },
+    "trifecta": {
+      "title": "O Tríptico de Dezembro 2025",
+      "subtitle": "Três políticos escaparam à responsabilização num único mês:"
+    },
+    "broaderPicture": {
+      "title": "O Panorama Geral da UE"
+    },
+    "observation": "Quando os cidadãos vêem políticos corruptos promovidos a Bruxelas, aprendem que a responsabilização é teatro.",
+    "table": {
+      "title": "Políticos Portugueses → Cargos na UE",
+      "patternNote": "Esta tabela documenta um padrão de políticos que recebem cargos na UE apesar de controvérsias. Correlação não prova causalidade nem coordenação — mas a frequência justifica escrutínio."
+    },
+    "revolvingDoor": {
+      "title": "A Porta Giratória: Bruxelas → Setor Privado"
+    }
+  },
+  "solution": {
+    "title": "A Única Solução: Força Externa",
+    "subtitle": "Porque a reforma interna é impossível — e o que os cidadãos podem fazer",
+    "intro": "Os cidadãos devem assumir o controlo através de referendos vinculativos",
+    "impossibility": {
+      "title": "Porque a Reforma Interna É Impossível"
+    },
+    "mechanisms": {
+      "title": "Os Mecanismos Externos"
+    },
+    "questions": {
+      "title": "Questões Propostas para Referendo",
+      "q1": {
+        "title": "Questão 1"
+      },
+      "q2": {
+        "title": "Questão 2"
+      },
+      "q3": {
+        "title": "Questão 3"
+      },
+      "q4": {
+        "title": "Questão 4"
+      },
+      "q5": {
+        "title": "Questão 5"
+      }
+    },
+    "whyImpossible": {
+      "title": "Porque a Reforma Interna É Impossível"
+    },
+    "initiatives": {
+      "referendo": {
+        "title": "Iniciativa de Referendo Cidadão",
+        "subtitle": "assinaturas necessárias",
+        "text": "Os cidadãos podem propor referendos vinculativos sobre qualquer assunto de importância nacional."
+      },
+      "legislativa": {
+        "title": "Iniciativa Legislativa de Cidadãos",
+        "subtitle": "assinaturas necessárias",
+        "text": "Os cidadãos podem propor legislação diretamente ao Parlamento."
+      },
+      "european": {
+        "title": "Iniciativa de Cidadãos Europeus",
+        "subtitle": "assinaturas necessárias em 7+ países da UE",
+        "text": "Mecanismo a nível da UE para propor legislação à Comissão Europeia."
+      }
+    },
+    "damningRecord": {
+      "title": "O Registo Condenatório",
+      "text": "O histórico de referendos de Portugal mostra que o sistema está desenhado para falhar:"
+    },
+    "barriers": {
+      "tcGatekeeper": {
+        "title": "O Tribunal Constitucional como Porteiro",
+        "amsterdam": "Tratado de Amesterdão (1998) - Referendo bloqueado",
+        "euConst": "Constituição UE (2005) - Referendo bloqueado",
+        "fiscal": "Pacto Fiscal (2012) - Sem referendo",
+        "lisbon": "Tratado de Lisboa (2007) - Sem referendo",
+        "note": "Portugal é o ÚNICO país da UE que NUNCA teve um referendo sobre a integração europeia."
+      },
+      "eliteTactics": {
+        "title": "Táticas de Bloqueio da Elite",
+        "scheduling": "Agendar referendos durante períodos de férias",
+        "sabotage": "Lançar campanhas a apelar à abstenção",
+        "regionalization": "Referendo da regionalização (1998) - Deliberadamente sabotado",
+        "threshold": "Limiar de 50% de participação garante que a maioria das iniciativas falha"
+      }
+    },
+    "digitalExclusion": {
+      "title": "Exclusão Digital: Silenciando os Idosos",
+      "usageByAge": "Uso da Internet por Faixa Etária (Portugal, 2024)",
+      "keyStats": "Estatísticas-Chave:"
+    },
+    "proposedQuestions": {
+      "title": "Proposed referendo Questions"
+    },
+    "tradeoffs": {
+      "title": "Riscos Honestos: O Que Propomos Tem Riscos",
+      "intro": "Em espírito de transparência, reconhecemos que mecanismos de democracia direta (como referendos ao estilo suíço) têm desafios reais:",
+      "challenges": {
+        "title": "Desafios Conhecidos",
+        "engagement": "• <strong>Fadiga eleitoral:</strong> A participação suíça é de 40-50% em média. Votações frequentes podem exaustar os cidadãos.",
+        "complexity": "• <strong>Redução de complexidade:</strong> Políticas matizadas são reduzidas a sim/não. Riscos de simplificação.",
+        "populism": "• <strong>Manipulação populista:</strong> Campanhas bem financiadas podem influenciar eleitores mal informados.",
+        "minority": "• <strong>Direitos das minorias:</strong> Maiorias podem votar contra minorias (proibição de minaretes na Suíça, 2009).",
+        "corruption": "• <strong>Não é livre de corrupção:</strong> A Suíça está em 7º no IPC — bom, mas não perfeito."
+      },
+      "whyStill": {
+        "title": "Porque Ainda Propomos Isto",
+        "accountability": "• <strong>A responsabilização existe:</strong> Responsabilização imperfeita > zero responsabilização.",
+        "binding": "• <strong>Resultados vinculativos:</strong> Os políticos não podem ignorar os resultados como ignoram petições.",
+        "deterrent": "• <strong>Efeito dissuasor:</strong> Saber que os eleitores podem anular cria incentivo para capacidade de resposta.",
+        "culture": "• <strong>Mudança cultural:</strong> A participação regular constrói envolvimento cívico ao longo do tempo.",
+        "track": "• <strong>Histórico:</strong> 517 referendos suíços desde 1848. O sistema funciona, imperfeitamente."
+      },
+      "conclusion": "<strong class=\"text-white\">A nossa posição:</strong> Não afirmamos que a democracia direta é perfeita. Afirmamos que é melhor do que um sistema onde os políticos votam os seus próprios salários, imunidade e responsabilização — e consistentemente escolhem proteger-se a si próprios. A questão não é \"A democracia direta é perfeita?\" mas \"É melhor do que o que temos?\" As provas sugerem que sim."
+    }
+  },
+  "eliteLaws": {
+    "title": "Leis Projetadas para Proteger a Elite",
+    "intro": "Como o Tribunal Constitucional bloqueou as leis de enriquecimento ilícito DUAS VEZES",
+    "cc": {
+      "title": "O Tribunal Constitucional: Guardião da Impunidade",
+      "intro": "O Tribunal Constitucional Português chumbou leis de enriquecimento ilícito DUAS VEZES (2012 e 2015), enquanto o Parlamento bloqueou 22+ tentativas legislativas em 18 anos. Portugal permanece o ÚNICO país da UE onde riqueza inexplicada não pode ser criminalizada.",
+      "timelineTitle": "18 Anos de Reformas Bloqueadas (2007-2025)"
+    },
+    "ruling2012": {
+      "badge": "CHUMBADO",
+      "title": "Acórdão 179/2012",
+      "date": "4 de Abril de 2012",
+      "claimedReason": "Razão Alegada:",
+      "claimedText": "Viola a presunção de inocência (Art. 32º CRP)",
+      "reality": "Realidade:",
+      "realityText": "França, Espanha, Itália e mais de 45 países têm leis semelhantes que passaram a revisão constitucional.",
+      "paradox": "O Paradoxo:",
+      "paradoxText": "O Tribunal protege a \"presunção de inocência\" para explicações de riqueza enquanto tolera atrasos pré-julgamento de 11 anos que violam o mesmo direito."
+    },
+    "ruling2015": {
+      "badge": "CHUMBADO (Unanimidade)",
+      "title": "Acórdão 377/2015",
+      "date": "27 de Julho de 2015",
+      "response": "Resposta do Parlamento:",
+      "responseText": "Lei revista para abordar preocupações de 2012—adicionou requisito de que a acusação deve primeiro provar aumento de riqueza.",
+      "tcResponse": "Resposta do TC:",
+      "tcResponseText": "Chumbado novamente pelos mesmos fundamentos—por unanimidade.",
+      "message": "Mensagem:",
+      "messageText": "Nenhuma versão de lei de enriquecimento ilícito será aceite."
+    },
+    "euComparison": {
+      "title": "Comparação UE: Porque Só Portugal?",
+      "country": "País",
+      "law": "Lei de Enriquecimento Ilícito",
+      "status": "Estado Constitucional",
+      "approved": "aprovado",
+      "note": "Todos estes países têm proteções constitucionais idênticas para a presunção de inocência. Só o TC de Portugal considera o enriquecimento ilícito \"inconstitucional\"."
+    },
+    "bipartisan": {
+      "title": "A Máquina de Bloqueio Bipartidária",
+      "intro": "Durante 18 anos (2007-2025), PS e PSD revezaram-se a bloquear reformas anticorrupção—independentemente de quem está no poder."
+    },
+    "subtitle": "Como o Tribunal Constitucional e o Parlamento bloquearam sistematicamente a responsabilização",
+    "acordao179": {
+      "title": "Acórdão 179/2012",
+      "date": "4 de Abril de 2012"
+    },
+    "acordao377": {
+      "title": "Acórdão 377/2015",
+      "date": "27 de Julho de 2015"
+    },
+    "immunityComparison": {
+      "title": "Parliamentary imunidade: EU Comparison"
+    },
+    "prescription": {
+      "title": "Prazos de Prescrição: Comparação UE"
+    },
+    "prescriptionNote": "Nota: Portugal tem a maior duração média de processos E mantém ampla imunidade—a pior combinação.",
+    "euScorecard": {
+      "title": "Tabela Anticorrupção da UE",
+      "note": "Portugal classifica-se consistentemente no fundo das democracias da Europa Ocidental."
+    }
+  },
+  "euLabor": {
+    "title": "A Guerra aos Trabalhadores: Direitos Laborais da UE Desmantelados",
+    "subtitle": "Como a integração europeia enfraqueceu as proteções laborais em Portugal",
+    "intro": "As mesmas forças que protegem a corrupção atacam as proteções dos trabalhadores",
+    "germany": {
+      "title": "Alemanha: Reformas Hartz IV",
+      "benefits": "Benefícios cortados para níveis mínimos",
+      "duration": "Subsídio de desemprego limitado a 12 meses",
+      "dependent": "Criou nova classe de \"trabalhadores pobres\""
+    },
+    "france": {
+      "title": "França: El Khomri & Reforma das Pensões",
+      "elKhomri": "Lei El Khomri (2016): Enfraqueceu proteções laborais",
+      "pension": "Reforma das pensões (2023): Aumentou idade de reforma apesar de protestos em massa",
+      "yellowVests": "Movimento dos Coletes Amarelos esmagado por violência policial"
+    },
+    "uk": {
+      "title": "Reino Unido: Austeridade",
+      "welfare": "Sistema de apoio social destruído sob \"austeridade\"",
+      "universalCredit": "Universal Credit: Desenhado para negar benefícios",
+      "sanctioned": "2,5 milhões de sanções aplicadas (2012-2018)"
+    },
+    "italy": {
+      "title": "Itália: Governo Meloni",
+      "citizenIncome": "Reddito di Cittadinanza (rendimento cidadão) abolido",
+      "prison": "Até 6 anos de prisão por organizar greves que bloqueiem o trânsito",
+      "strikes": "Direito à greve cada vez mais criminalizado"
+    },
+    "pattern": {
+      "title": "O Padrão em Toda a UE"
+    }
+  },
+  "signature": {
+    "title": "Assine a Iniciativa de Cidadãos Europeus",
+    "subtitle": "Pela Responsabilização Política em Toda a UE",
+    "verified": "Verificado Criptograficamente",
+    "firstName": "Nome",
+    "lastName": "Apelido",
+    "country": "País",
+    "selectCountry": "Selecione o seu país",
+    "idNumber": "Número de Identificação",
+    "consent": "Aceito os termos",
+    "submit": "Submeter Assinatura",
+    "count": "assinaturas",
+    "goal": "Objetivo: 1.000.000",
+    "merkleLabel": "Raiz Merkle:",
+    "merkleCalculating": "A calcular...",
+    "merkleNoSigs": "Ainda sem assinaturas",
+    "formFooter": "A sua assinatura será criptograficamente hasheada e adicionada a uma cadeia à prova de adulteração.",
+    "success": "Assinatura Registada!",
+    "invalidFormat": "Formato de ID inválido para",
+    "integrityVerified": "Integridade da Cadeia Verificada",
+    "integrityIssues": "Problemas de Integridade Detetados",
+    "eci": {
+      "title": "Iniciativa de Cidadãos Europeus",
+      "regulation": "Seguindo o Regulamento UE 2019/788",
+      "security": "Verificado criptograficamente e inviolável"
+    },
+    "euInfrastructure": "Integração de Infraestrutura UE",
+    "eciTitle": "Iniciativa de Cidadãos Europeus",
+    "eciReg": "Ao abrigo do Regulamento UE 2019/788",
+    "verification": {
+      "title": "Verificação à Prova de Manipulação",
+      "intro": "Este sistema utiliza técnicas criptográficas padrão da indústria para garantir a integridade das assinaturas:"
+    },
+    "crypto": {
+      "sha256": {
+        "title": "Hashing SHA-256",
+        "text": "Cada assinatura é convertida numa impressão digital única de 256 bits usando o algoritmo SHA-256 — o mesmo padrão usado pelo Bitcoin e certificados TLS/SSL. Qualquer manipulação altera completamente o hash.",
+        "source": "Padrão: NIST FIPS 180-4"
+      },
+      "merkle": {
+        "title": "Árvore de Merkle",
+        "text": "Uma árvore de Merkle (árvore hash) é uma estrutura de dados inventada pelo criptógrafo Ralph Merkle em 1979. Cria um único \"hash raiz\" que verifica a integridade de TODAS as assinaturas — se qualquer assinatura for alterada, a raiz muda.",
+        "source": "Usado por: Bitcoin, Git, IPFS, Certificate Transparency"
+      },
+      "audit": {
+        "title": "Trilha de Auditoria",
+        "text": "Cada ação (assinatura, verificação, exportação) é registada com carimbos temporais seguindo normas de trilha de auditoria. Isto proporciona total transparência e responsabilização para todas as operações do sistema.",
+        "source": "Conformidade: RGPD Artigo 30"
+      },
+      "euId": {
+        "title": "Validação de ID da UE",
+        "text": "Cada país da UE tem formatos de ID específicos (Portugal: Cartão de Cidadão, Alemanha: Personalausweis, etc.). O sistema valida números de identificação contra padrões específicos de cada país conforme o Regulamento UE 2019/788 sobre a Iniciativa de Cidadãos Europeus.",
+        "source": "Enquadramento: eIDAS"
+      }
+    },
+    "euInfra": {
+      "title": "Integração com Infraestrutura UE",
+      "text": "Esta iniciativa foi concebida para integrar com sistemas oficiais da UE:",
+      "eciPortal": "Portal Oficial ICE - Para submissão final",
+      "eidas": "eIDAS - Normas de identificação eletrónica",
+      "gdpr": "Conformidade RGPD - Proteção de dados garantida"
+    },
+    "email": "Email"
+  },
+  "dashboard": {
+    "title": "Painel de Corrupção Portugal",
+    "intro": "Dados oficiais da Transparency International, DGPJ, Eurostat e GRECO",
+    "charts": {
+      "cpi": "Índice de Perceção de Corrupção (2012-2024)",
+      "duration": "Duração Média dos Processos (Meses)",
+      "euComparison": "Comparação UE: Pontuação CPI vs Lei de Enriquecimento Ilícito"
+    },
+    "sources": "Fontes de Dados:",
+    "kpi": {
+      "cpi": {
+        "label": "Pontuação TI CPI 2024",
+        "trend": "-4 face a 2023"
+      },
+      "trust": {
+        "label": "Cidadãos: \"Gov. é Corrupto\"",
+        "source": "Eurobarómetro 2024"
+      },
+      "blocked": {
+        "label": "Tentativas Legislativas Bloqueadas",
+        "trend": "2007-2025"
+      },
+      "socrates": {
+        "label": "Anos: Caso Sócrates",
+        "trend": "Ainda em curso"
+      }
+    }
+  },
+  "forum": {
+    "title": "Fórum de Cidadãos UE",
+    "intro": "Partilhe a sua perspetiva sobre responsabilização política",
+    "stats": "contribuições de cidadãos da UE",
+    "form": {
+      "name": "Nome (opcional)",
+      "namePlaceholder": "Anónimo",
+      "country": "País",
+      "message": "A sua mensagem",
+      "messagePlaceholder": "Partilhe os seus pensamentos sobre responsabilização política na UE...",
+      "submit": "Publicar Comentário",
+      "note": "URLs não permitidos. Comentários são armazenados localmente e moderados."
+    },
+    "noComments": "Seja o primeiro a partilhar a sua perspetiva sobre responsabilização política.",
+    "errors": {
+      "tooShort": "O comentário deve ter pelo menos 10 caracteres",
+      "tooLong": "O comentário deve ter menos de 1000 caracteres",
+      "prohibited": "O comentário contém conteúdo proibido"
+    },
+    "success": "Comentário adicionado com sucesso",
+    "time": {
+      "justNow": "Agora mesmo",
+      "minutesAgo": "m atrás",
+      "hoursAgo": "h atrás",
+      "daysAgo": "d atrás"
+    }
+  },
+  "donate": {
+    "title": "Apoiar a Iniciativa",
+    "intro": "Máximo de €2 por doador para manter total independência",
+    "principles": {
+      "max": {
+        "title": "Máximo €2",
+        "text": "Sem grandes doadores significa sem influência. Todos têm voz igual."
+      },
+      "allParties": {
+        "title": "Todos os Partidos Documentados",
+        "text": "PS, PSD, CDS, PCP, BE, Chega — nenhum partido está isento de escrutínio."
+      },
+      "official": {
+        "title": "Apenas Fontes Oficiais",
+        "text": "Documentos judiciais, registos de acusação, decisões do Tribunal Constitucional."
+      },
+      "transparency": {
+        "title": "Transparência Total",
+        "text": "Todos os dados são verificáveis, todas as fontes são citadas."
+      }
+    },
+    "modal": {
+      "title": "Apoie Investigação Imparcial",
+      "purpose": "A sua micro-doação apoia investigação independente sobre responsabilização política na UE.",
+      "principlesTitle": "Os Nossos Princípios:",
+      "maxDonor": "Máximo €2/doador - Sem grandes doadores, sem influência",
+      "allPartiesDoc": "Todos os partidos documentados - PS, PSD, CDS, PCP, BE, Chega - todos incluídos",
+      "officialOnly": "Apenas fontes oficiais - Documentos judiciais, registos de acusação",
+      "fullTransparency": "Transparência total - Todos os dados verificáveis",
+      "paymentMethods": "Métodos de pagamento em breve:",
+      "simulateBtn": "Simular Doação (Demo)",
+      "demoNote": "Esta é uma demonstração. Integração de pagamento real requer configuração backend."
+    },
+    "errors": {
+      "invalidAmount": "Por favor insira um montante válido",
+      "maxAmount": "Doação máxima é €{{max}} para manter independência da investigação"
+    },
+    "success": "Obrigado! Doação de €{{amount}} registada.",
+    "stats": {
+      "raised": "Total angariado",
+      "donors": "Doadores"
+    },
+    "whyMax": "Porquê máximo €2?",
+    "whyMaxText": "Grandes doações criam obrigações. Micro-doações de milhares de cidadãos garantem que esta investigação serve o interesse público, não qualquer agenda política ou empresarial."
+  },
+  "common": {
+    "keyInsight": "PONTO-CHAVE",
+    "source": "Fonte",
+    "readMore": "Ler Mais",
+    "evidence": "Provas",
+    "convicted": "Condenado",
+    "ongoing": "Em Curso",
+    "archived": "Arquivado",
+    "declined": "Investigação Recusada",
+    "views": "visualizações",
+    "likes": "gostos",
+    "share": "partilhar",
+    "close": "Fechar"
+  },
+  "countries": {
+    "PT": "Portugal",
+    "ES": "Espanha",
+    "FR": "França",
+    "DE": "Alemanha",
+    "IT": "Itália",
+    "NL": "Países Baixos",
+    "BE": "Bélgica",
+    "AT": "Áustria",
+    "PL": "Polónia",
+    "RO": "Roménia",
+    "EL": "Grécia",
+    "CZ": "Chéquia",
+    "HU": "Hungria",
+    "SE": "Suécia",
+    "DK": "Dinamarca",
+    "FI": "Finlândia",
+    "IE": "Irlanda",
+    "BG": "Bulgária",
+    "HR": "Croácia",
+    "SK": "Eslováquia",
+    "SI": "Eslovénia",
+    "LT": "Lituânia",
+    "LV": "Letónia",
+    "EE": "Estónia",
+    "CY": "Chipre",
+    "MT": "Malta",
+    "LU": "Luxemburgo",
+    "EU": "Cidadão da UE",
+    "CH": "Suíça"
+  },
+  "probability": {
+    "title": "As Tuas Probabilidades vs As Deles",
+    "subtitle": "Se a justiça fosse uma lotaria, eis o que os números nos dizem",
+    "lottery": {
+      "title": "Lottery Comparison",
+      "euromillionsOdds": "1 in 139,838,160",
+      "euromillionsLabel": "Win Euromillions jackpot",
+      "corruptionOdds": "~1 in 4",
+      "corruptionLabel": "Corruption case ends in conviction (not suspended)"
+    },
+    "citizen": {
+      "title": "Se És Cidadão:"
+    },
+    "politician": {
+      "title": "Se És Político:"
+    }
+  },
+  "sources": {
+    "title": "Lista Completa de Fontes",
+    "subtitle": "Todos os dados de fontes oficiais e verificadas",
+    "constitutionalCourt": "Tribunal Constitucional",
+    "prosecutionService": "Ministério Público",
+    "europeanUnion": "União Europeia",
+    "internationalOrgs": "Organizações Internacionais",
+    "eurobarometer": "Eurobarómetro",
+    "portugueseLegislation": "Legislação Portuguesa",
+    "parliamentaryRecords": "Registos Parlamentares",
+    "internationalComparisons": "Comparações Internacionais",
+    "mediaSources": "Fontes de Media",
+    "laborHumanRights": "Trabalho/Direitos Humanos",
+    "cryptographicStandards": "Padrões Criptográficos",
+    "digitalStatistics": "Estatísticas Digitais"
+  },
+  "verdict": {
+    "title": "O Veredicto",
+    "subtitle": "50 anos de evidência documentada"
+  },
+  "investigative": {
+    "title": "O Que Esta Investigação Revela",
+    "badge": "Relatório de Investigação",
+    "intro": "Após revisão de documentos judiciais, registos parlamentares, decisões do Tribunal Constitucional, avaliações do GRECO, relatórios da Transparency International, inquéritos Eurobarómetro, e 50 anos de arquivos dos Media portugueses, emerge um padrão perturbador: o sistema político de Portugal não está avariado—está a funcionar exatamente como foi concebido.",
+    "evidenceTitle": "As provas mostram:",
+    "evidenceList": [
+      "€20+ mil milhões roubados através de colapsos bancários (BPN, BES, CGD)",
+      "100+ crianças abusadas na Casa Pia enquanto elites encobriam durante 20 anos",
+      "2 Primeiros-Ministros investigados, 0 condenados",
+      "9+ reformas anticorrupção bloqueadas por PS/PSD desde 1983",
+      "0 referendos vinculativos em 50 anos de democracia",
+      "75% dos casos de corrupção terminam em penas suspensas"
+    ],
+    "findingsTitle": "Conclusões Internacionais:",
+    "findingsList": [
+      "GRECO: Apenas 1 de 15 recomendações anticorrupção totalmente implementada",
+      "Transparency International: Portugal caiu do 25º para o 33º lugar (2012-2024)",
+      "Eurobarómetro: 88% dos portugueses acreditam que o governo é corrupto",
+      "Média UE: 10 anos de tempo médio de acusação vs 11+ anos de Portugal",
+      "UNCAC: 18 anos desde o compromisso, ainda sem lei de enriquecimento ilícito"
+    ],
+    "conclusionQuote": "Isto não é uma teoria da conspiração. São factos documentados. Cada afirmação neste relatório é proveniente de documentos oficiais, decisões judiciais ou organizações internacionais reputadas. A arquitetura da impunidade não está escondida—é pública, legal e deliberadamente mantida por aqueles que protege.",
+    "evidence": {
+      "banking": "20+ mil milhões € roubados através de colapsos bancários (BPN, BES, CGD)",
+      "casaPia": "100+ crianças abusadas na Casa Pia enquanto as elites encobriram durante 20 anos",
+      "pms": "2 Primeiros-Ministros investigados, 0 condenados",
+      "reforms": "9+ reformas anticorrupção bloqueadas por PS/PSD desde 1983",
+      "referendums": "0 referendos vinculativos em 50 anos de democracia",
+      "suspended": "75% dos casos de corrupção terminam em penas suspensas"
+    },
+    "findings": {
+      "greco": "GRECO: Apenas 1 de 15 recomendações anticorrupção totalmente implementada",
+      "ti": "Transparency International: Portugal caiu do 25º para o 33º lugar (2012-2024)",
+      "eurobarometer": "Eurobarómetro: 88% dos portugueses acreditam que o governo é corrupto",
+      "euAverage": "Média UE: 10 anos de tempo médio de acusação vs 11+ anos em Portugal",
+      "uncac": "UNCAC: 18 anos desde o compromisso, ainda sem lei de enriquecimento ilícito",
+      "euRuleOfLaw": "Estado de direito da UE 2025: 81 casos, 16 condenações em 2024 — tempo médio de acusação: 6,8 anos"
+    }
+  },
+  "greco": {
+    "title": "GRECO: 1 de 15 Recomendações Implementadas",
+    "badge": "Avaliação do Conselho da Europa",
+    "subtitle": "Grupo de Estados Contra a Corrupção",
+    "intro": "O Grupo de Estados Contra a Corrupção (GRECO) tem criticado repetidamente a falta de progresso de Portugal",
+    "implemented": {
+      "number": "1",
+      "title": "Totalmente Implementada",
+      "subtitle": "de 15 recomendações",
+      "text": "Apenas uma recomendação sobre transparência do financiamento partidário foi totalmente cumprida."
+    },
+    "partial": {
+      "number": "8",
+      "title": "Parcialmente Implementada",
+      "subtitle": "ainda pendente de conclusão",
+      "text": "Inclui: códigos de conduta de deputados, declarações de património, gestão de conflitos de interesses, transparência de lobbies."
+    },
+    "notImplemented": {
+      "number": "6",
+      "title": "Não Implementada",
+      "subtitle": "ignoradas ou rejeitadas",
+      "text": "Inclui: Criminalização do enriquecimento ilícito, proteção de denunciantes, períodos de nojo para ministros."
+    },
+    "criticismsTitle": "Críticas-Chave do GRECO (Relatório 2023):",
+    "criticisms": {
+      "noCode": "Sem código de conduta obrigatório para deputados",
+      "assets": "Declarações de património não verificadas independentemente",
+      "lobbyists": "Sem registo de lobistas",
+      "coolingOff": "Sem período de nojo para ministros que entram no sector privado",
+      "whistleblower": "A lei de proteção de denunciantes ainda tem lacunas",
+      "conflicts": "Regras sobre conflitos de interesses mal aplicadas",
+      "prosecution": "Os tempos de acusação excedem limites razoáveis",
+      "immunity": "Regras de imunidade política demasiado amplas"
+    },
+    "source": "Fonte: GRECO Fifth Evaluation Round - Portugal",
+    "sourceLabel": "Fonte: GRECO Fifth Evaluation Round - Portugal",
+    "scorecard": {
+      "title": "Cronologia de 10 Anos de Incumprimento (2015-2025)",
+      "fourthRound": "QUARTA RONDA (2015)",
+      "fifthRound": "QUINTA RONDA (2024)",
+      "focusMPs": "Deputados, Juízes, Procuradores",
+      "focusExec": "Governo e Forças de Segurança",
+      "implemented": "Implementadas",
+      "fullyImplemented": "Totalmente Implementadas",
+      "tenYears": "Após 10 ANOS",
+      "euAverage": "Média UE: 59% | Portugal: 33%",
+      "partial": "18 Parciais | 10 Não Implementadas",
+      "ongoing": "Conformidade em Curso"
+    },
+    "menac": {
+      "title": "MENAC: Mecanismo Nacional Anticorrupção",
+      "staffed": "Preenchido",
+      "detail": "Apenas 12 de 27 posições autorizadas preenchidas. Declarado \"operacional\" em junho de 2023, mas o GRECO diz: \"não totalmente operacional\""
+    }
+  },
+  "pension": {
+    "badge": "Proteção Constitucional",
+    "title": "Proteção de Pensões: Apreendida, Devolvida, Apreendida Novamente",
+    "intro": "O Artigo 30º da Constituição impede a perda automática de direitos após condenação. Políticos condenados mantêm as suas pensões através de recursos intermináveis.",
+    "vara": {
+      "conviction": "Condenado: 5 anos por tráfico de influência",
+      "status": "3x Apreendida, 2x Devolvida"
+    },
+    "pinho": {
+      "conviction": "Condenado: 10 anos + €4,9M de multa",
+      "status": "Pena de 10 anos cumprida em CASA"
+    },
+    "socrates": {
+      "status": "Julgamento em curso (11+ anos)",
+      "prescribed": "167 de 189 acusações",
+      "expired": "Já prescreveram (88%)",
+      "never": "Nunca apreendida",
+      "confirmed": "Confirmado receber subvenção (SIC 2022)"
+    },
+    "conclusion": "Artigo 30º Constitucional + Sistema de Recursos = Proteção Infinita de Pensões",
+    "conclusionDetail": "Sem perda automática. Cada apreensão requer ordem judicial. Cada ordem pode ser recorrida. Cada recurso demora anos. O arguido mantém a pensão durante o processo."
+  },
+  "archive": {
+    "badge": "Controlo da PGR",
+    "title": "Decisões de Arquivamento: \"Parco Detalhe\"",
+    "intro": "O Artigo 246º n.º 6 CPP permite que os procuradores recusem investigação com base em \"detalhe insuficiente\" — mesmo com provas documentais.",
+    "status": {
+      "archived": "ARQUIVADO",
+      "declined": "RECUSADO"
+    },
+    "reason": "Razão:",
+    "mechanism": "Mecanismo:",
+    "investigation": "Investigação:",
+    "immunity": "Imunidade levantada:",
+    "montenegro": {
+      "desc": "Contratos públicos para empresa familiar (Spinumviva) enquanto deputado",
+      "outcome": "Continua como PM com cobertura mediática mínima"
+    },
+    "mendes": {
+      "desc": "Honorários de consultoria incl. €360K da empresa de águas ACA",
+      "irony": "Ironia: Ele exigiu que Montenegro \"esclarecesse tudo\""
+    },
+    "medina": {
+      "desc": "Operação Tutti-Frutti: 60 arguidos, 463 crimes",
+      "outcome": "60 outros acusados, figuras de alto perfil arquivadas"
+    },
+    "pattern": {
+      "title": "O Padrão: Artigo 246º n.º 6 CPP",
+      "how": "Como funciona:",
+      "paradox": "O paradoxo:",
+      "paradoxText": "Como estabelecer \"indícios\" sem investigação? O padrão exige provas antes da investigação que recolheria provas.",
+      "effect": "Efeito: Veto do procurador sobre casos politicamente sensíveis"
+    }
+  },
+  "whistleblower": {
+    "title": "Proteção de Denunciantes: O Escudo em Falta",
+    "subtitle": "Quem expõe a corrupção enfrenta retaliação enquanto os corruptos são protegidos",
+    "ruiPinto": {
+      "title": "O Caso Rui Pinto",
+      "text": "Hacker português que expôs o escândalo \"Football Leaks\", revelando corrupção nos maiores clubes da Europa e no sistema de justiça português. As suas fugas contribuíram para a Operação Lex (juízes corruptos) e Luanda Leaks.",
+      "outcomeTitle": "RESULTADO:",
+      "outcomeList": [
+        "Pinto: Preso, extraditado da Hungria",
+        "Pinto: Condenado por crimes informáticos",
+        "Funcionários corruptos que expôs: Alguns em julgamento, a maioria livres"
+      ],
+      "arrested": "Pinto: Preso, extraditado da Hungria",
+      "convicted": "Pinto: Condenado por crimes informáticos",
+      "officials": "Funcionários corruptos que expôs: Alguns em julgamento, a maioria livres"
+    },
+    "comparison": {
+      "title": "Comparação UE: Leis de Denunciantes",
+      "headers": {
+        "country": "País",
+        "protection": "Nível de Proteção",
+        "status": "Estado"
+      },
+      "countries": {
+        "netherlands": {
+          "protection": "Forte",
+          "status": "Denúncia anónima + apoio jurídico"
+        },
+        "ireland": {
+          "protection": "Forte",
+          "status": "Lei abrangente de 2014"
+        },
+        "france": {
+          "protection": "Forte",
+          "status": "Lei Sapin II (2016)"
+        },
+        "germany": {
+          "protection": "Médio",
+          "status": "Implementado 2023"
+        },
+        "portugal": {
+          "protection": "Fraco",
+          "status": "Lacunas permanecem segundo GRECO"
+        }
+      }
+    },
+    "twoRuis": {
+      "title": "A História de Dois Ruis",
+      "subtitle": "Dois homens chamados Rui que ousaram expor a verdade. Ambos punidos. Os corruptos? Principalmente grátis."
+    },
+    "ruiCruz": {
+      "title": "Rui Cruz (Tugaleaks)",
+      "text": "Fundador do <a href=\"https://tugaleaks.com\" target=\"_blank\" class=\"text-accent hover:underline\">Tugaleaks</a>, uma plataforma portuguesa inspirada no WikiLeaks (est. 2010) que expõe documentos governamentais e vulnerabilidades de segurança. Único website listado no CIA World Factbook sob os “grupos de pressão política” de Portugal.",
+      "outcomeTitle": "OUTCOME (2015):",
+      "banned": "• <strong>Banido da Internet</strong> por 8 meses",
+      "gagged": "• Sujeito a <strong>ordem de silêncio</strong> judicial",
+      "fired": "• <strong>Demitido</strong> do seu emprego na PT Comunicações",
+      "active": "• <span class=\"text-good\">Tugaleaks ainda ativo em 2025</span>",
+      "source": "Fonte: <a href=\"https://edri.org/our-work/founder-of-portuguese-leak-platform-subject-to-gagging-order/\" target=\"_blank\" class=\"text-accent/70 hover:underline\">EDRi (Direitos Digitais Europeus)</a>"
+    }
+  },
+  "media": {
+    "title": "A Máquina de Condicionamento: Propriedade dos Media",
+    "subtitle": "Quem é dono dos media portugueses, e porque é que isso importa?",
+    "ownershipTitle": "Concentração de Propriedade",
+    "ownership": {
+      "impresa": "Francisco Pinto Balsemão - ex-PM (PSD)",
+      "cofina": "Principais acionistas incluem bancos resgatados pelo Estado",
+      "mediaCapital": "Recentemente vendida, propriedade muda frequentemente",
+      "globalMedia": "Detida por investidores com interesses diversos",
+      "rtp": "Estatal, conselho nomeado pelo governo"
+    },
+    "conditioningTitle": "O Efeito de Condicionamento",
+    "conditioningIntro": "Quando os donos dos media têm ligações a partidos políticos ou dependem de publicidade estatal:",
+    "conditioningList": [
+      "A autocensura torna-se normalizada",
+      "Jornalismo de investigação subfinanciado",
+      "Escândalos cobertos brevemente, depois esquecidos",
+      "Falsa equivalência \"ambos os lados\" sobre corrupção",
+      "Foco em personalidades, não em problemas sistémicos"
+    ],
+    "resultTitle": "O RESULTADO:",
+    "resultText": "Os cidadãos portugueses sabem que a corrupção existe (88% afirmam) mas sentem-se impotentes para mudar. Os media cobrem escândalos mas raramente os ligam à arquitetura de proteção sistémica.",
+    "conditioning": {
+      "selfCensorship": "A autocensura torna-se normalizada",
+      "underfunded": "Jornalismo de investigação subfinanciado",
+      "forgotten": "Escândalos cobertos brevemente, depois esquecidos",
+      "bothSides": "Falsa equivalência \"ambos os lados\" sobre corrupção",
+      "personalities": "Foco em personalidades, não em problemas sistémicos"
+    }
+  },
+  "database": {
+    "title": "Base de Dados Completa de Corrupção",
+    "subtitle": "25+ Grandes Escândalos Expostos (1980-2025)",
+    "intro": "Cada grande caso de corrupção documentado com montantes, resultados e fontes",
+    "banking": {
+      "title": "Escândalos Bancários: €20+ Mil Milhões em Perdas",
+      "bpn": {
+        "name": "BPN - Banco Português de Negócios",
+        "subtitle": "Perda de €1,8 Mil Milhões • \"A Maior Fraude da História Portuguesa\"",
+        "description": "A maior fraude da história portuguesa. €700M+ em perdas fora do balanço descobertas. Banco nacionalizado.",
+        "sources": "Fontes: RTP, Público, Documentos judiciais"
+      },
+      "bes": {
+        "name": "BES - Banco Espírito Santo",
+        "subtitle": "Perda de €11,8 Mil Milhões • Império de 150 anos colapsou em agosto de 2014",
+        "description": "O maior banco privado de Portugal colapsa. O império familiar de Ricardo Salgado implode.",
+        "edpTitle": "A Ligação EDP:",
+        "edpText": "Salgado condenado por subornar o Ministro da Economia Manuel Pinho com €4,5M para decisões favoráveis da EDP.",
+        "sources": "Fontes: Observador, Documentos do Tribunal, Relatórios BdP",
+        "sourceUrls": {
+          "bbc": "https://www.bbc.com/news/business-28642268",
+          "ft": "https://www.ft.com/content/portugal-bes-bailout",
+          "publico": "https://www.publico.pt/bes",
+          "observador": "https://observador.pt/seccao/economia/bes/"
+        },
+        "keyFigures": {
+          "salgado": "Ricardo Salgado - CEO (1991-2014) - Múltiplos ensaios, atrasos na saúde",
+          "ricciardi": "José Maria Ricciardi - BES Investimento - CONDENADO",
+          "pires": "Amílcar Morais Pires - CFO - CONDENADO",
+          "cruz": "Machado da Cruz - Diretor de Riscos - Em julgamento"
+        },
+        "fraudStructure": {
+          "title": "A estrutura da fraude:",
+          "hiddenLosses": "4,9 mil milhões de euros em perdas não reveladas escondidas através de veículos offshore",
+          "offshoreNetwork": "ESI → ESFG → Rioforte → BES → SPVs (empresas de fachada do Luxemburgo)",
+          "mechanisms": "Empréstimos com partes relacionadas, garantias circulares, passivos ocultos, activos fictícios, operações em Angola (BESA)"
+        },
+        "timeline": {
+          "ceoStart": "1991: Salgado torna-se CEO (reinado de 23 anos)",
+          "problems": "2013: Auditorias internas mostram problemas (consciente da família)",
+          "collapse": "2014-08: Reporta perda de 3,6 mil milhões de euros, banco suspenso, resgate de 4,9 mil milhões de euros",
+          "prosecution": "2015-2025: Vários julgamentos, progresso lento, CEO nunca preso"
+        },
+        "monteBlanco": {
+          "name": "Julgamento Monte Branco",
+          "defendants": "18 arguidos incluindo Salgado",
+          "status": "Em andamento 2024-2025"
+        },
+        "politicalConnections": {
+          "socrates": "Sócrates teria recebido 15 mil euros/mês de Salgado",
+          "pinho": "Ministro Pinho recebeu 4,9 milhões de euros de Salgado (condenado 10 anos)"
+        },
+        "regulatoryFailure": "O Banco de Portugal perdeu sinais de alerta durante anos. Os auditores assinaram contas fraudulentas."
+      },
+      "cgd": {
+        "name": "CGD - Caixa Geral de Depósitos (Estatal)",
+        "subtitle": "Resgate Estatal de €4,9 Mil Milhões • Perdas de €3,5 Mil Milhões (2014-2016)",
+        "description": "Banco estatal requer o maior resgate da história portuguesa.",
+        "interferenceTitle": "Interferência Política:",
+        "interferenceText": "Inquérito parlamentar encontra \"interferência política\" e \"nomeações partidárias\" ao longo de vários governos.",
+        "sources": "Fontes: RTP, Relatório do Inquérito Parlamentar"
+      }
+    },
+    "politicians": {
+      "title": "Primeiros-Ministros e Políticos de Topo",
+      "socrates": {
+        "name": "Operação Marquês - José Sócrates (PM PS 2005-2011)",
+        "subtitle": "€34 Milhões em Alegados Subornos • 22 Crimes • Julgamento começou em 2025",
+        "description": "Ex-PM acusado de receber €34M em subornos de múltiplas empresas.",
+        "corruptionTitle": "Fontes de Corrupção:",
+        "corruption": {
+          "salgado": "Ricardo Salgado/BES: Alegados pagamentos por decisões favoráveis",
+          "silva": "Carlos Santos Silva: Testa-de-ferro para ativos ocultos",
+          "swiss": "Contas suíças: €24M descobertos"
+        },
+        "otherScandalsTitle": "Outros Escândalos Relacionados:",
+        "other": {
+          "freeport": "Freeport: Alegações de dispensa ambiental",
+          "parqueEscolar": "Parque Escolar: Fraude na renovação de escolas",
+          "cgd": "CGD: Alegada influência sobre decisões do banco"
+        },
+        "sources": "Fontes: Acusação DCIAP, Documentos do Tribunal",
+        "charges": {
+          "title": "O escândalo da prescrição:",
+          "original": "189 acusações apresentadas (31 crimes)",
+          "prescribed": "167 cobranças PRESCRITAS (expiradas)",
+          "remaining": "Apenas 22 acusações vão a julgamento",
+          "judge": "Juiz Ivo Rosa (abril de 2021): Decidiu que a maioria dos crimes tinha 'caducado'",
+          "ruling": "Juiz decidiu que Sócrates estava “corrompido”, mas crime “caducou”"
+        },
+        "timeline": {
+          "arrested": "21-11-2014: Detido no Aeroporto de Lisboa",
+          "prison": "2014-2015: 9 meses no Estabelecimento Prisional de Évora",
+          "houseArrest": "2015: Prisão domiciliar, depois totalmente livre",
+          "ongoing": "2025: Ainda nenhuma condenação após mais de 11 anos"
+        },
+        "pension": {
+          "title": "Protegido enquanto acusado:",
+          "amount": "30.000€/ano de 'subvenção vitalícia' (subvenção vitalícia)",
+          "legal": "Usando a pensão para financiar a defesa legal",
+          "lifestyle": "Mantém apartamento em Paris, estilo de vida"
+        },
+        "recovery": "0€ recuperados para o Estado português",
+        "sourceUrls": {
+          "dciap": "https://dciap.ministeriopublico.pt/destaque/operacao-marques-acusacao-0",
+          "euronews": "https://www.euronews.com/2021/04/10/corruption-charges-against-former-portuguese-pm-dropped-but-socrates-will-still-stand-tria",
+          "observador": "https://observador.pt/seccao/politica/operacao-marques/"
+        },
+        "defenseTitle": "Posição de defesa:",
+        "defense": "Sócrates afirma que os 34 milhões de euros foram empréstimos de amigos e não subornos. Sua defesa alega perseguição midiática e processo seletivo. O julgamento foi retomado em julho de 2025, após mais de 11 anos de atrasos."
+      },
+      "costa": {
+        "name": "Operação Influencer - António Costa (PM PS 2015-2023)",
+        "subtitle": "Minas de Lítio + Hidrogénio Verde + Centro de Dados de Sines",
+        "description": "PM demitiu-se após rusga policial. Agora Presidente do Conselho da UE enquanto sob investigação.",
+        "ironyTitle": "A Ironia Máxima:",
+        "ironyText": "Promovido para liderar a UE enquanto procuradores portugueses o investigam.",
+        "sources": "Fontes: DCIAP, Conselho Europeu",
+        "raid": {
+          "title": "A invasão (7 de novembro de 2023):",
+          "cash": "€ 78.000 em dinheiro encontrados no gabinete do Chefe de Gabinete",
+          "arrests": "Vítor Escária (Chefe de Casa Civil) e Lacerda Machado (empresário) detidos",
+          "resignation": "Costa renunciou na mesma noite"
+        },
+        "investigation": {
+          "title": "Influenciador da Operação:",
+          "lithium": "Concessões de mineração de lítio (as maiores reservas da Europa)",
+          "hydrogen": "Projetos de hidrogénio verde (investimentos multibilionários)",
+          "allegation": "Supostas decisões de licenciamento favoráveis ​​em troca de pagamentos"
+        },
+        "keyFigures": {
+          "escaria": "Vítor Escária - Chefe da Casa Civil - Preso e libertado",
+          "machado": "Lacerda Machado – Empresário intermediário – Preso",
+          "galamba": "João Galamba - Secretário de Estado da Energia - Sob escrutínio"
+        },
+        "euPromotion": {
+          "date": "27 de junho de 2024: Eleito Presidente do Conselho da UE",
+          "start": "1º de dezembro de 2024: posse",
+          "status": "A investigação ainda está em andamento - nenhuma acusação foi apresentada"
+        },
+        "sourceUrls": {
+          "npr": "https://www.npr.org/2023/11/07/1211206454/portugal-prime-minister-antonio-costa-resigns",
+          "reuters": "https://www.reuters.com/world/europe/eu-leaders-pick-portugals-costa-head-european-council-2024-06-27/",
+          "observador": "https://observador.pt/especiais/operacao-influencer/"
+        },
+        "defenseTitle": "Legal Status:",
+        "defense": "Costa nunca foi acusado e não continua a ser um 'arguido' (suspeito formal). Novembro de 2025: A Suprema Corte decidiu que as escutas telefônicas foram realizadas SEM a devida autorização. Investigação em andamento, mas sem acusações formais."
+      },
+      "vara": {
+        "name": "Face Oculta + Operação Marquês - Armando Vara (PS Deputy Minister)",
+        "subtitle": "Close friend of PM Sócrates • CGD Administrator",
+        "description": "PS politician, close friend of Sócrates, condenado of influence peddling.",
+        "sources": "Fontes: Court documents",
+        "sourceUrls": {
+          "algarveNews": "https://algarvedailynews.com/news/15958-former-socialist-minister-armando-vara-starts-five-year-jail-sentence",
+          "essentialBusiness": "https://www.essential-business.pt/2025/10/31/tribunal-constitucional-rejeita-recurso-do-ex-secretário-de-estado-e-diretor-de-banco-armando-vara/"
+        }
+      }
+    },
+    "casaPia": {
+      "title": "Casa Pia: A Rede de Pedofilia",
+      "scandal": {
+        "name": "Escândalo de Abuso Sexual de Crianças Casa Pia (2002-2010)",
+        "subtitle": "100+ Vítimas Crianças • 800+ Testemunhas • Julgamento de 5+ Anos",
+        "description": "Rede de pedofilia de elite usando orfanatos estatais. Apresentador de TV, embaixador da UNESCO, governador da Casa Pia entre os condenados.",
+        "coverupTitle": "O Encobrimento:",
+        "coverupText": "Primeiros relatos surgiram nos anos 1980. Polícia abandonou investigações. Funcionários destruíram documentos. Exposição completa apenas em 2002.",
+        "sources": "Fontes: France 24, Documentos do Tribunal"
+      }
+    },
+    "judiciary": {
+      "title": "Corrupção Judicial: Juízes à Venda",
+      "lex": {
+        "name": "Operação Lex - Rede de Juízes Corruptos",
+        "subtitle": "17 Arguidos incluindo 3 Juízes Seniores • Julgamento começou em set. 2022",
+        "description": "17 arguidos incluindo juízes seniores acusados de vender decisões favoráveis.",
+        "failureTitle": "Falha Sistémica:",
+        "failureText": "Os juízes que deveriam aplicar as leis anticorrupção eram eles próprios corruptos.",
+        "sources": "Fontes: Observador, Registos do Tribunal"
+      }
+    },
+    "military": {
+      "title": "Corrupção Militar e Policial",
+      "tancos": {
+        "name": "Roubo de Armas de Tancos (2017)",
+        "subtitle": "Granadas, Explosivos Roubados de Base Militar",
+        "description": "Falha de segurança em base militar. Armas roubadas, depois \"encontradas\" em recuperação encenada.",
+        "convicted": "Pessoal militar condenado",
+        "acquitted": "Ministro da Defesa Azeredo Lopes absolvido",
+        "sourceUrls": {
+          "rtp": "https://www.rtp.pt/noticias/pais/tancos-tribunal-de-santarem-mantem-a-condenacao-de-11-dos-23-arguidos_n1616819"
+        }
+      },
+      "zeus": {
+        "name": "Operação Zeus - Fraude da Força Aérea",
+        "subtitle": "€10 Milhões em Preços de Comida Inflacionados",
+        "description": "Oficiais da Força Aérea inflacionaram preços de comida em €10M+.",
+        "hiring": "Empresas de fachada usadas para desviar fundos",
+        "justified": "Justificado como \"necessidade operacional\""
+      },
+      "submarine": {
+        "name": "Escândalo dos Submarinos (2004)",
+        "subtitle": "€6,4 Milhões em Subornos Alemães",
+        "description": "Empresa alemã Ferrostaal pagou €6,4M a funcionários portugueses pelo contrato dos submarinos.",
+        "germans": "Executivos alemães: condenados na Alemanha",
+        "portuguese": "Funcionários portugueses: TODOS ABSOLVIDOS",
+        "documents": "Documentos-chave \"desapareceram\" do Ministério da Defesa"
+      },
+      "police": {
+        "2004": "2004: Corrupção na segurança do Euro 2004",
+        "2007": "2007: Caso Leonor Cipriano - agentes condenados por tortura",
+        "2019": "2019: Agressão brutal a cidadãos negros filmada",
+        "2021": "2021: Agentes da PSP condenados por agressão",
+        "2025": "2025: Rede de tráfico policial exposta",
+        "name": "Corrupção Policial (Em Curso)",
+        "subtitle": "Tráfico Humano, Extorsão, Violência"
+      }
+    },
+    "mayors": {
+      "title": "Mayors & Local Government",
+      "description": "Multiple mayors across Portugal condenado or under investigação for corrupção.",
+      "teia": {
+        "name": "Operação Teia (2019)",
+        "subtitle": "Rede de Corrupção Multi-Autarca",
+        "description": "Investigação revelou rede de corrupção envolvendo autarcas de Santo Tirso e Barcelos e diretor do IPO Porto em contratos públicos fraudulentos e propinas.",
+        "santo": "• Presidente da Câmara de Santo Tirso: Investigado",
+        "barcelos": "• Presidente da Câmara de Barcelos: Investigado",
+        "ipo": "• Diretor do IPO Porto: Investigado",
+        "pattern": "• Padrão: Corrupção municipal entre partidos"
+      },
+      "vortex": {
+        "name": "Operação Vórtex (2023)",
+        "subtitle": "Dois presidentes de Câmara de Espinho sob investigação",
+        "description": "Atual e ex-autarcas do concelho de Espinho sob investigação por corrupção relacionada com contratos públicos e decisões autárquicas.",
+        "current": "• Atual presidente da câmara: sob investigação",
+        "former": "• Ex-presidente da câmara: sob investigação",
+        "pattern": "• Padrão: corrupção entre administrações"
+      },
+      "valentim": {
+        "name": "Valentim Loureiro (Apito Dourado)",
+        "subtitle": "Autarca + presidente de clube de futebol condenado",
+        "description": "Presidente da Câmara de Gondomar e presidente do Boavista FC condenados em grande escândalo de corrupção de árbitros. 171 pessoas envolvidas, 13 condenadas. Pena suspensa = sem prisão.",
+        "sentence": "• Sentença: 3 anos e 2 meses SUSPENSOS",
+        "prison": "• Tempo de prisão cumprido: ZERO",
+        "son": "• Filho assumiu o Boavista FC (suspensão de 4 anos)",
+        "pinto": "• Pinto da Costa: dinheiro + prostitutas para árbitros"
+      },
+      "maestro": {
+        "name": "Operação Mestre (2024)",
+        "subtitle": "Fraude de 39 milhões de euros em fundos da UE",
+        "description": "Março de 2024: PJ invade 78 localidades. Empresário Manuel Serrão acusado de desviar 39 milhões de euros do fundo de desenvolvimento regional da UE. Dois secretários de Estado sob investigação.",
+        "raids": "• 78 locais invadidos, 6 detidos",
+        "officials": "• 2 Secretários de Estado investigados",
+        "companies": "• Rede de empresas de fachada para fraudes",
+        "status": "• Status: investigação em andamento"
+      },
+      "overview": {
+        "description": "A corrupção local prospera em “desertos de notícias”, onde nenhum jornalista monitoriza os contratos municipais, o planeamento urbano e as obras públicas. Esquemas comuns: contratos inflacionados, propinas, “taxas de urgência” para aprovações, empregos para aliados políticos.",
+        "investigated": "Autarcas investigados (2010-2025)",
+        "municipalities": "Municípios portugueses",
+        "officials": "Autoridades locais com casos (dezembro de 2025)",
+        "suspended": "Receber penas suspensas",
+        "title": "A escala da corrupção municipal"
+      },
+      "trifecta": {
+        "convicted": "5 autarcas CONDENADOS",
+        "description": "Em Dezembro de 2024 assistiu-se a condenações sem precedentes de 5 actuais/ex-autarcas de Albergaria-a-Velha, Oliveira de Azeméis, Estarreja e municípios vizinhos. Todos condenados por corrupção, peculato e abuso de poder relacionados com contratos públicos. A maioria recebeu penas suspensas.",
+        "name": "Dezembro de 2024: A Trifecta",
+        "pattern": "Todas as sentenças suspensas",
+        "prison": "0 na prisão",
+        "subtitle": "5 autarcas condenados numa única semana"
+      }
+    },
+    "football": {
+      "title": "Corrupção no Futebol",
+      "porto": {
+        "name": "FC Porto - \"Apito Dourado\" (2004)",
+        "subtitle": "Apito Dourado - Suborno de Árbitros",
+        "description": "FC Porto de Pinto da Costa envolvido em esquema de suborno de árbitros.",
+        "costa": "Pinto da Costa: Absolvido por tecnicidade",
+        "points": "Pontos deduzidos, depois restaurados",
+        "boavista": "Boavista (rivais) despromovido em vez disso",
+        "uefa": "UEFA não tomou medidas"
+      },
+      "benfica": {
+        "name": "SL Benfica - \"Caso dos Emails\" (2016-2019)",
+        "subtitle": "Viciação de Jogos, Fraude Fiscal, Peculato",
+        "description": "Escândalo massivo de corrupção envolvendo viciação de jogos, fraude fiscal e peculato.",
+        "vieira": "Luís Filipe Vieira: preso em 2021, em julgamento",
+        "goncalves": "Paulo Gonçalves: Ex-diretor jurídico, condenado",
+        "ban": "Vieira banido do futebol",
+        "pinto": "Exposto por Rui Pinto (Football Leaks)"
+      }
+    },
+    "murder": {
+      "title": "Acusação de Homicídio",
+      "lima": {
+        "name": "Duarte Lima - Ex-Deputado e Líder Parlamentar do PSD",
+        "subtitle": "Acusado de Assassinar Cliente no Brasil (2009)",
+        "description": "Ex-líder parlamentar do PSD acusado de assassinar cliente brasileira no Rio.",
+        "bpn": "Ligado ao escândalo BPN como advogado do banco",
+        "murder": "Vítima: Rosalina Ribeiro, baleada num carro no Rio de Janeiro",
+        "untouchable": "Autoridades portuguesas recusaram extradição durante anos"
+      }
+    },
+    "other": {
+      "title": "Outros Escândalos Importantes",
+      "goldenVisa": {
+        "name": "Escândalo Golden Visa (2014)",
+        "subtitle": "Funcionários Corruptos Inflacionaram Preços de Imóveis",
+        "description": "11 funcionários presos por inflacionar preços de imóveis e aceitar subornos.",
+        "macedo": "Diretor do SEF Paiva Nunes: preso",
+        "figueiredo": "Múltiplos funcionários condenados",
+        "chinese": "Investidores chineses e russos envolvidos"
+      },
+      "tap": {
+        "name": "Escândalo TAP Air Portugal (2022-2023)",
+        "subtitle": "Escândalo de Indemnização de €500.000",
+        "description": "Executivos da companhia aérea estatal receberam pacotes de indemnização massivos.",
+        "reis": "Christine Ourmieres-Widener: indemnização de €500.000",
+        "santos": "Ramiro Sequeira: Pacote de saída controverso",
+        "galamba": "Ministro Galamba supervisionou nomeações",
+        "laptop": "Inquérito parlamentar exigiu documentos"
+      },
+      "nepotism": {
+        "name": "Escândalo do Nepotismo (2019)",
+        "subtitle": "Primo Nomeou Primo como Adjunto",
+        "description": "Nepotismo endémico na política portuguesa.",
+        "president": "Familiares de Marcelo em posições-chave",
+        "law": "Sem legislação anti-nepotismo significativa",
+        "hodgepodge": "Ligações familiares abrangem todos os principais partidos"
+      },
+      "parqueEscolar": {
+        "name": "Parque Escolar (Era Sócrates)",
+        "subtitle": "€492 Milhões em Pagamentos Ilegais",
+        "description": "Programa de renovação de escolas na era Sócrates repleto de fraude.",
+        "notAudited": "€492M gastos sem auditoria adequada",
+        "investigation": "Investigação aberta mas paralisada",
+        "noConvictions": "Sem condenações até à data"
+      }
+    },
+    "pattern": {
+      "title": "O Padrão da Impunidade: Pelos Números",
+      "stats": {
+        "banking": "Perdas bancárias (BPN+BES+CGD+Novo Banco)",
+        "pms": "PMs investigados",
+        "socrates": "Anos: duração do caso Sócrates",
+        "suspended": "Casos terminando em penas suspensas",
+        "served": "Dos condenados que realmente cumpriram pena",
+        "casaPia": "Vítimas Casa Pia",
+        "judges": "Juízes em julgamento (Op Lex)",
+        "submarine": "Funcionários portugueses condenados (submarinos)",
+        "novoBanco": "Custo do resgate do Novo Banco (0 condenações)",
+        "chargesDropped": "Acusações de Sócrates retiradas (88%)",
+        "blocking": "Propostas de reforma bloqueadas (2007-2025)",
+        "enrichment": "Leis de enriquecimento ilícito aprovadas",
+        "admiral": "Operação Almirante Recuperação (EPPO)",
+        "arrests": "Almirante prende em 3 dias",
+        "prosecutors": "Promotores enfrentam contratos precários",
+        "lima": "Atraso no caso do homicídio de Duarte Lima"
+      }
+    },
+    "scandals": {
+      "casaPia": {
+        "title": "Escândalo de abuso infantil na Casa Pia",
+        "date": "2002 (abuso desde 1980)",
+        "amount": "100+ vítimas crianças",
+        "description": "Rede de pedofilia de elite usando orfanatos estatais. Apresentador Carlos Cruz, diplomata Jorge Ritto, governador da Casa Pia Manuel Abrantes entre os condenados.",
+        "outcome": "7 condenados (2010), penas de 5-18 anos",
+        "source": "França 24"
+      },
+      "bpn": {
+        "title": "Banco Português de Negócios",
+        "date": "2008",
+        "amount": "Perda de €1,8 mil milhões",
+        "description": "A maior fraude da história portuguesa. €700M+ em perdas fora do balanço descobertas. Banco nacionalizado.",
+        "outcome": "José Oliveira e Costa: 14 anos (reduzido em recurso)",
+        "source": "RTP"
+      },
+      "bes": {
+        "title": "Banco Espírito Santo",
+        "date": "2014",
+        "amount": "Perda de €11,8 mil milhões",
+        "description": "O maior banco privado de Portugal colapsa. O império familiar de Ricardo Salgado implode. Estado cria Novo Banco a custo enorme.",
+        "outcome": "Salgado: 6→8 anos (um caso), 6a3m (caso EDP). Alega Alzheimer.",
+        "source": "<g id=\"1\">Observador</g>."
+      },
+      "cgd": {
+        "title": "Caixa Geral cie Depósitos",
+        "date": "2016",
+        "amount": "Resgate de €4,9 mil milhões",
+        "description": "Banco estatal requer o maior resgate da história portuguesa. Inquérito parlamentar encontra 'interferência política,' 'nomeações partidárias.' 7 anos de alertas de fraude ignorados.",
+        "outcome": "ZERO condenações",
+        "source": "RTP"
+      },
+      "novoBanco": {
+        "title": "Novo Banco",
+        "date": "2016 - 2021",
+        "amount": "€8+ mil milhões de dinheiro público",
+        "description": "'Banco bom' do colapso do BES. Vendido à Lone Star (2017) com garantia estatal de €3,89 mil milhões. Em 2021: €7,9 mil milhões injetados. Inquérito parlamentar encontra 'irresponsabilidade.'",
+        "outcome": "ZERO condenações. Sem responsabilidade pessoal.",
+        "source": "Público"
+      },
+      "submarinos": {
+        "title": "Subornos de submarinos alemães",
+        "date": "2004",
+        "amount": "€6,4 milhões em subornos",
+        "description": "Ferrostaal pagou a responsáveis portugueses por contrato de submarinos de €833M. €1M+ ao CDS-PP. Documentos 'desaparecem' do Ministério da Defesa.",
+        "outcome": "Executivos alemães: CONDENADOS. Todos os portugueses: ABSOLVIDOS (2014)",
+        "source": "Rastreador de Corrupção"
+      },
+      "freeport": {
+        "title": "Porto Livre",
+        "date": "2002",
+        "amount": "Não divulgado",
+        "description": "Ministro do Ambiente José Sócrates alegadamente dispensou restrições ambientais para empresa britânica construir centro comercial em terreno protegido.",
+        "outcome": "Ilibado em 2010 - 'ninguém tem culpa'",
+        "source": "Público"
+      },
+      "goldenVisa": {
+        "title": "Escândalo Vistos Gold",
+        "date": "2014",
+        "amount": "€40+ milhões em subornos",
+        "description": "11 responsáveis detidos por inflacionar preços de imóveis, receber subornos por autorizações de residência. Investidores chineses e russos envolvidos.",
+        "outcome": "Algumas condenações, programa continua",
+        "source": "<g id=\"1\">Observador</g>."
+      },
+      "tancos": {
+        "title": "Roubo de Armas de Tancos",
+        "date": "2017",
+        "amount": "Arsenal de armas militares",
+        "description": "1.450 munições, 150 granadas de mão, 44 granadas anti-tanque, 264 explosivos plásticos roubados. Câmaras de segurança 'não funcionavam' há semanas. Ministro Azeredo Lopes demite-se.",
+        "outcome": "Julgamento em curso, múltiplos arguidos",
+        "source": "RTP"
+      }
+    },
+    "completeTitle": "Base de Dados Completa de Corrupção",
+    "fullIntro": "Cada caso importante de corrupção documentado com montantes, resultados e fontes",
+    "additional": {
+      "title": "Escândalos do Sistema de Justiça",
+      "fizz": {
+        "name": "Operação Fizz (2016)",
+        "subtitle": "Promotor recebeu mais de € 700.000 em subornos",
+        "description": "O procurador Orlando Figueira aceitou subornos do vice-presidente de Angola, Manuel Vicente, para encerrar investigações de corrupção. Demonstra corrupção dentro do próprio Ministério Público.",
+        "orlando": "• Orlando Figueira (Procurador): CONDENADO",
+        "vicente": "• Manuel Vicente (VP de Angola): Protegido por imunidade diplomática",
+        "pattern": "• Padrão: Aqueles que processam a corrupção, corrompem"
+      },
+      "isaltino": {
+        "name": "Isaltino Morais (Presidente da Câmara Municipal de Oeiras)",
+        "subtitle": "\"O autarca corrupto que adoram\"",
+        "description": "Condenado por fraude fiscal, branqueamento de capitais. Condenado a 7 anos → reduzido para 2 anos em recurso. Cumpriu 14 meses. Reeleito presidente da câmara em 2017 e 2021. Ainda em funções.",
+        "conviction": "• 2009: Sentença de 7 anos → 2010: Reduzido para 2 anos",
+        "prison": "• 2013-2014: Cumpriu 14 meses no Estabelecimento Prisional da Carregueira",
+        "reelected": "• 2017, 2021: REELEITO presidente da câmara",
+        "new": "• 2022: Novas acusações apresentadas por má conduta de PPP"
+      }
+    },
+    "euFunds": {
+      "admiral": {
+        "description": "Fraude carrossel de IVA abrangendo vários países. A Procuradoria Europeia foi processada em vez das autoridades portuguesas. 10 condenados, penas de 7 a 8 anos. Isto é o que acontece quando a UE assume o processo.",
+        "lesson": "LIÇÃO: EPPO funciona. O sistema nacional não.",
+        "name": "Operação Almirante (2025)",
+        "subtitle": "2,9 mil milhões de euros – a maior fraude de sempre na UE"
+      },
+      "context": {
+        "admiral": "Fraude de almirante (caso único)",
+        "description": "Portugal recebeu mais de 60 mil milhões de euros dos fundos estruturais da UE desde 1986. No entanto, Portugal continua a ser um dos países mais pobres da Europa Ocidental. Para onde foi o dinheiro? Os auditores encontram consistentemente irregularidades, mas os processos judiciais são raros.",
+        "eppo": "Procurador da EPPO Portugal",
+        "prr": "Plano de Recuperação do PRR (2021-2026)",
+        "received": "Fundos da UE recebidos (1986-2024)",
+        "title": "A questão dos 60 mil milhões de euros"
+      },
+      "patterns": {
+        "invoices": "• Faturas falsas para serviços inexistentes",
+        "kickbacks": "• Propinas para funcionários aprovadores",
+        "monitoring": "• Fraca monitorização por parte do IGCP/IGAC",
+        "prescription": "• Casos prescritos antes do julgamento",
+        "projects": "• \"Projetos fantasmas\" - aprovados, mas nunca concluídos",
+        "shell": "• Empresas de fachada criadas para receber fundos",
+        "title": "Padrões de fraude recorrentes"
+      },
+      "title": "Fraude de fundos da UE"
+    },
+    "disclaimer": {
+      "title": "Aviso Legal Importante",
+      "presumption": "• Presunção de Inocência: Todos os indivíduos são presumidos inocentes até que sua culpa seja provada por decisão final do tribunal. A condição de “sob investigação” ou “arguido” não implica culpa.",
+      "status": "• Status do caso: cada entrada é rotulada com o status legal atual (Condenado, Em Julgamento, Sob Investigação, Arquivado, Absolvido). Os status são atualizados conforme o andamento dos casos.",
+      "sources": "• Fontes: Todas as informações provêm de documentos judiciais oficiais, anúncios do DCIAP, inquéritos parlamentares ou meios de comunicação social portugueses conceituados (RTP, Público, Observador).",
+      "defense": "• Posições de Defesa: Os réus negaram as acusações ou forneceram explicações. Suas posições jurídicas são anotadas quando disponíveis publicamente."
+    }
+  },
+  "mediaMachine": {
+    "part": "Parte XI",
+    "title": "O Quarto Poder Capturado",
+    "subtitle": "Como os Media Portugueses Servem o Poder em Vez da Verdade",
+    "ownership": {
+      "sic": {
+        "name": "SIC + Expresso",
+        "owner": "Francisco Pinto Balsemão",
+        "connection": "Balsemão: Ex-PM (1981-83), fundador PSD. Família controla grandes media mantendo influência política.",
+        "note": "Um ex-chefe de governo controla uma grande rede de TV"
+      },
+      "rtp": {
+        "name": "RTP (TV Pública)",
+        "owner": "Estado Português",
+        "connection": "Conselho nomeado pelo governo. Liderança muda com cada eleição. €200M+ financiamento público anual.",
+        "note": "Governo controla nomeações e orçamento"
+      },
+      "tvi": {
+        "name": "TVI + Correio da Manhã",
+        "owner": "Cofina",
+        "connection": "Mudanças de propriedade entre crises de dívida. Paulo Fernandes da Cofina ligado ao setor bancário.",
+        "note": "Dependência financeira de instituições do Estado"
+      },
+      "publico": {
+        "name": "Público",
+        "owner": "Sonae (Belmiro de Azevedo)",
+        "connection": "O maior grupo de retalho de Portugal detém jornal de 'qualidade'. Interesses empresariais moldam prioridades editoriais.",
+        "note": "Cobre regulações que afetam os lucros do proprietário"
+      },
+      "title": "Quem Controla as Notícias",
+      "subtitle": "5 grupos controlam o que 10 milhões de pessoas veem e leem",
+      "globalMedia": {
+        "connection": "Adquirida em 2020 por investidores com ligações Angola/Macau. A experiência de Kevin Ho inclui ligações aos setores de casino e construção. O grupo controla 4 grandes jornais + a 2ª estação de rádio mais ouvida em Portugal.",
+        "name": "Grupo Global de Mídia",
+        "note": "Controla DN, JN, TSF, O Jogo – grande influência da imprensa",
+        "owner": "Investidores privados (Kevin Ho + Marco Galinha)"
+      }
+    },
+    "revolvingDoor": {
+      "title": "A Porta Giratória",
+      "mendes": {
+        "name": "Miguel Sousa Tavares",
+        "path": "Comentador proeminente cujas conexões familiares abrangem política e media. Pai foi ícone da resistência; usa credibilidade para moldar narrativas.",
+        "role": "Comentador Político da SIC",
+        "background": "Ex-Líder do PSD (2005-2007)",
+        "scandal": "€700.000+ em honorários de consultoria de empresas dependentes do governo",
+        "coverage": "SIC deu cobertura mínima ao escândalo do seu próprio comentador",
+        "outcome": "PGR recusou investigação - 19 de dezembro de 2025"
+      },
+      "subtitle": "Políticos tornam-se comentadores, comentadores protegem políticos",
+      "mendesLuis": {
+        "name": "Marques Mendes",
+        "path": "Ex-líder do PSD → comentador político da SIC. Agora membro do Conselho de Estado. Nunca identifica conflitos de interesses no ar.",
+        "role": "Comentador Político da SIC",
+        "background": "Ex-Líder do PSD (2005-2007)",
+        "scandal": "€700.000+ em honorários de consultoria de empresas dependentes do governo",
+        "coverage": "SIC deu cobertura mínima ao escândalo do seu próprio comentador",
+        "outcome": "PGR recusou investigação - 19 de dezembro de 2025"
+      }
+    },
+    "techniques": {
+      "title": "Técnicas de Jornalismo \"Orientado\"",
+      "framing": {
+        "name": "Enquadramento",
+        "description": "'Alegado' para aliados, linguagem definitiva para inimigos. Sócrates: 'acusado'; Rui Pinto: 'hacker criminoso'",
+        "title": "Enquadramento de Títulos",
+        "example1": "Escândalo PS: 'Esquemas criminosos', 'rede de corrupção'",
+        "example2": "Escândalo PSD: 'Contratos controversos', 'irregularidades'"
+      },
+      "timing": {
+        "name": "Timing Estratégico",
+        "description": "Escândalos enterrados às sextas-feiras à noite. Reportagens críticas adiadas até depois das eleições.",
+        "title": "Manipulação de Timing",
+        "example": "Dezembro 2025: Três arquivamentos de casos agrupados antes do Natal"
+      },
+      "omission": {
+        "name": "Omissão Estratégica",
+        "description": "Cobertura internacional de corrupção portuguesa ignorada. Revelações do Football Leaks minimizadas domesticamente.",
+        "title": "Omissão Estratégica",
+        "example": "Padrão de bloqueio de reformas de 18 anos nunca sintetizado"
+      },
+      "balance": {
+        "name": "Falso Equilíbrio",
+        "description": "Provas documentais vs negação tratadas como igualmente válidas",
+        "title": "Falso Equilíbrio",
+        "example": "Tratar factos e spin político como posições equivalentes"
+      },
+      "subtitle": "Como os media moldam a perceção"
+    },
+    "stateAdvertising": {
+      "title": "Publicidade do Estado: A Coleira Financeira",
+      "totalLabel": "Total Publicidade Estatal (2023)",
+      "total": "6,45 milhões €",
+      "hiddenLabel": "Gasto 'Institucional' Oculto",
+      "hidden": "3,7 milhões €",
+      "effect": "Órgãos críticos do governo veem contratos de publicidade desaparecer. A autocensura segue-se.",
+      "hiddenNote": "beneficiários NÃO divulgados publicamente",
+      "mechanism": "Media in financial crisis → Depends on state ads → Softens critical coverage → corrupção less scrutinized",
+      "increase": "+aumento de 1,29 milhões de euros (2024)"
+    },
+    "precarity": {
+      "title": "Precariedade Jornalística = Autocensura",
+      "noContractLabel": "A Trabalhar sem Contrato",
+      "noContract": "33,4%",
+      "pressureLabel": "Enfrentaram Pressão Editorial",
+      "pressure": "23,8%",
+      "beliefLabel": "Acreditam que Independência Comprometida",
+      "belief": "90%",
+      "strike": "March 2024: First journalists' strike in 40+ anos"
+    },
+    "conclusion": "O quarto poder está capturado pelo primeiro e segundo poderes. A arquitetura da impunidade inclui os media que deveriam expô-la.",
+    "intro": "Os media que deveriam expor a corrupção pertencem ao mesmo sistema que deveriam investigar.",
+    "comparison": {
+      "title": "Portugal vs. Democracias Funcionais",
+      "headers": [
+        "Metric",
+        "Portugal",
+        "Sweden",
+        "Denmark"
+      ],
+      "rows": [
+        [
+          "Media concentration",
+          "5 groups control all",
+          "Multiple independent",
+          "Diverse ownership"
+        ],
+        [
+          "State ad transparency",
+          "€3.7M hidden",
+          "100% disclosed",
+          "100% disclosed"
+        ],
+        [
+          "Politicians own media",
+          "Yes (former PM)",
+          "No",
+          "No"
+        ],
+        [
+          "Journalist precarity",
+          "33.4% no contract",
+          "<5%",
+          "<5%"
+        ],
+        [
+          "Corruption Index",
+          "57/100",
+          "85/100",
+          "90/100"
+        ]
+      ]
+    },
+    "concentration": {
+      "tv": "90%",
+      "tvLabel": "TV market controlled by 3 groups",
+      "print": "85%",
+      "printLabel": "Print market controlled by 3 groups",
+      "state": "33%",
+      "stateLabel": "Participação no mercado de mídia estatal",
+      "risk": "ALTO",
+      "riskLabel": "Media Pluralism Risk (EU 2024)"
+    },
+    "biasCases": {
+      "title": "Cobertura Diferencial Documentada",
+      "case1": {
+        "title": "Montenegro x Sócrates",
+        "montenegro": "Montenegro (PSD): Escândalo Spinumviva, mais de 410 mil euros enquanto MP - Breve cobertura, acompanhamento limitado",
+        "socrates": "Sócrates (PS): Cobertura extensa e sustentada durante meses",
+        "pattern": "Mesmo tipo (irregularidade financeira), intensidade muito diferente"
+      },
+      "case2": {
+        "title": "Marques Mendes (dez 2025)",
+        "revealed": "Revelado: mais de 700 mil euros em honorários de consultoria enquanto comentador da SIC",
+        "coverage": "Cobertura da SIC: Mínima – canal próprio minimizou escândalo",
+        "pattern": "Efeito de propriedade clássico - proteja os seus"
+      },
+      "case3": {
+        "title": "Supressão de Oculta Facial",
+        "attempt": "Tentativa: Pressão para limitar a cobertura, atrasar a publicação",
+        "result": "Resultado: Eventualmente exposto, mas com atrasos significativos",
+        "pattern": "Mostra pressão sistêmica sobre jornalistas"
+      }
+    },
+    "framingPatterns": {
+      "title": "Como o enquadramento difere por festa",
+      "aspect": "Aspecto",
+      "psScandal": "Cobertura do escândalo PS",
+      "psdScandal": "Cobertura do escândalo PSD",
+      "language": "Idioma usado",
+      "psLanguage": "\"Esquemas criminosos\", \"Rede de corrupção\"",
+      "psdLanguage": "“Contratos polêmicos”, “Irregularidades”",
+      "duration": "Duração da Cobertura",
+      "psDuration": "Semanas/meses, acompanhamento sustentado",
+      "psdDuration": "Dias, breve menção, sem acompanhamento",
+      "placement": "Posicionamento do título",
+      "psPlacement": "Primeira página, horário nobre",
+      "psdPlacement": "Páginas internas, fora do horário de pico",
+      "accountability": "Enquadramento de responsabilidade",
+      "psAccountability": "Indivíduos nomeados, responsabilidade das partes",
+      "psdAccountability": "“Ambos os lados”, problemas sistêmicos",
+      "note": "Fonte: Estudos académicos que analisam a cobertura eleitoral portuguesa 2015-2022"
+    },
+    "newsDeserts": {
+      "title": "Desertos de notícias: onde a corrupção não é denunciada",
+      "municipalities": "dos 308 municípios são desertos de notícias",
+      "percentage": "de Portugal carece de cobertura noticiosa local",
+      "atRisk": "municípios em risco (apenas 1 ponto de venda)",
+      "impact": "Onde não há jornalismo, não há responsabilização. A corrupção local floresce nas sombras dos desertos noticiosos."
+    },
+    "pressFreedom": {
+      "title": "Declínio da liberdade de imprensa",
+      "ranking": "Portugal caiu do <strong class=\"text-good\">7.º</strong> para o <strong class=\"text-bad\">13.º</strong> lugar no Monitor do Pluralismo dos Meios de Comunicação Social (2024→2025)",
+      "trust": "• Confiança nas notícias: 54% (contra 66% em 2015)",
+      "concentration": "• Risco de concentração de mídia: 79%",
+      "independence": "• Independência editorial em alto risco",
+      "pattern": "O PADRÃO:",
+      "explanation": "À medida que a propriedade dos meios de comunicação social se concentra, a precariedade dos jornalistas aumenta e a publicidade estatal torna-se um financiamento vital – o jornalismo crítico torna-se estruturalmente impossível."
+    },
+    "sourceUrls": {
+      "erc": "https://www.erc.pt/en/",
+      "cmpf": "https://cmpf.eui.eu/media-pluralism-monitor-2024/",
+      "euromedia": "https://media-ownership.eu/findings/countries/portugal/",
+      "reuters": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/portugal",
+      "rsf": "https://rsf.org/en/country/portugal"
+    }
+  },
+  "goldenParachute": {
+    "part": "Parte XII",
+    "title": "O Paraquedas Dourado",
+    "subtitle": "Condenado por Corrupção? Mantenha a Sua Reforma para Sempre",
+    "scandal": {
+      "title": "A Realidade Inaceitável",
+      "description": "Políticos portugueses condenados por corrupção, fraude e abuso de poder continuam a receber pensões financiadas pelos contribuintes. NÃO há perda automática. Enquanto cidadãos comuns perdem empregos e casas por pequenas infrações, a classe política desenhou um sistema onde o crime compensa literalmente."
+    },
+    "cases": {
+      "socrates": {
+        "name": "José Sócrates",
+        "role": "Ex Primeiro-Ministro (2005-2011)",
+        "status": "EM JULGAMENTO",
+        "description": "Acusado de corrupção, branqueamento de capitais, falsificação de documentos. Após 10+ anos, continua a receber pensão estimada em €5.000+/mês. Caso em curso desde 2014.",
+        "pension": "Pensão Estimada: €5.000+/mês",
+        "crime": "Acusações de corrupção de €34M",
+        "sentence": "Julgamento em curso há 11+ anos"
+      },
+      "vara": {
+        "name": "Armando Vara",
+        "role": "Ex-Ministro e Administrador CGD",
+        "status": "CONDENADO",
+        "description": "Condenado por tráfico de influências (Operação Marquês). Sentenciado a 5 anos. Continuou a receber pensão de político durante julgamento e recursos.",
+        "pension": "Pensão continuou durante prisão",
+        "crime": "Influence peddling",
+        "sentence": "5 years prison",
+        "charges": "condenado: influence peddling, money laundering (5 anos)",
+        "roles": "Former PS Deputy Ministro, CGD Administrator"
+      },
+      "pinho": {
+        "name": "Manoel Pinho",
+        "role": "Ex-Ministro da Economia",
+        "status": "ACUSADO",
+        "description": "Acusado de receber €4,5M em subornos da EDP. Caso relacionado com corrupção no setor energético. Fugiu para o Brasil inicialmente. Direitos de pensão intactos.",
+        "pension": "Direitos de pensão completos mantidos",
+        "crime": "Corrupção",
+        "sentence": "10 anos de prisão",
+        "charges": "Condenado: corrupção passiva, branqueamento de capitais (10 anos)",
+        "note": "Recebeu €4,5M em subornos da EDP",
+        "houseArrest": "🏠 A cumprir em casa: Apesar da pena de 10 anos, cumpre na própria residência desde 2021"
+      },
+      "morais": {
+        "name": "Isaltino Morais",
+        "role": "Ex-Presidente Câmara de Oeiras",
+        "status": "CONDENADO",
+        "description": "Condenado por fraude fiscal (7 anos). Após cumprir pena, REELEITO como presidente. Direitos de pensão completos restaurados. O sistema recompensa a persistência.",
+        "pension": "Reeleito após prisão, pensão restaurada",
+        "crime": "Condenado",
+        "sentence": "Cumpriu 14 meses",
+        "charges": "Condenado: fraude fiscal, branqueamento de capitais",
+        "note": "Cumpriu pena, depois foi REELEITO como Presidente da Câmara de Oeiras"
+      },
+      "title": "Documented Casos",
+      "headers": [
+        "Politician",
+        "Crime",
+        "Sentence",
+        "Pension Status"
+      ]
+    },
+    "amounts": {
+      "title": "O Que Recebem (Mensal)",
+      "presidentLabel": "Presidente (após 1 mandato)",
+      "president": "€11.718",
+      "pmLabel": "Primeiro-Ministro",
+      "pm": "€8.789",
+      "ministerLabel": "Ministro",
+      "minister": "€7.617",
+      "comparison": "Pensão média portuguesa: €509/mês. Políticos recebem 15-23x mais — mesmo após condenação criminal.",
+      "mp": "€4,185 - €4,604",
+      "mpLabel": "Members of Parliament",
+      "subvention": "~€2,500/month for life",
+      "subventionLabel": "Pre-2005 Lifelong Subvention",
+      "presidentBenefits": "Todos os benefícios após apenas UM mandato",
+      "pmBenefits": "Carro, motorista, pessoal, segurança para a vida",
+      "ministerBenefits": "Reforma generosa independentemente do tempo servido"
+    },
+    "euComparison": {
+      "title": "Como Outros Países Tratam Isto",
+      "country": "País",
+      "rule": "Regra de Confisco",
+      "applies": "Aplica-se a",
+      "headers": [
+        "Country",
+        "Pension Forfeiture for Convicted Politicians"
+      ],
+      "rows": [
+        [
+          "Germany",
+          "Yes - Bundestag Act provisions"
+        ],
+        [
+          "United Kingdom",
+          "Yes - Parliamentary Standards Act"
+        ],
+        [
+          "Spain",
+          "7-12 year disqualification"
+        ],
+        [
+          "France",
+          "Up to 10 year disqualification"
+        ],
+        [
+          "Portugal",
+          "NONE"
+        ]
+      ],
+      "stats": {
+        "pensionRate": "95%",
+        "pensionRateLabel": "Taxa de substituição de pensões de Portugal",
+        "euAverage": "71%",
+        "euAverageLabel": "Média da UE",
+        "productivity": "73%",
+        "productivityLabel": "Produtividade de Portugal vs UE"
+      },
+      "translation": "Reformas mais generosas + menor responsabilização + menor produtividade = sistema concebido para recompensar o fracasso."
+    },
+    "greco": {
+      "title": "O Que Diz o GRECO",
+      "verdict": "O órgão anticorrupção do Conselho da Europa tem repetidamente notado a falha de Portugal em implementar sanções significativas para funcionários corruptos. O sistema de proteção de pensões mina a dissuasão e sinaliza que o crime político não tem consequências duradouras.",
+      "status": "GLOBALMENTE INSATISFATÓRIO",
+      "recommendations": "28",
+      "partial": "18 parcialmente implementado",
+      "notImplemented": "10 NÃO implementado",
+      "lobbying": "Lobby: NÃO REGULADO",
+      "assets": "Declarações de ativos: EXECUÇÃO FRACA"
+    },
+    "referendum": {
+      "title": "Perguntas de Referendo Propostas",
+      "q7": {
+        "number": "Pergunta 7",
+        "text": "Os políticos condenados por corrupção devem perder automaticamente as suas reformas financiadas pelos contribuintes?"
+      },
+      "q8": {
+        "number": "Pergunta 8",
+        "text": "Os meios de comunicação devem ser obrigados a divulgar as ligações políticas dos proprietários e principais acionistas?"
+      }
+    },
+    "intro": "Em Portugal, políticos condenados por roubar milhões mantêm as suas pensões financiadas pelos contribuintes. Não há lei que os impeça.",
+    "question": "O que acontece quando um político português é condenado por corrupção?",
+    "answer": "ELES FICAM COM TUDO.",
+    "noLaw": {
+      "title": "A Lei: Não Existe",
+      "text": "Portugal NÃO tem lei que exija perda de pensão após condenação criminal.",
+      "attempts": [
+        "Chega propôs cortes de 25-75% → Bloqueado por 'obstáculos constitucionais'",
+        "Interpretações do Tribunal Constitucional impedem penalidades automáticas",
+        "PS e PSD beneficiam do status quo → Sem interesse em reforma"
+      ]
+    },
+    "conclusion": "A arquitetura da impunidade estende-se para além do tribunal. Mesmo quando ocorre uma rara condenação, o paraquedas dourado garante uma aterragem suave.",
+    "constitutional": {
+      "eu": {
+        "text": "França, Espanha e Itália têm proteções constitucionais IDÊNTICAS, mas implementaram com sucesso leis de confisco de pensões. Seus tribunais consideraram o confisco constitucional. A resistência de Portugal é uma escolha política e não uma necessidade legal.",
+        "title": "Outros países da UE"
+      },
+      "portugal": {
+        "text": "O Tribunal Constitucional interpreta isto como significando que as pensões NÃO PODEM ser automaticamente perdidas. Tentativas de reforma bloqueadas duas vezes (2012, 2015). Resultado: os políticos condenados mantêm pensões integrais.",
+        "title": "Interpretação de Portugal"
+      },
+      "quote": "“Nenhuma sentença implicará, como efeito necessário, a perda de quaisquer direitos civis, profissionais ou políticos”",
+      "source": "— Artigo 30.º da Constituição Portuguesa",
+      "title": "O Escudo Constitucional: Artigo 30 CRP"
+    },
+    "subvencao": {
+      "calculation": {
+        "text": "Baseado em salário + anos de serviço. Alguns recebem 80%+ do seu salário final vitalício. Pode exceder 20.000€/mês para posições de topo.",
+        "title": "Como é calculado"
+      },
+      "contrast": "CONTRASTE: Trabalhadores regulares condenados por crimes perdem os seus empregos, pensões e futuros. Os políticos condenados por crimes muito piores ficam com os seus 8.500-26.000 euros/mês para o resto da vida.",
+      "created": {
+        "text": "A Lei 4/85 criou subsídios vitalícios para PMs, Ministros, Deputados e Juízes. Originalmente projetado para recompensar o \"serviço público\".",
+        "title": "Criado em 1984"
+      },
+      "description": "Portugal tem um sistema único de \"Subvenção Vitalícia\" (Subsídio Vitalício) que concede aos ex-políticos um pagamento mensal permanente vitalício - separado e adicional a qualquer pensão regular. Esta não é uma pensão obtida através de contribuições; é um privilégio concedido por lei.",
+      "protected": {
+        "text": "Mesmo que condenado por crimes cometidos no exercício do cargo, o subsídio continua. A apreensão exige uma acção judicial civil separada – e muitas vezes falha no recurso.",
+        "title": "Legalmente Protegido"
+      },
+      "title": "O Sistema Subvenção Vitalícia"
+    }
+  },
+  "digitalExclusion": {
+    "layer": {
+      "title": "A Camada de Exclusão Digital",
+      "description": "A geração que testemunhou todo o padrão de 50 anos de corrupção é sistematicamente excluída do sistema de assinaturas apenas digital para referendos."
+    },
+    "explanation": "Iniciativas de referendo modernas requerem assinaturas digitais, excluindo efetivamente as gerações mais velhas que têm menor probabilidade de usar a internet.",
+    "usageSource": "Fonte: Eurostat (2024)",
+    "stats": {
+      "65to74": "38,9% dos 65-74 anos estão digitalmente excluídos",
+      "75plus": "~70% dos 75+ anos estão digitalmente excluídos",
+      "never": "Muitos nunca usaram a internet",
+      "population": "Isto representa mais de 2 milhões de cidadãos portugueses"
+    },
+    "warning": "A Cruel Ironia:"
+  },
+  "conclusion": {
+    "notDemocracy": "Isto não é democracia com problemas de corrupção",
+    "byDesign": "Isso é intencional",
+    "euComplicit": "A UE é cúmplice",
+    "choice": "A escolha",
+    "byDesignText": "O sistema não está quebrado. Foi projetado desta forma.",
+    "choiceText1": "Este documento foi assinado por",
+    "choiceSignatures": "cidadãos",
+    "choiceText2": "exigindo mudanças.",
+    "choiceThatsYou": "Esse é VOCÊ.",
+    "euComplicitText": "As instituições da UE promovem funcionários sob investigação para cargos de topo.",
+    "notDemocracyText": "Um país onde os cidadãos não podem realizar referendos não é uma democracia plena.",
+    "choiceText": "Este documento foi assinado por cidadãos que exigem mudanças."
+  },
+  "footer": {
+    "legalTitle": "Aviso legal",
+    "legalNotice": "Aviso Legal",
+    "legalNotice.text": "Todos os indivíduos mencionados têm direito à presunção de inocência. Este documento apresenta informação publicamente disponível de fontes oficiais, documentos judiciais e reportagens verificadas que o investigador considera essenciais para a consciencialização pública e responsabilização democrática.",
+    "legalText": "Todos os indivíduos mencionados neste documento têm direito à presunção de inocência até prova em contrário em tribunal. Este documento apresenta informação publicamente disponível de fontes oficiais, documentos judiciais e meios de comunicação reputados. A análise representa padrões documentados no sistema legal e político português.",
+    "prepared": "Documento preparado:",
+    "verified": "Todas as fontes verificadas à data de publicação",
+    "disclaimer": "Este site documenta informação pública",
+    "legalNoticeText": "Todas as informações apresentadas provêm de documentos judiciais oficiais, registros parlamentares e meios de comunicação respeitáveis. Os indivíduos mencionados são presumidos inocentes até que sua culpa seja provada."
+  },
+  "eciCritique": {
+    "title": "A Falha de Conceção da ICE: 12 Meses de Contra-Mobilização",
+    "problem": "A Comissão tem 12 meses para responder — tempo para organizar resistência, fazer lóbi contra a implementação, ou simplesmente atrasar até que a atenção pública desapareça.",
+    "tacticsTitle": "Contramedidas Disponíveis às Instituições:",
+    "tactics": [
+      "Táticas de atraso burocrático",
+      "Reformular o âmbito da iniciativa",
+      "Alegar 'complexidade legal'",
+      "Esperar por mudanças de ciclo político",
+      "Contra-lóbi por interesses afetados",
+      "Diluir propostas em versões ineficazes"
+    ],
+    "historyTitle": "Falhas Históricas da ICE:",
+    "history": [
+      {
+        "name": "Right2Water (2013)",
+        "signatures": "1,8 milhões",
+        "result": "Diretiva enfraquecida, água privada ainda legal"
+      },
+      {
+        "name": "Stop TTIP (2014)",
+        "signatures": "3,3 milhões",
+        "result": "Comissão recusou sequer registá-la"
+      },
+      {
+        "name": "One of Us (2014)",
+        "signatures": "1,7 milhões",
+        "result": "Comissão rejeitou todas as exigências"
+      },
+      {
+        "name": "Ban Glyphosate (2017)",
+        "signatures": "1+ milhão",
+        "result": "Comissão renovou licença na mesma"
+      }
+    ],
+    "alternativeTitle": "A Alternativa:",
+    "alternativeText": "É por isso que propomos mecanismos de referendo DIRETOS como na Suíça, não ICEs baseadas em petições que podem ser ignoradas. Os referendos suíços são VINCULATIVOS — os políticos não podem simplesmente esperar que passem.",
+    "comparisonTitle": "ICE vs Referendo Suíço:",
+    "comparisonEci": [
+      "Petição não vinculativa",
+      "Comissão tem 12 meses para responder",
+      "Pode ser rejeitada ou ignorada",
+      "0% success rate on major reforms"
+    ],
+    "comparisonSwiss": [
+      "Legally binding vote",
+      "Result takes effect automatically",
+      "Politicians cannot override",
+      "700+ successful referendums since 1848"
+    ]
+  },
+  "operations": {
+    "title": "Lista de Operações Policiais",
+    "marques": {
+      "name": "Operação Marquês",
+      "target": "José Sócrates (PM)",
+      "status": "julgamento em curso 11+ anos",
+      "crimes": "22 crimes: corrupção, laundering, fraud"
+    },
+    "influencer": {
+      "name": "Influenciador da Operação",
+      "target": "António Costa (PM)",
+      "status": "Under investigação → EU Presidente",
+      "crimes": "corrupção, embezzlement"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "target": "Juízes Rangel, Galante, Vaz das Neves",
+      "status": "julgamento started Oct 2025",
+      "crimes": "17 réus, mais de 21 crimes"
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "target": "Promotor Orlando Figueira",
+      "status": "condenado 6y8m (2021)",
+      "crimes": "Suborno de 700 mil euros do vice-presidente de Angola"
+    },
+    "teia": {
+      "name": "Operação Teia",
+      "target": "Santo Tirso, autarcas de Barcelos",
+      "status": "julgamento em curso 2025",
+      "crimes": "Mais de 50 crimes, irregularidades de 1,8 milhões de euros"
+    },
+    "vortex": {
+      "name": "Operação Vórtex",
+      "target": "2 presidentes de Espinho (PS+PSD)",
+      "status": "julgamento em curso",
+      "crimes": "Urban corrupção, 'urgency fees'"
+    },
+    "babel": {
+      "name": "Operação Babel",
+      "target": "Gaia Vice-Presidente Patrocínio Azevedo",
+      "status": "julgamento starts Jan 2025",
+      "crimes": "Vantagens de 40 milhões de euros, imóveis de 300 milhões de euros"
+    },
+    "tuttiFrutti": {
+      "name": "Operação Tutti Frutti",
+      "target": "Presidentes de freguesia de Lisboa",
+      "status": "Acusação concluída",
+      "crimes": "60 arguidos, 463 crimes, 580 mil euros"
+    },
+    "maestro": {
+      "name": "Operação Mestre",
+      "target": "Manuel Serrão",
+      "status": "investigação em curso",
+      "crimes": "Fraude de 39 milhões de euros em fundos da UE"
+    },
+    "admiral": {
+      "name": "Almirante de Operação (EPPO)",
+      "target": "Rede de fraude ao IVA",
+      "status": "10 condenado (May 2025)",
+      "crimes": "Danos de 2,9 mil milhões de euros – a maior fraude de sempre na UE"
+    }
+  },
+  "timeline": {
+    "pageTitle": "50 Anos de Corrupção: A Cronologia Completa",
+    "pageSubtitle": "Cada escândalo exposto → Cada reforma bloqueada → O padrão revelado",
+    "legend": {
+      "corruption": "Corrupção/Escândalo",
+      "blocked": "Reforma Bloqueada",
+      "conviction": "Condenação/Reforma Aprovada",
+      "reform": "Tentativa de Reforma"
+    },
+    "summaryTitle": "50 Anos: O Balanço",
+    "summary": {
+      "bankingLosses": {
+        "value": "25 mil milhões de euros +",
+        "label": "Perdas bancárias (BPN+BES+CGD+Novo Banco)"
+      },
+      "reformsBlocked": {
+        "value": "9+",
+        "label": "Reformas anticorrupção bloqueadas"
+      },
+      "referendums": {
+        "value": "0",
+        "label": "Referendos vinculativos"
+      },
+      "pmsConvicted": {
+        "value": "0",
+        "label": "Primeiros-Ministros condenados"
+      },
+      "politicians": {
+        "value": "191",
+        "label": "Políticos perante a justiça (desde 2017)"
+      },
+      "socratesDuration": {
+        "value": "11 anos",
+        "label": "Sócrates arrest→julgamento"
+      },
+      "casaPiaVictims": {
+        "value": "Mais de 100",
+        "label": "Vítimas Casa Pia"
+      },
+      "lexDefendants": {
+        "value": "17",
+        "label": "Arguidos Op Lex (juízes+)"
+      },
+      "admiralFraud": {
+        "value": "2,9 bilhões de euros",
+        "label": "Fraude IVA (Op Admiral)"
+      },
+      "ministersInPrison": {
+        "value": "2",
+        "label": "Ministros na prisão (Vara, Pinho)"
+      }
+    },
+    "patternTitle": "O Padrão Exposto",
+    "patternIntro": "Cada escândalo maior é seguido por:",
+    "pattern": {
+      "step1": "1. <strong>Indignação</strong> → Cobertura mediática, revolta pública",
+      "step2": "2. <strong>Proposta de reforma</strong> → Da oposição ou partidos pequenos",
+      "step3": "3. <strong>Bloqueio</strong> → PS ou PSD votam contra (detêm 150+ de 230 lugares)",
+      "step4": "4. <strong>Atraso</strong> → Caso arrasta-se durante anos até prescrição",
+      "step5": "5. <strong>Absolvição ou pena suspensa</strong> → 75% dos casos",
+      "step6": "6. <strong>Promoção</strong> → Costa para o Conselho da UE, Barroso para a Comissão"
+    },
+    "patternQuote": "\"Só os pobres e os desconhecidos vão para a cadeia.\"",
+    "footerSource": "All information sourced from official court documents, Portuguese Media, and international organizations.",
+    "years": {
+      "y1974": "1974",
+      "y1980s": "década de 1980",
+      "y1989": "1989",
+      "y1997": "1997",
+      "y1998": "1998",
+      "y2002": "2002",
+      "y2004": "2004",
+      "y2005_09": "2005–09",
+      "y2007": "2007",
+      "y2008": "2008",
+      "y2009": "2009",
+      "y2010": "2010",
+      "y2012": "2012",
+      "y2014": "2014",
+      "y2015": "2015",
+      "y2016": "2016",
+      "y2017": "2017",
+      "y2019": "2019",
+      "y2021": "2021",
+      "y2022": "2022",
+      "y2023": "2023",
+      "y2024": "2024",
+      "y2025": "2025"
+    },
+    "badges": {
+      "democracyRestored": "DEMOCRACIA RESTAURADA",
+      "designFlaw": "FALHA DE CONCEÇÃO",
+      "abuseBegins": "ABUSOS COMEÇAM",
+      "reformBlocked": "REFORMA BLOQUEADA",
+      "reformSabotaged": "REFORMA SABOTADA",
+      "tcBlocks": "TC BLOQUEIA",
+      "sabotaged": "SABOTADO",
+      "centralizationPreserved": "CENTRALIZAÇÃO PRESERVADA",
+      "scandalErupts": "ESCÂNDALO ECLODE",
+      "freeportAllegations": "ALEGAÇÕES FREEPORT",
+      "footballCorruption": "CORRUPÇÃO NO FUTEBOL",
+      "submarineBribery": "SUBORNO DOS SUBMARINOS",
+      "euro2004Stadiums": "ESTÁDIOS EURO 2004",
+      "corruptionMachine": "MÁQUINA DE CORRUPÇÃO",
+      "faceOculta": "FACE OCULTA",
+      "commitmentMade": "COMPROMISSO ASSUMIDO",
+      "nonBinding": "NÃO VINCULATIVO",
+      "policeCorruption": "CORRUPÇÃO POLICIAL",
+      "bankingCollapse": "COLAPSO BANCÁRIO",
+      "cgdFraudIgnored": "ALERTAS DE FRAUDE CGD IGNORADOS",
+      "murderAllegation": "ALEGAÇÃO DE HOMICÍDIO",
+      "rareConvictions": "CONDENAÇÕES RARAS",
+      "tcBlocksReform": "TC BLOQUEIA REFORMA",
+      "noEuVote": "SEM VOTO NA UE",
+      "pmArrested": "PM DETIDO",
+      "goldenVisaScandal": "ESCÂNDALO VISTOS GOLD",
+      "tcBlocksAgain": "TC BLOQUEIA NOVAMENTE (UNÂNIME)",
+      "prosecutorCorruption": "CORRUPÇÃO DE PROCURADOR",
+      "benficaEmails": "EMAILS DO BENFICA",
+      "novoBancoBlackHole": "BURACO NEGRO NOVO BANCO",
+      "militaryScandal": "ESCÂNDALO MILITAR",
+      "bpnConvictions": "CONDENAÇÕES BPN",
+      "autarquiaCorruption": "CORRUPÇÃO AUTÁRQUICA",
+      "joeBerado": "ESCÂNDALO JOE BERARDO",
+      "varaConvicted": "VARA CONDENADO",
+      "policeBrutality": "BRUTALIDADE POLICIAL",
+      "nepotismScandal": "ESCÂNDALO DE NEPOTISMO",
+      "policeMurder": "HOMICÍDIO POLICIAL",
+      "weakLawPassed": "LEI FRACA APROVADA",
+      "varaReleased": "VARA LIBERTADO (COVID)",
+      "allPartiesBlock": "TODOS OS PARTIDOS BLOQUEIAM",
+      "judgesOnTrial": "JUÍZES EM JULGAMENTO",
+      "tapScandal": "ESCÂNDALO TAP",
+      "tancosConvictions": "CONDENAÇÕES TANCOS",
+      "espinhoMayorsArrested": "AUTARCAS ESPINHO DETIDOS",
+      "lisbonParishCorruption": "CORRUPÇÃO NAS JUNTAS DE LISBOA",
+      "governmentFalls": "GOVERNO CAI",
+      "tapContinues": "TAP CONTINUA",
+      "edpConvictions": "CONDENAÇÕES EDP",
+      "euFundsFraud": "FRAUDE €39M FUNDOS UE",
+      "gaiaRealEstateRing": "REDE IMOBILIÁRIA GAIA",
+      "defendants65": "65 ARGUIDOS",
+      "euReward": "RECOMPENSA DA UE",
+      "reformBlockedAgain": "REFORMA BLOQUEADA NOVAMENTE",
+      "euBiggestVatFraud": "MAIOR FRAUDE IVA DA UE - CONDENAÇÕES",
+      "judgesFinally": "JUÍZES FINALMENTE EM JULGAMENTO",
+      "policeTrafficking": "REDE DE TRÁFICO POLICIAL",
+      "varaReturns": "VARA REGRESSA À PRISÃO",
+      "benficaFraudTrial": "JULGAMENTO FRAUDE BENFICA",
+      "politicians191": "191 POLÍTICOS",
+      "decemberTrifecta": "A TRIFETA DE DEZEMBRO",
+      "stillNoLaw": "51 ANOS DEPOIS"
+    },
+    "events": {
+      "carnationRevolution": {
+        "title": "Revolução dos Cravos",
+        "desc": "Fim de 48 anos de ditadura Salazar/Caetano. Nova era democrática começa."
+      },
+      "noReferendums": {
+        "title": "Sem Referendos na Constituição de 1976",
+        "desc": "Assembleia Constituinte deliberadamente exclui democracia direta. Partidos associam referendos aos plebiscitos de Salazar.",
+        "note": "O sistema de proteção começa desde o nascimento."
+      },
+      "casaPiaFirstReported": {
+        "title": "Primeiras Denúncias de Abuso Casa Pia",
+        "desc": "Primeiros relatos de abuso sexual de crianças em orfanatos estatais surgem. Polícia abandona investigações. Funcionários destroem documentos.",
+        "note": "Encobrimento começa. Durará 20+ anos."
+      },
+      "pcpFirstProposal": {
+        "title": "PCP Propõe Primeiras Leis Anticorrupção",
+        "desc": "Partido Comunista (PCP) propõe legislação de enriquecimento ilícito.",
+        "result": "PS + PSD bloqueiam"
+      },
+      "referendumsPoisonPill": {
+        "title": "Referendos Adicionados - Com Armadilha",
+        "desc": "Revisão constitucional adiciona mecanismo de referendo.",
+        "catch": "Limiar de 50% de participação + veto do Tribunal Constitucional = concebido para falhar",
+        "note": "Próximos 35 anos: 0 referendos vinculativos alcançados."
+      },
+      "amsterdamBlocked": {
+        "title": "Referendo Tratado de Amesterdão Bloqueado",
+        "desc": "Tribunal Constitucional rejeita referendo sobre tratado da UE — \"pergunta enganadora\"",
+        "note": "Portugal NUNCA votará sobre integração na UE."
+      },
+      "casaPiaExposed": {
+        "title": "Escândalo de Abuso Casa Pia Exposto",
+        "desc": "Jornalista revela história: rede de pedófilos de elite usando orfanatos estatais. Apresentador de TV, embaixador da UNESCO, governador da Casa Pia entre os acusados.",
+        "note": "100+ crianças abusadas. Julgamento durará 5+ anos."
+      },
+      "socratesFreeport": {
+        "title": "Sócrates & Centro Comercial Freeport",
+        "desc": "Ministro do Ambiente José Sócrates alegadamente dispensa restrições ambientais para empresa britânica construir centro comercial em terreno protegido.",
+        "outcome": "Ilibado em 2010 - \"ninguém tem culpa\""
+      }
+    }
+  },
+  "stats": {
+    "pageTitle": "Estatísticas e Fontes",
+    "pageSubtitle": "Todos os dados de fontes oficiais e internacionais reputadas",
+    "ti": {
+      "title": "Transparência Internacional",
+      "subtitle": "Índice de Perceção da Corrupção (IPC)",
+      "score2024": {
+        "value": "57",
+        "label": "Pontuação IPC Portugal 2024",
+        "trend": "-4 pontos face a 2023"
+      },
+      "rank": {
+        "value": "43º",
+        "label": "Ranking Global",
+        "detail": "de 180 países"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "Procuradores dizem que prazos são insuficientes",
+        "source": "Pesquisa de TI"
+      },
+      "tableTitle": "Comparação IPC UE (2024)"
+    },
+    "eurobarometer": {
+      "title": "Eurobarómetro",
+      "subtitle": "Eurobarómetro Especial sobre Corrupção (2023)",
+      "widespread": {
+        "value": "94%",
+        "label": "Portugueses acreditam que a corrupção é generalizada",
+        "euAvg": "Média da UE: 70%"
+      },
+      "government": {
+        "value": "88%",
+        "label": "Acreditam que existe corrupção no governo nacional",
+        "euAvg": "Média da UE: 65%"
+      },
+      "bribery": {
+        "value": "76%",
+        "label": "Dizem que suborno é a forma mais fácil de obter serviços públicos",
+        "euAvg": "Média da UE: 54%"
+      }
+    },
+    "digitalDivide": {
+      "title": "Fosso Digital",
+      "subtitle": "Utilização de internet por faixa etária (Portugal, 2024)",
+      "keyInsight": "A geração que testemunhou os 50 anos completos do padrão de corrupção (65+) é sistematicamente excluída do sistema de assinaturas de referendo APENAS DIGITAL",
+      "ageGroups": {
+        "16-24": {
+          "usage": "100%",
+          "excluded": "0%"
+        },
+        "25-34": {
+          "usage": "99,1%",
+          "excluded": "0,9%"
+        },
+        "35-44": {
+          "usage": "98,6%",
+          "excluded": "1,4%"
+        },
+        "45-54": {
+          "usage": "94,9%",
+          "excluded": "5,1%"
+        },
+        "55-64": {
+          "usage": "82,5%",
+          "excluded": "17,5%"
+        },
+        "65-74": {
+          "usage": "61,1%",
+          "excluded": "38,9%"
+        },
+        "75+": {
+          "usage": "~30%",
+          "excluded": "70%"
+        }
+      }
+    },
+    "summaryTitle": "Resumo: O Que os Dados Mostram",
+    "summaryStats": {
+      "corruption": {
+        "value": "94%",
+        "label": "dos portugueses veem corrupção generalizada",
+        "source": "Eurobarómetro 2023"
+      },
+      "greco": {
+        "value": "15/01",
+        "label": "recomendações do GRECO implementadas",
+        "source": "Conselho da Europa 2019"
+      },
+      "cpiDrop": {
+        "value": "-4",
+        "label": "pontos de queda no IPC num ano",
+        "source": "Transparência Internacional 2024"
+      },
+      "prosecutors": {
+        "value": "73%",
+        "label": "dos promotores dizem que os prazos de prescrição são insuficientes",
+        "source": "Pesquisa TI 2023"
+      }
+    },
+    "footer": "Todas as estatísticas de fontes oficiais. Última atualização: Dezembro 2025."
+  },
+  "tables": {
+    "headers": {
+      "name": "Nome",
+      "party": "Partido",
+      "status": "Estado",
+      "charges": "Charges/Estado",
+      "chargesSentence": "Acusações/Pena",
+      "chargesStatus": "Acusações/Estado",
+      "amount": "Montante",
+      "year": "Ano",
+      "initiative": "Iniciativa",
+      "result": "Resultado",
+      "whoBlocked": "Quem Bloqueou",
+      "country": "País",
+      "score": "Pontuação",
+      "rank": "Posição",
+      "change": "Mudança",
+      "ageGroup": "Faixa Etária",
+      "internetUsage": "Uso da Internet",
+      "excluded": "Excluídos",
+      "impact": "Impacto",
+      "aspect": "Aspeto",
+      "sentence": "Pena",
+      "allegations": "Alegações/Condenações",
+      "protectionLevel": "Nível de Proteção",
+      "sweden": "Suécia",
+      "portugal": "Portugal",
+      "position": "Posição",
+      "illicitEnrichment": "Enriquecimento Ilícito",
+      "lobbyRegulation": "Regulação do Lobbying",
+      "endImmunity": "Fim da Imunidade",
+      "notableActions": "Ações Notáveis",
+      "politician": "Político",
+      "scandal": "Escândalo",
+      "controversy": "Controvérsia/Contexto",
+      "euReward": "Cargo na UE",
+      "date": "Data",
+      "subject": "Assunto",
+      "turnout": "Participação",
+      "binding": "Vinculativo?",
+      "illicitEnrichmentLaw": "Lei de Enriquecimento Ilícito",
+      "constitutionalStatus": "Estado Constitucional",
+      "immunityScope": "Âmbito da Imunidade",
+      "parliamentBlocks": "Parlamento Bloqueia Investigação?",
+      "tiCpi": "IPC do TI",
+      "prescription": "Prescrição",
+      "avgTime": "Tempo Médio",
+      "immunity": "Imunidade",
+      "role": "Cargo",
+      "municipality": "Município"
+    },
+    "status": {
+      "convicted": "condenado",
+      "convictedServing": "condenado - Serving",
+      "convictedAppealing": "condenado - Appealing",
+      "onTrial": "On julgamento",
+      "underInvestigation": "Under investigação",
+      "arguido": "Arguido",
+      "arrested": "preso",
+      "archived": "arquivado",
+      "declined": "investigação Declined",
+      "neverProsecuted": "Nunca processado",
+      "acquitted": "ABSOLVIDO",
+      "euPromoted": "EU Council Presidente"
+    },
+    "parties": {
+      "ps": "PS",
+      "psd": "PSD",
+      "cds": "CDS-PP",
+      "pcp": "PCP",
+      "be": "BE",
+      "chega": "Chega !",
+      "livre": "\n\t\t\t\tLivre\t\t\t",
+      "pan": "FRIGIDEIRA",
+      "il": "IL"
+    }
+  },
+  "backToMain": "← Voltar ao relatório principal",
+  "duopoly": {
+    "bothProtect": "Ambos os Partidos Se Protegem Mutuamente",
+    "coordinatedTheater": "A oposição aparente entre PS e PSD é teatro coordenado. Quando importa—bloquear reformas—votam juntos."
+  },
+  "eurobarometer": {
+    "sourceLabel": "Fonte: Eurobarometer 2024"
+  },
+  "referendum": {
+    "pattern": {
+      "title": "O Padrão de Referendos Falhados",
+      "text": "Todos os referendos na história portuguesa falharam em atingir o limiar de participação ou foram não-vinculativos.",
+      "sources": "Fonte: Comissão Nacional de Eleições"
+    }
+  },
+  "sweden": {
+    "sourceLabel": "Fonte: Claudia Wallin, \"Um País Sem Excelências e Mordomias\" (2014)"
+  },
+  "swiss": {
+    "stats": "Estatísticas-Chave da Democracia Suíça:"
+  },
+  "roadmap": {
+    "title": "A Investigação",
+    "subtitle": "Uma jornada estruturada através da arquitetura de impunidade de Portugal",
+    "part1": {
+      "title": "O Sistema",
+      "desc": "Como a classe política pavloviana protege os seus"
+    },
+    "part2": {
+      "title": "Os Casos",
+      "desc": "Primeiros-Ministros, Ministros e os casos que definem a impunidade"
+    },
+    "part3": {
+      "title": "As Brechas",
+      "desc": "Mecanismos legais que garantem que a corrupção fique impune"
+    },
+    "part4": {
+      "title": "O Bloqueio",
+      "desc": "Como as reformas são sistematicamente bloqueadas pelo PS/PSD"
+    },
+    "part5": {
+      "title": "As Recompensas UE",
+      "desc": "Para onde vão os políticos acusados: Bruxelas"
+    },
+    "part6": {
+      "title": "A Solução",
+      "desc": "O que os cidadãos podem fazer para quebrar o ciclo"
+    },
+    "conclusion": "Da ética cívica à ação concreta—cada parte revela mais uma camada do sistema projetado para proteger os corruptos."
+  },
+  "journalism": {
+    "badge": "Por que esta investigação existe",
+    "title": "O sonho que não poderia sobreviver ao sistema",
+    "subtitle": "Jornalismo Português Sob Captura Sistémica",
+    "intro": "Todo jornalista começa com o mesmo sonho: mostrar a verdade às pessoas, documentar o que importa, mudar o mundo. Em Portugal, esse sonho esbarra num sistema concebido para evitar exactamente isso.",
+    "medicine": {
+      "title": "Medicina",
+      "oath": "Primeiro, não causar dano."
+    },
+    "journalismEthics": {
+      "title": "Jornalismo",
+      "oath": "Primeiro, não enganar."
+    },
+    "doctors": {
+      "title": "Médicos",
+      "diagnose": "Diagnosticam com base em evidências, não em crenças",
+      "wellbeing": "Colocam o bem-estar do paciente acima da ideologia ou lucro",
+      "bound": "Estão vinculados à ética mesmo sob pressão",
+      "lose": "Perdem legitimidade quando causam dano conscientemente"
+    },
+    "journalists": {
+      "title": "Jornalistas",
+      "report": "Reportam com base em factos verificáveis, não em agendas",
+      "rightToKnow": "Colocam o direito do público a saber acima do alinhamento político",
+      "bound": "Estão eticamente vinculados mesmo sob pressão de proprietários, estados ou audiências",
+      "lose": "Perdem legitimidade quando distorcem conscientemente a realidade"
+    },
+    "broken": {
+      "title": "Quando o Juramento é Quebrado",
+      "doctorMalpractice": "Um médico que pratica ideologia em vez de medicina comete negligência",
+      "journalistMalpractice": "Um jornalista que pratica ideologia em vez de verdade comete negligência cívica",
+      "consequences": "As consequências são sociais:",
+      "consequence1": "Polarização",
+      "consequence2": "Desinformação",
+      "consequence3": "Erosão da confiança",
+      "consequence4": "Decadência democrática"
+    },
+    "distinction": {
+      "title": "A Distinção Clara",
+      "text": "Os jornalistas, tal como os médicos, são humanos e têm valores pessoais. A ética é violada não por ter valores, mas por permitir que esses valores substituam a verificação, as evidências e a responsabilização."
+    },
+    "quote": "Um médico que mente a um paciente é culpado de negligência. Um jornalista que mente ao público é culpado de negligência cívica."
+  },
+  "convicted": {
+    "badge": "Resultado do sistema",
+    "title": "Condenado, mas protegido",
+    "subtitle": "Estas não são alegações. Estas são convicções. No entanto, o sistema garante que mantêm as suas pensões, regressam ao cargo ou escapam totalmente às consequências.",
+    "status": {
+      "convicted": "CONDENADO",
+      "reelected": "CONDENADO → REELEITO",
+      "murder": "ACUSADO DE ASSASSINATO",
+      "unpaid": "980 milhões de euros NÃO PAGOS",
+      "zeroPrison": "€ 8B PERDIDOS, ZERO PRISÃO",
+      "eppoSuccess": "SUCESSO DA EPPO"
+    },
+    "labels": {
+      "operation": "Operação:",
+      "crime": "Crime",
+      "sentence": "Frase:",
+      "served": "Tempo cumprido:",
+      "amount": "Quantia:",
+      "currentStatus": "Atual:",
+      "victim": "Vítima:",
+      "date": "Data:",
+      "trialStart": "Início do teste:",
+      "borrowed": "Emprestado:",
+      "repaid": "Reembolsado:",
+      "artCollection": "Coleção de Arte:",
+      "publicCost": "Custo Público:",
+      "resolution": "Resolução:",
+      "convictions": "Convicções:"
+    },
+    "pensionBattle": "A batalha da pensão:",
+    "suedProsecutor": "Processou o promotor:",
+    "vara": {
+      "name": "Armando Vara",
+      "position": "Secretário de Estado do PS, Ministro, Direcção da CGD",
+      "crime": "Tráfico de influência (3 contagens)",
+      "pension": "Pensão de 8.551€/mês apreendida TRÊS vezes, devolvida em recurso DUAS VEZES. Padrão: apreensão → recurso → devolvido → repetição."
+    },
+    "pinho": {
+      "name": "Manoel Pinho",
+      "position": "Ministro da Economia do PS (2005-2009)",
+      "crime": "Corrupção passiva, fraude fiscal, lavagem de dinheiro",
+      "sued": "Pensão de 26.000€/mês apreendida 3x, devolvida 2x. SUED promotor e juiz Carlos Alexandre por penhora de pensões.",
+      "sourceUrls": {
+        "bloomberg": "https://www.bloomberg.com/news/articles/2021-12-15/portugal-s-ex-economy-minister-pinho-placed-under-house-arrest",
+        "portugalResident": "https://www.portugalresident.com/former-economy-minister-strikes-back-for-his-pension/"
+      }
+    },
+    "isaltino": {
+      "name": "Isaltino Morais",
+      "position": "Presidente da Câmara de Oeiras do PSD (1985-2009, 2017-presente)",
+      "crime": "Fraude fiscal, lavagem de dinheiro, abuso de poder",
+      "current": "AINDA PREFEITO (2025)",
+      "quoteTitle": "Apelido público:",
+      "quote": "“O autarca corrupto que os portugueses adoram” — REELEITO em 2017 e 2021. Novas acusações apresentadas em 2022.",
+      "sourceUrls": {
+        "poligrafo": "https://poligrafo.sapo.pt/fact-check/isaltino-morais-nunca-fui-condenado-por-corrupcao/"
+      }
+    },
+    "duarte": {
+      "name": "Duarte Lima",
+      "position": "Deputado do PSD, Advogado",
+      "crime": "ASSASSINATO no Brasil",
+      "victim": "Rosalina Ribeiro (cliente)",
+      "shieldTitle": "O Escudo:",
+      "shield": "Não há tratado de extradição entre Portugal e Brasil. Permaneceu “intocável” em Portugal durante 16 anos antes do início do julgamento.",
+      "sourceUrls": {
+        "portugalNews": "https://www.theportugalnews.com/news/duarte-lima-to-stand-trial-in-portugal/51610",
+        "observador": "https://observador.pt/2020/10/07/duarte-lima-onze-anos-depois-homicidio-de-rosalina-ribeiro-chega-a-justica-portuguesa/"
+      }
+    },
+    "berardo": {
+      "name": "Joe Berardo",
+      "position": "Empresário, colecionador de arte",
+      "repaid": "Perto de zero",
+      "quoteTitle": "Ao Parlamento:",
+      "quote": "“Esqueci-me” — quando questionado sobre uma dívida de 980 milhões de euros. Deputados ameaçados durante depoimento. Sem consequências."
+    },
+    "novoBanco": {
+      "name": "Escândalo do Novo Banco",
+      "position": "BES → Novo Banco → Lone Star",
+      "convictions": "ZERO",
+      "outcomeTitle": "Inquérito Parlamentar:",
+      "outcome": "Encontrada “irresponsabilidade política” – mas nenhuma responsabilidade criminal. Lucros privados, perdas públicas. O padrão continua.",
+      "sourceUrls": {
+        "inquiry": "https://www.parlamento.pt/sites/COM/XIVLeg/2CPINB/Paginas/default.aspx",
+        "publico": "https://www.publico.pt/novo-banco",
+        "expresso": "https://expresso.pt/economia/novo-banco",
+        "eco": "https://eco.sapo.pt/especiais/novo-banco/"
+      },
+      "totalCost": "€8.5+ Billion",
+      "dealStructure": {
+        "title": "O acordo da estrela solitária (2017):",
+        "salePrice": "Lone Star pagou: 1 bilhão de euros",
+        "guarantee": "Estado garantido: 3,89 mil milhões de euros em perdas",
+        "result": "O Estado assume todos os riscos, o comprador fica com todas as vantagens"
+      },
+      "injections": {
+        "title": "Dinheiro Público Injetado:",
+        "y2014": "2014: 4,9 mil milhões de euros (Fundo de Resolução)",
+        "y2018": "2018: 792 milhões de euros (capital contingente)",
+        "y2019": "2019: 1,15 mil milhões de euros (capital contingente)",
+        "y2020": "2020: 1,04 mil milhões de euros (capital contingente)",
+        "y2021": "2021: 598 milhões de euros (capital contingente)",
+        "total": "TOTAL: €8.5B+"
+      },
+      "keyFigures": {
+        "costa": "Carlos Costa - Governador do Banco de Portugal - Supervisionou a venda",
+        "centeno": "Mário Centeno - Ministro das Finanças - Aprovadas garantias"
+      },
+      "inquiryQuote": "“As condições de venda foram extraordinariamente favoráveis ​​ao comprador, assumindo o Estado português um risco desproporcional”. — Inquérito Parlamentar 2021",
+      "whyNoAccountability": {
+        "title": "Por que não há processos:",
+        "discretion": "Termos de venda classificados como 'decisões políticas'",
+        "noEnrichment": "Os tomadores de decisão não lucraram pessoalmente",
+        "immunity": "Reguladores têm proteção institucional",
+        "bipartisan": "PS e PSD são cúmplices – não se processam mutuamente"
+      },
+      "sale2025": {
+        "title": "Atualização de 2025: Saída Lone Star",
+        "text": "Outubro de 2025: O banco francês BPCE adquire o Novo Banco por 8 mil milhões de euros. Lone Star sai com lucro enorme após € 8,5 bilhões em injeções estatais. Zero condenações pelo colapso. Zero recuperação de perdas."
+      },
+      "saleTitle": "2025 UPDATE:",
+      "sale": "Novo Banco vendido ao banco francês BPCE por 8 mil milhões de euros (outubro de 2025). Lone Star sai com lucros depois de receber 3,89 mil milhões de euros em garantias estatais. Os contribuintes nunca recuperaram 10,4 mil milhões de euros em fundos públicos. O produto da venda vai para o Fundo de Resolução e não para o Tesouro."
+    },
+    "admiral": {
+      "name": "Operação Almirante",
+      "subtitle": "O maior caso de fraude na UE de sempre",
+      "damage": "Dano total",
+      "convicted": "Condenado (maio de 2025)",
+      "prosecutor": "Procurador da UE",
+      "type": "Fraude de carrossel",
+      "lesson": "A lição: quando o procurador da UE trata dos casos em vez dos sistemas nacionais, as condenações acontecem."
+    },
+    "pattern": {
+      "title": "O padrão é claro",
+      "pension": "Pensões protegidas",
+      "delay": "Assassinato para julgamento",
+      "lost": "Perdido, zero prisão",
+      "reelected": "Depois da condenação",
+      "conclusion": "Convicção não significa consequência. O sistema protege a si mesmo – antes, durante e depois do teste."
+    }
+  },
+  "judicial": {
+    "badge": "Falha do sistema",
+    "title": "Corrupção Judicial: O Núcleo Podre",
+    "subtitle": "Quando os juízes vendem as decisões e os procuradores aceitam subornos, todo o sistema anticorrupção entra em colapso. Estes casos explicam porque é que os processos políticos falham.",
+    "status": {
+      "judgesCorrupt": "JUÍZES CORRUPTOS",
+      "prosecutorBribed": "Promotor subornado",
+      "onTrial": "ON TRIAL",
+      "convicted": "CONVICTED"
+    },
+    "labels": {
+      "keyFigures": "Números-chave:",
+      "defendants": "Total de Réus:",
+      "exposed": "Exposto por:",
+      "timeline": "Linha do tempo:",
+      "amount": "Valor do suborno:",
+      "outcome": "Resultado:",
+      "year": "Ano:",
+      "trialStart": "Trial Start:",
+      "court": "Court:",
+      "csmDecision": "Decisão Disciplinar do CSM:",
+      "defensePosition": "Posição de defesa:",
+      "convicted": "Convicted:",
+      "coconspirator": "Caso transferido:",
+      "sentence": "Sentence:",
+      "conviction": "First Instance:",
+      "appeal": "Recurso confirmado:",
+      "tcReject": "Recurso do TC rejeitado:"
+    },
+    "lex": {
+      "name": "Operação Lex",
+      "subtitle": "Juízes vendendo decisões",
+      "rangel": "Juiz do Tribunal de Apelações",
+      "galante": "Juíza (esposa de Rangel)",
+      "neves": "Presidente do Tribunal",
+      "chargesTitle": "Encargos:",
+      "charges": "Venda de decisões judiciais, suborno, tráfico de influência, corrupção. Os juízes que deveriam condenar políticos corruptos eram eles próprios corruptos.",
+      "sourceUrls": {
+        "observador": "https://observador.pt/seccao/justica/operacao-lex/",
+        "publico": "https://www.publico.pt/operacao-lex",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-lex",
+        "cnn": "https://cnnportugal.iol.pt/rangel/operacao-lex/operacao-lex-julgamento-de-rangel-e-de-vieira-comeca-hoje-ha-16-arguidos-e-60-crimes/20251029/6720db41d34ed86d4e2a2c10",
+        "eco": "https://eco.sapo.pt/2025/10/29/operacao-lex-julgamento-de-juiz-rangel-comeca-hoje-quase-sete-anos-depois/"
+      },
+      "defendants": "17",
+      "timeline": "2018-2025",
+      "status": "Teste em andamento (2025)",
+      "exposedBy": "Vazamentos de Futebol / Rui Pinto",
+      "allegations": "Venda de decisões favoráveis, fixação de resultados de casos, tráfico de influência, obstrução da justiça, rede judicial coordenada",
+      "significance": "O denunciante (Rui Pinto) foi processado enquanto o julgamento de juízes corruptos foi adiado por 7 anos. O sistema se protege.",
+      "otherDefendants": "Advogados, empresários e funcionários judiciais que participaram da rede de corrupção",
+      "vieira": "Ex-presidente do Benfica",
+      "csm": "Rui Rangel foi expulso da magistratura pelo Conselho Superior da Magistratura (CSM) em 2020 por infrações disciplinares relacionadas com este caso.",
+      "defense": "Todos os réus negam as acusações. Rangel afirmou que as acusações são infundadas e com motivação política."
+    },
+    "fizz": {
+      "name": "Operação Fizz",
+      "subtitle": "Promotor pago para encerrar casos",
+      "figueira": "Procurador Português",
+      "vicente": "Vice-presidente de Angola",
+      "convicted": "Promotor CONDENADO",
+      "significanceTitle": "Significado:",
+      "significance": "Um procurador recebeu mais de 700 mil euros para encerrar investigações contra as elites angolanas. Se os procuradores puderem ser comprados, que probabilidades têm os casos de corrupção?",
+      "sourceUrls": {
+        "observador": "https://observador.pt/especiais/operacao-fizz/",
+        "publico": "https://www.publico.pt/operacao-fizz",
+        "rtp": "https://www.rtp.pt/noticias/pais/operacao-fizz"
+      },
+      "figueiraNome": "Orlando Figueira",
+      "vicenteNome": "Manuel Vicente",
+      "amount": "€700,000+",
+      "year": "2016",
+      "internationalConnection": "Demonstra que o dinheiro do petróleo de Angola corrompeu o sistema de justiça português",
+      "outcome": "Promotor condenado, mas caso expôs vulnerabilidade sistêmica à corrupção estrangeira",
+      "defense": "Figueira negou as acusações ao longo do julgamento e recorreu para o Tribunal Constitucional, que rejeitou o seu recurso em dezembro de 2022."
+    },
+    "question": "\"Quis custodiet ipsos custodes?\"",
+    "questionTranslation": "Quem vigia os vigias? Quando os juízes vendem as decisões e os procuradores aceitam subornos, todo o sistema de responsabilização entra em colapso.",
+    "stat": {
+      "defendants": "Réus em Lex",
+      "bribe": "Suborno de promotor",
+      "delay": "Acusação para julgamento (Lex)"
+    },
+    "disclaimer": "Todas as informações abaixo provêm de registos judiciais oficiais, acusações do DCIAP, decisões disciplinares do CSM e fontes de notícias verificadas. Os arguidos em processos em curso mantêm a presunção de inocência até à condenação definitiva.",
+    "impact": {
+      "title": "Por que estes casos são importantes para o combate à corrupção",
+      "fizzTitle": "Impacto da Operação Fizz:",
+      "fizz1": "• Um procurador do DCIAP – a unidade que investiga a corrupção de alto nível – era ele próprio corrupto",
+      "fizz2": "• Casos contra as elites angolanas foram arquivados devido ao suborno",
+      "fizz3": "• Manuel Vicente, o subornador, nunca foi julgado – o seu caso foi transferido para Angola",
+      "lexTitle": "Operação Lex Impacto:",
+      "lex1": "• Se comprovado, os juízes do Tribunal de Apelações venderam decisões",
+      "lex2": "• O próprio tribunal que analisa as condenações por corrupção em primeira instância ficaria comprometido",
+      "lex3": "• O caso levou mais de 7 anos desde a acusação (2018) até o início do julgamento (2025)"
+    },
+    "sources": {
+      "title": "Fontes Oficiais:"
+    }
+  },
+  "methodology": {
+    "badge": "Pesquisa Independente",
+    "title": "Metodologia de Pesquisa",
+    "sources": {
+      "title": "Fontes examinadas",
+      "tc": "• Decisões do Tribunal Constitucional (Acórdãos)",
+      "dciap": "• Acusações oficiais do DCIAP (Ministério Público)",
+      "parliament": "• Relatórios de inquérito parlamentar (CGD, BES, Novo Banco)",
+      "greco": "• Relatórios da 4ª e 5ª Rodada de Avaliação do GRECO",
+      "tdc": "• Relatórios bancários do Tribunal de Contas",
+      "eu": "• Relatórios da Comissão Europeia sobre o Estado de Direito (2024, 2025)",
+      "eurobarometer": "• Inquéritos Eurobarómetro sobre corrupção (2023, 2025)",
+      "ti": "• IPC da Transparência Internacional (2012-2024)",
+      "media": "• Principais meios de comunicação portugueses: RTP, Público, Observador, Expresso"
+    },
+    "inclusion": {
+      "title": "Critérios de inclusão",
+      "judicial": "• Processos judiciais oficiais (condenação, acusação, investigação formal)",
+      "parliamentary": "• Inquéritos parlamentares com relatórios publicados",
+      "international": "• Avaliações de órgãos de monitoramento internacionais",
+      "financial": "• Perdas financeiras documentadas pelo Tribunal de Contas"
+    },
+    "exclusion": {
+      "title": "Exclusions",
+      "unverified": "• Alegações não verificadas sem procedimentos oficiais",
+      "speculation": "• Especulação ou opinião não apoiada por documentos",
+      "anonymous": "• Fontes anônimas sem corroboração"
+    },
+    "disclaimer": "Todos os indivíduos mencionados mantêm a presunção de inocência. A situação de “sob investigação” ou “arguido” pode resultar em absolvição. Os status dos casos estão claramente identificados. Esta investigação utiliza apenas fontes publicamente disponíveis e documentadas oficialmente.",
+    "stats": {
+      "sources": "134+",
+      "sourcesLabel": "Fontes externas verificadas",
+      "official": "56%",
+      "officialLabel": "De fontes oficiais",
+      "years": "50",
+      "yearsLabel": "Anos documentados (1974-2025)",
+      "cases": "40+",
+      "casesLabel": "Referência Cruzada de Casos"
+    },
+    "limitations": {
+      "title": "Limitações de pesquisa",
+      "estimates": "• Alguns números financeiros são estimativas de fontes oficiais (Tribunal de Contas, INE)",
+      "media": "• As reportagens da mídia podem conter imprecisões; priorizamos documentos oficiais",
+      "appeals": "• Os resultados dos casos podem mudar após recurso; os status refletem as informações verificadas mais recentes",
+      "ongoing": "• Investigações em andamento podem resultar em absolvição ou arquivamento",
+      "incomplete": "• Esta investigação pode ter perdido casos ou dados relevantes; quaisquer omissões são involuntárias",
+      "corrections": "<strong class=\"text-warning\">Aceitamos correções:</strong> Se você identificar erros, casos ausentes ou informações desatualizadas, envie as correções com fontes oficiais confiáveis. Estamos comprometidos com a precisão e atualizaremos os dados de acordo."
+    },
+    "lastUpdated": "Last Updated:",
+    "claimsVsFacts": {
+      "title": "O que eles dizem versus o que os documentos mostram",
+      "claimsTitle": "O que os políticos afirmam",
+      "claim1": "• \"Eu sou inocente, isso é perseguição política\"",
+      "claim2": "• \"O dinheiro era empréstimo de amigos\"",
+      "claim3": "• \"Portugal tem fortes leis anticorrupção\"",
+      "claim4": "• \"O sistema de justiça funciona\"",
+      "claim5": "• \"Implementamos todas as recomendações da UE\"",
+      "factsTitle": "O que mostram os documentos oficiais",
+      "fact1": "• Acusações do DCIAP com mais de 56.000 páginas de provas",
+      "fact2": "• Registos bancários que mostram 34 milhões de euros em transferências inexplicáveis",
+      "fact3": "• TC derrubou leis de enriquecimento ilícito DUAS VEZES",
+      "fact4": "• 74,7% de condenações por corrupção = penas suspensas",
+      "fact5": "• GRECO: 0/28 recomendações totalmente implementadas",
+      "note": "Esta investigação baseia-se em documentos oficiais e não em alegações. Cada estatística está vinculada à sua fonte."
+    },
+    "why": {
+      "title": "Por que este projeto existe",
+      "description": "Todas as informações aqui apresentadas provêm de fontes oficiais publicamente disponíveis: decisões judiciais, inquéritos parlamentares, relatórios da UE e estatísticas governamentais. No entanto, o acesso a esta informação exige a navegação em labirintos burocráticos complexos – espalhados por dezenas de websites institucionais, enterrados em documentos PDF, muitas vezes em linguagem técnico-jurídica, e raramente com referências cruzadas. A maioria dos cidadãos não tem tempo, conhecimento ou paciência para juntar as peças deste quadro fragmentado.",
+      "purpose": "Este projeto simplifica o acesso a dados já existentes. Não criamos novas informações – agregamos, verificamos e apresentamos registros oficiais em um formato simplificado e acessível, com links completos para as fontes. Cada reivindicação pode ser rastreada até seu documento original."
+    },
+    "editorial": {
+      "title": "Transparência Editorial",
+      "description": "Isto é <strong class=\"text-white\">jornalismo de investigação com perspetiva</strong>, não reportagem neutral. Temos uma posição clara: que o sistema político português contém características estruturais que protegem os poderosos da responsabilização. Esta perspetiva influencia a forma como apresentamos a informação.",
+      "commitment": "No entanto, estamos comprometidos com a precisão factual. Cada afirmação tem fonte. Distinguimos entre factos documentados e a nossa interpretação de padrões. Reconhecemos explicações alternativas. Os leitores devem avaliar as nossas provas e tirar as suas próprias conclusões.",
+      "invitation": "Aceitamos discordância. Se acredita que a nossa interpretação está errada, consulte diretamente as fontes. Os documentos são públicos."
+    },
+    "evidenceTypes": {
+      "title": "Como Classificamos as Provas",
+      "intro": "Ao longo desta investigação, distinguimos entre três tipos de afirmações:",
+      "fact": "Diretamente de decisões judiciais, relatórios oficiais, estatísticas governamentais. Verificável através das fontes indicadas.",
+      "pattern": "Múltiplos casos documentados sugerem uma correlação. Não prova causalidade nem coordenação.",
+      "analysis": "A nossa interpretação dos dados. Pessoas razoáveis podem discordar destas conclusões."
+    },
+    "counterArguments": {
+      "title": "Explicações Alternativas que Reconhecemos",
+      "intro": "Em nome da honestidade intelectual, apresentamos explicações alternativas legítimas para alguns padrões que documentamos:",
+      "delays": {
+        "title": "Porque demoram os casos de corrupção 11+ anos?",
+        "legit1": "• Poder judicial severamente subfinanciado e com falta de pessoal",
+        "legit2": "• Crimes financeiros complexos exigem investigação extensa",
+        "legit3": "• A defesa tem direito legítimo de contestar provas",
+        "legit4": "• As proteções constitucionais existem por boas razões",
+        "response": "Mesmo que os atrasos sejam involuntários, o <em>efeito</em> é impunidade. Outros países da UE processam crimes semelhantes mais rapidamente. A média portuguesa é 6,8 anos vs norma da UE de 3-4 anos. A intenção importa menos que o resultado."
+      },
+      "euJobs": {
+        "title": "As nomeações para a UE são realmente \"recompensas\"?",
+        "legit1": "• Os políticos têm experiência que os qualifica",
+        "legit2": "• Os cargos na UE são competitivos e baseados no mérito",
+        "legit3": "• Correlação ≠ causalidade ou conspiração",
+        "legit4": "• Muitos políticos qualificados nunca obtêm cargos na UE",
+        "response": "Não alegamos conspiração. Observamos um padrão onde investigações raramente bloqueiam promoções. Quer isto reflita \"recompensa\" ou indiferença à responsabilização, o resultado preocupa-nos igualmente."
+      },
+      "bothParties": {
+        "title": "Porque documentar casos de ambos os partidos principais?",
+        "crit1": "• \"Isto é falsa equivalência\"",
+        "crit2": "• \"Um partido pode ser mais corrupto que o outro\"",
+        "crit3": "• \"Partidos pequenos também têm corrupção\"",
+        "response": "Documentamos casos proporcionalmente às provas. PS e PSD alternaram no poder durante 50 anos; ambos têm casos documentados. Não afirmamos equivalência — mostramos que o sistema protege <em>quem está no poder</em>."
+      }
+    }
+  },
+  "whyInvestigate": {
+    "badge": "Final Chapter",
+    "title": "Por que esta investigação existe",
+    "subtitle": "O sonho que não poderia sobreviver ao sistema",
+    "journalism": {
+      "title": "Jornalismo Português Sob Captura Sistémica",
+      "intro": "Todo jornalista começa com o mesmo sonho: mostrar a verdade às pessoas, documentar o que importa, mudar o mundo. Em Portugal, esse sonho esbarra num sistema concebido para evitar exactamente isso."
+    },
+    "stats": {
+      "poverty": "56%",
+      "povertyLabel": "dos jornalistas ganham menos de 1.000€/mês",
+      "groups": "4",
+      "groupsLabel": "grupos de mídia controlam a transmissão privada",
+      "lusa": "95.9%",
+      "lusaLabel": "da agência noticiosa nacional (Lusa) agora estatal",
+      "independence": "53%",
+      "independenceLabel": "risco de independência editorial (acima de 25%)"
+    },
+    "kills": {
+      "title": "O que mata o sonho",
+      "poverty": "15% ganham abaixo do salário mínimo ou nada",
+      "ownership": "Ex-PM Pinto Balsemão era dono da Impresa (SIC, Expresso)",
+      "slapp": "319 casos SLAPP contra jornalistas na Europa (2024)",
+      "violence": "Líderes do Chega acusados ​​de ameaçar jornalistas (novembro de 2024)",
+      "result": "Queda de 23% no número de jornalistas profissionais desde 2009",
+      "strike": "Mais de 40 organizações de mídia entraram em greve histórica"
+    },
+    "pressure": {
+      "title": "A pressão sistêmica",
+      "directors": "dos jornalistas relatam pressão dos diretores",
+      "superiors": "relatar pressão dos superiores editoriais",
+      "ranking": "Portugal caiu no pluralismo mediático da UE"
+    },
+    "notCriticism": {
+      "title": "Isto não é uma crítica aos jornalistas",
+      "quote": "“A precariedade tem um impacto tremendo na independência dos jornalistas... Esta deterioração tem consequências na independência política, nas decisões editoriais dos meios de comunicação social”.",
+      "text": "The journalists who exposed corruption—Pedro Coelho investigating the far-right, teams at Público and Observador documenting scandals—face legal harassment, online mobs, and career consequences. The system punishes those who try."
+    },
+    "whyIndependent": {
+      "title": "Por que a pesquisa independente é necessária",
+      "intro": "Esta investigação utiliza apenas fontes oficiais disponíveis publicamente – os mesmos documentos que qualquer redação poderia acessar. A diferença:",
+      "noAdvertisers": "Nenhum anunciante para ameaçar retirada de receita",
+      "noOwners": "Nenhum proprietário com conexões políticas para proteger",
+      "noEditors": "Sem editores para suavizar a linguagem para interesses poderosos",
+      "noPrecarity": "Nenhum emprego precário exigindo silêncio",
+      "stance": "Esta investigação está ao lado dos jornalistas portugueses e não contra eles."
+    },
+    "sources": "Sources:"
+  }
+}

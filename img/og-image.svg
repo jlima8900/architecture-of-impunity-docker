@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Accent line -->
+  <rect x="0" y="0" width="1200" height="8" fill="#e94560"/>
+
+  <!-- Title -->
+  <text x="600" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="white">
+    THE ARCHITECTURE
+  </text>
+  <text x="600" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="white">
+    OF IMPUNITY
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#e94560">
+    Portugal's Political Protection System
+  </text>
+
+  <!-- Stats -->
+  <text x="200" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">
+    50 Years Documented
+  </text>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">
+    €20B+ Banking Losses
+  </text>
+  <text x="600" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">
+    0 Binding Referendums
+  </text>
+  <text x="800" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">
+    GRECO: 0/28 Implemented
+  </text>
+  <text x="1000" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">
+    All Claims Sourced
+  </text>
+
+  <!-- Divider -->
+  <line x1="100" y1="540" x2="1100" y2="540" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+
+  <!-- Footer -->
+  <text x="600" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.5)">
+    Independent Citizen Investigation • All Sources Verified
+  </text>
+</svg>
