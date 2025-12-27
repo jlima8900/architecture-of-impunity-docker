@@ -979,7 +979,13 @@
       "name": "Armando Vara",
       "position": "PS Secretary of State, Minister, CGD Board",
       "crime": "Influence Peddling (3 counts)",
-      "pension": "€8,551/month pension seized THREE times, returned on appeal TWICE. Pattern: seizure → appeal → returned → repeat."
+      "pension": "€8,551/month pension seized THREE times, returned on appeal TWICE. Pattern: seizure → appeal → returned → repeat.",
+      "sourceUrls": {
+        "publico": "https://www.publico.pt/2023/03/09/sociedade/noticia/tribunal-aplica-pena-unica-cinco-anos-mes-armando-vara-2041632",
+        "observador": "https://observador.pt/2018/03/22/armando-vara-condenado-a-cinco-anos-de-prisao-no-caso-face-oculta/",
+        "sabado": "https://www.sabado.pt/portugal/detalhe/armando-vara-recebe-pensoes-no-valor-de-8551-euros-por-mes",
+        "essentialBusiness": "https://www.essential-business.pt/2025/10/31/constitutional-court-rejects-appeal-from-ex-secretary-of-state-and-bank-director-armando-vara/"
+      }
     },
     "pinho": {
       "name": "Manuel Pinho",
@@ -1019,7 +1025,12 @@
       "position": "Businessman, Art Collector",
       "repaid": "Near zero",
       "quoteTitle": "To Parliament:",
-      "quote": "\"I forgot\" — when asked about €980M debt. Threatened MPs during testimony. No consequences."
+      "quote": "\"I forgot\" — when asked about €980M debt. Threatened MPs during testimony. No consequences.",
+      "sourceUrls": {
+        "portugalResident": "https://www.portugalresident.com/disgraced-art-empresario-joe-berardo-charged-with-aggravated-fraud",
+        "artnet": "https://news.artnet.com/art-world/joe-berardo-fraud-allegation-1984692",
+        "bbc": "https://www.bbc.com/news/world-europe-66186039"
+      }
     },
     "novoBanco": {
       "name": "Novo Banco Scandal",

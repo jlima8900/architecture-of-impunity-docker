@@ -16,15 +16,109 @@ This is an academic research compilation based exclusively on publicly available
 
 ---
 
-## Overview
+## Table of Contents
 
-This project aggregates publicly available information about:
+1. [What This Project Documents](#what-this-project-documents)
+2. [Glossary of Terms](#glossary-of-terms)
+3. [Installation](#installation)
+4. [Sources](#sources)
+5. [Translations](#translations)
 
-- GRECO (Council of Europe) compliance evaluations
-- Constitutional Court rulings on anti-corruption legislation
-- Parliamentary voting records on accountability reforms
-- Public court proceedings and their outcomes
-- EU and international comparative data
+---
+
+## What This Project Documents
+
+This project aggregates publicly available information organized into the following sections:
+
+### 📊 GRECO Compliance Analysis
+Analysis of Portugal's compliance with the Council of Europe's anti-corruption body (GRECO):
+- **Fourth Evaluation Round (2015):** Corruption prevention - MPs, judges, prosecutors
+- **Fifth Evaluation Round (2024):** Central government and law enforcement
+- Compliance rates compared to EU averages
+- Implementation timelines and gaps
+
+### ⚖️ Constitutional Court Rulings
+Documentation of Constitutional Court decisions on anti-corruption legislation:
+- **Acórdão 179/2012:** Ruling on illicit enrichment laws
+- **Acórdão 377/2015:** Ruling on public officials' asset declarations
+- Analysis of constitutional barriers to accountability reforms
+
+### 🗳️ Parliamentary Voting Records
+Historical voting data on anti-corruption legislation:
+- Proposed reforms and their outcomes (2007-2025)
+- Cross-party voting patterns
+- International comparisons of legislative frameworks
+
+### 👤 Case Studies
+Public court proceedings and their outcomes involving:
+- **Banking Sector:** BES collapse, CGD lending practices, Novo Banco resolution
+- **Political Figures:** Cases involving former ministers and officials
+- **Prescription Patterns:** Statistical analysis of case timelines
+
+### 📈 EU Comparative Data
+Portugal's position relative to other EU member states:
+- Transparency International Corruption Perception Index
+- Eurobarometer public trust surveys
+- EU Rule of Law Report findings
+- FATF evaluations
+
+### 🔔 Whistleblower Protections
+Comparison of whistleblower frameworks:
+- Portuguese legislation vs EU Directive requirements
+- Case studies of whistleblower outcomes
+- International best practices
+
+---
+
+## Glossary of Terms
+
+### Portuguese Legal Terms
+
+| Term | English | Definition |
+|------|---------|------------|
+| **Segredo de Justiça** | Judicial Secrecy | Legal provision keeping investigations confidential |
+| **Prescrição** | Prescription/Statute of Limitations | Time limit after which crimes cannot be prosecuted |
+| **Arguido** | Formal Suspect | Person formally under investigation |
+| **Acórdão** | Court Ruling | Official decision by a court |
+| **Inquérito** | Investigation | Formal criminal investigation phase |
+| **Ministério Público** | Public Prosecution | State prosecution service |
+| **DCIAP** | Central Dept. of Investigation | Specialized anti-corruption prosecution unit |
+| **Tribunal Constitucional** | Constitutional Court | Court reviewing constitutionality of laws |
+| **Assembleia da República** | Parliament | Portuguese national legislature |
+| **Diário da República** | Official Gazette | Official government publication |
+
+### Institutions
+
+| Acronym | Full Name | Role |
+|---------|-----------|------|
+| **GRECO** | Group of States Against Corruption | Council of Europe anti-corruption monitoring body |
+| **CGD** | Caixa Geral de Depósitos | Portuguese state-owned bank |
+| **BES** | Banco Espírito Santo | Former private bank (collapsed 2014) |
+| **EDP** | Energias de Portugal | Major energy company |
+| **PGR** | Procuradoria-Geral da República | Office of the Prosecutor General |
+| **TI** | Transparency International | Global anti-corruption NGO |
+| **MENAC** | National Anti-Corruption Mechanism | Portuguese anti-corruption agency (est. 2022) |
+
+### Case Names (Operações)
+
+| Name | Translation | Focus |
+|------|-------------|-------|
+| **Operação Marquês** | Operation Marquis | Investigation involving former PM José Sócrates |
+| **Operação Influencer** | Operation Influencer | Investigation into government contracts (2023) |
+| **Operação Face Oculta** | Operation Hidden Face | Corruption network involving state companies |
+| **Operação Lex** | Operation Lex | Investigation involving prosecutors |
+| **Operação Fizz** | Operation Fizz | Tax authority investigation |
+
+### Political Parties
+
+| Acronym | Name | Position |
+|---------|------|----------|
+| **PS** | Partido Socialista | Centre-left (governing 2015-2024) |
+| **PSD** | Partido Social Democrata | Centre-right |
+| **BE** | Bloco de Esquerda | Left |
+| **PCP** | Partido Comunista Português | Communist |
+| **CDS-PP** | CDS - Partido Popular | Conservative |
+| **CH** | Chega | Right-wing populist |
 
 ---
 
@@ -70,19 +164,11 @@ open -a Docker
 
 **Ubuntu/Debian:**
 ```bash
-# Update packages
 sudo apt update
-
-# Install Docker
 sudo apt install docker.io docker-compose
-
-# Start Docker
 sudo systemctl start docker
 sudo systemctl enable docker
-
-# Add your user to docker group (optional, avoids sudo)
 sudo usermod -aG docker $USER
-# Log out and back in for this to take effect
 ```
 
 **Fedora/RHEL:**
@@ -92,64 +178,20 @@ sudo systemctl start docker
 sudo systemctl enable docker
 ```
 
-**Arch Linux:**
+### Step 2: Download and Run
+
 ```bash
-sudo pacman -S docker docker-compose
-sudo systemctl start docker
-sudo systemctl enable docker
-```
-
----
-
-### Step 2: Download This Project
-
-#### Option A: Git Clone
-```bash
+# Clone repository
 git clone https://github.com/jlima8900/architecture-of-impunity-docker.git
 cd architecture-of-impunity-docker
-```
 
-#### Option B: Download ZIP
-1. Click the green "Code" button above
-2. Select "Download ZIP"
-3. Extract the ZIP file
-4. Open terminal/command prompt in extracted folder
-
----
-
-### Step 3: Run the Container
-
-#### 🍎 macOS / 🐧 Linux
-
-```bash
-# Using docker-compose (recommended)
+# Run with docker-compose
 docker-compose up -d
 
-# Or manually
-docker build -t architecture-of-impunity .
-docker run -d -p 8080:80 --name aoi architecture-of-impunity
+# Visit http://localhost:8080
 ```
 
-#### 🪟 Windows (PowerShell or Command Prompt)
-
-```powershell
-# Using docker-compose (recommended)
-docker-compose up -d
-
-# Or manually
-docker build -t architecture-of-impunity .
-docker run -d -p 8080:80 --name aoi architecture-of-impunity
-```
-
----
-
-### Step 4: View the Project
-
-Open your browser and visit: **http://localhost:8080**
-
----
-
-## Common Commands
+### Common Commands
 
 | Action | Command |
 |--------|---------|
@@ -157,35 +199,6 @@ Open your browser and visit: **http://localhost:8080**
 | Stop | `docker-compose down` |
 | View logs | `docker logs aoi` |
 | Rebuild | `docker-compose build --no-cache` |
-| Remove container | `docker rm -f aoi` |
-
----
-
-## Troubleshooting
-
-### Docker not starting (macOS)
-```bash
-open -a Docker
-# Wait 30 seconds for it to initialize
-```
-
-### Docker not starting (Windows)
-1. Open Docker Desktop from Start Menu
-2. Wait for "Docker is running" status
-3. If WSL error: Run `wsl --update` in PowerShell (Admin)
-
-### Port 8080 already in use
-```bash
-# Use a different port
-docker run -d -p 9090:80 --name aoi architecture-of-impunity
-# Then visit http://localhost:9090
-```
-
-### Permission denied (Linux)
-```bash
-sudo docker-compose up -d
-# Or add yourself to docker group (see Linux install above)
-```
 
 ---
 
@@ -193,24 +206,38 @@ sudo docker-compose up -d
 
 All information is derived from publicly available sources:
 
-### Official Sources
-- Portuguese Parliament (Assembleia da República)
-- Constitutional Court of Portugal
-- Diário da República (Official Gazette)
-- DCIAP Public Statements
+### Official Government Sources
+- [Portuguese Parliament](https://www.parlamento.pt/) - Voting records, legislation
+- [Constitutional Court](https://www.tribunalconstitucional.pt/) - Rulings database
+- [Diário da República](https://dre.pt/) - Official gazette
+- [DCIAP](https://www.ministeriopublico.pt/) - Prosecution statements
 
 ### International Organizations
-- [GRECO Evaluation Reports](https://www.coe.int/en/web/greco/evaluations/portugal)
+- [GRECO Evaluation Reports](https://www.coe.int/en/web/greco/evaluations/portugal) - Council of Europe
 - [EU Rule of Law Reports](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law_en)
 - [Transparency International CPI](https://www.transparency.org/en/cpi)
-- [Eurobarometer Surveys](https://europa.eu/eurobarometer/)
+- [Eurobarometer](https://europa.eu/eurobarometer/) - Public surveys
+- [FATF Evaluations](https://www.fatf-gafi.org/)
 
-### News Media
-- Público, Observador, Expresso, RTP (Portugal)
-- BBC, Financial Times, Reuters, Bloomberg (International)
-- ICIJ, OCCRP (Investigative Consortiums)
+### News Media (Portuguese)
+- [Público](https://www.publico.pt/)
+- [Observador](https://observador.pt/)
+- [Expresso](https://expresso.pt/)
+- [RTP](https://www.rtp.pt/)
+- [SIC Notícias](https://sicnoticias.pt/)
+- [Sábado](https://www.sabado.pt/)
 
-**150+ source URLs are embedded throughout the project with direct links to original sources.**
+### News Media (International)
+- [BBC](https://www.bbc.com/)
+- [Financial Times](https://www.ft.com/)
+- [Reuters](https://www.reuters.com/)
+- [Bloomberg](https://www.bloomberg.com/)
+
+### Investigative Journalism
+- [ICIJ](https://www.icij.org/) - International Consortium of Investigative Journalists
+- [OCCRP](https://www.occrp.org/) - Organized Crime and Corruption Reporting Project
+
+**150+ source URLs are embedded throughout the project with direct links.**
 
 ---
 
@@ -228,33 +255,17 @@ Available in all 24 EU official languages:
 
 ---
 
-## Research Methodology
-
-1. Systematic collection from official government databases
-2. Cross-referencing across multiple independent sources
-3. Temporal verification using archived sources
-4. Legal document analysis of court rulings
-5. Statistical validation against EU datasets
-
----
-
 ## Contributing
 
 - **Corrections:** Submit via GitHub Issues with supporting documentation
-- **Translations:** Improvements to machine translations welcome
-- **Sources:** Additional public sources can be submitted for inclusion
+- **Translations:** Improvements welcome
+- **Sources:** Additional public sources can be submitted
 
 ---
 
 ## Disclaimer
 
-This project is:
-- **Non-commercial** - No advertising or revenue
-- **Open source** - Freely available
-- **Academic** - For research and public education
-- **Good faith** - No malicious intent
-
-See [LEGAL.md](./LEGAL.md) for full legal disclaimer.
+This project is **non-commercial**, **open source**, and published in **good faith** for academic research and public education. See [LEGAL.md](./LEGAL.md) for full legal disclaimer.
 
 ---
 
