@@ -126,7 +126,7 @@ This disclaimer shall be governed by applicable international standards for pres
 
 **Contact for corrections:** [Submit via GitHub Issues]
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 ---
 
