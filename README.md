@@ -10,9 +10,21 @@
 
 ## ⚠️ Important Legal Notice
 
-**Please read [LEGAL.md](./LEGAL.md) before using this project.**
+**Please read [LEGAL.md](./LEGAL.md) before using or redistributing this project.**
 
-This is an academic research compilation based exclusively on publicly available sources. All claims are attributed to official government records, court documents, international organization reports, and established news media.
+### Independent Research
+This is an **independent academic research project** with:
+- **No affiliation** with any political party, government, or media organization
+- **No funding** from any entity with interests in the subject matter
+- All claims attributed to official records, court documents, and established media
+
+### Third-Party Distribution
+If you choose to host, redistribute, or republish this content:
+- **You assume full legal responsibility** for your publication decisions
+- You must independently verify information before republication
+- The original author(s) bear no responsibility for third-party use
+
+**See [LEGAL.md](./LEGAL.md) for complete terms.**
 
 ---
 

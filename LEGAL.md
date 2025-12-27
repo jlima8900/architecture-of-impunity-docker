@@ -118,6 +118,40 @@ This project is:
 - **Open source** - Freely available for public benefit
 - **Educational** - Intended for research and democratic discourse
 
+## Independent Research & Third-Party Distribution
+
+### Independent Nature
+This is an **independent academic research project**. The author(s):
+- Have **no affiliation** with any political party, government agency, or media organization
+- Receive **no funding** from any entity with interests in the subject matter
+- Have **no personal or professional relationship** with any individuals mentioned
+- Act solely in the **public interest** for transparency and democratic accountability
+
+### Third-Party Hosting Disclaimer
+This project is provided **"AS IS"** under open-source principles. If any third party chooses to:
+- Host this content on their own servers
+- Redistribute this content through their own platforms
+- Modify, translate, or adapt this content
+- Incorporate this content into their own publications
+
+**THE ORIGINAL AUTHOR(S) BEAR NO RESPONSIBILITY** for:
+- The manner in which third parties present or contextualize this content
+- Any modifications, additions, or omissions made by third parties
+- The editorial decisions of third-party publishers
+- Any legal consequences arising from third-party distribution
+- The accuracy of third-party translations or adaptations
+- Third-party compliance with applicable laws in their jurisdictions
+
+### Third-Party Obligations
+Any party redistributing this content **assumes full responsibility** for:
+- Compliance with laws in their jurisdiction
+- Verifying source accuracy before republication
+- Maintaining proper attribution
+- Updating information as legal proceedings evolve
+- Responding to correction requests in their own publications
+
+**By redistributing this content, third parties acknowledge they have independently verified the information and accept full legal responsibility for their publication decisions.**
+
 ## Jurisdiction
 
 This disclaimer shall be governed by applicable international standards for press freedom and public interest journalism.
