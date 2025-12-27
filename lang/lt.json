@@ -1502,7 +1502,7 @@
   "investigative": {
     "badge": "Tyrimo ataskaita",
     "title": "Ką atskleidžia šis tyrimas",
-    "intro": "Peržiūrėjus teismo dokumentus, parlamento įrašus, Konstitucinio teismo sprendimus, GRECO vertinimus, Transparency International ataskaitas, Eurobarometro apklausas ir 50 metų Portugalijos žiniasklaidos archyvus, išryškėja nerimą keliantis modelis: Portugalijos politinė sistema nesulaužyta – ji veikia tiksliai taip, kaip numatyta.",
+    "intro": "Peržiūrėjus <strong class=\"text-white\">teismo dokumentus, parlamento protokolus, Konstitucinio Teismo sprendimus, GRECO vertinimus, Transparency International ataskaitas, Eurobarometro apklausas</strong> ir <strong class=\"text-white\">50 metų Portugalijos žiniasklaidos archyvus</strong>, išryškėja nerimą keliantis modelis: Portugalijos politinė sistema nėra sugadinta—ji veikia būtent taip, kaip vystėsi per 50 metų.",
     "evidenceTitle": "Įrodymai rodo:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

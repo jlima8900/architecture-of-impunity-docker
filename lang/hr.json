@@ -1502,7 +1502,7 @@
   "investigative": {
     "badge": "Istražno izvješće",
     "title": "Što ova istraga otkriva",
-    "intro": "Nakon pregleda sudskih dokumenata, parlamentarnih spisa, odluka Ustavnog suda, ocjena GRECO-a, izvješća Transparency Internationala, anketa Eurobarometra i 50 godina portugalskih medijskih arhiva, pojavljuje se uznemirujući obrazac: portugalski politički sustav nije pokvaren - on funkcionira točno onako kako je zamišljen.",
+    "intro": "Nakon pregleda <strong class=\"text-white\">sudskih dokumenata, parlamentarnih zapisa, odluka Ustavnog suda, GRECO evaluacija, izvješća Transparency Internationala, Eurobarometar anketa,</strong> i <strong class=\"text-white\">50 godina portugalskih medijskih arhiva</strong>, pojavljuje se uznemirujući obrazac: portugalski politički sustav nije pokvaren—funkcionira točno onako kako se razvijao tijekom 50 godina.",
     "evidenceTitle": "Dokazi pokazuju:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

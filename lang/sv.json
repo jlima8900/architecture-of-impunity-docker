@@ -1502,7 +1502,7 @@
   "investigative": {
     "badge": "Utredningsrapport",
     "title": "Vad denna utredning avslöjar",
-    "intro": "Efter att ha granskat domstolsdokument, parlamentariska register, författningsdomstolens avgöranden, GRECO-utvärderingar, Transparency International-rapporter, Eurobarometer-undersökningar och 50 år av portugisiska mediearkiv uppstår ett oroande mönster: Portugals politiska system är inte brutet – det fungerar precis som det är tänkt.",
+    "intro": "Efter granskning av <strong class=\"text-white\">domstolsdokument, parlamentsprotokoll, konstitutionella domstolsutslag, GRECO-utvärderingar, Transparency International-rapporter, Eurobarometer-undersökningar,</strong> och <strong class=\"text-white\">50 år av portugisiska mediearkiv</strong> framträder ett oroande mönster: Portugals politiska system är inte trasigt—det fungerar exakt som det har utvecklats under 50 år.",
     "evidenceTitle": "Bevisen visar:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

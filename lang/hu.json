@@ -1502,7 +1502,7 @@
   "investigative": {
     "badge": "Vizsgálati jelentés",
     "title": "Mit tár fel ez a vizsgálat",
-    "intro": "A bírósági dokumentumok, parlamenti jegyzőkönyvek, alkotmánybírósági határozatok, GRECO-értékelések, Transparency International jelentések, Eurobarométer felmérések és 50 évnyi portugál médiaarchívum áttekintése után egy aggasztó minta rajzolódik ki: Portugália politikai rendszere nem törött meg – pontosan úgy működik, ahogyan eltervezték.",
+    "intro": "Az <strong class=\"text-white\">igazságügyi dokumentumok, parlamenti jegyzőkönyvek, alkotmánybírósági határozatok, GRECO-értékelések, Transparency International jelentések, Eurobarométer felmérések</strong> és <strong class=\"text-white\">50 évnyi portugál médiaarchívum</strong> áttekintése után nyugtalanító minta rajzolódik ki: a portugál politikai rendszer nem romlott el—pontosan úgy működik, ahogy 50 év alatt fejlődött.",
     "evidenceTitle": "A bizonyítékok azt mutatják:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

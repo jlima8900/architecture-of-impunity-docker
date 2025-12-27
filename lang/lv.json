@@ -1502,7 +1502,7 @@
   "investigative": {
     "badge": "Izmeklēšanas ziņojums",
     "title": "Ko atklāj šī izmeklēšana",
-    "intro": "Pārskatot tiesas dokumentus, parlamenta dokumentus, Konstitucionālās tiesas nolēmumus, GRECO vērtējumus, Transparency International ziņojumus, Eirobarometra aptaujas un Portugāles plašsaziņas līdzekļu arhīvus 50 gadus, atklājas satraucošs modelis: Portugāles politiskā sistēma nav salauzta — tā darbojas tieši tā, kā paredzēts.",
+    "intro": "Pēc <strong class=\"text-white\">tiesas dokumentu, parlamenta protokolu, Konstitucionālās tiesas lēmumu, GRECO novērtējumu, Transparency International ziņojumu, Eirobarometra aptauju</strong> un <strong class=\"text-white\">50 gadu Portugāles mediju arhīvu</strong> pārskatīšanas atklājas satraucoša tendence: Portugāles politiskā sistēma nav bojāta—tā darbojas tieši tā, kā tā ir attīstījusies 50 gadu laikā.",
     "evidenceTitle": "Pierādījumi liecina:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

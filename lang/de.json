@@ -1663,7 +1663,7 @@
   "investigative": {
     "badge": "Untersuchungsbericht",
     "title": "Was Diese Untersuchung Enthüllt",
-    "intro": "Nach Prüfung von Gerichtsdokumenten, Parlamentsprotokollen, Verfassungsgerichtsurteilen, GRECO-Bewertungen, Transparency International-Berichten, Eurobarometer-Umfragen und 50 Jahren portugiesischer Medienarchive zeigt sich ein beunruhigendes Muster: Portugals politisches System ist nicht kaputt—es funktioniert genau wie geplant.",
+    "intro": "Nach Prüfung von <strong class=\"text-white\">Gerichtsdokumenten, Parlamentsprotokollen, Verfassungsgerichtsurteilen, GRECO-Bewertungen, Transparency International-Berichten, Eurobarometer-Umfragen</strong> und <strong class=\"text-white\">50 Jahren portugiesischer Medienarchive</strong> zeigt sich ein beunruhigendes Muster: Portugals politisches System ist nicht kaputt—es funktioniert genau so, wie es sich über 50 Jahre entwickelt hat.",
     "evidenceTitle": "Die Beweise zeigen:",
     "evidenceList": [
       "20+ Milliarden € durch Bankenzusammenbrüche gestohlen (BPN, BES, CGD)",

@@ -1101,7 +1101,7 @@
   "investigative": {
     "title": "O Que Esta Investigação Revela",
     "badge": "Relatório de Investigação",
-    "intro": "Após revisão de documentos judiciais, registos parlamentares, decisões do Tribunal Constitucional, avaliações do GRECO, relatórios da Transparency International, inquéritos Eurobarómetro, e 50 anos de arquivos dos Media portugueses, emerge um padrão perturbador: o sistema político de Portugal não está avariado—está a funcionar exatamente como foi concebido.",
+    "intro": "Após revisão de <strong class=\"text-white\">documentos judiciais, registos parlamentares, decisões do Tribunal Constitucional, avaliações do GRECO, relatórios da Transparency International, inquéritos Eurobarómetro,</strong> e <strong class=\"text-white\">50 anos de arquivos dos media portugueses</strong>, emerge um padrão perturbador: o sistema político de Portugal não está avariado—está a funcionar exatamente como evoluiu ao longo de 50 anos.",
     "evidenceTitle": "As provas mostram:",
     "evidenceList": [
       "€20+ mil milhões roubados através de colapsos bancários (BPN, BES, CGD)",

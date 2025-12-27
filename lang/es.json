@@ -1575,7 +1575,7 @@
   "investigative": {
     "badge": "Informe de Investigación",
     "title": "Lo que Esta Investigación Revela",
-    "intro": "Tras revisar documentos judiciales, actas parlamentarias, sentencias del Tribunal Constitucional, evaluaciones del GRECO, informes de Transparency International, encuestas del Eurobarómetro y 50 años de archivos mediáticos portugueses, emerge un patrón inquietante: el sistema político de Portugal no está roto—funciona exactamente como fue diseñado.",
+    "intro": "Tras revisar <strong class=\"text-white\">documentos judiciales, registros parlamentarios, sentencias del Tribunal Constitucional, evaluaciones del GRECO, informes de Transparency International, encuestas del Eurobarómetro,</strong> y <strong class=\"text-white\">50 años de archivos mediáticos portugueses</strong>, emerge un patrón perturbador: el sistema político de Portugal no está roto—está funcionando exactamente como ha evolucionado durante 50 años.",
     "evidenceTitle": "Las pruebas muestran:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

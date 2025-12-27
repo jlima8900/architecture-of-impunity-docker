@@ -1505,7 +1505,7 @@
   "investigative": {
     "badge": "Raport śledczy",
     "title": "Co ujawnia to śledztwo",
-    "intro": "Po przejrzeniu dokumentów sądowych, akt parlamentarnych, orzeczeń Trybunału Konstytucyjnego, ocen GRECO, raportów Transparency International, badań Eurobarometru i 50 lat archiwów mediów portugalskich wyłania się niepokojący wzór: portugalski system polityczny nie jest zepsuty – działa dokładnie tak, jak został zaprojektowany.",
+    "intro": "Po przeanalizowaniu <strong class=\"text-white\">dokumentów sądowych, protokołów parlamentarnych, orzeczeń Trybunału Konstytucyjnego, ocen GRECO, raportów Transparency International, badań Eurobarometru,</strong> oraz <strong class=\"text-white\">50 lat portugalskich archiwów medialnych</strong> wyłania się niepokojący wzorzec: portugalski system polityczny nie jest zepsuty—działa dokładnie tak, jak ewoluował przez 50 lat.",
     "evidenceTitle": "Dowody pokazują:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

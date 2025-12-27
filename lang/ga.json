@@ -1509,7 +1509,7 @@
   "investigative": {
     "badge": "Tuairisc Imscrúdaithe",
     "title": "Cad a nochtann an t-imscrúdú seo",
-    "intro": "Tar éis athbhreithniú a dhéanamh ar dhoiciméid chúirte, taifid pharlaiminteacha, rialuithe na Cúirte Bunreachtúla, meastóireachtaí GRECO, tuarascálacha Transparency International, suirbhéanna Eorabharaiméadair, agus 50 bliain de chartlanna meán na Portaingéile, tagann patrún suaite chun cinn: níl córas polaitiúil na Portaingéile briste - tá sé ag obair go díreach mar a ceapadh.",
+    "intro": "Tar éis <strong class=\"text-white\">doiciméid chúirte, taifid pharlaiminte, rialuithe na Cúirte Bunreachtúla, meastóireachtaí GRECO, tuarascálacha Transparency International, suirbhéanna Eurobarometer,</strong> agus <strong class=\"text-white\">50 bliain de chartlanna meán na Portaingéile</strong> a athbhreithniú, tagann patrún buartha chun cinn: níl córas polaitiúil na Portaingéile briste—tá sé ag obair díreach mar a d'fhorbair sé thar 50 bliain.",
     "evidenceTitle": "Léiríonn an Fianaise:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

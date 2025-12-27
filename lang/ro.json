@@ -1505,7 +1505,7 @@
   "investigative": {
     "badge": "Raport de investigație",
     "title": "Ce dezvăluie această investigație",
-    "intro": "După examinarea documentelor judecătorești, a înregistrărilor parlamentare, a hotărârilor Curții Constituționale, a evaluărilor GRECO, a rapoartelor Transparency International, a sondajelor Eurobarometru și a 50 de ani de arhive media portugheze, apare un model tulburător: sistemul politic al Portugaliei nu este stricat – funcționează exact așa cum a fost proiectat.",
+    "intro": "După examinarea <strong class=\"text-white\">documentelor judiciare, proceselor-verbale parlamentare, hotărârilor Curții Constituționale, evaluărilor GRECO, rapoartelor Transparency International, sondajelor Eurobarometru,</strong> și <strong class=\"text-white\">50 de ani de arhive media portugheze</strong>, apare un tipar îngrijorător: sistemul politic al Portugaliei nu este stricat—funcționează exact așa cum a evoluat de-a lungul a 50 de ani.",
     "evidenceTitle": "Dovezile arată:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

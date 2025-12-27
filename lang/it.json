@@ -1511,7 +1511,7 @@
   "investigative": {
     "badge": "Rapporto Investigativo",
     "title": "Cosa Rivela Questa Indagine",
-    "intro": "Dopo aver esaminato documenti giudiziari, atti parlamentari, sentenze della Corte Costituzionale, valutazioni GRECO, rapporti di Transparency International, sondaggi Eurobarometro e 50 anni di archivi mediatici portoghesi, emerge uno schema inquietante: il sistema politico portoghese non è rotto—funziona esattamente come progettato.",
+    "intro": "Dopo aver esaminato <strong class=\"text-white\">documenti giudiziari, verbali parlamentari, sentenze della Corte Costituzionale, valutazioni GRECO, rapporti di Transparency International, sondaggi Eurobarometro,</strong> e <strong class=\"text-white\">50 anni di archivi mediatici portoghesi</strong>, emerge uno schema inquietante: il sistema politico portoghese non è rotto—funziona esattamente come si è evoluto in 50 anni.",
     "evidenceTitle": "Le Prove Dimostrano:",
     "evidenceList": [
       "Oltre €20 miliardi rubati attraverso crolli bancari (BPN, BES, CGD)",

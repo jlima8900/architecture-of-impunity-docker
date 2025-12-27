@@ -1611,7 +1611,7 @@
   "investigative": {
     "badge": "Rapport d'Enquête",
     "title": "Ce que cette enquête révèle",
-    "intro": "Après examen des documents judiciaires, des archives parlementaires, des décisions de la Cour constitutionnelle, des évaluations du GRECO, des rapports de Transparency International, des sondages Eurobaromètre et de 50 ans d'archives médiatiques portugaises, un schéma inquiétant émerge : le système politique portugais n'est pas cassé—il fonctionne exactement comme prévu.",
+    "intro": "Après examen de <strong class=\"text-white\">documents judiciaires, procès-verbaux parlementaires, arrêts de la Cour constitutionnelle, évaluations du GRECO, rapports de Transparency International, enquêtes Eurobaromètre,</strong> et <strong class=\"text-white\">50 ans d'archives médiatiques portugaises</strong>, un schéma inquiétant émerge: le système politique portugais n'est pas en panne—il fonctionne exactement comme il a évolué au cours des 50 dernières années.",
     "evidenceTitle": "Les preuves montrent:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",

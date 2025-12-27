@@ -1506,7 +1506,7 @@
   "investigative": {
     "badge": "Onderzoeksrapport",
     "title": "Wat dit onderzoek onthult",
-    "intro": "Na bestudering van gerechtelijke documenten, parlementaire documenten, uitspraken van het Constitutionele Hof, GRECO-evaluaties, rapporten van Transparency International, Eurobarometer-enquêtes en vijftig jaar Portugese media-archieven komt een verontrustend patroon naar voren: het Portugese politieke systeem is niet kapot – het werkt precies zoals het is ontworpen.",
+    "intro": "Na bestudering van <strong class=\"text-white\">gerechtelijke documenten, parlementaire verslagen, uitspraken van het Constitutioneel Hof, GRECO-beoordelingen, rapporten van Transparency International, Eurobarometer-enquêtes,</strong> en <strong class=\"text-white\">50 jaar Portugese media-archieven</strong> komt een verontrustend patroon naar voren: het Portugese politieke systeem is niet kapot—het werkt precies zoals het zich in 50 jaar heeft ontwikkeld.",
     "evidenceTitle": "Het bewijsmateriaal toont aan:",
     "evidenceList": [
       "€20+ billion stolen through banking collapses (BPN, BES, CGD)",
