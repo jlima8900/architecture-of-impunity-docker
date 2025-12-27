@@ -26,29 +26,168 @@ This project aggregates publicly available information about:
 - Public court proceedings and their outcomes
 - EU and international comparative data
 
-## Quick Start
+---
 
+## Installation
+
+### Step 1: Install Docker
+
+#### 🍎 macOS
+
+**Option A: Docker Desktop (Recommended)**
+1. Download from https://www.docker.com/products/docker-desktop/
+2. Double-click the `.dmg` file
+3. Drag Docker to Applications
+4. Open Docker from Applications
+5. Wait for Docker to start (whale icon in menu bar)
+
+**Option B: Homebrew**
 ```bash
-# Clone and run
+brew install --cask docker
+open -a Docker
+```
+
+#### 🪟 Windows
+
+**Requirements:** Windows 10/11 (64-bit) with WSL2
+
+1. **Enable WSL2** (if not already):
+   - Open PowerShell as Administrator
+   - Run: `wsl --install`
+   - Restart your computer
+
+2. **Install Docker Desktop:**
+   - Download from https://www.docker.com/products/docker-desktop/
+   - Run the installer
+   - Follow the setup wizard
+   - Restart if prompted
+
+3. **Verify installation:**
+   - Open PowerShell or Command Prompt
+   - Run: `docker --version`
+
+#### 🐧 Linux
+
+**Ubuntu/Debian:**
+```bash
+# Update packages
+sudo apt update
+
+# Install Docker
+sudo apt install docker.io docker-compose
+
+# Start Docker
+sudo systemctl start docker
+sudo systemctl enable docker
+
+# Add your user to docker group (optional, avoids sudo)
+sudo usermod -aG docker $USER
+# Log out and back in for this to take effect
+```
+
+**Fedora/RHEL:**
+```bash
+sudo dnf install docker docker-compose
+sudo systemctl start docker
+sudo systemctl enable docker
+```
+
+**Arch Linux:**
+```bash
+sudo pacman -S docker docker-compose
+sudo systemctl start docker
+sudo systemctl enable docker
+```
+
+---
+
+### Step 2: Download This Project
+
+#### Option A: Git Clone
+```bash
 git clone https://github.com/jlima8900/architecture-of-impunity-docker.git
 cd architecture-of-impunity-docker
-docker-compose up -d
-
-# Visit http://localhost:8080
 ```
 
-## Manual Docker Commands
+#### Option B: Download ZIP
+1. Click the green "Code" button above
+2. Select "Download ZIP"
+3. Extract the ZIP file
+4. Open terminal/command prompt in extracted folder
+
+---
+
+### Step 3: Run the Container
+
+#### 🍎 macOS / 🐧 Linux
 
 ```bash
-# Build
+# Using docker-compose (recommended)
+docker-compose up -d
+
+# Or manually
 docker build -t architecture-of-impunity .
-
-# Run
 docker run -d -p 8080:80 --name aoi architecture-of-impunity
-
-# Stop
-docker stop aoi && docker rm aoi
 ```
+
+#### 🪟 Windows (PowerShell or Command Prompt)
+
+```powershell
+# Using docker-compose (recommended)
+docker-compose up -d
+
+# Or manually
+docker build -t architecture-of-impunity .
+docker run -d -p 8080:80 --name aoi architecture-of-impunity
+```
+
+---
+
+### Step 4: View the Project
+
+Open your browser and visit: **http://localhost:8080**
+
+---
+
+## Common Commands
+
+| Action | Command |
+|--------|---------|
+| Start | `docker-compose up -d` |
+| Stop | `docker-compose down` |
+| View logs | `docker logs aoi` |
+| Rebuild | `docker-compose build --no-cache` |
+| Remove container | `docker rm -f aoi` |
+
+---
+
+## Troubleshooting
+
+### Docker not starting (macOS)
+```bash
+open -a Docker
+# Wait 30 seconds for it to initialize
+```
+
+### Docker not starting (Windows)
+1. Open Docker Desktop from Start Menu
+2. Wait for "Docker is running" status
+3. If WSL error: Run `wsl --update` in PowerShell (Admin)
+
+### Port 8080 already in use
+```bash
+# Use a different port
+docker run -d -p 9090:80 --name aoi architecture-of-impunity
+# Then visit http://localhost:9090
+```
+
+### Permission denied (Linux)
+```bash
+sudo docker-compose up -d
+# Or add yourself to docker group (see Linux install above)
+```
+
+---
 
 ## Sources
 
@@ -73,10 +212,21 @@ All information is derived from publicly available sources:
 
 **150+ source URLs are embedded throughout the project with direct links to original sources.**
 
+---
+
 ## Translations
 
 Available in all 24 EU official languages:
-bg, cs, da, de, el, en, es, et, fi, fr, ga, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv
+
+| | | | | |
+|--|--|--|--|--|
+| 🇧🇬 Bulgarian | 🇨🇿 Czech | 🇩🇰 Danish | 🇩🇪 German | 🇬🇷 Greek |
+| 🇬🇧 English | 🇪🇸 Spanish | 🇪🇪 Estonian | 🇫🇮 Finnish | 🇫🇷 French |
+| 🇮🇪 Irish | 🇭🇷 Croatian | 🇭🇺 Hungarian | 🇮🇹 Italian | 🇱🇹 Lithuanian |
+| 🇱🇻 Latvian | 🇲🇹 Maltese | 🇳🇱 Dutch | 🇵🇱 Polish | 🇵🇹 Portuguese |
+| 🇷🇴 Romanian | 🇸🇰 Slovak | 🇸🇮 Slovenian | 🇸🇪 Swedish | |
+
+---
 
 ## Research Methodology
 
@@ -86,11 +236,15 @@ bg, cs, da, de, el, en, es, et, fi, fr, ga, hr, hu, it, lt, lv, mt, nl, pl, pt, 
 4. Legal document analysis of court rulings
 5. Statistical validation against EU datasets
 
+---
+
 ## Contributing
 
 - **Corrections:** Submit via GitHub Issues with supporting documentation
 - **Translations:** Improvements to machine translations welcome
 - **Sources:** Additional public sources can be submitted for inclusion
+
+---
 
 ## Disclaimer
 
