@@ -25,6 +25,10 @@ If you choose to host, redistribute, or republish this content:
 
 **The original author(s) bear no responsibility for third-party use or for the content presented. For any issues, refer to the original sources.**
 
+You are free to clone, modify, adjust, and rebrand this project as long as references to the original sources are maintained.
+
+*The code might not be perfect, but hey — it works!*
+
 **See [LEGAL.md](./LEGAL.md) for complete terms.**
 
 ---
