@@ -1,6 +1,6 @@
 # Architecture of Impunity
 
-**An academic research compilation documenting Portugal's political accountability systems**
+**Portugal's accountability crisis, documented by a regular citizen who knows how to access public information**
 
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](./Dockerfile)
 [![Languages](https://img.shields.io/badge/Languages-24%20EU-green)](#translations)
